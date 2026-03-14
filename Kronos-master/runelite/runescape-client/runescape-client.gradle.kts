@@ -27,6 +27,7 @@ group = "com.openosrs.rs"
 description = "RuneScape Client"
 
 dependencies {
+    compileOnly(files("${rootProject.projectDir}/netscape-stub.jar"))
     implementation(project(":runescape-api"))
 
     testImplementation(Libraries.junit)

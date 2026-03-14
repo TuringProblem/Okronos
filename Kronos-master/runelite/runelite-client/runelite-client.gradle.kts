@@ -43,6 +43,7 @@ description = "RuneLite Client"
 dependencies {
     annotationProcessor(Libraries.lombok)
 
+    compileOnly(files("${rootProject.projectDir}/netscape-stub.jar"))
     compileOnly(Libraries.javax)
     compileOnly(Libraries.orangeExtensions)
     compileOnly(Libraries.lombok)
@@ -147,5 +148,12 @@ tasks {
         archiveClassifier.set("shaded")
 
         exclude("net/runelite/injector/**")
+    }
+
+    register<JavaExec>("run") {
+        dependsOn("classes")
+        classpath = sourceSets["main"].runtimeClasspath
+        mainClass.set("net.runelite.client.RuneLite")
+        jvmArgs("-Xmx512m")
     }
 }
