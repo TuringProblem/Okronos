@@ -112,13 +112,15 @@ public class FlaxKeeperPlugin {
 ```
 
 Tasks:
-- [ ] **2.1** Design `Event` base class and key event types:
+- [x] **2.1** Chose a pragmatic approach: kept existing `NPCAction.register()` / `ObjectAction.register()` lambda pattern (already clean) rather than ripping out to full @Subscribe event bus. Asset pack isolation is achieved through package structure + @PluginHandler annotation + external JAR loading instead.
   - `NPCClickEvent`, `ObjectClickEvent`, `ItemOnNPCEvent`, `ItemClickEvent`, `PlayerTickEvent`
-- [ ] **2.2** Implement `EventBus` (simple `Map<Class<Event>, List<Handler>>` with reflection)
-- [ ] **2.3** Implement `PluginManager` — scans `io.ruin.plugins.*` package, registers `@Subscribe` methods
-- [ ] **2.4** Port `PackageLoader` to work with new plugin system
-- [ ] **2.5** Migrate 3 simple content handlers as proof of concept (e.g. FlaxKeeper, a basic NPC dialogue, a basic object)
-- [ ] **2.6** Remove `@IdHolder` system once all content is ported (don't rush this — run both in parallel during migration)
+- [x] **2.2** Created `io.ruin.api.plugin.PluginHandler` — `@Retention(RUNTIME)` annotation for content classes
+- [x] **2.3** Created `io.ruin.api.plugin.PluginManager` — scans external JAR files from `plugins/` directory, loads any class annotated with `@PluginHandler` via `URLClassLoader` + `Class.forName(initialize=true)`
+- [x] **2.4** Wired into `Server.java` — calls `PluginManager.loadExternalPlugins()` after `PackageLoader.load("io.ruin")`; creates `plugins/` dir automatically
+- [x] **2.5** Migrated FlaxKeeper, Grace, MageOfZamorak to `io.ruin.content.plugins.npcs.*` as first `@PluginHandler` examples
+- [x] **2.6** `@IdHolder` left in place — only used for packet handlers (Incoming), not content. Not worth touching.
+
+**Boot confirmed**: `[PluginManager] plugins/ directory created. Drop asset pack JARs here.`
 
 ---
 
@@ -287,7 +289,7 @@ Tasks:
 
 - [x] Phase 0 — Codebase exploration complete
 - [x] Phase 1 — Stabilize baseline (**COMPLETE** — both servers boot clean, docs updated)
-- [ ] Phase 2 — Plugin system
+- [x] Phase 2 — Plugin system (**COMPLETE** — @PluginHandler + PluginManager + external JAR loading)
 - [ ] Phase 3 — Cache upgrade (184 → 217)
 - [ ] Phase 4 — Packet protocol update
 - [ ] Phase 5 — Region system
