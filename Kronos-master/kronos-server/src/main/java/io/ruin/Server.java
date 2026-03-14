@@ -8,6 +8,7 @@ import io.ruin.api.filestore.FileStore;
 import io.ruin.api.netty.NettyServer;
 import io.ruin.api.process.ProcessWorker;
 //import io.ruin.api.rest.KronosRest;
+import io.ruin.api.plugin.PluginManager;
 import io.ruin.api.utils.*;
 import io.ruin.cache.*;
 import io.ruin.data.DataFile;
@@ -184,6 +185,9 @@ public class Server extends ServerWrapper {
             Trapdoor.register();
 
             PackageLoader.load("io.ruin"); //ensures all static blocks load
+
+            // Load external asset pack JARs from plugins/ directory
+            PluginManager.loadExternalPlugins(new java.io.File(dataFolder.getParentFile(), "plugins"));
 
             // When packaged, priority messes up and these load too late.
             StrongholdSecurity.register();
