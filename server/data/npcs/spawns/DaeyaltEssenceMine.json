@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9684",
+		"x": "3665",
+		"y": "9755",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9679",
+		"x": "3666",
+		"y": "9745",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9682",
+		"x": "3666",
+		"y": "9761",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9680",
+		"x": "3667",
+		"y": "9773",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9683",
+		"x": "3673",
+		"y": "9776",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9683",
+		"x": "3679",
+		"y": "9755",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9684",
+		"x": "3682",
+		"y": "9765",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9678",
+		"x": "3682",
+		"y": "9772",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9681",
+		"x": "3684",
+		"y": "9749",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Noranna Tytanin",
+		"id": "9822",
+		"x": "3692",
+		"y": "9764",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9677",
+		"x": "3697",
+		"y": "9752",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9683",
+		"x": "3698",
+		"y": "9756",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

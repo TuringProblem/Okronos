@@ -1,0 +1,25 @@
+---
+identifier: "YObYJ1y4f9U307MNqRUA12bix68FSA"
+title: "Magic Guild Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 1
+defaultStock:
+  - id: 4089
+    amount: 100000
+  - id: 4091
+    amount: 100000
+  - id: 4093
+    amount: 100000
+  - id: 4095
+    amount: 100000
+  - id: 4097
+    amount: 100000

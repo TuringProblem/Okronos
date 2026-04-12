@@ -1,0 +1,103 @@
+[
+  {
+    "ids": [ 7792, 7793, 7794 ],
+    "guaranteed": [
+      { "id": 6812, "min": 1, "max": 1 } //Wyvern bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons and armour",
+        "weight": 1,
+        "items": [
+          { "id": 1397, "min": 1, "max": 1, "weight": 50 }, //Air battlestaff
+          { "id": 1392, "min": 3, "max": 5, "weight": 40 }, //Battlestaff
+          { "id": 1371, "min": 1, "max": 1, "weight": 40 }, //Adamant battleaxe
+          { "id": 1161, "min": 1, "max": 1, "weight": 30 }, //Adamant full helm
+          { "id": 1275, "min": 1, "max": 1, "weight": 30 }, //Rune pickaxe
+          { "id": 1123, "min": 1, "max": 1, "weight": 25 }, //Adamant platebody
+          { "id": 21646, "min": 1, "max": 1, "weight": 5 }, //Granite longsword
+          { "id": 21643, "min": 1, "max": 1, "weight": 2 } //Granite boots
+        ]
+      },
+      {
+        "name": "Runes and ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 890, "min": 38, "max": 42, "weight": 6 }, //Air rune
+          { "id": 555, "min": 50, "max": 50, "weight": 3 }, //Water rune
+          { "id": 562, "min": 15, "max": 15, "weight": 3 }, //Chaos rune
+          { "id": 563, "min": 15, "max": 15, "weight": 3 }, //Law rune
+          { "id": 560, "min": 15, "max": 15, "weight": 3 }, //Death rune
+          { "id": 565, "min": 15, "max": 15, "weight": 3 }, //Blood rune
+          { "id": 566, "min": 10, "max": 10, "weight": 2 }, //Soul rune
+          { "id": 9144, "min": 12, "max": 30, "weight": 2 } //Runite bolts
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 214, "min": 2, "max": 2, "weight": 9 }, //Grimy kwuarm
+          { "id": 216, "min": 2, "max": 2, "weight": 9 }, //Grimy cadantine
+          { "id": 218, "min": 2, "max": 2, "weight": 6 }, //Grimy dwarf weed
+          { "id": 2486, "min": 2, "max": 2, "weight": 6 }, //Grimy lantadyme
+          { "id": 207, "min": 1, "max": 1, "weight": 6 }, //Grimy ranarr weed
+          { "id": 219, "min": 1, "max": 1, "weight": 3 } //Grimy torstol
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 21490, "min": 12, "max": 12, "weight": 50 }, //Seaweed spore
+          { "id": 5295, "min": 1, "max": 1, "weight": 45 }, //Ranarr seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 10 }, //Snapdragon seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 8 }, //Torstol seed
+          { "id": 5321, "min": 15, "max": 15, "weight": 5 }, //Watermelon seed
+          { "id": 5313, "min": 1, "max": 1, "weight": 5 }, //Willow seed
+          { "id": 21488, "min": 1, "max": 1, "weight": 15 }, //Mahogany seed
+          { "id": 5314, "min": 1, "max": 1, "weight":  4}, //Maple seed
+          { "id": 21486, "min": 1, "max": 1, "weight": 20 }, //Teak seed
+          { "id": 5315, "min": 1, "max": 1, "weight": 18 }, //Yew seed
+          { "id": 5288, "min": 1, "max": 1, "weight": 3 }, //Papaya tree seed
+          { "id": 5316, "min": 1, "max": 1, "weight": 2 }, //Magic seed
+          { "id": 5289, "min": 1, "max": 1, "weight": 2 }, //Palm tree seed
+          { "id": 5317, "min": 1, "max": 1, "weight": 2 }, //Spirit seed
+          { "id": 22877, "min": 1, "max": 1, "weight": 2 }, //Dragonfruit tree seed
+          { "id": 22869, "min": 1, "max": 1, "weight": 2 }, //Celastrus seed
+          { "id": 22871, "min": 1, "max": 1, "weight": 2 } //Redwood tree seed
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 1,
+        "items": [
+          { "id": 7937, "min": 150, "max": 150, "weight": 6 }, //Pure essence
+          { "id": 2362, "min": 2, "max": 4, "weight": 6 }, //Adamantite bar
+          { "id": 6334, "min": 35, "max": 35, "weight": 6 }, //Teak logs
+          { "id": 232, "min": 10, "max": 15, "weight": 6 }, //Snap grass
+          { "id": 452, "min": 1, "max": 2, "weight": 3 } //Runite ore
+        ]
+      },
+      {
+        "name": "Others",
+        "weight": 1,
+        "items": [
+          { "id": 379, "min": 2, "max": 2, "weight": 40 }, //Lobster
+          { "id": 995, "min": 3000, "max": 3000, "weight": 35 }, //Coins
+          { "id": 2434, "min": 1, "max": 1, "weight": 45 }, //Prayer potion(4)
+          { "id": 9463, "min": 1, "max": 1, "weight": 30 }, //Adamant crossbow (u)
+          { "id": 21622, "min": 20, "max": 60, "weight": 30 } //Volcanic ash
+        ]
+      },
+      {
+        "name": "Tertiary",
+        "weight": 1,
+        "items": [
+          { "id": 2722, "min": 1, "max": 1, "weight": 400 }, //Clue scroll (hard)
+          { "id": 21637, "min": 1, "max": 1, "weight": 2 , "broadcast": "GLOBAL"} //Wyvern visage
+        ]
+      }
+    ]
+  }
+]

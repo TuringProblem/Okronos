@@ -1,0 +1,19 @@
+---
+identifier: "qlDghCZW6T0iDDP72D5aVSGwlFUs4g"
+title: "Ardougne Fur Stall"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 120
+  buysAt: 95
+  changePer: 2
+defaultStock:
+- id: 948
+  amount: 100000
+- id: 958
+  amount: 100000

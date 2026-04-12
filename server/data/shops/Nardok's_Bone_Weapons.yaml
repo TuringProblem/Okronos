@@ -1,0 +1,27 @@
+---
+identifier: "Ujj0I4VMXyNnhr5w2wbci9wPjDb5mY"
+title: "Nardok's Bone Weapons"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 5018
+  amount: 100000
+- id: 5016
+  amount: 100000
+- id: 8872
+  amount: 100000
+- id: 8880
+  amount: 100000
+- id: 8882
+  amount: 100000
+- id: 13193
+  amount: 100000

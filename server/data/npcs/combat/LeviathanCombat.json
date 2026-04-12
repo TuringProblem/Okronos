@@ -1,0 +1,46 @@
+[
+  { #Galvek (608)
+    "ids": [ 12591, 12215, 12221, 12214, 12219 ],
+    "handler": "io.ruin.model.activities.bosses.Leviathan",
+    "pet": "LEVIATHAN",
+    //Combat Info
+    "hitpoints": 2500,
+    "aggressive_level": 408,
+    "max_damage": 60,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [ "BOSS" ],
+    //Combat Stats
+    "attack": 300,
+    "strength": 360,
+    "defence": 250,
+    "ranged": 160,
+    "magic": 160,
+    //Aggressive Stats
+    "stab_attack": 200,
+    "slash_attack": 393,
+    "crush_attack": 393,
+    "magic_attack": 160,
+    "ranged_attack": 50,
+    //Defensive Stats
+    "stab_defence": 260,
+    "slash_defence": 190,
+    "crush_defence": 230,
+    "magic_defence": 280,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 1,
+    "death_ticks": 8,
+    "respawn_ticks": 15,
+    //Animations
+    "spawn_animation": 10291,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": 10293
+  }
+]

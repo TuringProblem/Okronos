@@ -1,0 +1,100 @@
+[
+  {
+    "ids": [ 8713 ],
+  "guaranteed": [
+  { "id": 526, "min": 1, "max": 1 },
+  { "id": 224, "min": 15, "max": 20 }
+],
+  "tables": [
+  {
+    "name": "Runes",
+    "weight": 100,
+    "items": [
+      { "id": 565, "min": 100, "max": 600, "weight": 25 }, //blood runes
+      { "id": 560, "min": 100, "max": 100, "weight": 25 }, //death runes
+      { "id": 562, "min": 200, "max": 900, "weight": 10 }, //chaos rune
+      { "id": 564, "min": 200, "max": 900, "weight": 10 }, //cosmic rune
+      { "id": 566, "min": 200, "max": 900, "weight": 10 } //soul rune
+    ]
+  },
+
+    {
+      "name": "Herbs",
+      "weight": 100,
+      "items": [
+        { "id": 214, "min": 10, "max": 25, "weight": 25 }, //kwuarm
+        { "id": 216, "min": 10, "max": 25, "weight": 25 }, //cadantine
+        { "id": 218, "min": 10, "max": 25, "weight": 10 }, //dwarf weed
+        { "id": 212, "min": 10, "max": 25, "weight": 10 }, //avantoe
+        { "id": 2486, "min": 10, "max": 25, "weight": 10 }, //lantadyme
+        { "id": 208, "min": 10, "max": 25, "weight": 25 }, //ranarr
+        { "id": 220, "min": 10, "max": 25, "weight": 25 }, //torstol
+        { "id": 3052, "min": 10, "max": 25, "weight": 10 } //snapdragon
+
+      ]
+    },
+
+
+  {
+    "name": "Seeds and consumables",
+    "weight": 100,
+    "items": [
+      { "id": 12696, "min": 2, "max": 12, "weight": 9 }, //super combat
+      { "id": 441, "min": 2, "max": 12, "weight": 9 }, //iron ore
+
+      { "id": 5314, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5288, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5315, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5296, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5297, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5281, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5106, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5298, "min": 2, "max": 12, "weight": 9 }, //
+
+      { "id": 5280, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 22873, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5299, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5300, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5301, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5302, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 22879, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5303, "min": 2, "max": 12, "weight": 9 }, //
+      { "id": 5304, "min": 2, "max": 12, "weight": 9 }, //
+
+
+      { "id": 1392, "min": 1, "max": 50, "weight": 9 }, //battlestaff
+      { "id": 1319, "min": 1, "max": 1, "weight": 9 }, //rune 2h
+      { "id": 1147, "min": 1, "max": 1, "weight": 9 }, //rune med helm
+      { "id": 1127, "min": 1, "max": 1, "weight": 9 } //rune plate
+    ]
+  },
+  {
+    "name": "Other",
+    "weight": 100,
+    "items": [
+      { "id": 448, "min": 5, "max": 18, "weight": 15 }, //
+      { "id": 1750, "min": 8, "max": 12, "weight": 15 }, //
+      { "id": 1626, "min": 30, "max": 50, "weight": 25 }, //
+      { "id": 450, "min": 10, "max": 15, "weight": 10 }, //
+      { "id": 1622, "min": 30, "max": 50, "weight": 10 }, //
+      { "id": 452, "min": 3, "max": 12, "weight": 10 }, //
+      { "id": 1618, "min": 30, "max": 50, "weight": 15 }, //
+
+      { "id": 537, "min": 2, "max": 10, "weight": 15 }, //
+      { "id": 7057, "min": 10, "max": 20, "weight": 25 }, //
+      { "id": 5941, "min": 2, "max": 5, "weight": 10 }, //
+      { "id": 989, "min": 1, "max": 1, "weight": 10 }, //
+      { "id": 6292, "min": 12, "max": 20, "weight": 10 }, //
+
+
+      { "id": 12073, "min": 1, "max": 1, "weight": 2 }, //Clue scroll (elite)
+      { "id": 1149, "min": 1, "max": 1, "weight": 2 }, //Dragon med helm
+      { "id": 1249, "min": 1, "max": 1, "weight": 2 }, //Dragon spear
+      { "id": 23525, "min": 1, "max": 1, "weight": 2 }, //jar
+      { "id": 23517, "min": 1, "max": 1, "weight": 50 }, //giant egg sac
+      { "id": 23528, "min": 1, "max": 1, "weight": 2 , "broadcast": "GLOBAL"} //cudgel
+    ]
+  }
+]
+  }
+]

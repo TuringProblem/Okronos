@@ -1,0 +1,29 @@
+---
+identifier: "rZ7SqLI3qyb0ocwBFfscZoDyDv9rYr"
+title: "Perry's Chop-chop Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 320
+  buysAt: 60
+  changePer: 1
+defaultStock:
+- id: 1351
+  amount: 100000
+- id: 1349
+  amount: 100000
+- id: 1353
+  amount: 100000
+- id: 1355
+  amount: 100000
+- id: 1357
+  amount: 100000
+- id: 1359
+  amount: 100000
+- id: 590
+  amount: 100000

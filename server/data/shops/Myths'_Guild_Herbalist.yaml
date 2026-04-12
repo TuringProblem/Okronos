@@ -1,0 +1,30 @@
+---
+identifier: "w9kfX0vXz6LtmDSKAEG3HPrMzolen3"
+title: "Myths' Guild Herbalist"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 70
+  changePer: 1
+defaultStock:
+- id: 233
+  amount: 100000
+- id: 227
+  amount: 100000
+- id: 11879
+  amount: 100000
+- id: 229
+  amount: 100000
+- id: 11877
+  amount: 100000
+- id: 221
+  amount: 100000
+- id: 12859
+  amount: 100000

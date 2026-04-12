@@ -1,0 +1,46 @@
+---
+identifier: "LD4u10MnpzFaGZjBE1B2JepUsjayH3"
+title: "Bob's Tools"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 1267
+  price: 100
+  amount: 1
+- id: 1269
+  price: 200
+  amount: 1
+- id: 1273
+  price: 2000
+  amount: 1
+- id: 1271
+  price: 5000
+  amount: 1
+- id: 1275
+  price: 30000
+  amount: 1
+- id: 1349
+  price: 90
+  amount: 1
+- id: 1353
+  price: 300
+  amount: 1
+- id: 1355
+  price: 2000
+  amount: 1
+- id: 1357
+  price: 6000
+  amount: 1
+- id: 1359
+  price: 25000
+  amount: 1

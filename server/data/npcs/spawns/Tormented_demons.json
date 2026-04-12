@@ -1,0 +1,142 @@
+[
+	{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4133",
+	"y": "4369",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4142",
+	"y": "4368",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4125",
+	"y": "4386",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4137",
+	"y": "4397",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4111",
+	"y": "4384",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4098",
+	"y": "4397",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4072",
+	"y": "4427",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4080",
+	"y": "4431",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4106",
+	"y": "4468",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4115",
+	"y": "4467",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4041",
+	"y": "4380",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4041",
+	"y": "4389",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4085",
+	"y": "4373",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	},
+{
+	"name": "Tormented Demon",
+	"id": "13600",
+	"x": "4088",
+	"y": "4368",
+	"z": "0",
+	"direction": "S",
+	"walkRange": "2",
+	"world": "ECO"
+	}
+]

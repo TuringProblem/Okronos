@@ -1,0 +1,40 @@
+---
+identifier: "ReasonHunter"
+title: "Hunter Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 10010
+  price: 10
+  amount: 1
+- id: 10012
+  price: 15
+  amount: 1
+- id: 11260
+  price: 2000
+  amount: 1
+- id: 10150
+  price: 3
+  amount: 1
+- id: 10006
+  price: 10
+  amount: 1
+- id: 10008
+  price: 10
+  amount: 1
+- id: 10031
+  price: 10
+  amount: 1
+- id: 8792
+  price: 500
+  amount: 1

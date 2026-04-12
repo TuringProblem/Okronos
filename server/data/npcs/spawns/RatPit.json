@@ -1,0 +1,822 @@
+[
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2959",
+		"y": "9632",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pusskins",
+		"id": "4597",
+		"x": "2960",
+		"y": "9633",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2960",
+		"y": "9636",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2961",
+		"y": "9631",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2961",
+		"y": "9633",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2961",
+		"y": "9635",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2961",
+		"y": "9636",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2961",
+		"y": "9647",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Turbogroomer",
+		"id": "4596",
+		"x": "2962",
+		"y": "9634",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1017",
+		"x": "2962",
+		"y": "9640",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2963",
+		"y": "9632",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2963",
+		"y": "9633",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2963",
+		"y": "9635",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1019",
+		"x": "2967",
+		"y": "9633",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2976",
+		"y": "9634",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Felkrash",
+		"id": "4591",
+		"x": "2977",
+		"y": "9639",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1018",
+		"x": "2980",
+		"y": "9636",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2982",
+		"y": "9631",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2983",
+		"y": "9638",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2983",
+		"y": "9640",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2984",
+		"y": "9632",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2984",
+		"y": "9636",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barman",
+		"id": "1013",
+		"x": "2984",
+		"y": "9656",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2985",
+		"y": "9630",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2985",
+		"y": "9632",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2985",
+		"y": "9634",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2985",
+		"y": "9638",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1011",
+		"x": "2985",
+		"y": "9652",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2986",
+		"y": "9640",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2987",
+		"y": "9633",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2987",
+		"y": "9637",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2988",
+		"y": "9636",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2988",
+		"y": "9640",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2988",
+		"y": "9642",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2989",
+		"y": "9634",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2989",
+		"y": "9637",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2989",
+		"y": "9653",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1015",
+		"x": "2989",
+		"y": "9654",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1022",
+		"x": "2990",
+		"y": "9639",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2990",
+		"y": "9642",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1021",
+		"x": "2991",
+		"y": "9632",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "1020",
+		"x": "2991",
+		"y": "9636",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2904",
+		"y": "5082",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2905",
+		"y": "5084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2905",
+		"y": "5087",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1017",
+		"x": "2905",
+		"y": "5094",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1019",
+		"x": "2906",
+		"y": "5077",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2906",
+		"y": "5083",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2906",
+		"y": "5086",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2906",
+		"y": "5089",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2907",
+		"y": "5081",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2907",
+		"y": "5084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2907",
+		"y": "5090",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1018",
+		"x": "2908",
+		"y": "5078",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2908",
+		"y": "5085",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2908",
+		"y": "5087",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barman",
+		"id": "1013",
+		"x": "2909",
+		"y": "5076",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2909",
+		"y": "5083",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2909",
+		"y": "5089",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1011",
+		"x": "2909",
+		"y": "5098",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2910",
+		"y": "5081",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2910",
+		"y": "5085",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2910",
+		"y": "5090",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gertrude's cat",
+		"id": "1010",
+		"x": "2910",
+		"y": "5100",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2911",
+		"y": "5082",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2911",
+		"y": "5083",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2911",
+		"y": "5086",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2911",
+		"y": "5088",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2911",
+		"y": "5103",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2912",
+		"y": "5085",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2912",
+		"y": "5102",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2912",
+		"y": "5105",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2913",
+		"y": "5103",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1016",
+		"x": "2914",
+		"y": "5099",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2914",
+		"y": "5102",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Treacle",
+		"id": "4600",
+		"x": "2914",
+		"y": "5104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4610",
+		"x": "2914",
+		"y": "5105",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gamer",
+		"id": "1014",
+		"x": "2915",
+		"y": "5088",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4612",
+		"x": "2915",
+		"y": "5103",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mittens",
+		"id": "4601",
+		"x": "2916",
+		"y": "5104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2917",
+		"y": "5102",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "4611",
+		"x": "2917",
+		"y": "5105",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

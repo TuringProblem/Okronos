@@ -1,0 +1,62 @@
+[
+  {
+    "ids": [ 13029 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }   //Bones
+    ],
+    "tables": [
+      {
+        "name": "Runes/Ammunition",
+        "weight": 9,
+        "items": [
+          { "id": 557, "min": 11, "max": 60, "weight": 2 },
+          { "id": 561, "min": 5, "max": 10, "weight": 2 },
+          { "id": 555, "min": 5, "max": 10, "weight": 2 }
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 6,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 2 },   //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 2 },   //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 2 },   //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 2 },   //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 2 },   //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 2 },   //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 2 },   //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 2 },   //Grimy kwuarm
+          { "id": 2485, "min": 1, "max": 1, "weight": 2 },   //Grimy lantadyme
+          { "id": 215, "min": 1, "max": 1, "weight": 2 },   //Grimy cadantine
+          { "id": 217, "min": 1, "max": 1, "weight": 2 }   //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 9,
+        "items": [
+          { "id": 5318, "min": 4, "max": 4, "weight": 2 },   //Potato seed
+          { "id": 5319, "min": 4, "max": 4, "weight": 2 },   //Onion seed
+          { "id": 5324, "min": 4, "max": 4, "weight": 2 },   //Cabbage seed
+          { "id": 5320, "min": 3, "max": 3, "weight": 2 },   //Sweetcorn seed
+          { "id": 5323, "min": 3, "max": 3, "weight": 2 },   //Strawberry seed
+          { "id": 5305, "min": 2, "max": 4, "weight": 2 },   //Barley seed
+          { "id": 5306, "min": 2, "max": 4, "weight": 2 },   //Jute seed
+          { "id": 5309, "min": 2, "max": 4, "weight": 2 },   //Yanillian seed
+          { "id": 5321, "min": 2, "max": 2, "weight": 2 },   //Watermelon seed
+          { "id": 22879, "min": 2, "max": 2, "weight": 2 }   //Snape grass seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 10136, "min": 1, "max": 1, "weight": 2},   // Rainbow fish
+          { "id": 2801, "min": 1, "max": 1, "weight": 2 },   // Oak roots
+          { "id": 2801, "min": 1, "max": 1, "weight": 2 },   // Clue scroll (medium)
+          { "id": 4115, "min": 1, "max": 1, "weight": 2 }   // Mystic gloves (light)
+        ]
+      }
+    ]
+  }
+]

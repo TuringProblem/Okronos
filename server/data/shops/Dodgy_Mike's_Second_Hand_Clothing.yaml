@@ -1,0 +1,41 @@
+---
+identifier: "D7XfH047rOU09E2SvLTuGcHnMe7IHE"
+title: "Dodgy Mike's Second Hand Clothing"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 7114
+  amount: 100000
+- id: 7110
+  amount: 100000
+- id: 7112
+  amount: 100000
+- id: 7116
+  amount: 100000
+- id: 7122
+  amount: 100000
+- id: 7124
+  amount: 100000
+- id: 7126
+  amount: 100000
+- id: 7128
+  amount: 100000
+- id: 7130
+  amount: 100000
+- id: 7132
+  amount: 100000
+- id: 7134
+  amount: 100000
+- id: 7136
+  amount: 100000
+- id: 7138
+  amount: 100000

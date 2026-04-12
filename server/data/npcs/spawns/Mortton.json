@@ -1,0 +1,2982 @@
+[
+	{
+		"name": "Fishing spot",
+		"id": "4477",
+		"x": "3527",
+		"y": "3169",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4477",
+		"x": "3529",
+		"y": "3165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4477",
+		"x": "3530",
+		"y": "3165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4477",
+		"x": "3531",
+		"y": "3169",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4477",
+		"x": "3534",
+		"y": "3175",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4477",
+		"x": "3536",
+		"y": "3177",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4477",
+		"x": "3538",
+		"y": "3179",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4477",
+		"x": "3540",
+		"y": "3178",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4477",
+		"x": "3543",
+		"y": "3180",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Veliaf Hurtz",
+		"id": "9517",
+		"x": "3529",
+		"y": "3168",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ivan Strom",
+		"id": "3489",
+		"x": "3530",
+		"y": "3169",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1293",
+		"x": "3466",
+		"y": "3306",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1294",
+		"x": "3466",
+		"y": "3309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1297",
+		"x": "3469",
+		"y": "3308",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1293",
+		"x": "3471",
+		"y": "3285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1298",
+		"x": "3472",
+		"y": "3304",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3474",
+		"y": "3280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1297",
+		"x": "3474",
+		"y": "3293",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1298",
+		"x": "3475",
+		"y": "3274",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1294",
+		"x": "3476",
+		"y": "3288",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1298",
+		"x": "3477",
+		"y": "3308",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3478",
+		"y": "3307",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3479",
+		"y": "3283",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1293",
+		"x": "3479",
+		"y": "3300",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3480",
+		"y": "3271",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1298",
+		"x": "3481",
+		"y": "3277",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1294",
+		"x": "3481",
+		"y": "3305",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3482",
+		"y": "3302",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3483",
+		"y": "3283",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3483",
+		"y": "3295",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1294",
+		"x": "3485",
+		"y": "3271",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3487",
+		"y": "3272",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1298",
+		"x": "3487",
+		"y": "3277",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3488",
+		"y": "3282",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1294",
+		"x": "3488",
+		"y": "3284",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3488",
+		"y": "3288",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3489",
+		"y": "3267",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted(Razmire)",
+		"id": "1289",
+		"x": "3489",
+		"y": "3296",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3489",
+		"y": "3302",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1297",
+		"x": "3491",
+		"y": "3291",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3492",
+		"y": "3285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3493",
+		"y": "3293",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1298",
+		"x": "3493",
+		"y": "3299",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1294",
+		"x": "3495",
+		"y": "3285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1297",
+		"x": "3496",
+		"y": "3271",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3496",
+		"y": "3277",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted(Ulsquire)",
+		"id": "1287",
+		"x": "3496",
+		"y": "3289",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3496",
+		"y": "3296",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1293",
+		"x": "3499",
+		"y": "3298",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3500",
+		"y": "3286",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3501",
+		"y": "3294",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3501",
+		"y": "3297",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3501",
+		"y": "3313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3501",
+		"y": "3321",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1293",
+		"x": "3502",
+		"y": "3277",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1297",
+		"x": "3503",
+		"y": "3288",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1294",
+		"x": "3503",
+		"y": "3302",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1298",
+		"x": "3504",
+		"y": "3281",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3504",
+		"y": "3299",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1294",
+		"x": "3506",
+		"y": "3304",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3507",
+		"y": "3301",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1294",
+		"x": "3509",
+		"y": "3284",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1293",
+		"x": "3511",
+		"y": "3300",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3513",
+		"y": "3321",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1298",
+		"x": "3515",
+		"y": "3302",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Loar Shadow",
+		"id": "1276",
+		"x": "3516",
+		"y": "3315",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Afflicted",
+		"id": "1293",
+		"x": "3517",
+		"y": "3285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3458",
+		"y": "3225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3459",
+		"y": "3229",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3459",
+		"y": "3234",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3460",
+		"y": "3231",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3461",
+		"y": "3236",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3462",
+		"y": "3240",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Smiddi Ryak (hard)",
+		"id": "2934",
+		"x": "3475",
+		"y": "3235",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rolayne Twickit (hard)",
+		"id": "2935",
+		"x": "3476",
+		"y": "3235",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Nicoleta",
+		"id": "4465",
+		"x": "3479",
+		"y": "3223",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jayene Kliyn (medium)",
+		"id": "2936",
+		"x": "3479",
+		"y": "3237",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Mihail",
+		"id": "4464",
+		"x": "3480",
+		"y": "3222",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Valantay Eppel (medium)",
+		"id": "2937",
+		"x": "3480",
+		"y": "3237",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fyiona Fray (easy)",
+		"id": "2939",
+		"x": "3480",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Dalcian Fang (easy)",
+		"id": "2938",
+		"x": "3481",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Victor",
+		"id": "4457",
+		"x": "3482",
+		"y": "3208",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Emilia",
+		"id": "4453",
+		"x": "3482",
+		"y": "3210",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3483",
+		"y": "3210",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Florin",
+		"id": "4454",
+		"x": "3483",
+		"y": "3243",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Helena",
+		"id": "4458",
+		"x": "3484",
+		"y": "3207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Vasile",
+		"id": "4467",
+		"x": "3485",
+		"y": "3237",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ivan Strom",
+		"id": "3488",
+		"x": "3486",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3489",
+		"y": "3211",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Catalina",
+		"id": "4455",
+		"x": "3489",
+		"y": "3221",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Grigore",
+		"id": "4450",
+		"x": "3489",
+		"y": "3222",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Elisabeta",
+		"id": "4444",
+		"x": "3490",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3490",
+		"y": "3243",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Luscion",
+		"id": "4447",
+		"x": "3491",
+		"y": "3242",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3492",
+		"y": "3228",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Razvan",
+		"id": "4468",
+		"x": "3492",
+		"y": "3235",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3496",
+		"y": "3230",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3496",
+		"y": "3242",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3498",
+		"y": "3212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Calin",
+		"id": "4463",
+		"x": "3498",
+		"y": "3242",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Simona",
+		"id": "4466",
+		"x": "3499",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3500",
+		"y": "3224",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sergiu",
+		"id": "4448",
+		"x": "3503",
+		"y": "3231",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Luminata",
+		"id": "4469",
+		"x": "3504",
+		"y": "3235",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Teodor",
+		"id": "4459",
+		"x": "3504",
+		"y": "3242",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3505",
+		"y": "3230",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3506",
+		"y": "3243",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ivan",
+		"id": "4456",
+		"x": "3508",
+		"y": "3208",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3508",
+		"y": "3225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Valeria",
+		"id": "4452",
+		"x": "3509",
+		"y": "3209",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Radu",
+		"id": "4449",
+		"x": "3511",
+		"y": "3224",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3512",
+		"y": "3228",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sorin",
+		"id": "4446",
+		"x": "3513",
+		"y": "3234",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "6216",
+		"x": "3513",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "6217",
+		"x": "3513",
+		"y": "3242",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gabriela",
+		"id": "4461",
+		"x": "3514",
+		"y": "3209",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ileana",
+		"id": "4451",
+		"x": "3514",
+		"y": "3228",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gadderanks",
+		"id": "6218",
+		"x": "3514",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Veliaf Hurtz",
+		"id": "4479",
+		"x": "3515",
+		"y": "3242",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3516",
+		"y": "3222",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Aurel",
+		"id": "4445",
+		"x": "3517",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3471",
+		"y": "3199",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3472",
+		"y": "3196",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3474",
+		"y": "3193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3476",
+		"y": "3191",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3479",
+		"y": "3189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3482",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3484",
+		"y": "3185",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3486",
+		"y": "3184",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3489",
+		"y": "3184",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3490",
+		"y": "3183",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3492",
+		"y": "3181",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4476",
+		"x": "3494",
+		"y": "3178",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3410",
+		"y": "3398",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3413",
+		"y": "3410",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3413",
+		"y": "3423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3413",
+		"y": "3443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3414",
+		"y": "3418",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3415",
+		"y": "3407",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3415",
+		"y": "3432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3418",
+		"y": "3420",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3419",
+		"y": "3395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3419",
+		"y": "3413",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3420",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3420",
+		"y": "3435",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3420",
+		"y": "3440",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3421",
+		"y": "3408",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3422",
+		"y": "3395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3422",
+		"y": "3406",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3423",
+		"y": "3408",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3424",
+		"y": "3403",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2654",
+		"x": "3424",
+		"y": "3409",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3424",
+		"y": "3427",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3424",
+		"y": "3452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3425",
+		"y": "3395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2654",
+		"x": "3425",
+		"y": "3407",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2654",
+		"x": "3425",
+		"y": "3410",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3425",
+		"y": "3424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3426",
+		"y": "3419",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3427",
+		"y": "3431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3428",
+		"y": "3395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3428",
+		"y": "3400",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3428",
+		"y": "3409",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3428",
+		"y": "3445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3429",
+		"y": "3436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2654",
+		"x": "3431",
+		"y": "3415",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3432",
+		"y": "3419",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3432",
+		"y": "3445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3433",
+		"y": "3416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3434",
+		"y": "3394",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2654",
+		"x": "3434",
+		"y": "3417",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3436",
+		"y": "3407",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3437",
+		"y": "3401",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3437",
+		"y": "3435",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3438",
+		"y": "3414",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3439",
+		"y": "3398",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3439",
+		"y": "3449",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2654",
+		"x": "3440",
+		"y": "3410",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3441",
+		"y": "3415",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3441",
+		"y": "3428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3442",
+		"y": "3395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3442",
+		"y": "3405",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3443",
+		"y": "3432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3444",
+		"y": "3406",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3445",
+		"y": "3394",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3446",
+		"y": "3405",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3446",
+		"y": "3439",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3448",
+		"y": "3393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3450",
+		"y": "3423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3450",
+		"y": "3430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3451",
+		"y": "3396",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3453",
+		"y": "3395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3453",
+		"y": "3436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3454",
+		"y": "3410",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3454",
+		"y": "3414",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3454",
+		"y": "3423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3401",
+		"y": "3361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3404",
+		"y": "3371",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3406",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3406",
+		"y": "3386",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3407",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3409",
+		"y": "3369",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3409",
+		"y": "3391",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3411",
+		"y": "3361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3411",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3411",
+		"y": "3387",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3412",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3414",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3414",
+		"y": "3365",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3415",
+		"y": "3372",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3415",
+		"y": "3390",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3416",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3416",
+		"y": "3362",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3416",
+		"y": "3363",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3416",
+		"y": "3371",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3417",
+		"y": "3337",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3417",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3417",
+		"y": "3385",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3418",
+		"y": "3356",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3419",
+		"y": "3361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3419",
+		"y": "3370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3420",
+		"y": "3333",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3420",
+		"y": "3349",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3422",
+		"y": "3377",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3423",
+		"y": "3348",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3424",
+		"y": "3337",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3426",
+		"y": "3366",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3427",
+		"y": "3377",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3427",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3427",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3429",
+		"y": "3330",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3429",
+		"y": "3352",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3430",
+		"y": "3340",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3430",
+		"y": "3344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3430",
+		"y": "3375",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3430",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3431",
+		"y": "3366",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3435",
+		"y": "3330",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3435",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3436",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3437",
+		"y": "3374",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3439",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3441",
+		"y": "3353",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3441",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3441",
+		"y": "3364",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3443",
+		"y": "3383",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3446",
+		"y": "3385",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3447",
+		"y": "3388",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3447",
+		"y": "3391",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3449",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3450",
+		"y": "3370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3453",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3453",
+		"y": "3386",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3454",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3454",
+		"y": "3369",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3421",
+		"y": "3291",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3423",
+		"y": "3299",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3425",
+		"y": "3278",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3425",
+		"y": "3317",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3426",
+		"y": "3275",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3426",
+		"y": "3277",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3426",
+		"y": "3308",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3427",
+		"y": "3319",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3429",
+		"y": "3299",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3430",
+		"y": "3291",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3430",
+		"y": "3310",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3430",
+		"y": "3311",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3431",
+		"y": "3309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3432",
+		"y": "3287",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3434",
+		"y": "3286",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2655",
+		"x": "3437",
+		"y": "3272",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3437",
+		"y": "3302",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3438",
+		"y": "3290",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3438",
+		"y": "3294",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3438",
+		"y": "3311",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3438",
+		"y": "3312",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2655",
+		"x": "3439",
+		"y": "3276",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3439",
+		"y": "3312",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2655",
+		"x": "3440",
+		"y": "3271",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2655",
+		"x": "3440",
+		"y": "3280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2655",
+		"x": "3443",
+		"y": "3272",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3443",
+		"y": "3306",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2655",
+		"x": "3445",
+		"y": "3274",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3445",
+		"y": "3284",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3445",
+		"y": "3286",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3447",
+		"y": "3267",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3447",
+		"y": "3269",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3447",
+		"y": "3284",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3447",
+		"y": "3286",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3448",
+		"y": "3268",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3448",
+		"y": "3300",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3450",
+		"y": "3308",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3451",
+		"y": "3291",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3451",
+		"y": "3309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3452",
+		"y": "3307",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3452",
+		"y": "3308",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3454",
+		"y": "3309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zealot",
+		"id": "3611",
+		"x": "3444",
+		"y": "3258",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	}
+]

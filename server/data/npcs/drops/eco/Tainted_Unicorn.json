@@ -1,0 +1,95 @@
+[
+  {
+    "ids": [ 12001 ],
+    "tables": [
+      {
+        "name": "Armour and weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1275, "min": 1, "max": 1, "weight": 75 }, //Rune pickaxe
+          { "id": 1079, "min": 1, "max": 1, "weight": 75 }, //Rune legs
+          { "id": 1127, "min": 1, "max": 1, "weight": 75 }, //Rune pl8
+          { "id": 4087, "min": 1, "max": 1, "weight": 75 }, //d legs
+          { "id": 6571, "min": 1, "max": 1, "weight": 9, "broadcast": "GLOBAL" },
+          { "id": 9243, "min": 50, "max": 75, "weight": 75 }, //Diamond bolts (e)
+          { "id": 1319, "min": 1, "max": 1, "weight": 75 }, //Rune 2h sword
+          { "id": 30472, "min": 1, "max": 1, "weight": 8 , "broadcast": "GLOBAL"},
+          { "id": 30475, "min": 1, "max": 1, "weight": 8 , "broadcast": "GLOBAL"}
+		  ]
+      },
+      { 
+        "name": "Gems",
+        "weight": 1,
+        "items": [
+          { "id": 1624, "min": 20, "max": 20, "weight": 3 }, //Uncut sapphire (noted)
+          { "id": 1622, "min": 20, "max": 20, "weight": 3 }, //Uncut emerald (noted)
+          { "id": 1620, "min": 20, "max": 20, "weight": 3 }, //Uncut ruby (noted)
+          { "id": 1620, "min": 20, "max": 20, "weight": 3 }, //molten glass (noted)
+          { "id": 1392, "min": 5, "max": 20, "weight": 3 }, //bstaff (noted)
+          { "id": 537, "min": 5, "max": 20, "weight": 3 }, //dbones (noted)
+          { "id": 8783, "min": 10, "max": 30, "weight": 3 }, //mahog planks (noted)
+          { "id": 8781, "min": 15, "max": 40, "weight": 3 }, //teak planks (noted)
+          { "id": 8779, "min": 25, "max": 40, "weight": 3 }, //oak planks (noted)
+          { "id": 441, "min": 75, "max": 120, "weight": 3 }, //iron ore(noted)
+          { "id": 445, "min": 75, "max": 120, "weight": 3 }, //gold ore(noted)
+          { "id": 448, "min": 45, "max": 80, "weight": 3 }, //mith ore(noted)
+          { "id": 450, "min": 10, "max": 20, "weight": 3 }, //addy ore(noted)
+          { "id": 2354, "min": 50, "max": 100, "weight": 3 }, //steel bar(noted)
+          { "id": 2360, "min": 20, "max": 30, "weight": 3 }, //mith bar(noted)
+          { "id": 2362, "min": 15, "max": 30, "weight": 3 }, //addy bar(noted)
+          { "id": 1516, "min": 50, "max": 75, "weight": 3 }, //yew logs(noted)
+          { "id": 1514, "min": 30, "max": 75, "weight": 3 }, //magic logs(noted)
+          { "id": 1618, "min": 10, "max": 10, "weight": 3 } //Uncut diamond (noted)
+        ]
+      },
+      {
+        "name": "Resources",
+        "weight": 1,
+        "items": [
+          { "id": 562, "min": 400, "max": 400, "weight": 12 }, //Chaos rune
+          { "id": 560, "min": 300, "max": 300, "weight": 12 }, //Death rune
+          { "id": 565, "min": 200, "max": 200, "weight": 12 }, //Blood rune
+          { "id": 6035, "min": 100, "max": 45, "weight": 12 }, //Supercompost (noted)
+          { "id": 238, "min": 100, "max": 25, "weight": 12 }, //Unicorn horn (noted)
+          { "id": 224, "min": 50, "max": 50, "weight": 6 }, //Red spiders' eggs (noted)
+          { "id": 2, "min": 250, "max": 250, "weight": 6 }, //Cannonball
+          { "id": 1514, "min": 15, "max": 40, "weight": 6 }, //Magic logs (noted)
+          { "id": 226, "min": 25, "max": 50, "weight": 3 }, //Limpwurt root (noted)
+          { "id": 232, "min": 25, "max": 50, "weight": 3 }, //snape grass (noted)
+          { "id": 1631, "min": 1, "max": 1, "weight": 3 }, //Uncut dragonstone
+          { "id": 5315, "min": 1, "max": 1, "weight": 3 }, //Yew seed
+          { "id": 5316, "min": 1, "max": 1, "weight": 3 }, //Magic seed
+          { "id": 5289, "min": 1, "max": 1, "weight": 3 }, //Palm tree seed
+          { "id": 208, "min": 10, "max": 20, "weight": 3 }, //grimy ranarr (noted)
+          { "id": 210, "min": 10, "max": 20, "weight": 3 }, //grimy irit (noted)
+          { "id": 214, "min": 10, "max": 20, "weight": 3 }, //grimy kwuarm (noted)
+          { "id": 216, "min": 10, "max": 20, "weight": 3 }, //grimy cadantine (noted)
+          { "id": 2486, "min": 10, "max": 20, "weight": 3 }, //grimy lant (noted)
+          { "id": 218, "min": 10, "max": 20, "weight": 3 }, //grimy dwarf (noted)
+          { "id": 3052, "min": 10, "max": 15, "weight": 3 } //Grimy snapdragon (noted)
+        ]
+      },
+      {
+        "name": "Consumables",
+        "weight": 1,
+        "items": [
+          { "id": 3025, "min": 3, "max": 3, "weight": 6 }, //Super restore(4) (noted)
+          { "id": 3145, "min": 15, "max": 25, "weight": 6 }, //karambwan (noted)
+          { "id": 386, "min": 10, "max": 15, "weight": 6 }, //shark (noted)
+          { "id": 2435, "min": 5, "max": 8, "weight": 6 }, //Prayer pot (4) noted
+          { "id": 5953, "min": 10, "max": 25, "weight": 2 } //Antidote++(4) (noted)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 300000, "max": 500000, "weight": 200 }, //Coins
+          { "id": 9242, "min": 60, "max": 60, "weight": 200 }, //ruby bolts e
+          { "id": 12073, "min": 1, "max": 1, "weight": 20 } //Clue scroll (elite)
+
+        ]
+      }
+    ]
+  }
+]

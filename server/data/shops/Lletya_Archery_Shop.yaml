@@ -1,0 +1,38 @@
+---
+identifier: "i8O98w7WmcKBpZTEyOWkoVZsVRisMi"
+title: "Aaron's Archery Appendages"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 3
+defaultStock:
+- id: 884
+  amount: 100000
+- id: 886
+  amount: 100000
+- id: 888
+  amount: 100000
+- id: 890
+  amount: 100000
+- id: 892
+  amount: 100000
+- id: 877
+  amount: 100000
+- id: 843
+  amount: 100000
+- id: 845
+  amount: 100000
+- id: 837
+  amount: 100000
+- id: 849
+  amount: 100000
+- id: 847
+  amount: 100000

@@ -1,0 +1,17 @@
+---
+identifier: "6ff99a2d-5a00-411c-8c04-664b14fe545f"
+title: "Unidentified Mineral Exchange"
+currency: "UNIDENTIFIED_MINERALS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+- id: 21343
+  amount: 100000
+  price: 60
+- id: 21345
+  amount: 100000
+  price: 120

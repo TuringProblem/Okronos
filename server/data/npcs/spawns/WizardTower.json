@@ -1,0 +1,112 @@
+[
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "3107",
+		"y": "3158",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "3110",
+		"y": "3158",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "3111",
+		"y": "3166",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "3111",
+		"y": "3168",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "3107",
+		"y": "3157",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3232",
+		"x": "3108",
+		"y": "3161",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "3112",
+		"y": "3157",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Traiborn",
+		"id": "5081",
+		"x": "3112",
+		"y": "3162",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard Mizgog",
+		"id": "5005",
+		"x": "3103",
+		"y": "3163",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2005",
+		"x": "3110",
+		"y": "3157",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard Grayzag",
+		"id": "5006",
+		"x": "3110",
+		"y": "3161",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	}
+]

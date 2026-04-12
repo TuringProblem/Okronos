@@ -1,0 +1,25 @@
+---
+identifier: "YTw9cISrTHIFKj3726XsD1CODv7UJo"
+title: "Flynn's Mace Market"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 1
+defaultStock:
+- id: 1422
+  amount: 100000
+- id: 1420
+  amount: 100000
+- id: 1424
+  amount: 100000
+- id: 1428
+  amount: 100000
+- id: 1430
+  amount: 100000

@@ -1,0 +1,2 @@
+206d98f8bf32a3c8aaeb34eb65dd8c42
+unknown: Cannot run program "wmic": CreateProcess error=2, The system cannot find the file specified

@@ -1,0 +1,48 @@
+[
+  { #The Nightmare - Totem ()
+    "ids": [ 9443, 9437, 9440, 9434, 9444, 9437, 9441, 9445 ],
+    "handler": "io.ruin.model.activities.miscpvm.BasicCombat",
+    //Combat Info
+    "hitpoints": 100,
+    "aggressive_level": -1,
+    "max_damage": 0,
+    "attack_style": "STAB",
+   //"pet": "",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 150,
+    "strength": 150,
+    "defence": 150,
+    "ranged": 150,
+    "magic": 150,
+    //Aggressive Stats
+    "stab_attack": 140,
+    "slash_attack": 128,
+    "crush_attack": 140,
+    "magic_attack": 64,
+    "ranged_attack": 140,
+    //Defensive Stats
+    "stab_defence": 120,
+    "slash_defence": 180,
+    "crush_defence": 40,
+    "magic_defence": 60,
+    "ranged_defence": 60,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1,
+	//Other
+	"local_loot": true
+  }
+]

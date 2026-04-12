@@ -1,0 +1,372 @@
+[
+	{
+		"name": "Mazion",
+		"id": "5386",
+		"x": "2818",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave monk",
+		"id": "1164",
+		"x": "2822",
+		"y": "3374",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fritz the Glassblower",
+		"id": "2053",
+		"x": "2831",
+		"y": "3350",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Unicorn",
+		"id": "2837",
+		"x": "2838",
+		"y": "3370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rod Fishing spot",
+		"id": "1516",
+		"x": "2840",
+		"y": "3356",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rod Fishing spot",
+		"id": "1516",
+		"x": "2842",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "4068",
+		"x": "2843",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rod Fishing spot",
+		"id": "1516",
+		"x": "2845",
+		"y": "3356",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1173",
+		"x": "2846",
+		"y": "3374",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Entrana firebird",
+		"id": "4927",
+		"x": "2847",
+		"y": "3386",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rod Fishing spot",
+		"id": "1516",
+		"x": "2849",
+		"y": "3361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Mysterious ghost",
+		"id": "6114",
+		"x": "2850",
+		"y": "3348",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "4068",
+		"x": "2850",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1173",
+		"x": "2850",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1174",
+		"x": "2850",
+		"y": "3371",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Unicorn",
+		"id": "2837",
+		"x": "2850",
+		"y": "3378",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "4068",
+		"x": "2851",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "High Priest",
+		"id": "4062",
+		"x": "2851",
+		"y": "3349",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1173",
+		"x": "2852",
+		"y": "3370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1174",
+		"x": "2853",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1174",
+		"x": "2853",
+		"y": "3373",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Unicorn",
+		"id": "2837",
+		"x": "2860",
+		"y": "3375",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Unicorn",
+		"id": "2837",
+		"x": "2863",
+		"y": "3378",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "1517",
+		"x": "2875",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "1517",
+		"x": "2876",
+		"y": "3331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "1517",
+		"x": "2877",
+		"y": "3331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "1517",
+		"x": "2877",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Entrana",
+		"id": "1168",
+		"x": "2830",
+		"y": "3335",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Entrana",
+		"id": "1169",
+		"x": "2835",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Entrana",
+		"id": "1170",
+		"x": "2839",
+		"y": "3335",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "4068",
+		"x": "2851",
+		"y": "3342",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "4068",
+		"x": "2854",
+		"y": "3350",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Frincos",
+		"id": "3215",
+		"x": "2808",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Auguste",
+		"id": "4715",
+		"x": "2808",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Black bear",
+		"id": "2839",
+		"x": "2809",
+		"y": "3376",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tool Leprechaun",
+		"id": "0",
+		"x": "2812",
+		"y": "3332",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Francis",
+		"id": "2667",
+		"x": "2814",
+		"y": "3337",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	}
+]

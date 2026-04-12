@@ -1,0 +1,39 @@
+---
+identifier: "U0eEgY72Bw1MuzNfWDmL9RE5Apl3x1"
+title: "Briget's Armour"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 1
+defaultStock:
+- id: 1103
+  amount: 100000
+- id: 1101
+  amount: 100000
+- id: 1105
+  amount: 100000
+- id: 1075
+  amount: 100000
+- id: 1067
+  amount: 100000
+- id: 1069
+  amount: 100000
+- id: 1087
+  amount: 100000
+- id: 1081
+  amount: 100000
+- id: 1083
+  amount: 100000
+- id: 1139
+  amount: 100000
+- id: 1137
+  amount: 100000
+- id: 1141
+  amount: 100000

@@ -1,0 +1,45 @@
+---
+identifier: "Eg1AlKhyVdhQeIuZMGU5Djvuu0f7Gr"
+title: "Lowe's Archery Emporium"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 1
+defaultStock:
+  - id: 882
+    amount: 100000
+  - id: 884
+    amount: 100000
+  - id: 886
+    amount: 100000
+  - id: 888
+    amount: 100000
+  - id: 890
+    amount: 100000
+  - id: 877
+    amount: 100000
+  - id: 841
+    amount: 100000
+  - id: 839
+    amount: 100000
+  - id: 843
+    amount: 100000
+  - id: 845
+    amount: 100000
+  - id: 849
+    amount: 100000
+  - id: 847
+    amount: 100000
+  - id: 853
+    amount: 100000
+  - id: 851
+    amount: 100000
+  - id: 837
+    amount: 100000

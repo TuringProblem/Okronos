@@ -1,0 +1,31 @@
+---
+identifier: "OHb91uDdcla4L0G1AlrbqsjCFzHf1e"
+title: "Carefree Crafting Stall"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 50
+  changePer: 2
+defaultStock:
+- id: 1755
+  amount: 100000
+- id: 1592
+  amount: 100000
+- id: 1597
+  amount: 100000
+- id: 4020
+  amount: 100000
+- id: 1733
+  amount: 100000
+- id: 1734
+  amount: 100000
+- id: 1759
+  amount: 100000
+- id: 11065
+  amount: 100000

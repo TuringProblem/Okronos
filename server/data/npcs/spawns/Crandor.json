@@ -1,0 +1,252 @@
+[
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2818",
+		"y": "3291",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2822",
+		"y": "3282",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2822",
+		"y": "3288",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2824",
+		"y": "3298",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2018",
+		"x": "2832",
+		"y": "3278",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2834",
+		"y": "3305",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2007",
+		"x": "2837",
+		"y": "3280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "King Scorpion",
+		"id": "3027",
+		"x": "2842",
+		"y": "3298",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "King Scorpion",
+		"id": "3027",
+		"x": "2844",
+		"y": "3291",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "King Scorpion",
+		"id": "3027",
+		"x": "2851",
+		"y": "3298",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "King Scorpion",
+		"id": "3027",
+		"x": "2855",
+		"y": "3303",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "King Scorpion",
+		"id": "3027",
+		"x": "2859",
+		"y": "3283",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "King Scorpion",
+		"id": "3027",
+		"x": "2861",
+		"y": "3295",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "77",
+		"x": "2820",
+		"y": "3259",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "77",
+		"x": "2824",
+		"y": "3237",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "2092",
+		"x": "2827",
+		"y": "3246",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "2090",
+		"x": "2831",
+		"y": "3243",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "78",
+		"x": "2832",
+		"y": "3234",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "2091",
+		"x": "2834",
+		"y": "3242",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "79",
+		"x": "2840",
+		"y": "3238",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "80",
+		"x": "2846",
+		"y": "3249",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "81",
+		"x": "2850",
+		"y": "3247",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "77",
+		"x": "2850",
+		"y": "3256",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "79",
+		"x": "2852",
+		"y": "3260",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "78",
+		"x": "2854",
+		"y": "3249",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

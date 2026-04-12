@@ -1,0 +1,362 @@
+[
+	{
+		"name": "Signy",
+		"id": "1086",
+		"x": "2571",
+		"y": "10278",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Armod",
+		"id": "1088",
+		"x": "2572",
+		"y": "10277",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Reinn",
+		"id": "1090",
+		"x": "2572",
+		"y": "10278",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Beigarth",
+		"id": "1089",
+		"x": "2573",
+		"y": "10277",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hild",
+		"id": "1087",
+		"x": "2573",
+		"y": "10278",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Hatchling",
+		"id": "1098",
+		"x": "2577",
+		"y": "10295",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Hatchling",
+		"id": "1098",
+		"x": "2581",
+		"y": "10297",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Hatchling",
+		"id": "1098",
+		"x": "2583",
+		"y": "10294",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Hatchling",
+		"id": "1098",
+		"x": "2587",
+		"y": "10294",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Hatchling",
+		"id": "1098",
+		"x": "2589",
+		"y": "10287",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Hatchling",
+		"id": "1098",
+		"x": "2589",
+		"y": "10291",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Hatchling",
+		"id": "1098",
+		"x": "2592",
+		"y": "10288",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2595",
+		"y": "10271",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2595",
+		"y": "10280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2597",
+		"y": "10263",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2597",
+		"y": "10275",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2598",
+		"y": "10253",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2599",
+		"y": "10257",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2599",
+		"y": "10267",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2604",
+		"y": "10247",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2605",
+		"y": "10251",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sea Snake Young",
+		"id": "1097",
+		"x": "2611",
+		"y": "10251",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thorodin",
+		"id": "1094",
+		"x": "2504",
+		"y": "10280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Halla",
+		"id": "1079",
+		"x": "2506",
+		"y": "10250",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Finn",
+		"id": "1080",
+		"x": "2508",
+		"y": "10260",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ferd",
+		"id": "1095",
+		"x": "2508",
+		"y": "10278",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Runolf",
+		"id": "1082",
+		"x": "2509",
+		"y": "10257",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jari",
+		"id": "1093",
+		"x": "2516",
+		"y": "10262",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Alviss",
+		"id": "1091",
+		"x": "2517",
+		"y": "10263",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fullangr",
+		"id": "1092",
+		"x": "2519",
+		"y": "10263",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Osvald",
+		"id": "1081",
+		"x": "2521",
+		"y": "10251",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tjorvi",
+		"id": "1083",
+		"x": "2523",
+		"y": "10257",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ingrid",
+		"id": "1084",
+		"x": "2526",
+		"y": "10263",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Runa",
+		"id": "1078",
+		"x": "2528",
+		"y": "10259",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Donal",
+		"id": "1096",
+		"x": "2529",
+		"y": "10256",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thora",
+		"id": "1085",
+		"x": "2531",
+		"y": "10249",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

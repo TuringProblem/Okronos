@@ -1,0 +1,68 @@
+---
+identifier: "x5X81TOGzsw0mi4MEW8WF3MxJj5LR0"
+title: "Baba Yaga's Magic Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 1
+defaultStock:
+  - id: 556
+    amount: 100000
+  - id: 555
+    amount: 100000
+  - id: 557
+    amount: 100000
+  - id: 554
+    amount: 100000
+  - id: 558
+    amount: 100000
+  - id: 559
+    amount: 100000
+  - id: 562
+    amount: 100000
+  - id: 561
+    amount: 100000
+  - id: 560
+    amount: 100000
+  - id: 563
+    amount: 100000
+  - id: 565
+    amount: 100000
+  - id: 566
+    amount: 100000
+  - id: 9075
+    amount: 100000
+  - id: 12734
+    amount: 100000
+  - id: 12730
+    amount: 100000
+  - id: 12728
+    amount: 100000
+  - id: 12732
+    amount: 100000
+  - id: 12736
+    amount: 100000
+  - id: 12738
+    amount: 100000
+  - id: 1391
+    amount: 100000
+  - id: 1387
+    amount: 100000
+  - id: 1383
+    amount: 100000
+  - id: 1381
+    amount: 100000
+  - id: 1385
+    amount: 100000
+  - id: 20613
+    amount: 100000
+    price: 1000000
+  - id: 9078
+    amount: 100000

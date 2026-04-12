@@ -1,0 +1,213 @@
+[
+  {
+    "ids": [ 11278, 11280, 11281, 11282 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 }
+    ],
+    "tables": [
+      {
+        "name": "Uniques",
+        "weight": 3,
+        "items": [
+          {
+            "id": 26235,
+            "min": 1,
+            "max": 1,
+            "weight": 3
+          },
+          {
+            "id": 26372,
+            "min": 1,
+            "max": 1,
+            "weight": 2
+          },
+          {
+            "id": 26376,
+            "min": 1,
+            "max": 1,
+            "weight": 2
+          },
+          {
+            "id": 26378,
+            "min": 1,
+            "max": 1,
+            "weight": 2
+          },
+          {
+            "id": 26380,
+            "min": 1,
+            "max": 1,
+            "weight": 2
+          },
+          {
+            "id": 26370,
+            "min": 1,
+            "max": 1,
+            "weight": 1
+          }
+        ],
+        "tables": []
+      },
+      {
+        "name": "Runes and Ammo",
+        "weight": 39,
+        "items": [
+          {
+            "id": 565,
+            "min": 84,
+            "max": 325,
+            "weight": 1
+          },
+          {
+            "id": 560,
+            "min": 85,
+            "max": 170,
+            "weight": 1
+          },
+          {
+            "id": 566,
+            "min": 56,
+            "max": 227,
+            "weight": 1
+          },
+          {
+            "id": 9244,
+            "min": 12,
+            "max": 90,
+            "weight": 1
+          },
+          {
+            "id": 2,
+            "min": 42,
+            "max": 298,
+            "weight": 1
+          },
+          {
+            "id": 556,
+            "min": 123,
+            "max": 1365,
+            "weight": 1
+          },
+          {
+            "id": 554,
+            "min": 210,
+            "max": 1655,
+            "weight": 1
+          },
+          {
+            "id": 555,
+            "min": 193,
+            "max": 1599,
+            "weight": 1
+          },
+          {
+            "id": 9245,
+            "min": 11,
+            "max": 29,
+            "weight": 1
+          }
+        ],
+        "tables": []
+      },
+      {
+        "name": "Resources",
+        "weight": 39,
+        "items": [
+          {
+            "id": 574,
+            "min": 6,
+            "max": 20,
+            "weight": 1
+          },
+          {
+            "id": 1620,
+            "min": 3,
+            "max": 26,
+            "weight": 1
+          },
+          {
+            "id": 1618,
+            "min": 3,
+            "max": 17,
+            "weight": 1
+          },
+          {
+            "id": 246,
+            "min": 4,
+            "max": 14,
+            "weight": 1
+          },
+          {
+            "id": 454,
+            "min": 23,
+            "max": 95,
+            "weight": 1
+          },
+          {
+            "id": 452,
+            "min": 2,
+            "max": 28,
+            "weight": 1
+          }
+        ],
+        "tables": []
+      },
+      {
+        "name": "Consumables",
+        "weight": 39,
+        "items": [
+          {
+            "id": 385,
+            "min": 1,
+            "max": 3,
+            "weight": 1
+          },
+          {
+            "id": 2434,
+            "min": 1,
+            "max": 1,
+            "weight": 1
+          },
+          {
+            "id": 6685,
+            "min": 2,
+            "max": 2,
+            "weight": 1
+          },
+          {
+            "id": 3024,
+            "min": 1,
+            "max": 1,
+            "weight": 1
+          }
+        ],
+        "tables": []
+      },
+      {
+        "name": "Other",
+        "weight": 38,
+        "items": [
+          {
+            "id": 26231,
+            "min": 1,
+            "max": 20,
+            "weight": 3
+          },
+          {
+            "id": 995,
+            "min": 8539,
+            "max": 26748,
+            "weight": 2
+          },
+          {
+            "id": 1289,
+            "min": 1,
+            "max": 1,
+            "weight": 1
+          }
+        ],
+        "tables": []
+      }
+    ]
+  }
+]

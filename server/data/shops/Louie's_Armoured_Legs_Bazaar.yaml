@@ -1,0 +1,27 @@
+---
+identifier: "wPs2xm5Rr1ObN8TyCaXZmWNvRXzeCC"
+title: "Louie's Armoured Legs Bazaar"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 65
+  changePer: 1
+defaultStock:
+- id: 1075
+  amount: 100000
+- id: 1067
+  amount: 100000
+- id: 1069
+  amount: 100000
+- id: 1077
+  amount: 100000
+- id: 1071
+  amount: 100000
+- id: 1073
+  amount: 100000

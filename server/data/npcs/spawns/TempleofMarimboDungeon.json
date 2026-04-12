@@ -1,0 +1,1582 @@
+[
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2761",
+		"y": "9189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2761",
+		"y": "9193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2761",
+		"y": "9197",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2761",
+		"y": "9204",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2763",
+		"y": "9201",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2763",
+		"y": "9205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2764",
+		"y": "9191",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2764",
+		"y": "9193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2764",
+		"y": "9195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2764",
+		"y": "9197",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2765",
+		"y": "9188",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2765",
+		"y": "9202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2765",
+		"y": "9203",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2766",
+		"y": "9191",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2766",
+		"y": "9196",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2766",
+		"y": "9199",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2767",
+		"y": "9163",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2768",
+		"y": "9187",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2768",
+		"y": "9197",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2768",
+		"y": "9201",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5282",
+		"x": "2768",
+		"y": "9203",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2769",
+		"y": "9190",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2769",
+		"y": "9193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5282",
+		"x": "2769",
+		"y": "9202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2770",
+		"y": "9188",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2770",
+		"y": "9192",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2770",
+		"y": "9199",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2770",
+		"y": "9201",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5282",
+		"x": "2770",
+		"y": "9202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2771",
+		"y": "9195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2773",
+		"y": "9194",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2776",
+		"y": "9163",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2779",
+		"y": "9163",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2782",
+		"y": "9193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2784",
+		"y": "9201",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2785",
+		"y": "9164",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2785",
+		"y": "9190",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2785",
+		"y": "9200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2786",
+		"y": "9204",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2787",
+		"y": "9169",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2788",
+		"y": "9196",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2789",
+		"y": "9172",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2790",
+		"y": "9194",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2792",
+		"y": "9167",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2796",
+		"y": "9170",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2796",
+		"y": "9175",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2797",
+		"y": "9198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2798",
+		"y": "9196",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2798",
+		"y": "9199",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2798",
+		"y": "9204",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2799",
+		"y": "9205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2800",
+		"y": "9162",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2800",
+		"y": "9196",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2800",
+		"y": "9198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2800",
+		"y": "9203",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2801",
+		"y": "9198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2806",
+		"y": "9201",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2807",
+		"y": "9200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5283",
+		"x": "2807",
+		"y": "9202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5282",
+		"x": "2808",
+		"y": "9191",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5282",
+		"x": "2808",
+		"y": "9210",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5282",
+		"x": "2809",
+		"y": "9193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5282",
+		"x": "2809",
+		"y": "9208",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2752",
+		"y": "9144",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2761",
+		"y": "9094",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2761",
+		"y": "9120",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2761",
+		"y": "9144",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2763",
+		"y": "9118",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2764",
+		"y": "9103",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2764",
+		"y": "9133",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2765",
+		"y": "9113",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2766",
+		"y": "9133",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2768",
+		"y": "9111",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2769",
+		"y": "9094",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2772",
+		"y": "9110",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2774",
+		"y": "9093",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2777",
+		"y": "9144",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2779",
+		"y": "9119",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2779",
+		"y": "9129",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2781",
+		"y": "9092",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2781",
+		"y": "9140",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2784",
+		"y": "9093",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2788",
+		"y": "9102",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2788",
+		"y": "9103",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2793",
+		"y": "9117",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2793",
+		"y": "9129",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2793",
+		"y": "9130",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2794",
+		"y": "9117",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2798",
+		"y": "9138",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2799",
+		"y": "9099",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2799",
+		"y": "9112",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2801",
+		"y": "9097",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bunkwicket",
+		"id": "7189",
+		"x": "2803",
+		"y": "9148",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zooknock",
+		"id": "7193",
+		"x": "2804",
+		"y": "9145",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Waymottin",
+		"id": "7191",
+		"x": "2805",
+		"y": "9147",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2807",
+		"y": "9131",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2809",
+		"y": "9104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2810",
+		"y": "9104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2810",
+		"y": "9111",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2810",
+		"y": "9123",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2810",
+		"y": "9124",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2697",
+		"y": "9171",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2699",
+		"y": "9202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2701",
+		"y": "9179",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2701",
+		"y": "9194",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2704",
+		"y": "9202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2706",
+		"y": "9194",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2707",
+		"y": "9170",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2709",
+		"y": "9175",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2722",
+		"y": "9173",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2723",
+		"y": "9198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2725",
+		"y": "9195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2726",
+		"y": "9181",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2728",
+		"y": "9203",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2732",
+		"y": "9178",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2732",
+		"y": "9199",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2734",
+		"y": "9170",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2694",
+		"y": "9104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2694",
+		"y": "9115",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2694",
+		"y": "9138",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2697",
+		"y": "9130",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2698",
+		"y": "9127",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2698",
+		"y": "9145",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2702",
+		"y": "9093",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2704",
+		"y": "9104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2704",
+		"y": "9109",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2707",
+		"y": "9112",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2708",
+		"y": "9103",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2710",
+		"y": "9135",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2711",
+		"y": "9109",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2711",
+		"y": "9130",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2711",
+		"y": "9137",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2712",
+		"y": "9108",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2714",
+		"y": "9095",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2714",
+		"y": "9135",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2715",
+		"y": "9132",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2716",
+		"y": "9096",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2716",
+		"y": "9146",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2719",
+		"y": "9147",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2726",
+		"y": "9107",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2728",
+		"y": "9097",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2729",
+		"y": "9118",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2732",
+		"y": "9130",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2735",
+		"y": "9119",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2736",
+		"y": "9121",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2738",
+		"y": "9124",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2740",
+		"y": "9120",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2740",
+		"y": "9138",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2741",
+		"y": "9103",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2741",
+		"y": "9122",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2741",
+		"y": "9124",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey Zombie",
+		"id": "5281",
+		"x": "2742",
+		"y": "9146",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2743",
+		"y": "9105",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2743",
+		"y": "9107",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2744",
+		"y": "9100",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "5237",
+		"x": "2745",
+		"y": "9102",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2748",
+		"y": "9100",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "5238",
+		"x": "2748",
+		"y": "9143",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

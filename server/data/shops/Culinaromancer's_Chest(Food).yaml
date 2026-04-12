@@ -1,0 +1,58 @@
+---
+identifier: "WUg0R0fAqWz1zoTzZxQSD9m0tg0yNg"
+title: "Culinaromancer's Chest"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 1973
+  amount: 100000
+- id: 1985
+  amount: 100000
+- id: 1982
+  amount: 100000
+- id: 1955
+  amount: 100000
+- id: 1987
+  amount: 100000
+- id: 1933
+  amount: 100000
+- id: 2283
+  amount: 100000
+- id: 1944
+  amount: 100000
+- id: 1927
+  amount: 100000
+- id: 2130
+  amount: 100000
+- id: 6697
+  amount: 100000
+- id: 2007
+  amount: 100000
+- id: 2313
+  amount: 100000
+- id: 1887
+  amount: 100000
+- id: 1923
+  amount: 100000
+- id: 1935
+  amount: 100000
+- id: 20742
+  amount: 100000
+- id: 1931
+  amount: 100000
+- id: 1980
+  amount: 100000
+- id: 1925
+  amount: 100000
+- id: 22660
+  amount: 100000

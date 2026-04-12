@@ -1,0 +1,39 @@
+---
+identifier: "v22zE6MfCsk53ro0IluZWf9WD2wYcH"
+title: "Frenita's Cookery Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 1
+defaultStock:
+- id: 2313
+  amount: 100000
+- id: 1955
+  amount: 100000
+- id: 1887
+  amount: 100000
+- id: 1923
+  amount: 100000
+- id: 1942
+  amount: 100000
+- id: 590
+  amount: 100000
+- id: 1935
+  amount: 100000
+- id: 20742
+  amount: 100000
+- id: 1931
+  amount: 100000
+- id: 1973
+  amount: 100000
+- id: 1933
+  amount: 100000
+- id: 1980
+  amount: 100000

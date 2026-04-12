@@ -1,0 +1,19 @@
+---
+identifier: "5LfK73a5yYaTK1GtwPyftHBVnjW14q"
+title: "Herquin's Gems"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 70
+  changePer: 3
+defaultStock:
+- id: 1623
+  amount: 100000
+- id: 1607
+  amount: 100000

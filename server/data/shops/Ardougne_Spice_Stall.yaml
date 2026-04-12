@@ -1,0 +1,21 @@
+---
+identifier: "K3N3Xd32e4geckrE3gOh0PNSMmFhDi"
+title: "Ardougne Spice Stall"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 2007
+  amount: 100000
+- id: 946
+  amount: 100000
+- id: 1550
+  amount: 100000

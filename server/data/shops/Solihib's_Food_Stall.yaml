@@ -1,0 +1,23 @@
+---
+identifier: "hQ83vmRz8gFiCfwvVAra5Kat5jqiUK"
+title: "Solihib's Food Stall"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 50
+  changePer: 2
+defaultStock:
+- id: 4012
+  amount: 100000
+- id: 1963
+  amount: 100000
+- id: 4016
+  amount: 100000
+- id: 4014
+  amount: 100000

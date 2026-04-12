@@ -1,0 +1,82 @@
+---
+identifier: "CraftingStore"
+title: "Crafting Shop"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 1755
+  price: 1
+  amount: 1
+- id: 1733
+  price: 1
+  amount: 1
+- id: 1734
+  price: 1
+  amount: 1
+- id: 1592
+  price: 5
+  amount: 1
+- id: 1597
+  price: 5
+  amount: 1
+- id: 11065
+  price: 5
+  amount: 1
+- id: 1595
+  price: 5
+  amount: 1
+- id: 1594
+  price: 5
+  amount: 1
+- id: 5523
+  price: 1
+  amount: 1
+- id: 9434
+  price: 25
+  amount: 1
+- id: 1741
+  price: 1
+  amount: 1
+- id: 1743
+  price: 150
+  amount: 1
+- id: 1623
+  price: 7000
+  amount: 1
+- id: 1621
+  price: 8000
+  amount: 1
+- id: 1619
+  price: 9000
+  amount: 1
+- id: 1617
+  price: 10000
+  amount: 1
+- id: 1631
+  price: 35000
+  amount: 1
+- id: 1607
+  price: 200
+  amount: 1
+- id: 1605
+  price: 350
+  amount: 1
+- id: 1603
+  price: 800
+  amount: 1
+- id: 1601
+  price: 1500
+  amount: 1
+- id: 1615
+  price: 4500
+  amount: 1

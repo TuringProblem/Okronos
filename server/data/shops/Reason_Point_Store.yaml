@@ -1,0 +1,106 @@
+---
+identifier: "ReasonStore"
+title: "Reason Point Store"
+currency: "REASON"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 2
+  price: 10
+  amount: 1
+- id: 4
+  price: 30000
+  amount: 1
+- id: 27012
+  price: 150000
+  amount: 1
+- id: 12863
+  price: 200000
+  amount: 1
+- id: 10551
+  price: 50000
+  amount: 1
+- id: 12791
+  price: 125000
+  amount: 1
+- id: 11941
+  price: 10000
+  amount: 1
+- id: 9625
+  price: 30000
+  amount: 1
+- id: 22081
+  price: 5000
+  amount: 1
+- id: 1585
+  price: 7500
+  amount: 1
+- id: 6714
+  price: 45000
+  amount: 1
+- id: 13116
+  price: 45000
+  amount: 1
+- id: 13226
+  price: 35000
+  amount: 1
+- id: 12020
+  price: 25000
+  amount: 1
+- id: 10588
+  price: 100000
+  amount: 1
+- id: 12018
+  price: 125000
+  amount: 1
+- id: 8839
+  price: 50000
+  amount: 1
+- id: 8840
+  price: 50000
+  amount: 1
+- id: 8842
+  price: 50000
+  amount: 1
+- id: 11663
+  price: 40000
+  amount: 1
+- id: 11664
+  price: 40000
+  amount: 1
+- id: 11665
+  price: 40000
+  amount: 1
+- id: 13072
+  price: 100000
+  amount: 1
+- id: 13073
+  price: 100000
+  amount: 1
+- id: 6570
+  price: 50000
+  amount: 1
+- id: 21295
+  price: 500000
+  amount: 1
+- id: 22109
+  price: 85000
+  amount: 1
+- id: 21791
+  price: 85000
+  amount: 1
+- id: 21793
+  price: 85000
+  amount: 1
+- id: 21795
+  price: 85000
+  amount: 1

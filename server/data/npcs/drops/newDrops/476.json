@@ -1,0 +1,134 @@
+[
+  {
+    "itemid": 556,
+    "minAmount": 3,
+    "dropRate": 10,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 564,
+    "minAmount": 2,
+    "dropRate": 10,
+    "maxAmount": 2
+  },
+  {
+    "itemid": 562,
+    "minAmount": 3,
+    "dropRate": 48,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 562,
+    "minAmount": 7,
+    "dropRate": 48,
+    "maxAmount": 7
+  },
+  {
+    "itemid": 1139,
+    "minAmount": 1,
+    "dropRate": 31,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1155,
+    "minAmount": 1,
+    "dropRate": 31,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1137,
+    "minAmount": 1,
+    "dropRate": 31,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1141,
+    "minAmount": 1,
+    "dropRate": 31,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1157,
+    "minAmount": 1,
+    "dropRate": 31,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1165,
+    "minAmount": 1,
+    "dropRate": 31,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1143,
+    "minAmount": 1,
+    "dropRate": 62,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1159,
+    "minAmount": 1,
+    "dropRate": 62,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1145,
+    "minAmount": 1,
+    "dropRate": 62,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 4109,
+    "minAmount": 1,
+    "dropRate": 184,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 199,
+    "minAmount": 1,
+    "dropRate": 4,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 995,
+    "minAmount": 15,
+    "dropRate": 19,
+    "maxAmount": 15
+  },
+  {
+    "itemid": 590,
+    "minAmount": 1,
+    "dropRate": 19,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 4542,
+    "minAmount": 1,
+    "dropRate": 19,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 596,
+    "minAmount": 1,
+    "dropRate": 19,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 221,
+    "minAmount": 1,
+    "dropRate": 75,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 4544,
+    "minAmount": 1,
+    "dropRate": 75,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 2801,
+    "minAmount": 1,
+    "dropRate": 112,
+    "maxAmount": 1
+  }
+]

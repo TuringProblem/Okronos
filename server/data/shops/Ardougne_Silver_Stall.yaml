@@ -1,0 +1,21 @@
+---
+identifier: "eh3UMTiQWbd33mDyPIOFJNyLoGshSb"
+title: "Ardougne Silver Stall"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 70
+  changePer: 2
+defaultStock:
+- id: 1714
+  amount: 100000
+- id: 442
+  amount: 100000
+- id: 2355
+  amount: 100000

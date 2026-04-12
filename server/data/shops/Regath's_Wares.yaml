@@ -1,0 +1,56 @@
+---
+identifier: "JRnyBYgNlZ6Stu2Plu1iglrQLQAW5S"
+title: "Regath's Wares"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 140
+  buysAt: 40
+  changePer: 1
+defaultStock:
+  - id: 227
+    amount: 100000
+  - id: 11879
+    amount: 100000
+  - id: 954
+    amount: 100000
+  - id: 554
+    amount: 100000
+  - id: 555
+    amount: 100000
+  - id: 556
+    amount: 100000
+  - id: 557
+    amount: 100000
+  - id: 558
+    amount: 100000
+  - id: 559
+    amount: 100000
+  - id: 565
+    amount: 100000
+  - id: 566
+    amount: 100000
+  - id: 12734
+    amount: 100000
+  - id: 12730
+    amount: 100000
+  - id: 12728
+    amount: 100000
+  - id: 12732
+    amount: 100000
+  - id: 12736
+    amount: 100000
+  - id: 579
+    amount: 100000
+  - id: 1017
+    amount: 100000
+  - id: 221
+    amount: 100000
+  - id: 12859
+    amount: 100000

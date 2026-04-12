@@ -1,0 +1,122 @@
+[
+  {
+    "id": 12772,
+    "x": 1482,
+    "y": 9692,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+ {
+    "id": 12772,
+    "x": 1487,
+    "y": 9696,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1492,
+    "y": 9699,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1511,
+    "y": 9701,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1519,
+    "y": 9711,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1520,
+    "y": 9695,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1517,
+    "y": 9681,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1384,
+    "y": 9681,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1376,
+    "y": 9684,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1374,
+    "y": 9680,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1377,
+    "y": 9710,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  },
+{
+    "id": 12772,
+    "x": 1384,
+    "y": 9711,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Moonlight moth"
+  }
+  ]

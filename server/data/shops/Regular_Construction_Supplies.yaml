@@ -1,0 +1,25 @@
+---
+identifier: "OUIkK92hX6nuD3NjaJN22fOSbopozm"
+title: "Construction Supplies"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 50
+  changePer: 0
+defaultStock:
+  - id: 8794
+    amount: 100000
+  - id: 8790
+    amount: 100000
+  - id: 4819
+    amount: 100000
+  - id: 4820
+    amount: 100000
+  - id: 1539
+    amount: 100000

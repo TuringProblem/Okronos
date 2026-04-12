@@ -1,0 +1,682 @@
+[
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3266",
+		"y": "9457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4632",
+		"x": "3266",
+		"y": "9459",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4673",
+		"x": "3267",
+		"y": "9428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3267",
+		"y": "9431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4673",
+		"x": "3267",
+		"y": "9441",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3267",
+		"y": "9443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4660",
+		"x": "3268",
+		"y": "9417",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3269",
+		"y": "9420",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4673",
+		"x": "3270",
+		"y": "9415",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3271",
+		"y": "9450",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3272",
+		"y": "9429",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3272",
+		"y": "9433",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3272",
+		"y": "9452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rowdy slave",
+		"id": "4634",
+		"x": "3273",
+		"y": "9420",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3273",
+		"y": "9422",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3273",
+		"y": "9430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4673",
+		"x": "3273",
+		"y": "9460",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3274",
+		"y": "9465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3275",
+		"y": "9459",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4673",
+		"x": "3276",
+		"y": "9434",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3276",
+		"y": "9464",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4660",
+		"x": "3277",
+		"y": "9452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3277",
+		"y": "9454",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4668",
+		"x": "3279",
+		"y": "9414",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4667",
+		"x": "3279",
+		"y": "9416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3281",
+		"y": "9438",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3282",
+		"y": "9446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4660",
+		"x": "3286",
+		"y": "9466",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4665",
+		"x": "3287",
+		"y": "9414",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4663",
+		"x": "3287",
+		"y": "9416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rowdy slave",
+		"id": "4634",
+		"x": "3288",
+		"y": "9446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3289",
+		"y": "9459",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3289",
+		"y": "9468",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3290",
+		"y": "9466",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4666",
+		"x": "3291",
+		"y": "9423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3292",
+		"y": "9413",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3292",
+		"y": "9460",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4666",
+		"x": "3293",
+		"y": "9435",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4673",
+		"x": "3294",
+		"y": "9413",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3295",
+		"y": "9468",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3297",
+		"y": "9412",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3297",
+		"y": "9426",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3297",
+		"y": "9463",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3297",
+		"y": "9468",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3298",
+		"y": "9413",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4660",
+		"x": "3298",
+		"y": "9432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3298",
+		"y": "9438",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3299",
+		"y": "9425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4661",
+		"x": "3299",
+		"y": "9467",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4673",
+		"x": "3300",
+		"y": "9412",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3300",
+		"y": "9453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3301",
+		"y": "9413",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4673",
+		"x": "3301",
+		"y": "9425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ana",
+		"id": "6230",
+		"x": "3302",
+		"y": "9466",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3303",
+		"y": "9425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3304",
+		"y": "9451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3305",
+		"y": "9443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3306",
+		"y": "9412",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3306",
+		"y": "9425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3307",
+		"y": "9424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3307",
+		"y": "9457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4673",
+		"x": "3309",
+		"y": "9422",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3314",
+		"y": "9458",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "4660",
+		"x": "3317",
+		"y": "9441",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3320",
+		"y": "9465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Female slave",
+		"id": "4672",
+		"x": "3322",
+		"y": "9426",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4670",
+		"x": "3323",
+		"y": "9432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Male slave",
+		"id": "4671",
+		"x": "3323",
+		"y": "9439",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

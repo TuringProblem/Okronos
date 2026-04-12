@@ -1,0 +1,46 @@
+[
+  {
+    "ids": [ 14176 ],
+    "handler": "yama.combat.Yama",
+    //Combat Info
+    "hitpoints": 16000,
+	  "pet": "YAMI",
+    "aggressive_level": 420,
+    "max_damage": 121,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 320,
+    "strength": 350,
+    "defence": 225,
+    "ranged": 210,
+    "magic": 250,
+    //Aggressive Stats
+    "stab_attack": 100,
+    "slash_attack": 100,
+    "crush_attack": 100,
+    "magic_attack": 100,
+    "ranged_attack": 100,
+    //Defensive Stats
+    "stab_defence": 100,
+    "slash_defence": 80,
+    "crush_defence": 333,
+    "magic_defence": 60,
+    "ranged_defence": 300,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 8,
+    "death_ticks": 3,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 12156,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": 12419
+  }
+]

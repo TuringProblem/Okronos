@@ -1,0 +1,422 @@
+[
+	{
+		"name": "Ammonite Crab",
+		"id": "7799",
+		"x": "3596",
+		"y": "10285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Long-tailed Wyvern",
+		"id": "7792",
+		"x": "3597",
+		"y": "10254",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Long-tailed Wyvern",
+		"id": "7792",
+		"x": "3602",
+		"y": "10250",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spitting Wyvern",
+		"id": "7794",
+		"x": "3603",
+		"y": "10273",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ammonite Crab",
+		"id": "7799",
+		"x": "3603",
+		"y": "10295",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spitting Wyvern",
+		"id": "7794",
+		"x": "3604",
+		"y": "10266",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ammonite Crab",
+		"id": "7799",
+		"x": "3606",
+		"y": "10293",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Long-tailed Wyvern",
+		"id": "7792",
+		"x": "3609",
+		"y": "10251",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spitting Wyvern",
+		"id": "7794",
+		"x": "3611",
+		"y": "10280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spitting Wyvern",
+		"id": "7794",
+		"x": "3612",
+		"y": "10274",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Long-tailed Wyvern",
+		"id": "7792",
+		"x": "3615",
+		"y": "10249",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Taloned Wyvern",
+		"id": "7793",
+		"x": "3622",
+		"y": "10291",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Taloned Wyvern",
+		"id": "7793",
+		"x": "3627",
+		"y": "10288",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Taloned Wyvern",
+		"id": "7793",
+		"x": "3628",
+		"y": "10282",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ammonite Crab",
+		"id": "7799",
+		"x": "3629",
+		"y": "10266",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Taloned Wyvern",
+		"id": "7793",
+		"x": "3634",
+		"y": "10280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ammonite Crab",
+		"id": "7799",
+		"x": "3637",
+		"y": "10265",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ammonite Crab",
+		"id": "7799",
+		"x": "3639",
+		"y": "10268",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ammonite Crab",
+		"id": "7799",
+		"x": "3640",
+		"y": "10263",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Weve",
+		"id": "7777",
+		"x": "3597",
+		"y": "10293",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ancient Wyvern",
+		"id": "7795",
+		"x": "3627",
+		"y": "10246",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ancient Wyvern",
+		"id": "7795",
+		"x": "3632",
+		"y": "10252",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ancient Wyvern",
+		"id": "7795",
+		"x": "3636",
+		"y": "10246",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "3593",
+		"y": "10217",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Long-tailed Wyvern",
+		"id": "7792",
+		"x": "3596",
+		"y": "10195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Long-tailed Wyvern",
+		"id": "7792",
+		"x": "3599",
+		"y": "10186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Long-tailed Wyvern",
+		"id": "7792",
+		"x": "3601",
+		"y": "10200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Long-tailed Wyvern",
+		"id": "7792",
+		"x": "3602",
+		"y": "10193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "3603",
+		"y": "10223",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Taloned Wyvern",
+		"id": "7793",
+		"x": "3605",
+		"y": "10215",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Taloned Wyvern",
+		"id": "7793",
+		"x": "3608",
+		"y": "10204",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Taloned Wyvern",
+		"id": "7793",
+		"x": "3610",
+		"y": "10215",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Taloned Wyvern",
+		"id": "7793",
+		"x": "3612",
+		"y": "10210",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spitting Wyvern",
+		"id": "7794",
+		"x": "3623",
+		"y": "10189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spitting Wyvern",
+		"id": "7794",
+		"x": "3623",
+		"y": "10195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spitting Wyvern",
+		"id": "7794",
+		"x": "3624",
+		"y": "10185",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spitting Wyvern",
+		"id": "7794",
+		"x": "3630",
+		"y": "10193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "3631",
+		"y": "10228",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ancient Wyvern",
+		"id": "7795",
+		"x": "3634",
+		"y": "10205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ancient Wyvern",
+		"id": "7795",
+		"x": "3634",
+		"y": "10212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "3635",
+		"y": "10233",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "3636",
+		"y": "10227",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

@@ -1,0 +1,132 @@
+[
+	{
+		"name": "Cave goblin miner",
+		"id": "5331",
+		"x": "3312",
+		"y": "9646",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin miner",
+		"id": "5330",
+		"x": "3312",
+		"y": "9652",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin miner",
+		"id": "5333",
+		"x": "3314",
+		"y": "9630",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin miner",
+		"id": "5331",
+		"x": "3314",
+		"y": "9636",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin miner",
+		"id": "5332",
+		"x": "3315",
+		"y": "9620",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin miner",
+		"id": "5330",
+		"x": "3316",
+		"y": "9632",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin guard",
+		"id": "5334",
+		"x": "3318",
+		"y": "9602",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin guard",
+		"id": "5335",
+		"x": "3320",
+		"y": "9632",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin miner",
+		"id": "5339",
+		"x": "3321",
+		"y": "9646",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin guard",
+		"id": "5335",
+		"x": "3322",
+		"y": "9617",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin guard",
+		"id": "5334",
+		"x": "3323",
+		"y": "9645",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Nardok",
+		"id": "996",
+		"x": "3324",
+		"y": "9607",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin miner",
+		"id": "5332",
+		"x": "3324",
+		"y": "9621",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

@@ -1,0 +1,49 @@
+---
+identifier: "3a66d8c1-dd6f-444e-a91e-24ea1f0135c0"
+title: "Magic Armour Shop"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 50
+  changePer: 2
+defaultStock:
+  - id: 23110
+    amount: 100000
+  - id: 23113
+    amount: 100000
+  - id: 23116
+    amount: 100000
+  - id: 7398
+    amount: 100000
+  - id: 7399
+    amount: 100000
+  - id: 7400
+    amount: 100000
+  - id: 542
+    amount: 100000
+  - id: 544
+    amount: 100000
+  - id: 6106
+    amount: 100000
+    price: 20000
+  - id: 6107
+    amount: 100000
+    price: 20000
+  - id: 6108
+    amount: 100000
+    price: 20000
+  - id: 6109
+    amount: 100000
+    price: 20000
+  - id: 6110
+    amount: 100000
+    price: 20000
+  - id: 6111
+    amount: 100000
+    price: 20000

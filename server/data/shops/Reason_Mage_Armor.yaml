@@ -1,0 +1,97 @@
+---
+identifier: "MagicArmourStore"
+title: "Magic Armour Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 579
+  price: 300
+  amount: 1
+- id: 577
+  price: 1250
+  amount: 1
+- id: 1011
+  price: 750
+  amount: 1
+- id: 6109
+  price: 350
+  amount: 1
+- id: 6107
+  price: 500
+  amount: 1
+- id: 6108
+  price: 500
+  amount: 1
+- id: 6111
+  price: 300
+  amount: 1
+- id: 6110
+  price: 250
+  amount: 1
+- id: 6106
+  price: 250
+  amount: 1
+- id: 13385
+  price: 300
+  amount: 1
+- id: 13387
+  price: 250
+  amount: 1
+- id: 13389
+  price: 250
+  amount: 1
+- id: 4089
+  price: 17750
+  amount: 1
+- id: 4091
+  price: 250000
+  amount: 1
+- id: 4093
+  price: 150000
+  amount: 1
+- id: 4095
+  price: 7899
+  amount: 1
+- id: 4097
+  price: 7899
+  amount: 1
+- id: 4109
+  price: 17750
+  amount: 1
+- id: 4111
+  price: 250000
+  amount: 1
+- id: 4113
+  price: 150000
+  amount: 1
+- id: 4115
+  price: 7899
+  amount: 1
+- id: 4117
+  price: 7899
+  amount: 1
+- id: 4099
+  price: 17750
+  amount: 1
+- id: 4101
+  price: 250000
+  amount: 1
+- id: 4103
+  price: 150000
+  amount: 1
+- id: 4105
+  price: 7899
+  amount: 1
+- id: 4107
+  price: 7899
+  amount: 1

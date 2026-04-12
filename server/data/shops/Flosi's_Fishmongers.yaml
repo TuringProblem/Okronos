@@ -1,0 +1,23 @@
+---
+identifier: "3LCnogs8hC21xTCiKCT1dh7TE9vik5"
+title: "Flosi's Fishmongers"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 110
+  buysAt: 70
+  changePer: 3
+defaultStock:
+  - id: 377
+    amount: 100000
+  - id: 359
+    amount: 100000
+  - id: 331
+    amount: 100000
+  - id: 341
+    amount: 100000

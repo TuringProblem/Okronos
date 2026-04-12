@@ -1,0 +1,382 @@
+[
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2438",
+		"y": "9885",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2442",
+		"y": "9891",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2443",
+		"y": "9862",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2443",
+		"y": "9882",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2447",
+		"y": "9891",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "2450",
+		"y": "9903",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "2450",
+		"y": "9912",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2451",
+		"y": "9860",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2451",
+		"y": "9882",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2452",
+		"y": "9878",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2453",
+		"y": "9890",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2456",
+		"y": "9858",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2456",
+		"y": "9872",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2456",
+		"y": "9883",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "2456",
+		"y": "9910",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2458",
+		"y": "9877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2460",
+		"y": "9860",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2460",
+		"y": "9863",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gnome guard",
+		"id": "6081",
+		"x": "2461",
+		"y": "9895",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2462",
+		"y": "9890",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "King Narnode Shareen",
+		"id": "1423",
+		"x": "2464",
+		"y": "9897",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "2464",
+		"y": "9908",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gnome guard",
+		"id": "6081",
+		"x": "2465",
+		"y": "9894",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gnome guard",
+		"id": "6081",
+		"x": "2465",
+		"y": "9899",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "2466",
+		"y": "9881",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2467",
+		"y": "9860",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2469",
+		"y": "9863",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2470",
+		"y": "9888",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2475",
+		"y": "9866",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2476",
+		"y": "9887",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "2477",
+		"y": "9896",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2481",
+		"y": "9869",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2482",
+		"y": "9865",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "2482",
+		"y": "9914",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "2483",
+		"y": "9888",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2488",
+		"y": "9861",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "2488",
+		"y": "9912",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2489",
+		"y": "9866",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

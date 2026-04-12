@@ -1,0 +1,302 @@
+[
+	{
+		"name": "Student",
+		"id": "3634",
+		"x": "3348",
+		"y": "3424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Digsite workman",
+		"id": "3631",
+		"x": "3350",
+		"y": "3401",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Digsite workman",
+		"id": "3630",
+		"x": "3354",
+		"y": "3408",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dig Site workman",
+		"id": "1933",
+		"x": "3357",
+		"y": "3415",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barge workman",
+		"id": "1937",
+		"x": "3357",
+		"y": "3446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Digsite workman",
+		"id": "3631",
+		"x": "3362",
+		"y": "3408",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Digsite workman",
+		"id": "3628",
+		"x": "3362",
+		"y": "3416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barge guard",
+		"id": "7767",
+		"x": "3362",
+		"y": "3446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Student",
+		"id": "3632",
+		"x": "3363",
+		"y": "3397",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barge foreman",
+		"id": "1938",
+		"x": "3364",
+		"y": "3445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Digsite workman",
+		"id": "3630",
+		"x": "3365",
+		"y": "3429",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Digsite workman",
+		"id": "3631",
+		"x": "3366",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Student",
+		"id": "3633",
+		"x": "3370",
+		"y": "3416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Digsite workman",
+		"id": "3630",
+		"x": "3373",
+		"y": "3418",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Elissa",
+		"id": "5138",
+		"x": "3376",
+		"y": "3429",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barge guard",
+		"id": "7768",
+		"x": "3362",
+		"y": "3451",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "David",
+		"id": "7822",
+		"x": "3363",
+		"y": "3452",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Junior Navigator",
+		"id": "7820",
+		"x": "3363",
+		"y": "3453",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lead Navigator",
+		"id": "7819",
+		"x": "3363",
+		"y": "3454",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "John",
+		"id": "7821",
+		"x": "3364",
+		"y": "3453",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Archaeological expert",
+		"id": "3639",
+		"x": "3355",
+		"y": "3333",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Digsite workman",
+		"id": "3630",
+		"x": "3356",
+		"y": "3385",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Examiner",
+		"id": "3636",
+		"x": "3360",
+		"y": "3343",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Examiner",
+		"id": "3637",
+		"x": "3364",
+		"y": "3339",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Examiner",
+		"id": "3635",
+		"x": "3364",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Researcher",
+		"id": "3638",
+		"x": "3365",
+		"y": "3333",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Digsite workman",
+		"id": "3628",
+		"x": "3370",
+		"y": "3387",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Nisha",
+		"id": "3642",
+		"x": "3376",
+		"y": "3373",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Panning guide",
+		"id": "3640",
+		"x": "3376",
+		"y": "3377",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Nick",
+		"id": "3641",
+		"x": "3381",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

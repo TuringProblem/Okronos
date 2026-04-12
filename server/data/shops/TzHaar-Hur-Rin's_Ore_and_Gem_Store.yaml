@@ -1,0 +1,45 @@
+---
+identifier: "e9637286-b832-448b-a83b-3c98e19da307"
+title: "TzHaar-Hur-Rin's Ore and Gem Store"
+currency: "TOKKUL"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 150
+  buysAt: 15
+  changePer: 2
+defaultStock:
+- id: 438
+  amount: 100000
+- id: 436
+  amount: 100000
+- id: 440
+  amount: 100000
+- id: 442
+  amount: 100000
+- id: 453
+  amount: 100000
+- id: 444
+  amount: 100000
+- id: 447
+  amount: 100000
+- id: 449
+  amount: 100000
+- id: 451
+  amount: 100000
+- id: 1623
+  amount: 100000
+- id: 1621
+  amount: 100000
+- id: 1619
+  amount: 100000
+- id: 1617
+  amount: 100000
+- id: 6571
+  amount: 100000
+- id: 9194
+  amount: 100000

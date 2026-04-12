@@ -1,0 +1,65 @@
+[
+  {
+    "ids": [ 7388, 7389, 7390, 7391, 7392, 7393, 7394, 9465, 7395, 9287, 9288, 7396, 7397, 7398, 7399, 7400, 10397, 7401,
+    7402, 7403, 9258, 10398, 10399, 7404, 7405, 7407, 7408, 7411, 10400, 10401, 7410, 7409, 7406, 10402],
+    "guaranteed": [
+      { "id": 995, "min": 150000, "max": 250000 } //Coins
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1127, "min": 1, "max": 1, "weight": 6 }, //Rune platebody
+          { "id": 1079, "min": 1, "max": 1, "weight": 6 }, //Rune platelegs
+          { "id": 1093, "min": 1, "max": 1, "weight": 3 }, //Rune plateskirt
+          { "id": 1163, "min": 1, "max": 1, "weight": 3 }, //Rune full helm
+          { "id": 1147, "min": 1, "max": 1, "weight": 3 }, //Rune med helm
+          { "id": 1333, "min": 1, "max": 1, "weight": 3 }, //Rune scimitar
+          { "id": 4587, "min": 1, "max": 1, "weight": 3 }, //Dragon scimitar
+          { "id": 4675, "min": 1, "max": 1, "weight": 3 } //Ancient staff
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 554, "min": 1250, "max": 2500, "weight": 3 }, //Fire rune
+          { "id": 565, "min": 450, "max": 850, "weight": 3 }, //Blood rune
+          { "id": 560, "min": 550, "max": 750, "weight": 2 }, //Death rune
+          { "id": 21880, "min": 250, "max": 350, "weight": 2 } //Wrath rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 208, "min": 25, "max": 35, "weight": 4 }, //Grimy ranarr weed
+          { "id": 210, "min": 25, "max": 35, "weight": 4 }, //Grimy irit leaf
+          { "id": 212, "min": 25, "max": 35, "weight": 4 }, //Grimy avantoe
+          { "id": 214, "min": 25, "max": 35, "weight": 4 }, //Grimy kwuarm
+          { "id": 216, "min": 25, "max": 35, "weight": 4 }, //Grimy cadantine
+          { "id": 2486, "min": 25, "max": 35, "weight": 4 }, //Grimy lantadyme
+          { "id": 218, "min": 25, "max": 35, "weight": 4 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1000000, "max": 1000000, "weight": 5 }, //Coins
+          { "id": 537, "min": 35, "max": 50, "weight": 2 }, //Dragon bones
+          { "id": 22787, "min": 15, "max": 25, "weight": 2 }, //Hydra bones
+          { "id": 19836, "min": 1, "max": 1, "weight": 2 }, //Master casket
+          { "id": 20730, "min": 1, "max": 1, "weight": 2 }, //Mist battlestaff
+          { "id": 20736, "min": 1, "max": 1, "weight": 2 }, //Dust battlestaff
+          { "id": 21270, "min": 1, "max": 1, "weight": 1, "broadcast": "GLOBAL" }, //Eternal gem
+          { "id": 30502, "min": 1, "max": 1, "weight": 1, "broadcast": "GLOBAL" }, //Eternal gem
+          { "id": 30503, "min": 1, "max": 1, "weight": 1, "broadcast": "GLOBAL" }, //Eternal gem
+          { "id": 30542, "min": 1, "max": 1, "weight": 3, "broadcast": "GLOBAL" }, //Eternal gem
+          { "id": 20724, "min": 1, "max": 1, "weight": 1, "broadcast": "GLOBAL" } //Imbued heart
+        ]
+      }
+    ]
+  }
+]

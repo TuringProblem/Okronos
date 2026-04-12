@@ -1,0 +1,31 @@
+---
+identifier: "7aacc988-30ae-44e7-b5a7-a685c79db41d"
+title: "TzHaar-Hur-Tel's Equipment Store"
+currency: "TOKKUL"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 150
+  buysAt: 15
+  changePer: 2
+defaultStock:
+- id: 6522
+  amount: 100000
+- id: 6523
+  amount: 100000
+- id: 6525
+  amount: 100000
+- id: 6528
+  amount: 100000
+- id: 6526
+  amount: 100000
+- id: 6527
+  amount: 100000
+- id: 6568
+  amount: 100000
+- id: 6524
+  amount: 100000

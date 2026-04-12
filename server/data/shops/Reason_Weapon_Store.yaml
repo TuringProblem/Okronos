@@ -1,0 +1,73 @@
+---
+identifier: "MeleeWeaponStore"
+title: "Melee Weapon Supply"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 1215
+  price: 32500
+  amount: 1
+- id: 5698
+  price: 32500
+  amount: 1
+- id: 1305
+  price: 100000
+  amount: 1
+- id: 1434
+  price: 50000
+  amount: 1
+- id: 1377
+  price: 400000
+  amount: 1
+- id: 4587
+  price: 185000
+  amount: 1
+- id: 1321
+  price: 35
+  amount: 1
+- id: 1323
+  price: 100
+  amount: 1
+- id: 1325
+  price: 250
+  amount: 1
+- id: 1329
+  price: 500
+  amount: 1
+- id: 1331
+  price: 3000
+  amount: 1
+- id: 1333
+  price: 23500
+  amount: 1
+- id: 1307
+  price: 80
+  amount: 1
+- id: 1309
+  price: 150
+  amount: 1
+- id: 1311
+  price: 750
+  amount: 1
+- id: 1315
+  price: 1000
+  amount: 1
+- id: 1317
+  price: 6500
+  amount: 1
+- id: 1319
+  price: 62500
+  amount: 1
+- id: 6746
+  price: 3500
+  amount: 1

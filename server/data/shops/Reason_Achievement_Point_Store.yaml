@@ -1,0 +1,121 @@
+---
+identifier: "AchievementStore"
+title: "Reason Achievement Point Store"
+currency: "ACHIEVEMENT"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 7478
+  price: 10
+  amount: 1
+- id: 30460
+  price: 30
+  amount: 1
+- id: 30458
+  price: 3
+  amount: 1
+- id: 1580
+  price: 10
+  amount: 1
+- id: 775
+  price: 10
+  amount: 1
+- id: 776
+  price: 10
+  amount: 1
+- id: 7462
+  price: 15
+  amount: 1
+- id: 8842
+  price: 50
+  amount: 1
+- id: 8839
+  price: 50
+  amount: 1
+- id: 8840
+  price: 50
+  amount: 1
+- id: 11663
+  price: 45
+  amount: 1
+- id: 11664
+  price: 45
+  amount: 1
+- id: 11665
+  price: 45
+  amount: 1
+- id: 8850
+  price: 15
+  amount: 1
+- id: 12954
+  price: 45
+  amount: 1
+- id: 10548
+  price: 25
+  amount: 1
+- id: 10551
+  price: 75
+  amount: 1
+- id: 7409
+  price: 25
+  amount: 1
+- id: 5553
+  price: 10
+  amount: 1
+- id: 5554
+  price: 10
+  amount: 1
+- id: 5555
+  price: 10
+  amount: 1
+- id: 5556
+  price: 10
+  amount: 1
+- id: 5557
+  price: 10
+  amount: 1
+- id: 22947
+  price: 30
+  amount: 1
+- id: 13140
+  price: 30
+  amount: 1
+- id: 13107
+  price: 30
+  amount: 1
+- id: 13115
+  price: 30
+  amount: 1
+- id: 13103
+  price: 30
+  amount: 1
+- id: 13132
+  price: 30
+  amount: 1
+- id: 13120
+  price: 30
+  amount: 1
+- id: 13128
+  price: 30
+  amount: 1
+- id: 13136
+  price: 30
+  amount: 1
+- id: 13124
+  price: 30
+  amount: 1
+- id: 13111
+  price: 30
+  amount: 1
+- id: 13144
+  price: 30
+  amount: 1

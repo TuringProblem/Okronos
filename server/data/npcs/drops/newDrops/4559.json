@@ -1,0 +1,26 @@
+[
+  {
+    "itemid": 526,
+    "minAmount": 1,
+    "dropRate": 4,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1035,
+    "minAmount": 1,
+    "dropRate": 4,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1033,
+    "minAmount": 1,
+    "dropRate": 4,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1409,
+    "minAmount": 1,
+    "dropRate": 4,
+    "maxAmount": 1
+  }
+]

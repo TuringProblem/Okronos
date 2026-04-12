@@ -1,0 +1,88 @@
+[
+  {
+    "ids": [ 6500 ],
+    "handler": "com.reasonps.dominion.bosses.kalphite.EchoKalphiteQueen",
+    //Combat Info
+    "hitpoints": 5000,
+    "aggressive_level": 666,
+    "max_damage": 38,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 856.8,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 375,
+    "strength": 375,
+    "defence": 300,
+    "ranged": 1,
+    "magic": 165,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 50,
+    "crush_defence": 10,
+    "magic_defence": 100,
+    "ranged_defence": 100,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 20,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1185,
+    "defend_animation": 6232,
+    "death_animation": 6242
+  },
+  {
+    "ids": [ 6501 ],
+    "handler": "com.reasonps.dominion.bosses.kalphite.EchoKalphiteQueen",
+    //Combat Info
+    "hitpoints": 5000,
+    "aggressive_level": 666,
+    "max_damage": 38,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 856.8,
+    "slayer_tasks": [ "Kalphite", "The Kalphite Queen", "BOSS" ],
+    //Combat Stats
+	"attack": 375,
+	"strength": 375,
+	"defence": 300,
+	"ranged": 1,
+	"magic": 165,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 100,
+    "slash_defence": 100,
+    "crush_defence": 100,
+    "magic_defence": 10,
+    "ranged_defence": 10,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 25,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1178,
+    "defend_animation": 6237,
+    "death_animation": 6233
+  }
+]

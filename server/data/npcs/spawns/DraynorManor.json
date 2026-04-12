@@ -1,0 +1,272 @@
+[
+	{
+		"name": "Scout",
+		"id": "6132",
+		"x": "3072",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant spider",
+		"id": "3017",
+		"x": "3075",
+		"y": "3366",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tool Leprechaun",
+		"id": "0",
+		"x": "3087",
+		"y": "3352",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ava",
+		"id": "4408",
+		"x": "3093",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3099",
+		"y": "3366",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Witch",
+		"id": "4410",
+		"x": "3099",
+		"y": "3370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3101",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3103",
+		"y": "3347",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3107",
+		"y": "3337",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3107",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3107",
+		"y": "3344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3108",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Veronica",
+		"id": "3561",
+		"x": "3110",
+		"y": "3330",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "3565",
+		"x": "3110",
+		"y": "3367",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3111",
+		"y": "3339",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3111",
+		"y": "3348",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3115",
+		"y": "3344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3120",
+		"y": "3344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3122",
+		"y": "3335",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant spider",
+		"id": "3017",
+		"x": "3135",
+		"y": "3340",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost",
+		"id": "473",
+		"x": "3094",
+		"y": "3356",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost",
+		"id": "474",
+		"x": "3098",
+		"y": "3359",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost",
+		"id": "505",
+		"x": "3101",
+		"y": "3356",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost",
+		"id": "506",
+		"x": "3108",
+		"y": "3358",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost",
+		"id": "507",
+		"x": "3123",
+		"y": "3356",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "6143",
+		"x": "3110",
+		"y": "3366",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Professor Oddenstein",
+		"id": "3562",
+		"x": "3110",
+		"y": "3367",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	}
+]

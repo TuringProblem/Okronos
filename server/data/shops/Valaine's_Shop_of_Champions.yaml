@@ -1,0 +1,23 @@
+---
+identifier: "Hi95VicFxayJFvBBf9bgoi9V4ILBSU"
+title: "Valaine's Shop of Champions"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 3
+defaultStock:
+- id: 1021
+  amount: 100000
+- id: 1165
+  amount: 100000
+- id: 1077
+  amount: 100000
+- id: 1123
+  amount: 100000

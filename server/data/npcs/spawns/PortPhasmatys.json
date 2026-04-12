@@ -1,0 +1,952 @@
+[
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3713",
+		"y": "3492",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3714",
+		"y": "3498",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bill Teach",
+		"id": "4013",
+		"x": "3713",
+		"y": "3497",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3715",
+		"y": "3502",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tortured soul",
+		"id": "2999",
+		"x": "3654",
+		"y": "3536",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tortured soul",
+		"id": "2999",
+		"x": "3657",
+		"y": "3534",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tortured soul",
+		"id": "2999",
+		"x": "3666",
+		"y": "3529",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tortured soul",
+		"id": "2999",
+		"x": "3668",
+		"y": "3537",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tortured soul",
+		"id": "2999",
+		"x": "3672",
+		"y": "3520",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tortured soul",
+		"id": "2999",
+		"x": "3673",
+		"y": "3528",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Andras",
+		"id": "8267",
+		"x": "3671",
+		"y": "3543",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate Pete",
+		"id": "601",
+		"x": "3680",
+		"y": "3537",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Tortured soul",
+		"id": "2999",
+		"x": "3648",
+		"y": "3472",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "3007",
+		"x": "3652",
+		"y": "3484",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "3007",
+		"x": "3652",
+		"y": "3487",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost disciple",
+		"id": "2988",
+		"x": "3655",
+		"y": "3516",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Droalak",
+		"id": "6128",
+		"x": "3657",
+		"y": "3469",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3658",
+		"y": "3465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost shopkeeper",
+		"id": "3000",
+		"x": "3658",
+		"y": "3477",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "3007",
+		"x": "3658",
+		"y": "3508",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gravingas",
+		"id": "5857",
+		"x": "3660",
+		"y": "3499",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "6710",
+		"x": "3660",
+		"y": "3503",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Necrovarus",
+		"id": "2986",
+		"x": "3660",
+		"y": "3516",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3661",
+		"y": "3494",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3661",
+		"y": "3497",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "3007",
+		"x": "3661",
+		"y": "3508",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3662",
+		"y": "3463",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3662",
+		"y": "3502",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost disciple",
+		"id": "2988",
+		"x": "3662",
+		"y": "3516",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "6710",
+		"x": "3664",
+		"y": "3488",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3665",
+		"y": "3493",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "6710",
+		"x": "3667",
+		"y": "3469",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3668",
+		"y": "3474",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Robin",
+		"id": "2995",
+		"x": "3672",
+		"y": "3491",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3672",
+		"y": "3503",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3673",
+		"y": "3479",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sarah",
+		"id": "8134",
+		"x": "3674",
+		"y": "3468",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Melina",
+		"id": "6127",
+		"x": "3674",
+		"y": "3484",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3675",
+		"y": "3496",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Velorina",
+		"id": "2985",
+		"x": "3678",
+		"y": "3510",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3679",
+		"y": "3474",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bill Teach",
+		"id": "4011",
+		"x": "3679",
+		"y": "3495",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost innkeeper",
+		"id": "3001",
+		"x": "3681",
+		"y": "3496",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "6710",
+		"x": "3681",
+		"y": "3502",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost villager",
+		"id": "2998",
+		"x": "3684",
+		"y": "3485",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "6710",
+		"x": "3684",
+		"y": "3486",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost banker",
+		"id": "3003",
+		"x": "3687",
+		"y": "3464",
+		"z": "0",
+		"direction": "N",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost banker",
+		"id": "3003",
+		"x": "3688",
+		"y": "3464",
+		"z": "0",
+		"direction": "N",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Financial Wizard",
+		"id": "6573",
+		"x": "3690",
+		"y": "3464",
+		"z": "0",
+		"direction": "N",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost banker",
+		"id": "3003",
+		"x": "3691",
+		"y": "3464",
+		"z": "0",
+		"direction": "N",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "6710",
+		"x": "3697",
+		"y": "3473",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tortured soul",
+		"id": "2999",
+		"x": "3649",
+		"y": "3503",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost disciple",
+		"id": "2988",
+		"x": "3653",
+		"y": "3518",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost sailor",
+		"id": "3004",
+		"x": "3686",
+		"y": "3503",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ak-Haranu",
+		"id": "5859",
+		"x": "3689",
+		"y": "3495",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost sailor",
+		"id": "3004",
+		"x": "3689",
+		"y": "3508",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost sailor",
+		"id": "3004",
+		"x": "3690",
+		"y": "3514",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost sailor",
+		"id": "3004",
+		"x": "3691",
+		"y": "3512",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost captain",
+		"id": "3006",
+		"x": "3691",
+		"y": "3513",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost sailor",
+		"id": "3004",
+		"x": "3694",
+		"y": "3518",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost sailor",
+		"id": "3004",
+		"x": "3698",
+		"y": "3497",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost sailor",
+		"id": "3004",
+		"x": "3698",
+		"y": "3514",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost captain",
+		"id": "3005",
+		"x": "3703",
+		"y": "3487",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost sailor",
+		"id": "3004",
+		"x": "3704",
+		"y": "3496",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gravingas",
+		"id": "5858",
+		"x": "3660",
+		"y": "3499",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "3007",
+		"x": "3668",
+		"y": "3453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghost guard",
+		"id": "3007",
+		"x": "3671",
+		"y": "3453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3673",
+		"y": "3416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3675",
+		"y": "3403",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3678",
+		"y": "3403",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3678",
+		"y": "3416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3680",
+		"y": "3407",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3680",
+		"y": "3417",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3681",
+		"y": "3396",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3681",
+		"y": "3403",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3681",
+		"y": "3413",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3682",
+		"y": "3399",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3683",
+		"y": "3406",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3683",
+		"y": "3411",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3683",
+		"y": "3416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3684",
+		"y": "3403",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3686",
+		"y": "3414",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3686",
+		"y": "3443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3690",
+		"y": "3438",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3690",
+		"y": "3444",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3694",
+		"y": "3439",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3696",
+		"y": "3408",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3696",
+		"y": "3411",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3696",
+		"y": "3443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3699",
+		"y": "3397",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3699",
+		"y": "3405",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3701",
+		"y": "3399",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3701",
+		"y": "3406",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3703",
+		"y": "3403",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3704",
+		"y": "3400",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

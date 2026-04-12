@@ -1,0 +1,155 @@
+[
+  {
+    "itemid": 25778,
+    "minAmount": 1,
+    "dropRate": 1,
+    "maxAmount": 1
+  },
+  {
+    "broadcast": "GLOBAL",
+    "itemid": 11824,
+    "minAmount": 1,
+    "dropRate": 138,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 11787,
+    "minAmount": 1,
+    "dropRate": 138,
+    "maxAmount": 1
+  },
+  {
+    "broadcast": "GLOBAL",
+    "itemid": 11791,
+    "minAmount": 1,
+    "dropRate": 208,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 5626,
+    "minAmount": 295,
+    "dropRate": 15,
+    "maxAmount": 300
+  },
+  {
+    "itemid": 1333,
+    "minAmount": 1,
+    "dropRate": 19,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 5698,
+    "minAmount": 1,
+    "dropRate": 29,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1289,
+    "minAmount": 1,
+    "dropRate": 29,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1079,
+    "minAmount": 1,
+    "dropRate": 9,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1123,
+    "minAmount": 1,
+    "dropRate": 13,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 145,
+    "minAmount": 3,
+    "dropRate": 9,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 157,
+    "minAmount": 3,
+    "dropRate": 13,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 3026,
+    "minAmount": 3,
+    "dropRate": 9,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 189,
+    "minAmount": 3,
+    "dropRate": 13,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 560,
+    "minAmount": 120,
+    "dropRate": 25,
+    "maxAmount": 124
+  },
+  {
+    "itemid": 995,
+    "minAmount": 19362,
+    "dropRate": 25,
+    "maxAmount": 20073
+  },
+  {
+    "itemid": 989,
+    "minAmount": 1,
+    "dropRate": 31,
+    "maxAmount": 2
+  },
+  {
+    "itemid": 565,
+    "minAmount": 80,
+    "dropRate": 42,
+    "maxAmount": 90
+  },
+  {
+    "itemid": 2486,
+    "minAmount": 7,
+    "dropRate": 42,
+    "maxAmount": 13
+  },
+  {
+    "itemid": 5302,
+    "minAmount": 3,
+    "dropRate": 42,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 12073,
+    "minAmount": 1,
+    "dropRate": 154,
+    "maxAmount": 1
+  },
+  {
+    "broadcast": "GLOBAL",
+    "itemid": 11816,
+    "minAmount": 1,
+    "dropRate": 328,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 11818,
+    "minAmount": 1,
+    "dropRate": 263,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 11820,
+    "minAmount": 1,
+    "dropRate": 263,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 11822,
+    "minAmount": 1,
+    "dropRate": 263,
+    "maxAmount": 1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "ids": [
+      9468,
+      9469
+    ],
+    "handler": "",
+    "hitpoints": 40,
+    "aggressive_level": 150,
+    "aggressive": true,
+    "max_damage": 10,
+    "attack_style": "Magic",
+    "attack": 1,
+    "strength": 1,
+    "defence": 40,
+    "ranged": 60,
+    "magic": 60,
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 12,
+    "ranged_attack": 12,
+    "stab_defence": 50,
+    "slash_defence": 70,
+    "crush_defence": 10,
+    "magic_defence": 100,
+    "ranged_defence": 100,
+    "poison_immunity": true,
+    "venom_immunity": true,
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    "local_loot": false,
+    "combat_xp_modifier": 0.0,
+    "random_drop_count": 0
+  }
+]

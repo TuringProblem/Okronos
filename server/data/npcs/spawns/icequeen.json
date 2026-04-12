@@ -1,0 +1,492 @@
+[
+	{
+		"name": "Mountain troll",
+		"id": "4143",
+		"x": "2921",
+		"y": "10027",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mountain troll",
+		"id": "939",
+		"x": "2921",
+		"y": "10032",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mountain troll",
+		"id": "942",
+		"x": "2924",
+		"y": "10031",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mountain troll",
+		"id": "941",
+		"x": "2925",
+		"y": "10034",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice giant",
+		"id": "2085",
+		"x": "2880",
+		"y": "9927",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice giant",
+		"id": "2085",
+		"x": "2883",
+		"y": "9932",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice giant",
+		"id": "2085",
+		"x": "2883",
+		"y": "9965",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice giant",
+		"id": "2085",
+		"x": "2884",
+		"y": "9959",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2885",
+		"y": "9962",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2887",
+		"y": "9936",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice giant",
+		"id": "2085",
+		"x": "2887",
+		"y": "9955",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice giant",
+		"id": "2085",
+		"x": "2890",
+		"y": "9950",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice giant",
+		"id": "2085",
+		"x": "2891",
+		"y": "9941",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2819",
+		"y": "9950",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2824",
+		"y": "9934",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2827",
+		"y": "9925",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2828",
+		"y": "9956",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2841",
+		"x": "2834",
+		"y": "9940",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2841",
+		"x": "2836",
+		"y": "9953",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2841",
+		"x": "2844",
+		"y": "9944",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2857",
+		"y": "9969",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2851",
+		"x": "2864",
+		"y": "9950",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2851",
+		"x": "2865",
+		"y": "9951",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2851",
+		"x": "2866",
+		"y": "9948",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice Queen",
+		"id": "4922",
+		"x": "2866",
+		"y": "9956",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2851",
+		"x": "2867",
+		"y": "9948",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2851",
+		"x": "2867",
+		"y": "9951",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2851",
+		"x": "2868",
+		"y": "9950",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2872",
+		"y": "9972",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2841",
+		"x": "2822",
+		"y": "9901",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2841",
+		"x": "2836",
+		"y": "9905",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2841",
+		"x": "2838",
+		"y": "9917",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2841",
+		"x": "2847",
+		"y": "9919",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice warrior",
+		"id": "2841",
+		"x": "2848",
+		"y": "9912",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2860",
+		"y": "9874",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2860",
+		"y": "9877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2862",
+		"y": "9874",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2862",
+		"y": "9877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khorvak, a dwarven engineer",
+		"id": "4895",
+		"x": "2864",
+		"y": "9876",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Holoy",
+		"id": "2784",
+		"x": "2865",
+		"y": "9871",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rohak",
+		"id": "6254",
+		"x": "2865",
+		"y": "9876",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rohak",
+		"id": "6255",
+		"x": "2865",
+		"y": "9877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2867",
+		"y": "9879",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2868",
+		"y": "9874",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain Ninto",
+		"id": "2569",
+		"x": "2869",
+		"y": "9877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2869",
+		"y": "9879",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2869",
+		"y": "9912",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2870",
+		"y": "9874",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cart conductor",
+		"id": "2390",
+		"x": "2874",
+		"y": "9872",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

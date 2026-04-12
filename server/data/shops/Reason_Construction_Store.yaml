@@ -1,0 +1,40 @@
+---
+identifier: "ReasonConstruction"
+title: "Construction store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 8794
+  price: 13
+  amount: 1
+- id: 8790
+  price: 25000
+  amount: 1
+- id: 1539
+  price: 3
+  amount: 1
+- id: 3420
+  price: 2600
+  amount: 1
+- id: 8786
+  price: 500000
+  amount: 1
+- id: 8784
+  price: 3250000
+  amount: 1
+- id: 8788
+  price: 1300000
+  amount: 1
+- id: 20615
+  price: 10000000
+  amount: 1

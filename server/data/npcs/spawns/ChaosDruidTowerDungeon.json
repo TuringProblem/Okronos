@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2563",
+		"y": "9753",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2565",
+		"y": "9754",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2567",
+		"y": "9752",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2569",
+		"y": "9753",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2572",
+		"y": "9752",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2581",
+		"y": "9738",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "2",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2581",
+		"y": "9742",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "3",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2584",
+		"y": "9734",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "3",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2585",
+		"y": "9738",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "2",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2587",
+		"y": "9733",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "3",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2587",
+		"y": "9740",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "2",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2590",
+		"y": "9737",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "2",
+		"world": "ECO"
+	}
+]

@@ -1,0 +1,23 @@
+---
+identifier: "0xbp702K6SLtq1AHBuCLVQmLeMX4Yo"
+title: "Keepa Kettilon's Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 110
+  buysAt: 70
+  changePer: 3
+defaultStock:
+- id: 361
+  amount: 100000
+- id: 329
+  amount: 100000
+- id: 339
+  amount: 100000
+- id: 379
+  amount: 100000

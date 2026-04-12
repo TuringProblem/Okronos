@@ -1,0 +1,37 @@
+---
+identifier: "7rM1VYsny4t773ozjbF7S7cdVqEvEh"
+title: "Fremennik Fish Monger"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 70
+  changePer: 3
+defaultStock:
+  - id: 303
+    amount: 100000
+  - id: 307
+    amount: 100000
+  - id: 309
+    amount: 100000
+  - id: 311
+    amount: 100000
+  - id: 301
+    amount: 100000
+  - id: 313
+    amount: 100000
+  - id: 11883
+    amount: 100000
+  - id: 314
+    amount: 100000
+  - id: 11881
+    amount: 100000
+  - id: 305
+    amount: 100000
+  - id: 327
+    amount: 100000

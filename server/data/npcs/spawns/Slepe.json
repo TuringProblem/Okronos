@@ -1,0 +1,702 @@
+[
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "3731",
+		"y": "3393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "3743",
+		"y": "3394",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "3744",
+		"y": "3399",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "3751",
+		"y": "3401",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "3754",
+		"y": "3398",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "3759",
+		"y": "3395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8307",
+		"x": "3713",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8304",
+		"x": "3719",
+		"y": "3373",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8300",
+		"x": "3722",
+		"y": "3369",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3726",
+		"y": "3381",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8305",
+		"x": "3728",
+		"y": "3374",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8301",
+		"x": "3730",
+		"y": "3365",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8306",
+		"x": "3737",
+		"y": "3377",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8307",
+		"x": "3740",
+		"y": "3371",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3745",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8302",
+		"x": "3745",
+		"y": "3382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8303",
+		"x": "3748",
+		"y": "3376",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3749",
+		"y": "3365",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3750",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8300",
+		"x": "3750",
+		"y": "3370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3752",
+		"y": "3358",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3754",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3754",
+		"y": "3365",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3756",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3756",
+		"y": "3367",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3757",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3757",
+		"y": "3363",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3763",
+		"y": "3337",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4437",
+		"x": "3731",
+		"y": "3358",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4438",
+		"x": "3732",
+		"y": "3356",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4436",
+		"x": "3734",
+		"y": "3360",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Damien Leucurte",
+		"id": "9825",
+		"x": "3718",
+		"y": "3358",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Sleepwalker",
+		"id": "1029",
+		"x": "3746",
+		"y": "3334",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Sleepwalker",
+		"id": "1029",
+		"x": "3746",
+		"y": "3334",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9838",
+		"x": "3712",
+		"y": "3312",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Sister Yram",
+		"id": "8276",
+		"x": "3712",
+		"y": "3315",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3726",
+		"y": "3289",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3727",
+		"y": "3304",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3729",
+		"y": "3302",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Veliaf Hurtz",
+		"id": "8278",
+		"x": "3729",
+		"y": "3318",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3732",
+		"y": "3291",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Nemishka",
+		"id": "8288",
+		"x": "3735",
+		"y": "3311",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3737",
+		"y": "3280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Lector Gura",
+		"id": "8273",
+		"x": "3738",
+		"y": "3305",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Sister Sevi",
+		"id": "8274",
+		"x": "3738",
+		"y": "3309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Sister Toen",
+		"id": "8275",
+		"x": "3739",
+		"y": "3317",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3740",
+		"y": "3274",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Lady Crombwick",
+		"id": "8287",
+		"x": "3740",
+		"y": "3314",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0"
+		
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3742",
+		"y": "3272",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "3742",
+		"y": "3274",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Giant rat",
+		"id": "2858",
+		"x": "3744",
+		"y": "3268",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3745",
+		"y": "3270",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3745",
+		"y": "3275",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Will o' the wisp",
+		"id": "3483",
+		"x": "3745",
+		"y": "3285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3746",
+		"y": "3278",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3747",
+		"y": "3272",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Giant rat",
+		"id": "2862",
+		"x": "3747",
+		"y": "3275",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Yenrab",
+		"id": "8269",
+		"x": "3747",
+		"y": "3299",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Giant rat",
+		"id": "2857",
+		"x": "3749",
+		"y": "3272",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Lahsram",
+		"id": "8270",
+		"x": "3749",
+		"y": "3299",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3750",
+		"y": "3275",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Roy",
+		"id": "9823",
+		"x": "3750",
+		"y": "3296",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Erodoeht",
+		"id": "8271",
+		"x": "3750",
+		"y": "3300",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Chaos druid",
+		"id": "520",
+		"x": "3736",
+		"y": "3318",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Chaos druid",
+		"id": "520",
+		"x": "3738",
+		"y": "3314",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Chaos druid warrior",
+		"id": "532",
+		"x": "3738",
+		"y": "3320",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Chaos druid",
+		"id": "520",
+		"x": "3739",
+		"y": "3313",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Chaos druid warrior",
+		"id": "532",
+		"x": "3739",
+		"y": "3315",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Chaos druid",
+		"id": "520",
+		"x": "3739",
+		"y": "3321",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Chaos druid",
+		"id": "520",
+		"x": "3742",
+		"y": "3317",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1"
+		
+	}
+]

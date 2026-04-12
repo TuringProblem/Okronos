@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Light creature",
+		"id": "5783",
+		"x": "3224",
+		"y": "9516",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Light creature",
+		"id": "5783",
+		"x": "3224",
+		"y": "9517",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Light creature",
+		"id": "5783",
+		"x": "3224",
+		"y": "9518",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Light creature",
+		"id": "5783",
+		"x": "3225",
+		"y": "9516",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Light creature",
+		"id": "5783",
+		"x": "3225",
+		"y": "9517",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Light creature",
+		"id": "5783",
+		"x": "3225",
+		"y": "9518",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Light creature",
+		"id": "5783",
+		"x": "3226",
+		"y": "9516",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Light creature",
+		"id": "5783",
+		"x": "3226",
+		"y": "9517",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Light creature",
+		"id": "5783",
+		"x": "3226",
+		"y": "9518",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

@@ -1,0 +1,513 @@
+[
+	{
+		"name": "Bartender",
+		"id": "1310",
+		"x": "3278",
+		"y": "3488",
+		"z": "0",
+		"direction": "N",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Knight",
+		"id": "516",
+		"x": "3277",
+		"x": "3277",
+		"y": "3505",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Woman",
+		"id": "3112",
+		"x": "3278",
+		"y": "3502",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Woman",
+		"id": "3015",
+		"x": "3279",
+		"y": "3496",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Man",
+		"id": "3108",
+		"x": "3283",
+		"y": "3501",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cook",
+		"id": "2896",
+		"x": "3285",
+		"y": "3489",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "3252",
+		"x": "3285",
+		"y": "3501",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Assistant Serf",
+		"id": "4719",
+		"x": "3298",
+		"y": "3483",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Crate",
+		"id": "3499",
+		"x": "3298",
+		"y": "3514",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Sawmill operator",
+		"id": "3101",
+		"x": "3302",
+		"y": "3492",
+		"z": "0",
+		"direction": "S",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Crate",
+		"id": "3499",
+		"x": "3303",
+		"y": "3506",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Crate",
+		"id": "3499",
+		"x": "3305",
+		"y": "3500",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Crate",
+		"id": "3499",
+		"x": "3307",
+		"y": "3507",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Crate",
+		"id": "3499",
+		"x": "3310",
+		"y": "3499",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Crate",
+		"id": "3499",
+		"x": "3315",
+		"y": "3515",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Man",
+		"id": "3014",
+		"x": "3277",
+		"y": "3495",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Anna Jones",
+		"id": "4162",
+		"x": "3285",
+		"y": "3468",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Bench",
+		"id": "4178",
+		"x": "3285",
+		"y": "3469",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gertrude's cat",
+		"id": "3497",
+		"x": "3306",
+		"y": "3512",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3265",
+		"y": "3429",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "The Collector",
+		"id": "8491",
+		"x": "3265",
+		"y": "3455",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3266",
+		"y": "3428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bartender",
+		"id": "1311",
+		"x": "3268",
+		"y": "3393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Pox",
+		"id": "4574",
+		"x": "3268",
+		"y": "3399",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Hooknosed Jack",
+		"id": "4588",
+		"x": "3268",
+		"y": "3400",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Tea seller",
+		"id": "8687",
+		"x": "3271",
+		"y": "3411",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3011",
+		"x": "3273",
+		"y": "3430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dimintheis",
+		"id": "4984",
+		"x": "3279",
+		"y": "3404",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Asyff",
+		"id": "2887",
+		"x": "3281",
+		"y": "3398",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Man",
+		"id": "9392",
+		"x": "3283",
+		"y": "3428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Museum guard",
+		"id": "1911",
+		"x": "3295",
+		"y": "3427",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Tolna",
+		"id": "2010",
+		"x": "3308",
+		"y": "3452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Launa",
+		"id": "2009",
+		"x": "3309",
+		"y": "3453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Workman",
+		"id": "1930",
+		"x": "3310",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain Errdo",
+		"id": "6088",
+		"x": "3321",
+		"y": "3431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ed Wood",
+		"id": "1939",
+		"x": "3324",
+		"y": "3445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Workman",
+		"id": "1927",
+		"x": "3326",
+		"y": "3443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Historian Minas",
+		"id": "1902",
+		"x": "3264",
+		"y": "3455",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2862",
+		"x": "3264",
+		"y": "3383",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2864",
+		"x": "3266",
+		"y": "3381",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat Burgiss",
+		"id": "4158",
+		"x": "3267",
+		"y": "3333",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Hops",
+		"id": "1108",
+		"x": "3268",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Chancy",
+		"id": "1106",
+		"x": "3271",
+		"y": "3388",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Da Vinci",
+		"id": "1104",
+		"x": "3272",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Stray dog",
+		"id": "2902",
+		"x": "3277",
+		"y": "3381",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Julie",
+		"id": "1109",
+		"x": "3281",
+		"y": "3383",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guidor",
+		"id": "1110",
+		"x": "3284",
+		"y": "3382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Unicorn",
+		"id": "2837",
+		"x": "3286",
+		"y": "3349",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2862",
+		"x": "3292",
+		"y": "3377",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black bear",
+		"id": "2839",
+		"x": "3296",
+		"y": "3347",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3073",
+		"x": "3311",
+		"y": "3375",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "itemid": 11826,
+    "minAmount": 1,
+    "dropRate": 9049,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 11828,
+    "minAmount": 1,
+    "dropRate": 9049,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 11830,
+    "minAmount": 1,
+    "dropRate": 9049,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 886,
+    "minAmount": 95,
+    "dropRate": 4,
+    "maxAmount": 100
+  },
+  {
+    "itemid": 4697,
+    "minAmount": 15,
+    "dropRate": 34,
+    "maxAmount": 25
+  },
+  {
+    "itemid": 391,
+    "minAmount": 2,
+    "dropRate": 7,
+    "maxAmount": 2
+  },
+  {
+    "itemid": 7058,
+    "minAmount": 3,
+    "dropRate": 7,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 11818,
+    "minAmount": 1,
+    "dropRate": 604,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 11820,
+    "minAmount": 1,
+    "dropRate": 604,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 11822,
+    "minAmount": 1,
+    "dropRate": 604,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 808,
+    "minAmount": 95,
+    "dropRate": 10,
+    "maxAmount": 100
+  },
+  {
+    "itemid": 995,
+    "minAmount": 1300,
+    "dropRate": 10,
+    "maxAmount": 1500
+  },
+  {
+    "itemid": 6693,
+    "minAmount": 2,
+    "dropRate": 20,
+    "maxAmount": 2
+  },
+  {
+    "itemid": 213,
+    "minAmount": 1,
+    "dropRate": 20,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 987,
+    "minAmount": 1,
+    "dropRate": 100,
+    "maxAmount": 2
+  },
+  {
+    "itemid": 985,
+    "minAmount": 1,
+    "dropRate": 100,
+    "maxAmount": 2
+  },
+  {
+    "itemid": 2722,
+    "minAmount": 1,
+    "dropRate": 100,
+    "maxAmount": 1
+  }
+]

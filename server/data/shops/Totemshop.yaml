@@ -1,0 +1,24 @@
+---
+identifier: "L34PM7mlIQbdDe2Kw1ipbt4e9iCbko"
+title: "Walker totem shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+    sellsAt: 100
+    buysAt: 50
+    changePer: 1
+defaultStock:
+- id: 30436
+  amount: 500
+  price: 5000000
+- id: 30437
+  amount: 500
+  price: 10000000
+- id: 30438
+  amount: 500
+  price: 15000000

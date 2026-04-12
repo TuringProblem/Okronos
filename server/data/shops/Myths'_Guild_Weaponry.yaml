@@ -1,0 +1,23 @@
+---
+identifier: "QFo5ZBLY0xCn9tA7CsPZzA5KN4BpJd"
+title: "Myths' Guild Weaponry"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 1215
+  amount: 100000
+- id: 1305
+  amount: 100000
+- id: 1434
+  amount: 100000
+- id: 1377
+  amount: 100000

@@ -1,0 +1,134 @@
+[
+  {
+    "itemid": 526,
+    "minAmount": 1,
+    "dropRate": 1,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1181,
+    "minAmount": 1,
+    "dropRate": 6,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1391,
+    "minAmount": 1,
+    "dropRate": 8,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 1333,
+    "minAmount": 1,
+    "dropRate": 35,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 199,
+    "minAmount": 1,
+    "dropRate": 20,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 201,
+    "minAmount": 1,
+    "dropRate": 20,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 203,
+    "minAmount": 1,
+    "dropRate": 20,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 205,
+    "minAmount": 1,
+    "dropRate": 30,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 207,
+    "minAmount": 1,
+    "dropRate": 30,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 209,
+    "minAmount": 1,
+    "dropRate": 30,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 211,
+    "minAmount": 1,
+    "dropRate": 59,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 213,
+    "minAmount": 1,
+    "dropRate": 59,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 215,
+    "minAmount": 1,
+    "dropRate": 59,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 2485,
+    "minAmount": 1,
+    "dropRate": 88,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 217,
+    "minAmount": 1,
+    "dropRate": 88,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 995,
+    "minAmount": 106,
+    "dropRate": 11,
+    "maxAmount": 142
+  },
+  {
+    "itemid": 2356,
+    "minAmount": 3,
+    "dropRate": 16,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 2354,
+    "minAmount": 3,
+    "dropRate": 16,
+    "maxAmount": 3
+  },
+  {
+    "itemid": 9419,
+    "minAmount": 2,
+    "dropRate": 32,
+    "maxAmount": 2
+  },
+  {
+    "itemid": 11341,
+    "minAmount": 1,
+    "dropRate": 32,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 444,
+    "minAmount": 1,
+    "dropRate": 32,
+    "maxAmount": 1
+  },
+  {
+    "itemid": 2801,
+    "minAmount": 1,
+    "dropRate": 48,
+    "maxAmount": 1
+  }
+]

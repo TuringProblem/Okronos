@@ -1,0 +1,151 @@
+package io.ruin.api.buffer;
+
+public enum ServerPackets204 {
+	REBUILD_NORMAL(0, -2),
+	URL_OPEN(1, -2, true),
+	LOC_CUSTOMISE(2, 4),
+	NPC_INFO_LARGE_VIEWPORT(3, -2),
+	UPDATE_REBOOT_TIMER(4, 2),
+	FORCE_LOGOUT(5, 1),
+	CHAT_FILTER_SETTINGS_PRIVATECHAT(6, 1),
+	MESSAGE_PRIVATE_ECHO(7, -2),
+	VARP_LARGE(8, 6),
+	TOGGLE_WORLDMAP(9, 1),
+	VARP_SMALL(10, 3),
+	FREECAM_ENABLE(11, 4),
+	TRADINGPOST_EVENT(12, -2),
+	LOC_DEL(13, 2),
+	IF_SETTEXT(14, -2),
+	HINT_ARROW(15, 6),
+	UPDATE_ZONE_FULL_FOLLOWS(16, 2),
+	MESSAGE_FRIENDCHANNEL(17, -1),
+	UPDATE_ZONE_PARTIAL_ENCLOSED(18, -2),
+	CLANSETTINGS_DELTA(19, -2),
+	IF_MOVESUB(20, 8),
+	UPDATE_INV_PARTIAL(21, -2),
+	CLEAR_INV(22, 4),
+	IF_SETANGLE(23, 10),
+	CHAT_FILTER_SETTINGS(24, 2),
+	MIDI_SONG(25, 2),
+	VARCLAN(26, -1),
+	UPDATE_RUNENERGY(27, 1),
+	IF_OPENTOP(28, 2),
+	IF_SETANIM(29, 6),
+	CLANCHANNEL_FULL(30, -2),
+	UPDATE_IGNORELIST(31, -2),
+	IF_SETPOSITION(32, 8),
+	LOGOUT_FULL(33, 0),
+	LOGOUT_TRANSFER(34, -1),
+	RUNCLIENTSCRIPT(35, -2),
+	MIDI_JINGLE(36, 5),
+	PLAYER_INFO(37, -2),
+	IF_SETOBJECT(38, 10),
+	MESSAGE_GAME(39, -1),
+	LOC_PLAYER_ANIM(40, 14),
+	SOUND_AREA(41, 5),
+	FREECAM_STATE(42, 1),
+	OBJ_DEL(43, 3),
+	MESSAGE_CLANCHANNEL_SYSTEM(44, -1),
+	IF_SET_ALL_TOPLEVEL(45, -2),
+	RESET_ANIMS(46, 0),
+	IF_SETEVENTS(47, 12),
+	IF_SETDEBUG(48, 8),
+	FRIENDLIST_LOADED(49, 0),
+	RESET_CLIENT_VARCACHE(50, 0),
+	UPDATE_INV_STOP_TRANSMIT(51, 2),
+	CLANCHANNEL_DELTA(52, -2),
+	TRADINGPOST_OFFER(53, 20),
+	CAM_SHAKE(54, 4),
+	CAM_LOOKAT(55, 6),
+	UPDATE_FRIENDLIST(56, -2),
+	VARCLAN_ENABLE(57, 0),
+	MINIMAP_TOGGLE(58, 1),
+	SET_MAP_FLAG(59, 2),
+	SET_PLAYER_OP(60, -1),
+	UPDATE_UID192(61, 28),
+	CAM_RESET(62, 0),
+	NPC_INFO_LARGE_VIEWPORT_LEGACY(63, -2),
+	REBUILD_REGION(64, -2),
+	OBJ_ADD(65, 5),
+	UPDATE_FRIENDCHAT_CHANNEL_SINGLEUSER(66, -1),
+	MAP_PROJANIM(67, 15),
+	TRIGGER_ONDIALOGABORT(68, 0),
+	MESSAGE_PRIVATE(69, -2),
+	LOC_ANIM(70, 6),
+	VARCLAN_DISABLE(71, 0),
+	SYNC_CLIENT_VARCACHE(72, 0),
+	IF_SETPLAYERHEAD(73, 4),
+	LOC_ADD_CHANGE(74, 4),
+	IF_CLOSESUB(75, 4),
+	NPC_INFO_SMALL_VIEWPORT(76, -2),
+	SYNTH_SOUND(77, 5),
+	UPDATE_INV_FULL(78, -2),
+	PING_STATISTICS_REQUEST(79, 8),
+	IF_SETCOLOUR(80, 6),
+	IF_OPENSUB(81, 7),
+	UPDATE_RUNWEIGHT(82, 2),
+	IF_SETHIDE(83, 5),
+	UPDATE_FRIENDCHAT_CHANNEL_FULL(84, -2),
+	OBJ_COUNT(85, 7),
+	CLANSETTINGS_FULL(86, -2),
+	IF_SETSCROLLPOS(87, 6),
+	UPDATE_ZONE_PARTIAL_FOLLOWS(88, 2),
+	UPDATE_SITESETTINGS(89, -1),
+	NPC_INFO_SMALL_VIEWPORT_EXTRA_FLAGS(90, -2),
+	MESSAGE_CLANCHANNEL(91, -1),
+	CAM_SMOOTHRESET(92, 4),
+	CAM_MOVETO(93, 6),
+	IF_SETNPCHEAD(94, 6),
+	UPDATE_STAT(95, 6),
+	REFLECTION_CHECKER(96, -2),
+	IF_SETMODEL(97, 6),
+	NPC_ANIM_SPECIFIC(98, 5),
+	LOC_ANIM_SPECIFIC(99, 6),
+	SPOTANIM_SPECIFIC(100, 8),
+	NPC_SPOTANIM_SPECIFIC(101, 8),
+	PLAYER_SPOTANIM_SPECIFIC(102, 8),
+	PROJANIM_SPECIFIC(103, 17);
+
+	private int packetId, packetSize;
+	private boolean encrypt;
+
+	public static int getPacketSize(int id) {
+		for (ServerPackets204 p : values()) {
+			if (p.getPacketId() == id)
+				return p.getPacketSize();
+		}
+
+		return Byte.MIN_VALUE;
+	}
+
+	public static ServerPackets204 getPacket(int id) {
+		for (ServerPackets204 p : values()) {
+			if (p.getPacketId() == id)
+				return p;
+		}
+
+		return null;
+	}
+
+	public int getPacketId() {
+		return packetId;
+	}
+
+	public int getPacketSize() {
+		return packetSize;
+	}
+
+	ServerPackets204(int packetId, int packetSize) {
+		this(packetId, packetSize, false);
+	}
+
+	ServerPackets204(int packetId, int packetSize, boolean encrypt) {
+		this.packetId = packetId;
+		this.packetSize = packetSize;
+		this.encrypt = encrypt;
+	}
+
+	public boolean usesEncryption() {
+		return encrypt;
+	}
+}

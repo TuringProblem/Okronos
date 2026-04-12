@@ -1,0 +1,96 @@
+[
+  {
+    "ids": [ 7795 ],
+    "guaranteed": [
+      { "id": 6812, "min": 1, "max": 1 } //Wyvern bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons and armour",
+        "weight": 1,
+        "items": [
+          { "id": 1397, "min": 2, "max": 2, "weight": 50 }, //Air battlestaff
+          { "id": 1405, "min": 1, "max": 1, "weight": 40 }, //Mystic air staff
+          { "id": 1275, "min": 1, "max": 1, "weight": 40 }, //Rune pickaxe
+          { "id": 1373, "min": 1, "max": 1, "weight": 20 }, //Rune battleaxe
+          { "id": 1201, "min": 1, "max": 1, "weight": 20 }, //Rune kiteshield
+          { "id": 1163, "min": 1, "max": 1, "weight": 20 }, //Rune full helm
+          { "id": 1392, "min": 6, "max": 6, "weight": 30 }, //Battlestaff
+          { "id": 21646, "min": 1, "max": 1, "weight": 2 }, //Granite longsword
+          { "id": 21643, "min": 1, "max": 1, "weight": 2 } //Granite boots
+        ]
+      },
+      {
+        "name": "Runes and ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 890, "min": 50, "max": 76, "weight": 3 }, //Adamant arrow
+          { "id": 561, "min": 37, "max": 43, "weight": 3 }, //Nature rune
+          { "id": 560, "min": 47, "max": 53, "weight": 3 }, //Death rune
+          { "id": 565, "min": 27, "max": 33, "weight": 3 }, //Blood rune
+          { "id": 892, "min": 25, "max": 50, "weight": 2 }, //Rune arrow
+          { "id": 9144, "min": 30, "max": 60, "weight": 2 } //Runite bolts
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 214, "min": 3, "max": 3, "weight": 9 }, //Grimy kwuarm
+          { "id": 216, "min": 3, "max": 3, "weight": 9 }, //Grimy cadantine
+          { "id": 2486, "min": 3, "max": 3, "weight": 6 }, //Grimy lantadyme
+          { "id": 218, "min": 3, "max": 3, "weight": 6 }, //Grimy dwarf weed
+          { "id": 219, "min": 1, "max": 1, "weight": 3 }, //Grimy torstol
+          { "id": 207, "min": 2, "max": 4, "weight": 6 } //Grimy ranarr weed
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 21490, "min": 12, "max": 12, "weight": 50 }, //Seaweed spore
+          { "id": 5295, "min": 2, "max": 3, "weight": 45 }, //Ranarr seed
+          { "id": 5316, "min": 1, "max": 1, "weight": 2 }, //Magic seed
+          { "id": 5315, "min": 1, "max": 1, "weight": 18 }, //Yew seed
+          { "id": 21488, "min": 1, "max": 1, "weight": 15 }, //Mahogany seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 25 }, //Ranarr seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 10 }, //Snapdragon seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 8 }, //Torstol seed
+          { "id": 5321, "min": 15, "max": 15, "weight": 5 }, //Watermelon seed
+          { "id": 5313, "min": 1, "max": 1, "weight": 5 }, //Willow seed
+          { "id": 21488, "min": 1, "max": 1, "weight": 15 }, //Mahogany seed
+          { "id": 5314, "min": 1, "max": 1, "weight":  4}, //Maple seed
+          { "id": 21486, "min": 1, "max": 1, "weight": 20 }, //Teak seed
+          { "id": 5315, "min": 1, "max": 1, "weight": 18 }, //Yew seed
+          { "id": 5288, "min": 1, "max": 1, "weight": 3 }, //Papaya tree seed
+          { "id": 5316, "min": 1, "max": 1, "weight": 2 }, //Magic seed
+          { "id": 5289, "min": 1, "max": 1, "weight": 2 }, //Palm tree seed
+          { "id": 5317, "min": 1, "max": 1, "weight": 2 }, //Spirit seed
+          { "id": 22877, "min": 1, "max": 1, "weight": 2 }, //Dragonfruit tree seed
+          { "id": 22869, "min": 1, "max": 1, "weight": 2 }, //Celastrus seed
+          { "id": 22871, "min": 1, "max": 1, "weight": 2 } //Redwood tree seed
+        ]
+      },
+      {
+        "name": "Others",
+        "weight": 1,
+        "items": [
+          { "id": 385, "min": 5, "max": 5, "weight": 40 }, //Shark
+          { "id": 12699, "min": 1, "max": 1, "weight": 35 }, //Super combat potion(2)
+          { "id": 3024, "min": 2, "max": 2, "weight": 45 }, //Super restore(4)
+          { "id": 995, "min": 2000, "max": 6000, "weight": 30 }, //Coins
+          { "id": 9465, "min": 1, "max": 1, "weight": 30 }, //Runite crossbow (u)
+          { "id": 6035, "min": 7, "max": 10, "weight": 30 } //Supercompost
+        ]
+      },
+      {
+        "name": "Others",
+        "weight": 1,
+        "items": [
+          { "id": 12073, "min": 1, "max": 1, "weight": 350 }, //Clue scroll (elite)
+          { "id": 21637, "min": 1, "max": 1, "weight": 2 , "broadcast": "GLOBAL"} //Wyvern visage
+        ]
+      }
+    ]
+  }
+]

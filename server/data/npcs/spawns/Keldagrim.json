@@ -1,0 +1,1262 @@
+[
+	{
+		"name": "Hirko",
+		"id": "2783",
+		"x": "2885",
+		"y": "10202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Nolar",
+		"id": "2363",
+		"x": "2885",
+		"y": "10207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vermundi",
+		"id": "2367",
+		"x": "2887",
+		"y": "10189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hervi",
+		"id": "2362",
+		"x": "2888",
+		"y": "10212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarven Boatman",
+		"id": "2433",
+		"x": "2888",
+		"y": "10227",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard",
+		"id": "6046",
+		"x": "2889",
+		"y": "10207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard Berserker",
+		"id": "2231",
+		"x": "2890",
+		"y": "10224",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard Berserker",
+		"id": "2231",
+		"x": "2890",
+		"y": "10226",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard",
+		"id": "6047",
+		"x": "2891",
+		"y": "10192",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard",
+		"id": "6048",
+		"x": "2891",
+		"y": "10199",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Randivor",
+		"id": "2361",
+		"x": "2892",
+		"y": "10212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ulifed",
+		"id": "2399",
+		"x": "2899",
+		"y": "10218",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Karl",
+		"id": "2401",
+		"x": "2900",
+		"y": "10227",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rowdy dwarf",
+		"id": "2393",
+		"x": "2906",
+		"y": "10198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blasidar the sculptor",
+		"id": "2347",
+		"x": "2906",
+		"y": "10205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Kjut",
+		"id": "2404",
+		"x": "2906",
+		"y": "10216",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cart conductor",
+		"id": "2389",
+		"x": "2908",
+		"y": "10188",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Drunken Dwarf",
+		"id": "3198",
+		"x": "2912",
+		"y": "10222",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "The Beast",
+		"id": "4572",
+		"x": "2913",
+		"y": "10189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barmaid",
+		"id": "2383",
+		"x": "2916",
+		"y": "10195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cart conductor",
+		"id": "2385",
+		"x": "2919",
+		"y": "10180",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Runvastr",
+		"id": "2396",
+		"x": "2923",
+		"y": "10203",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sune",
+		"id": "2397",
+		"x": "2924",
+		"y": "10213",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cart conductor",
+		"id": "2386",
+		"x": "2925",
+		"y": "10176",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cart conductor",
+		"id": "2388",
+		"x": "2925",
+		"y": "10180",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tati",
+		"id": "2365",
+		"x": "2925",
+		"y": "10210",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Reinald",
+		"id": "2400",
+		"x": "2926",
+		"y": "10225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Factory Worker",
+		"id": "2377",
+		"x": "2929",
+		"y": "10191",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Factory Worker",
+		"id": "2379",
+		"x": "2930",
+		"y": "10188",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Smokin' Joe",
+		"id": "4592",
+		"x": "2930",
+		"y": "10213",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Factory Manager",
+		"id": "2376",
+		"x": "2931",
+		"y": "10184",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Factory Worker",
+		"id": "2380",
+		"x": "2931",
+		"y": "10187",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Factory Worker",
+		"id": "2378",
+		"x": "2931",
+		"y": "10191",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bentamir",
+		"id": "2398",
+		"x": "2933",
+		"y": "10219",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cart conductor",
+		"id": "2387",
+		"x": "2936",
+		"y": "10181",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarven Miner",
+		"id": "2439",
+		"x": "2943",
+		"y": "10182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6040",
+		"x": "2880",
+		"y": "10194",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6039",
+		"x": "2880",
+		"y": "10195",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trade Referee",
+		"id": "6043",
+		"x": "2880",
+		"y": "10199",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6031",
+		"x": "2880",
+		"y": "10201",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6037",
+		"x": "2882",
+		"y": "10196",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6035",
+		"x": "2882",
+		"y": "10199",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6033",
+		"x": "2882",
+		"y": "10201",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6038",
+		"x": "2884",
+		"y": "10195",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6034",
+		"x": "2884",
+		"y": "10203",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6036",
+		"x": "2885",
+		"y": "10199",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Green Gemstone Secretary",
+		"id": "5993",
+		"x": "2889",
+		"y": "10211",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brown Engine Secretary",
+		"id": "5996",
+		"x": "2890",
+		"y": "10192",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "White Chisel Director",
+		"id": "6022",
+		"x": "2890",
+		"y": "10205",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "White Chisel Secretary",
+		"id": "5994",
+		"x": "2890",
+		"y": "10207",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Silver Cog Secretary",
+		"id": "5995",
+		"x": "2891",
+		"y": "10196",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Green Gemstone Director",
+		"id": "6021",
+		"x": "2891",
+		"y": "10210",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brown Engine Director",
+		"id": "6024",
+		"x": "2892",
+		"y": "10190",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Silver Cog Director",
+		"id": "6023",
+		"x": "2893",
+		"y": "10196",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blandebir",
+		"id": "3241",
+		"x": "2915",
+		"y": "10194",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cart conductor",
+		"id": "2388",
+		"x": "2906",
+		"y": "10171",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cart conductor",
+		"id": "2392",
+		"x": "2922",
+		"y": "10166",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard",
+		"id": "6047",
+		"x": "2822",
+		"y": "10212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard Berserker",
+		"id": "6050",
+		"x": "2823",
+		"y": "10220",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard Berserker",
+		"id": "6051",
+		"x": "2825",
+		"y": "10209",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Commander Veldaban",
+		"id": "6045",
+		"x": "2826",
+		"y": "10215",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Saro",
+		"id": "2358",
+		"x": "2827",
+		"y": "10199",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard",
+		"id": "6048",
+		"x": "2828",
+		"y": "10210",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Santiri",
+		"id": "2357",
+		"x": "2828",
+		"y": "10229",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dromund",
+		"id": "2374",
+		"x": "2835",
+		"y": "10225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dromund's cat",
+		"id": "2346",
+		"x": "2835",
+		"y": "10226",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "2368",
+		"x": "2836",
+		"y": "10205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gauss",
+		"id": "2402",
+		"x": "2838",
+		"y": "10195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "2369",
+		"x": "2838",
+		"y": "10205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barman",
+		"id": "2384",
+		"x": "2841",
+		"y": "10197",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard",
+		"id": "6049",
+		"x": "2847",
+		"y": "10190",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Stonemason",
+		"id": "3098",
+		"x": "2849",
+		"y": "10184",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Haera",
+		"id": "2395",
+		"x": "2850",
+		"y": "10223",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hegir",
+		"id": "2394",
+		"x": "2851",
+		"y": "10225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rind the gardener",
+		"id": "2375",
+		"x": "2854",
+		"y": "10195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tombar",
+		"id": "2405",
+		"x": "2854",
+		"y": "10199",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myndill",
+		"id": "2403",
+		"x": "2855",
+		"y": "10224",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Librarian",
+		"id": "2370",
+		"x": "2858",
+		"y": "10225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Assistant",
+		"id": "2371",
+		"x": "2860",
+		"y": "10226",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Customer",
+		"id": "2373",
+		"x": "2864",
+		"y": "10227",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Odmar",
+		"id": "2406",
+		"x": "2865",
+		"y": "10194",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Audmann",
+		"id": "2407",
+		"x": "2866",
+		"y": "10206",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Professor Manglethorp",
+		"id": "2558",
+		"x": "2868",
+		"y": "10198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gunslik",
+		"id": "2359",
+		"x": "2869",
+		"y": "10190",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Agmundi",
+		"id": "2366",
+		"x": "2869",
+		"y": "10211",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wemund",
+		"id": "2360",
+		"x": "2870",
+		"y": "10200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarven Engineer",
+		"id": "4893",
+		"x": "2871",
+		"y": "10198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vigr",
+		"id": "2356",
+		"x": "2873",
+		"y": "10209",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Guard Berserker",
+		"id": "6052",
+		"x": "2827",
+		"y": "10212",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Supreme Commander",
+		"id": "6044",
+		"x": "2828",
+		"y": "10210",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gnome traveller",
+		"id": "6547",
+		"x": "2835",
+		"y": "10193",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gnome traveller",
+		"id": "6546",
+		"x": "2836",
+		"y": "10192",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Inn Keeper",
+		"id": "2382",
+		"x": "2839",
+		"y": "10195",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Customer",
+		"id": "2372",
+		"x": "2862",
+		"y": "10225",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue Opal Director",
+		"id": "5999",
+		"x": "2867",
+		"y": "10203",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Purple Pewter Secretary",
+		"id": "5990",
+		"x": "2868",
+		"y": "10194",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yellow Fortune Director",
+		"id": "6000",
+		"x": "2868",
+		"y": "10209",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Red Axe Secretary",
+		"id": "6536",
+		"x": "2869",
+		"y": "10189",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue Opal Secretary",
+		"id": "5992",
+		"x": "2869",
+		"y": "10205",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Red Axe Cat",
+		"id": "6539",
+		"x": "2870",
+		"y": "10190",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Purple Pewter Director",
+		"id": "5998",
+		"x": "2870",
+		"y": "10196",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yellow Fortune Secretary",
+		"id": "5991",
+		"x": "2870",
+		"y": "10209",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Red Axe Director",
+		"id": "6538",
+		"x": "2872",
+		"y": "10189",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gnome emissary",
+		"id": "6542",
+		"x": "2872",
+		"y": "10190",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6028",
+		"x": "2875",
+		"y": "10198",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6541",
+		"x": "2877",
+		"y": "10195",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6027",
+		"x": "2877",
+		"y": "10199",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6029",
+		"x": "2877",
+		"y": "10201",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6030",
+		"x": "2877",
+		"y": "10202",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6540",
+		"x": "2878",
+		"y": "10196",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trader",
+		"id": "6032",
+		"x": "2879",
+		"y": "10202",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dondakan the Dwarf",
+		"id": "6262",
+		"x": "2824",
+		"y": "10168",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2826",
+		"y": "10152",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2837",
+		"y": "10148",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarven Ferryman",
+		"id": "4896",
+		"x": "2839",
+		"y": "10128",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarven Boatman",
+		"id": "2432",
+		"x": "2842",
+		"y": "10129",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2854",
+		"y": "10125",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2854",
+		"y": "10164",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarven Ferryman",
+		"id": "4897",
+		"x": "2855",
+		"y": "10144",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2861",
+		"y": "10167",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2866",
+		"y": "10126",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "292",
+		"x": "2872",
+		"y": "10118",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarven Boatman",
+		"id": "6263",
+		"x": "2873",
+		"y": "10166",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Derni",
+		"id": "4901",
+		"x": "2870",
+		"y": "10138",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dernu",
+		"id": "4900",
+		"x": "2870",
+		"y": "10139",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Miodvetnir",
+		"id": "4899",
+		"x": "2870",
+		"y": "10140",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

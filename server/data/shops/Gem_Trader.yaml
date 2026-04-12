@@ -1,0 +1,23 @@
+---
+identifier: "4HbYjAuSgA54EEztYFZLlN4abUHeG1"
+title: "Gem Trader"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 70
+  changePer: 3
+defaultStock:
+- id: 1623
+  amount: 100000
+- id: 1621
+  amount: 100000
+- id: 1607
+  amount: 100000
+- id: 1605
+  amount: 100000

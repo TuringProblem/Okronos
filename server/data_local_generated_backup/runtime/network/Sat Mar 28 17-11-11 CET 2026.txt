@@ -1,0 +1,33 @@
+Network Traffic Snapshot
+  Snapshot started on: Saturday, March 28, 2026, 5:05:57 PM Central European Standard Time
+  Snapshot ended on: Saturday, March 28, 2026, 5:11:11 PM Central European Standard Time
+  Elapsed duration: 5m 14.664s
+  Connection requests: 1
+
+Login Channel Snapshot
+  Login snapshot started on: Saturday, March 28, 2026, 5:05:57 PM Central European Standard Time
+  Login snapshot ended on: Saturday, March 28, 2026, 5:11:11 PM Central European Standard Time
+  Login elapsed duration: 5m 14.666s
+  Login INet Address Metrics
+    INet Address: 127.0.0.1
+      Outgoing packet: SUCCESSFUL, count: 1, payload sum: 0 bytes
+
+JS5 Channel Snapshot
+  JS5 snapshot started on: Saturday, March 28, 2026, 5:05:57 PM Central European Standard Time
+  JS5 snapshot ended on: Saturday, March 28, 2026, 5:11:11 PM Central European Standard Time
+  JS5 elapsed duration: 5m 14.667s
+  JS5 INet Address Metrics
+    INet Address: 127.0.0.1
+      Active connections: 1
+      Incoming packet: PREFETCH_REQUEST, count: 22,420, payload sum: 67,260 bytes
+      Incoming packet: URGENT_REQUEST, count: 10,206, payload sum: 30,618 bytes
+      Incoming packet: PRIORITY_CHANGE_LOW, count: 2, payload sum: 6 bytes
+      Outgoing packet: JS5_GROUP_RESPONSE, count: 32,626, payload sum: 30,554,462 bytes
+
+Game Channel Snapshot
+  Game snapshot started on: Saturday, March 28, 2026, 5:05:57 PM Central European Standard Time
+  Game snapshot ended on: Saturday, March 28, 2026, 5:11:11 PM Central European Standard Time
+  Game elapsed duration: 5m 14.667s
+  Game INet Address Metrics
+
+Login Blocks

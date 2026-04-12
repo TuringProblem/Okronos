@@ -1,0 +1,89 @@
+---
+identifier: "aecef817-39c1-4a22-9ee9-2815da9dd3df"
+title: "Voting Rewards"
+currency: "VOTE_TICKETS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+- id: 989
+  amount: 100000
+  price: 4
+- id: 19564
+  amount: 100000
+  price: 25
+- id: 13071
+  amount: 100000
+  price: 100
+- id: 11738
+  amount: 100000
+  price: 5
+- id: 19473
+  amount: 100000
+  price: 5
+- id: 11941
+  amount: 100000
+  price: 20
+- id: 12791
+  amount: 100000
+  price: 50
+- id: 12846
+  amount: 100000
+  price: 100
+- id: 1505
+  amount: 100000
+  price: 100
+- id: 21295
+  amount: 100000
+  price: 650
+- id: 6758
+  amount: 100000
+  price: 5
+- id: 12637
+  amount: 100000
+  price: 100
+- id: 12638
+  amount: 100000
+  price: 100
+- id: 12639
+  amount: 100000
+  price: 100
+- id: 20017
+  amount: 100000
+  price: 400
+- id: 20005
+  amount: 100000
+  price: 400
+- id: 12528
+  amount: 100000
+  price: 150
+- id: 12530
+  amount: 100000
+  price: 150
+- id: 12798
+  amount: 100000
+  price: 150
+- id: 21202
+  amount: 100000
+  price: 150
+- id: 12802
+  amount: 100000
+  price: 50
+- id: 12849
+  amount: 100000
+  price: 150
+- id: 12804
+  amount: 100000
+  price: 150
+- id: 13256
+  amount: 100000
+  price: 150
+- id: 12703
+  amount: 100000
+  price: 250
+- id: 12379
+  amount: 100000
+  price: 150

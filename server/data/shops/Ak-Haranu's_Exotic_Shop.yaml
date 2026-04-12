@@ -1,0 +1,17 @@
+---
+identifier: "T8qRnwzFqxT5b238khRXClxBW2vY"
+title: "Ak-Haranu's Exotic Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 1
+defaultStock:
+- id: 4740
+  amount: 100000

@@ -1,0 +1,81 @@
+[
+  {
+    "ids": [ 9425, 9426, 9427, 9428, 9429, 9430, 9431, 9432  ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+  "tables": [
+      {
+        "name": "Always Drop",
+        "weight": 1,
+        "items": [
+          { "id": 532, "min": 1, "max": 1, "weight": 1 } //Big bones
+        ]
+      },
+      {
+        "name": "Weapons",
+        "weight": 20,
+        "items": [
+          { "id": 1319, "min": 1, "max": 1, "weight": 3 }, //Rune 2h sword
+          { "id": 1275, "min": 1, "max": 1, "weight": 3 }, //Rune pickaxe
+          { "id": 1303, "min": 1, "max": 1, "weight": 2 }, //Rune longsword
+          { "id": 1289, "min": 1, "max": 1, "weight": 2 } //Rune sword
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 20,
+        "items": [
+          { "id": 1127, "min": 1, "max": 1, "weight": 3 } //Rune platebody
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 20,
+        "items": [
+          { "id": 561, "min": 60, "max": 70, "weight": 5 } //Nature rune
+        ]
+      },
+      {
+        "name": "Gems and ores",
+        "weight": 20,
+        "items": [
+          { "id": 450, "min": 15, "max": 20, "weight": 4 }, //Adamantite ore (noted)
+          { "id": 454, "min": 115, "max": 120, "weight": 3 } //Coal (noted)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 20,
+        "items": [
+          { "id": 995, "min": 19581, "max": 25000, "weight": 3 }, //Coins
+          { "id": 5300, "min": 1, "max": 1, "weight": 3 }, //Snapdragon seed
+          { "id": 1514, "min": 15, "max": 20, "weight": 3 }, //Magic logs (noted)
+          { "id": 3024, "min": 3, "max": 3, "weight": 1 }, //Super restore(4)
+          { "id": 3052, "min": 3, "max": 3, "weight": 2 }, //Grimy snapdragon (noted)
+          { "id": 12073, "min": 1, "max": 1, "weight": 2 } //Clue scroll (elite)
+        ]
+      },
+      {
+        "name": "Inquisitors",
+        "weight": 1,
+        "items": [
+          { "id": 24420, "min": 1, "max": 1, "weight": 1 }, //Inquisitor hauberk
+          { "id": 24421, "min": 1, "max": 1, "weight": 1 }, //Inquisitor plateskirt
+          { "id": 24419, "min": 1, "max": 1, "weight": 1 }, //Inquisitor helmet
+		  { "id": 24417, "min": 1, "max": 1, "weight": 1 } //Inquisitor mace
+        ]
+      },
+      {
+        "name": "Staff",
+        "weight": 1,
+        "items": [
+          { "id": 24514, "min": 1, "max": 1, "weight": 1 }, //Volatile Orb
+          { "id": 24517, "min": 1, "max": 1, "weight": 1 }, //Eldritch Orb
+          { "id": 24511, "min": 1, "max": 1, "weight": 1 }, //Harmonised Orb
+		  { "id": 24422, "min": 1, "max": 1, "weight": 4 } //KROTA Staff
+        ]
+      }
+    ]
+  }
+]

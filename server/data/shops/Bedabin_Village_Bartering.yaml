@@ -1,0 +1,48 @@
+---
+identifier: "k3epHGat4tmp8gdNfjPLOW3q31tjS2"
+title: "Bedabin Village Bartering"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 120
+  buysAt: 80
+  changePer: 3
+defaultStock:
+- id: 1823
+  amount: 100000
+- id: 1831
+  amount: 100000
+- id: 1937
+  amount: 100000
+- id: 1921
+  amount: 100000
+- id: 1929
+  amount: 100000
+- id: 946
+  amount: 100000
+- id: 1833
+  amount: 100000
+- id: 1835
+  amount: 100000
+- id: 1837
+  amount: 100000
+- id: 2349
+  amount: 100000
+- id: 314
+  amount: 100000
+- id: 11881
+  amount: 100000
+- id: 2347
+  amount: 100000
+- id: 22660
+  amount: 100000
+- id: 1854
+  amount: 100000
+- id: 954
+  amount: 100000

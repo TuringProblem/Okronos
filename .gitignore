@@ -1,0 +1,46 @@
+# Build outputs
+**/target/
+**/build/
+**/out/
+
+# Gradle
+**/.gradle/
+**/gradle-app.setting
+
+# Maven
+**/.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+**/.idea/
+**/.settings/
+**/.project
+**/.classpath
+**/*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Game cache (large binary — zip and upload separately)
+server/data/cache/
+client/cache/target/
+client/cache/build/
+
+# Runtime data (saves, logs, bans)
+server/data/runtime/
+server/server-run.log
+server/server-run.err
+client/client-run.log
+client/client-run.err
+
+# Client build artifacts
+client/lib/runelite-injected-original.bin
+client/runelite-client/bin/
+client/.dev/
+
+# Jars (except the shipped client jar)
+!client/client-localhost.jar
+
+# Misc
+\\
+*.log

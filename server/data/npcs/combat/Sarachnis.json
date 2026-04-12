@@ -1,0 +1,48 @@
+[
+  { #Scorpia (225)
+    "ids": [ 8713 ],
+  "handler": "io.ruin.model.activities.bosses.sarachnis.Sarachnis",
+    //Combat Info
+    "hitpoints": 400,
+    "aggressive_level": 450,
+    "max_damage": 31,
+    "attack_style": "STAB",
+    "pet": "SRARACHA",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 430.0,
+    "slayer_tasks": [ "Spider", "BOSS" ],
+    //Combat Stats
+    "attack": 200,
+    "strength": 240,
+    "defence": 150,
+    "ranged": 300,
+    "magic": 150,
+    //Aggressive Stats
+    "stab_attack": 30,
+    "slash_attack": 30,
+    "crush_attack": 30,
+    "magic_attack": 0,
+    "ranged_attack": 15,
+    //Defensive Stats
+    "stab_defence": 60,
+    "slash_defence": 40,
+    "crush_defence": 10,
+    "magic_defence": 150,
+    "ranged_defence": 300,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 4,
+    "respawn_ticks": 16,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 8147,
+    "defend_animation": -1,
+    "death_animation": 8318,
+	//Other
+	"local_loot": true
+  }
+]

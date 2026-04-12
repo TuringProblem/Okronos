@@ -1,0 +1,3952 @@
+[
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "3712",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Safalaan Hallow",
+		"id": "8272",
+		"x": "3719",
+		"y": "3215",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "3724",
+		"y": "3202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "3727",
+		"y": "3227",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "3732",
+		"y": "3211",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "3745",
+		"y": "3213",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9731",
+		"x": "3648",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3648",
+		"y": "3382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9732",
+		"x": "3649",
+		"y": "3337",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9731",
+		"x": "3650",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "9738",
+		"x": "3651",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "9736",
+		"x": "3653",
+		"y": "3340",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9728",
+		"x": "3653",
+		"y": "3356",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "9737",
+		"x": "3655",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9732",
+		"x": "3656",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "9742",
+		"x": "3657",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Remus Kaninus",
+		"id": "9699",
+		"x": "3657",
+		"y": "3376",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9727",
+		"x": "3658",
+		"y": "3361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyressa van Von",
+		"id": "9704",
+		"x": "3658",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9731",
+		"x": "3661",
+		"y": "3341",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Mordan Nikazsi",
+		"id": "9589",
+		"x": "3662",
+		"y": "3347",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9728",
+		"x": "3663",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9732",
+		"x": "3664",
+		"y": "3369",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vallessia von Pitt",
+		"id": "9705",
+		"x": "3664",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9849",
+		"x": "3709",
+		"y": "3328",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9847",
+		"x": "3711",
+		"y": "3329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "",
+		"id": "9800",
+		"x": "3692",
+		"y": "3295",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Kurt",
+		"id": "9829",
+		"x": "3693",
+		"y": "3309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9839",
+		"x": "3693",
+		"y": "3311",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Debra",
+		"id": "9833",
+		"x": "3695",
+		"y": "3314",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9845",
+		"x": "3697",
+		"y": "3313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9843",
+		"x": "3703",
+		"y": "3302",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Don",
+		"id": "9831",
+		"x": "3705",
+		"y": "3303",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Don",
+		"id": "9830",
+		"x": "3705",
+		"y": "3314",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9836",
+		"x": "3706",
+		"y": "3309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9846",
+		"x": "3706",
+		"y": "3312",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Tanya",
+		"id": "9835",
+		"x": "3707",
+		"y": "3298",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9842",
+		"x": "3707",
+		"y": "3313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Debra",
+		"id": "9832",
+		"x": "3708",
+		"y": "3311",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9837",
+		"x": "3709",
+		"y": "3299",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9844",
+		"x": "3709",
+		"y": "3309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Kurt",
+		"id": "9828",
+		"x": "3709",
+		"y": "3312",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Tanya",
+		"id": "9834",
+		"x": "3709",
+		"y": "3313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9840",
+		"x": "3710",
+		"y": "3310",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9848",
+		"x": "3710",
+		"y": "3313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "9841",
+		"x": "3710",
+		"y": "3327",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Andras",
+		"id": "8268",
+		"x": "3662",
+		"y": "3278",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Painted One",
+		"id": "9827",
+		"x": "3709",
+		"y": "3315",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "3677",
+		"y": "3179",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Seagull",
+		"id": "9609",
+		"x": "3683",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Safalaan Hallow",
+		"id": "5050",
+		"x": "3684",
+		"y": "3182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Veliaf Hurtz",
+		"id": "9518",
+		"x": "3685",
+		"y": "3181",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Kael Forshaw",
+		"id": "8281",
+		"x": "3686",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Veliaf Hurtz",
+		"id": "9519",
+		"x": "3689",
+		"y": "3182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Radigad Ponfit",
+		"id": "8284",
+		"x": "3690",
+		"y": "3189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Ivan Strom",
+		"id": "5047",
+		"x": "3696",
+		"y": "3181",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vertida Sefalatis",
+		"id": "8282",
+		"x": "3697",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Safalaan Hallow",
+		"id": "5059",
+		"x": "3704",
+		"y": "3192",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Polmafi Ferdygris",
+		"id": "8289",
+		"x": "3705",
+		"y": "3182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vanescula Drakan",
+		"id": "8291",
+		"x": "3705",
+		"y": "3189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "3706",
+		"y": "3171",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Safalaan Hallow",
+		"id": "5058",
+		"x": "3706",
+		"y": "3188",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Safalaan Hallow",
+		"id": "5060",
+		"x": "3707",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Veliaf Hurtz",
+		"id": "9520",
+		"x": "3707",
+		"y": "3188",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vanescula Drakan",
+		"id": "8292",
+		"x": "3708",
+		"y": "3187",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spectator",
+		"id": "9755",
+		"x": "3592",
+		"y": "3344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spectator",
+		"id": "9750",
+		"x": "3592",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3592",
+		"y": "3352",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spectator",
+		"id": "9754",
+		"x": "3593",
+		"y": "3343",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Valentina Diaemus",
+		"id": "9711",
+		"x": "3593",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3593",
+		"y": "3365",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spectator",
+		"id": "9751",
+		"x": "3594",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spectator",
+		"id": "9752",
+		"x": "3595",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spectator",
+		"id": "9753",
+		"x": "3595",
+		"y": "3344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3596",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3596",
+		"y": "3378",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Grigor Rasputin",
+		"id": "9697",
+		"x": "3596",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3597",
+		"y": "3331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Haemas Lamescus",
+		"id": "9698",
+		"x": "3597",
+		"y": "3361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Alek Constantine",
+		"id": "9696",
+		"x": "3598",
+		"y": "3353",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3598",
+		"y": "3366",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Episcula Helsing",
+		"id": "9703",
+		"x": "3599",
+		"y": "3337",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3599",
+		"y": "3351",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Mortina Daubenton",
+		"id": "9708",
+		"x": "3599",
+		"y": "3384",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Werewolf",
+		"id": "9744",
+		"x": "3600",
+		"y": "3390",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Varrian Sobak",
+		"id": "9724",
+		"x": "3601",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3602",
+		"y": "3363",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3602",
+		"y": "3384",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3603",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Banker",
+		"id": "9719",
+		"x": "3603",
+		"y": "3369",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Frank",
+		"id": "9749",
+		"x": "3604",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Banker",
+		"id": "9718",
+		"x": "3604",
+		"y": "3369",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3605",
+		"y": "3360",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Banker",
+		"id": "9719",
+		"x": "3605",
+		"y": "3369",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3605",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Banker",
+		"id": "9718",
+		"x": "3607",
+		"y": "3369",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Noctillion Lugosi",
+		"id": "9695",
+		"x": "3608",
+		"y": "3363",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Caninelle Draynar",
+		"id": "9710",
+		"x": "3608",
+		"y": "3382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Natalidae Shadum",
+		"id": "9707",
+		"x": "3609",
+		"y": "3338",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Misdrievus Shadum",
+		"id": "9693",
+		"x": "3610",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Pipistrelle Draynar",
+		"id": "9714",
+		"x": "3610",
+		"y": "3384",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3611",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Carnivus Belamorta",
+		"id": "9691",
+		"x": "3611",
+		"y": "3390",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Desmodus Lasiurus",
+		"id": "9588",
+		"x": "3612",
+		"y": "3363",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "9739",
+		"x": "3614",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Mort Nightshade",
+		"id": "9689",
+		"x": "3616",
+		"y": "3384",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "9590",
+		"x": "3617",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Maria Gadderanks",
+		"id": "8293",
+		"x": "3618",
+		"y": "3377",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Lenyig Karna",
+		"id": "9723",
+		"x": "3619",
+		"y": "3387",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Ron Gadderanks",
+		"id": "8294",
+		"x": "3620",
+		"y": "3376",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Prisoner",
+		"id": "9592",
+		"x": "3620",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9732",
+		"x": "3624",
+		"y": "3340",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9731",
+		"x": "3624",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3624",
+		"y": "3375",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3625",
+		"y": "3383",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spider",
+		"id": "10442",
+		"x": "3626",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3627",
+		"y": "3335",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spider",
+		"id": "10442",
+		"x": "3627",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Werewolf",
+		"id": "9743",
+		"x": "3627",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Violetta Sanguine",
+		"id": "9701",
+		"x": "3628",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spider",
+		"id": "10442",
+		"x": "3629",
+		"y": "3364",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9727",
+		"x": "3630",
+		"y": "3341",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Draconis Sanguine",
+		"id": "9688",
+		"x": "3631",
+		"y": "3383",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vallessia Dracyula",
+		"id": "9700",
+		"x": "3631",
+		"y": "3388",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9728",
+		"x": "3632",
+		"y": "3334",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spider",
+		"id": "10442",
+		"x": "3632",
+		"y": "3360",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Spider",
+		"id": "10442",
+		"x": "3632",
+		"y": "3366",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "9741",
+		"x": "3633",
+		"y": "3376",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3634",
+		"y": "3387",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyrus Diaemus",
+		"id": "9690",
+		"x": "3635",
+		"y": "3384",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "9728",
+		"x": "3637",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Drasdan Ranor",
+		"id": "9721",
+		"x": "3641",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vlad Bechstein",
+		"id": "9687",
+		"x": "3642",
+		"y": "3378",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vonnetta Varnis",
+		"id": "9706",
+		"x": "3643",
+		"y": "3387",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "9735",
+		"x": "3644",
+		"y": "3340",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Grinka Krast",
+		"id": "9720",
+		"x": "3645",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Diphylla Bechstein",
+		"id": "9702",
+		"x": "3645",
+		"y": "3377",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9732",
+		"x": "3646",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "9732",
+		"x": "3647",
+		"y": "3363",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Safalaan Hallow",
+		"id": "6159",
+		"x": "3584",
+		"y": "3331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Auctioneer",
+		"id": "9746",
+		"x": "3590",
+		"y": "3343",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Slave",
+		"id": "9726",
+		"x": "3590",
+		"y": "3344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Slave",
+		"id": "9725",
+		"x": "3590",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Lady Nadezhda Shadum",
+		"id": "9715",
+		"x": "3609",
+		"y": "3338",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3808",
+		"x": "3595",
+		"y": "3264",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3804",
+		"x": "3596",
+		"y": "3265",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3596",
+		"y": "3324",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Lord Mischa Myrmel",
+		"id": "9716",
+		"x": "3598",
+		"y": "3318",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3797",
+		"x": "3599",
+		"y": "3285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Von van Von",
+		"id": "9686",
+		"x": "3599",
+		"y": "3326",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3787",
+		"x": "3600",
+		"y": "3280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3798",
+		"x": "3601",
+		"y": "3284",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3802",
+		"x": "3602",
+		"y": "3275",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3799",
+		"x": "3603",
+		"y": "3285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Werewolf",
+		"id": "9745",
+		"x": "3603",
+		"y": "3321",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3805",
+		"x": "3604",
+		"y": "3264",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch Sentinel",
+		"id": "9756",
+		"x": "3604",
+		"y": "3326",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3788",
+		"x": "3605",
+		"y": "3268",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3829",
+		"x": "3605",
+		"y": "3282",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3800",
+		"x": "3605",
+		"y": "3284",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3606",
+		"y": "3273",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3801",
+		"x": "3607",
+		"y": "3285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Nakasa Jovkai",
+		"id": "9712",
+		"x": "3609",
+		"y": "3325",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3783",
+		"x": "3610",
+		"y": "3272",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3803",
+		"x": "3611",
+		"y": "3285",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Lord Alexei Jovkai",
+		"id": "9717",
+		"x": "3611",
+		"y": "3319",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3782",
+		"x": "3615",
+		"y": "3283",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3785",
+		"x": "3616",
+		"y": "3273",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3808",
+		"x": "3620",
+		"y": "3321",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3785",
+		"x": "3621",
+		"y": "3284",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3804",
+		"x": "3621",
+		"y": "3319",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3792",
+		"x": "3621",
+		"y": "3325",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3793",
+		"x": "3622",
+		"y": "3325",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3786",
+		"x": "3623",
+		"y": "3283",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3800",
+		"x": "3624",
+		"y": "3271",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3787",
+		"x": "3624",
+		"y": "3281",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3624",
+		"y": "3319",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3730",
+		"x": "3624",
+		"y": "3322",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3788",
+		"x": "3627",
+		"y": "3281",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3784",
+		"x": "3628",
+		"y": "3283",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3628",
+		"y": "3297",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3789",
+		"x": "3629",
+		"y": "3280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Cat",
+		"id": "3831",
+		"x": "3629",
+		"y": "3309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3717",
+		"x": "3630",
+		"y": "3279",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3798",
+		"x": "3630",
+		"y": "3308",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3817",
+		"x": "3631",
+		"y": "3272",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3812",
+		"x": "3631",
+		"y": "3299",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3783",
+		"x": "3631",
+		"y": "3300",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3731",
+		"x": "3631",
+		"y": "3305",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Cat",
+		"id": "3832",
+		"x": "3631",
+		"y": "3315",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3631",
+		"y": "3317",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3788",
+		"x": "3631",
+		"y": "3325",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3799",
+		"x": "3632",
+		"y": "3265",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3632",
+		"y": "3276",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3782",
+		"x": "3632",
+		"y": "3286",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3785",
+		"x": "3632",
+		"y": "3299",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3813",
+		"x": "3632",
+		"y": "3313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3806",
+		"x": "3634",
+		"y": "3269",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Cat",
+		"id": "3832",
+		"x": "3634",
+		"y": "3294",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3799",
+		"x": "3634",
+		"y": "3310",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3805",
+		"x": "3635",
+		"y": "3271",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Cat",
+		"id": "3831",
+		"x": "3635",
+		"y": "3296",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3719",
+		"x": "3636",
+		"y": "3270",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3798",
+		"x": "3636",
+		"y": "3280",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3830",
+		"x": "3636",
+		"y": "3284",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3780",
+		"x": "3637",
+		"y": "3275",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3829",
+		"x": "3637",
+		"y": "3313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3805",
+		"x": "3638",
+		"y": "3296",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3786",
+		"x": "3638",
+		"y": "3317",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3806",
+		"x": "3638",
+		"y": "3319",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3809",
+		"x": "3639",
+		"y": "3267",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3814",
+		"x": "3639",
+		"y": "3287",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3805",
+		"x": "3640",
+		"y": "3286",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3807",
+		"x": "3641",
+		"y": "3278",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3812",
+		"x": "3641",
+		"y": "3279",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3830",
+		"x": "3641",
+		"y": "3301",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3784",
+		"x": "3642",
+		"y": "3282",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3813",
+		"x": "3642",
+		"y": "3287",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3591",
+		"y": "3271",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3749",
+		"x": "3593",
+		"y": "3281",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3750",
+		"x": "3596",
+		"y": "3307",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3750",
+		"x": "3601",
+		"y": "3271",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3754",
+		"x": "3601",
+		"y": "3297",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3606",
+		"y": "3280",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3752",
+		"x": "3614",
+		"y": "3287",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3731",
+		"x": "3616",
+		"y": "3267",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3749",
+		"x": "3617",
+		"y": "3307",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3750",
+		"x": "3621",
+		"y": "3280",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3629",
+		"y": "3310",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3750",
+		"x": "3630",
+		"y": "3298",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3635",
+		"y": "3267",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3750",
+		"x": "3636",
+		"y": "3286",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3749",
+		"x": "3641",
+		"y": "3315",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3643",
+		"y": "3300",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3749",
+		"x": "3644",
+		"y": "3275",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3645",
+		"y": "3285",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3598",
+		"y": "3293",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3754",
+		"x": "3613",
+		"y": "3290",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3749",
+		"x": "3628",
+		"y": "3324",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3750",
+		"x": "3642",
+		"y": "3323",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3792",
+		"x": "3592",
+		"y": "3222",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3807",
+		"x": "3592",
+		"y": "3227",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3807",
+		"x": "3593",
+		"y": "3200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Cat",
+		"id": "3832",
+		"x": "3593",
+		"y": "3207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3719",
+		"x": "3593",
+		"y": "3208",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3780",
+		"x": "3595",
+		"y": "3212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3597",
+		"y": "3208",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3815",
+		"x": "3598",
+		"y": "3200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3791",
+		"x": "3598",
+		"y": "3207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3717",
+		"x": "3600",
+		"y": "3245",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3829",
+		"x": "3602",
+		"y": "3205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Old Man Ral",
+		"id": "3772",
+		"x": "3602",
+		"y": "3209",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3789",
+		"x": "3603",
+		"y": "3215",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Trader Sven",
+		"id": "3779",
+		"x": "3604",
+		"y": "3201",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3786",
+		"x": "3604",
+		"y": "3222",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3785",
+		"x": "3605",
+		"y": "3218",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3797",
+		"x": "3606",
+		"y": "3209",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3731",
+		"x": "3606",
+		"y": "3217",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3729",
+		"x": "3607",
+		"y": "3225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3789",
+		"x": "3608",
+		"y": "3201",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3788",
+		"x": "3609",
+		"y": "3207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3790",
+		"x": "3610",
+		"y": "3217",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3729",
+		"x": "3611",
+		"y": "3205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3781",
+		"x": "3612",
+		"y": "3211",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3812",
+		"x": "3613",
+		"y": "3211",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3803",
+		"x": "3613",
+		"y": "3222",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3817",
+		"x": "3614",
+		"y": "3224",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3784",
+		"x": "3615",
+		"y": "3207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3810",
+		"x": "3615",
+		"y": "3217",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3719",
+		"x": "3615",
+		"y": "3248",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3800",
+		"x": "3617",
+		"y": "3215",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3816",
+		"x": "3618",
+		"y": "3217",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3619",
+		"y": "3205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3801",
+		"x": "3619",
+		"y": "3207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3793",
+		"x": "3619",
+		"y": "3230",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3799",
+		"x": "3620",
+		"y": "3200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3809",
+		"x": "3620",
+		"y": "3203",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3808",
+		"x": "3620",
+		"y": "3214",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3793",
+		"x": "3620",
+		"y": "3220",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3806",
+		"x": "3621",
+		"y": "3201",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Cat",
+		"id": "3832",
+		"x": "3621",
+		"y": "3207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3829",
+		"x": "3621",
+		"y": "3213",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3830",
+		"x": "3622",
+		"y": "3219",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3813",
+		"x": "3622",
+		"y": "3228",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3810",
+		"x": "3623",
+		"y": "3200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3802",
+		"x": "3623",
+		"y": "3212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3818",
+		"x": "3623",
+		"y": "3213",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3788",
+		"x": "3623",
+		"y": "3228",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3786",
+		"x": "3624",
+		"y": "3205",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3624",
+		"y": "3225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3830",
+		"x": "3625",
+		"y": "3200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3787",
+		"x": "3625",
+		"y": "3214",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3625",
+		"y": "3246",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3811",
+		"x": "3626",
+		"y": "3222",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3718",
+		"x": "3626",
+		"y": "3224",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3730",
+		"x": "3626",
+		"y": "3245",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3798",
+		"x": "3627",
+		"y": "3204",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3814",
+		"x": "3627",
+		"y": "3217",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3805",
+		"x": "3627",
+		"y": "3231",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3627",
+		"y": "3255",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3719",
+		"x": "3629",
+		"y": "3252",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "3694",
+		"x": "3630",
+		"y": "3213",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "3693",
+		"x": "3630",
+		"y": "3220",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3830",
+		"x": "3630",
+		"y": "3261",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3812",
+		"x": "3631",
+		"y": "3208",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "8326",
+		"x": "3631",
+		"y": "3217",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "3694",
+		"x": "3631",
+		"y": "3225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "3695",
+		"x": "3633",
+		"y": "3211",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3800",
+		"x": "3633",
+		"y": "3233",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Cat",
+		"id": "3831",
+		"x": "3633",
+		"y": "3240",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3718",
+		"x": "3634",
+		"y": "3200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "3692",
+		"x": "3634",
+		"y": "3228",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3808",
+		"x": "3637",
+		"y": "3232",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Harpert",
+		"id": "8212",
+		"x": "3644",
+		"y": "3211",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "8251",
+		"x": "3647",
+		"y": "3208",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3748",
+		"x": "3589",
+		"y": "3212",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3754",
+		"x": "3589",
+		"y": "3229",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3749",
+		"x": "3589",
+		"y": "3253",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3755",
+		"x": "3590",
+		"y": "3261",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3748",
+		"x": "3595",
+		"y": "3207",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3595",
+		"y": "3215",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3749",
+		"x": "3601",
+		"y": "3225",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3751",
+		"x": "3605",
+		"y": "3254",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3799",
+		"x": "3607",
+		"y": "3213",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3751",
+		"x": "3607",
+		"y": "3239",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3784",
+		"x": "3615",
+		"y": "3222",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3787",
+		"x": "3617",
+		"y": "3230",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3750",
+		"x": "3618",
+		"y": "3204",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3801",
+		"x": "3623",
+		"y": "3219",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3754",
+		"x": "3629",
+		"y": "3219",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3792",
+		"x": "3631",
+		"y": "3235",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3730",
+		"x": "3637",
+		"y": "3237",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "<col=00ffff>Steam</col>",
+		"id": "8266",
+		"x": "3640",
+		"y": "3203",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "<col=00ffff>Steam</col>",
+		"id": "8265",
+		"x": "3640",
+		"y": "3235",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "<col=00ffff>Steam</col>",
+		"id": "8265",
+		"x": "3644",
+		"y": "3213",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "<col=00ffff>Steam</col>",
+		"id": "8265",
+		"x": "3644",
+		"y": "3225",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3619",
+		"y": "3209",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3755",
+		"x": "3610",
+		"y": "3208",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3750",
+		"x": "3622",
+		"y": "3212",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Rubbish",
+		"id": "3828",
+		"x": "3592",
+		"y": "3183",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3790",
+		"x": "3593",
+		"y": "3187",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3801",
+		"x": "3596",
+		"y": "3184",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3814",
+		"x": "3597",
+		"y": "3189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3717",
+		"x": "3597",
+		"y": "3193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3788",
+		"x": "3599",
+		"y": "3190",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3730",
+		"x": "3601",
+		"y": "3183",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "3692",
+		"x": "3603",
+		"y": "3189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3789",
+		"x": "3603",
+		"y": "3195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3799",
+		"x": "3608",
+		"y": "3189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Stray dog",
+		"id": "3830",
+		"x": "3609",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3729",
+		"x": "3614",
+		"y": "3189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3816",
+		"x": "3614",
+		"y": "3196",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "3693",
+		"x": "3618",
+		"y": "3187",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3718",
+		"x": "3621",
+		"y": "3182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Child",
+		"id": "3817",
+		"x": "3623",
+		"y": "3184",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3804",
+		"x": "3623",
+		"y": "3189",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3803",
+		"x": "3624",
+		"y": "3196",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3719",
+		"x": "3629",
+		"y": "3190",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Meiyerditch citizen",
+		"id": "3793",
+		"x": "3632",
+		"y": "3196",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Cat",
+		"id": "3831",
+		"x": "3636",
+		"y": "3195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3732",
+		"x": "3638",
+		"y": "3187",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "3692",
+		"x": "3638",
+		"y": "3196",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "3693",
+		"x": "3639",
+		"y": "3193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3755",
+		"x": "3589",
+		"y": "3169",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3751",
+		"x": "3591",
+		"y": "3197",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "3753",
+		"x": "3598",
+		"y": "3172",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4430",
+		"x": "3540",
+		"y": "3206",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4429",
+		"x": "3546",
+		"y": "3206",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4427",
+		"x": "3546",
+		"y": "3218",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4437",
+		"x": "3546",
+		"y": "3249",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4436",
+		"x": "3550",
+		"y": "3200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4428",
+		"x": "3550",
+		"y": "3213",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4437",
+		"x": "3556",
+		"y": "3216",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4437",
+		"x": "3559",
+		"y": "3200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4436",
+		"x": "3561",
+		"y": "3246",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4436",
+		"x": "3562",
+		"y": "3229",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4438",
+		"x": "3564",
+		"y": "3201",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4436",
+		"x": "3564",
+		"y": "3206",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4436",
+		"x": "3564",
+		"y": "3218",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4430",
+		"x": "3564",
+		"y": "3232",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4436",
+		"x": "3564",
+		"y": "3253",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4438",
+		"x": "3565",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4428",
+		"x": "3567",
+		"y": "3214",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4436",
+		"x": "3567",
+		"y": "3236",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4427",
+		"x": "3572",
+		"y": "3216",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4429",
+		"x": "3575",
+		"y": "3240",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4429",
+		"x": "3577",
+		"y": "3216",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4430",
+		"x": "3578",
+		"y": "3221",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4427",
+		"x": "3578",
+		"y": "3231",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4428",
+		"x": "3579",
+		"y": "3207",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4427",
+		"x": "3579",
+		"y": "3250",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4430",
+		"x": "3581",
+		"y": "3210",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4438",
+		"x": "3582",
+		"y": "3216",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "4428",
+		"x": "3582",
+		"y": "3242",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	},
+	{
+		"name": "Vampyre Juvenile",
+		"id": "4438",
+		"x": "3583",
+		"y": "3200",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1"
+		
+	}
+]

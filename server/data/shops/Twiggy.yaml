@@ -1,0 +1,17 @@
+---
+identifier: "afd8d69d-37c8-44d9-bfec-680bfaf4dfa4"
+title: "Bitch We Testin"
+currency: "UNIDENTIFIED_MINERALS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+  - id: 21343
+    amount: 100000
+    price: 60
+  - id: 21345
+    amount: 100000
+    price: 120

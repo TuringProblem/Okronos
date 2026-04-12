@@ -1,0 +1,27 @@
+---
+identifier: "P6fUbc29DMuVAGKPesUXkWEhybbQmk"
+title: "Brian's Battleaxe Bazaar"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 1
+defaultStock:
+- id: 1375
+  amount: 100000
+- id: 1363
+  amount: 100000
+- id: 1365
+  amount: 100000
+- id: 1367
+  amount: 100000
+- id: 1369
+  amount: 100000
+- id: 1371
+  amount: 100000

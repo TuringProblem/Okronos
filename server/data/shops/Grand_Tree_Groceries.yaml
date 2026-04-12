@@ -1,0 +1,64 @@
+---
+identifier: "Jv0L4B7PuNb8LZYS5owr7weaXf5gVC"
+title: "Grand Tree Groceries"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 1
+defaultStock:
+- id: 2171
+  amount: 100000
+- id: 2128
+  amount: 100000
+- id: 1933
+  amount: 100000
+- id: 2169
+  amount: 100000
+- id: 1957
+  amount: 100000
+- id: 1942
+  amount: 100000
+- id: 1965
+  amount: 100000
+- id: 1982
+  amount: 100000
+- id: 1985
+  amount: 100000
+- id: 2120
+  amount: 100000
+- id: 2108
+  amount: 100000
+- id: 2102
+  amount: 100000
+- id: 2114
+  amount: 100000
+- id: 2126
+  amount: 100000
+- id: 2025
+  amount: 100000
+- id: 1973
+  amount: 100000
+- id: 1975
+  amount: 100000
+- id: 2130
+  amount: 100000
+- id: 1927
+  amount: 100000
+- id: 946
+  amount: 100000
+- id: 2167
+  amount: 100000
+- id: 2164
+  amount: 100000
+- id: 2165
+  amount: 100000
+- id: 2166
+  amount: 100000

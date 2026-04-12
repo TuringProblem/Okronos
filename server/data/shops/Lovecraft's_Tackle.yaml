@@ -1,0 +1,35 @@
+---
+identifier: "j07XS1pqMly4R480nCnEHrgZmCA2St"
+title: "Lovecraft's Tackle"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 50
+  changePer: 2
+defaultStock:
+  - id: 303
+    amount: 100000
+  - id: 307
+    amount: 100000
+  - id: 309
+    amount: 100000
+  - id: 311
+    amount: 100000
+  - id: 301
+    amount: 100000
+  - id: 313
+    amount: 100000
+  - id: 11883
+    amount: 100000
+  - id: 314
+    amount: 100000
+  - id: 11881
+    amount: 100000
+  - id: 327
+    amount: 100000

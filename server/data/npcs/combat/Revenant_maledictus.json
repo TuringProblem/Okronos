@@ -1,0 +1,46 @@
+[
+  {
+  "ids": [ 11246 ],
+  "handler": "io.ruin.model.activities.bosses.RevenantMaledictus",
+  //Combat Info
+  "hitpoints": 1250,
+  "aggressive_level": 300,
+  "max_damage": 30,
+  "attack_style": "RANGED",
+  //Slayer Info
+  "slayer_level": 1,
+  "slayer_xp": 920,
+  "slayer_tasks": [ "Revenants", "Ghosts" ],
+  //Combat Stats
+  "attack": 106,
+  "strength": 126,
+  "defence": 90,
+  "ranged": 130,
+  "magic": 130,
+  //Aggressive Stats
+  "stab_attack": 72,
+  "slash_attack": 0,
+  "crush_attack": 0,
+  "magic_attack": 60,
+  "ranged_attack": 265,
+  "strength": 78,
+  //Defensive Stats
+  "stab_defence": 201,
+  "slash_defence": 206,
+  "crush_defence": 188,
+  "magic_defence": 101,
+  "ranged_defence": 231,
+  //Immunites
+  "poison_immunity": true,
+  "venom_immunity": true,
+  //Speeds
+  "attack_ticks": 5,
+  "death_ticks": 5,
+  "respawn_ticks": -1,
+  //Animations
+  "spawn_animation": 9281,
+  "attack_animation": -1,
+  "defend_animation": -1,
+  "death_animation": 9280
+  }
+]

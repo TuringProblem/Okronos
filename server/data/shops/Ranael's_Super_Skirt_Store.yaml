@@ -1,0 +1,27 @@
+---
+identifier: "3rei8qYCLMd61Nk9UPWD6O34e4Yusm"
+title: "Ranael's Super Skirt Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 65
+  changePer: 1
+defaultStock:
+- id: 1087
+  amount: 100000
+- id: 1081
+  amount: 100000
+- id: 1083
+  amount: 100000
+- id: 1089
+  amount: 100000
+- id: 1085
+  amount: 100000
+- id: 1091
+  amount: 100000

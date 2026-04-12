@@ -1,0 +1,38 @@
+---
+identifier: "HjwtT6iyB7mjEB5nd4GjOuxI5lOngx"
+title: "Quality Weapons Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 55
+  changePer: 3
+defaultStock:
+- id: 1365
+  amount: 100000
+- id: 1369
+  amount: 100000
+- id: 1285
+  amount: 100000
+- id: 1287
+  amount: 100000
+- id: 1325
+  amount: 100000
+- id: 1297
+  amount: 100000
+- id: 1303
+  amount: 100000
+- id: 853
+  amount: 100000
+- id: 851
+  amount: 100000
+- id: 888
+  amount: 100000
+- id: 890
+  amount: 100000

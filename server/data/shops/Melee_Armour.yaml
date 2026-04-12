@@ -1,0 +1,96 @@
+---
+identifier: "81c7cb3a-f03f-4862-9d3e-3d63ddb64a8a"
+title: "Melee Armour Shop"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 50
+  changePer: 2
+defaultStock:
+  - id: 1155
+    amount: 100000
+  - id: 1153
+    amount: 100000
+  - id: 1157
+    amount: 100000
+  - id: 1165
+    amount: 100000
+  - id: 1159
+    amount: 100000
+  - id: 1161
+    amount: 100000
+  - id: 1163
+    amount: 100000
+  - id: 3751
+    amount: 100000
+    price: 50000
+  - id: 1117
+    amount: 100000
+  - id: 1115
+    amount: 100000
+  - id: 1119
+    amount: 100000
+  - id: 1125
+    amount: 100000
+  - id: 1121
+    amount: 100000
+  - id: 1123
+    amount: 100000
+  - id: 1127
+    amount: 100000
+  - id: 10828
+    amount: 100000
+  - id: 1075
+    amount: 100000
+  - id: 1067
+    amount: 100000
+  - id: 1069
+    amount: 100000
+  - id: 1077
+    amount: 100000
+  - id: 1071
+    amount: 100000
+  - id: 1073
+    amount: 100000
+  - id: 1079
+    amount: 100000
+  - id: 1712
+    amount: 100000
+  - id: 1189
+    amount: 100000
+  - id: 1191
+    amount: 100000
+  - id: 1193
+    amount: 100000
+  - id: 1195
+    amount: 100000
+  - id: 1197
+    amount: 100000
+  - id: 1199
+    amount: 100000
+  - id: 1201
+    amount: 100000
+  - id: 3105
+    amount: 100000
+  - id: 5574
+    amount: 100000
+  - id: 5575
+    amount: 100000
+  - id: 5576
+    amount: 100000
+  - id: 9672
+    amount: 100000
+  - id: 9674
+    amount: 100000
+  - id: 9676
+    amount: 100000
+  - id: 544
+    amount: 100000
+  - id: 542
+    amount: 100000

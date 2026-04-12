@@ -1,0 +1,341 @@
+[
+	{
+		"name": "Pirate",
+		"id": "521",
+		"x": "2194",
+		"y": "3806",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2195",
+		"y": "3808",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2196",
+		"y": "3822",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2197",
+		"y": "3805",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2197",
+		"y": "3813",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wilson",
+		"id": "3865",
+		"x": "2199",
+		"y": "3808",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2201",
+		"y": "3812",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2202",
+		"y": "3824",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2203",
+		"y": "3804",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jake",
+		"id": "3863",
+		"x": "2205",
+		"y": "3807",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "521",
+		"x": "2205",
+		"y": "3814",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2207",
+		"y": "3813",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Palmer",
+		"id": "3869",
+		"x": "2211",
+		"y": "3815",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2211",
+		"y": "3818",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lokar Searunner",
+		"id": "9306",
+		"x": "2214",
+		"y": "3794",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "3851",
+		"x": "2214",
+		"y": "3819",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Beefy' Burns",
+		"id": "3858",
+		"x": "2222",
+		"y": "3789",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Betty' B.Boppin",
+		"id": "3870",
+		"x": "2222",
+		"y": "3804",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2223",
+		"y": "3793",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2226",
+		"y": "3800",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Birds-Eye' Jack",
+		"id": "6163",
+		"x": "2222",
+		"y": "3788",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tommy 2-times",
+		"id": "3866",
+		"x": "2223",
+		"y": "3794",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Picarron' Pete",
+		"id": "3862",
+		"x": "2223",
+		"y": "3799",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bedread the bold",
+		"id": "3864",
+		"x": "2225",
+		"y": "3795",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Beedy-eye' Jones",
+		"id": "3871",
+		"x": "2225",
+		"y": "3803",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain Bentley",
+		"id": 6650,
+		"x": 2223,
+		"y": 3797,
+		"z": 2,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Jack Sails",
+		"id": "3868",
+		"x": "2222",
+		"y": "3809",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Eagle-eye' Shultz",
+		"id": "3859",
+		"x": "2224",
+		"y": "3813",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "First mate 'Davey-boy'",
+		"id": "3860",
+		"x": "2225",
+		"y": "3788",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jenny Blade",
+		"id": "3872",
+		"x": "2227",
+		"y": "3797",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Murky Pat",
+		"id": "3867",
+		"x": "2227",
+		"y": "3802",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cabin boy",
+		"id": "6162",
+		"x": "2223",
+		"y": "3788",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lecherous' Lee",
+		"id": "3873",
+		"x": "2226",
+		"y": "3791",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sticky' Sanders",
+		"id": "3874",
+		"x": "2226",
+		"y": "3808",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "ids": [ 30000 ],
+  "guaranteed": [
+  { "id": 526, "min": 1, "max": 1 },
+  { "id": 314, "min": 15, "max": 15 }
+],
+  "tables": [
+  {
+    "name": "Weapons/Armour",
+    "weight": 1,
+    "items": [
+      { "id": 1303, "min": 1, "max": 1, "weight": 25 }, //Rune longsword
+      { "id": 1123, "min": 1, "max": 1, "weight": 25 }, //Adamant platebody
+      { "id": 1199, "min": 1, "max": 1, "weight": 10 }, //Adamant kiteshield
+      { "id": 1149, "min": 1, "max": 1, "weight": 10 }, //Dragon med helm
+      { "id": 11920, "min": 1, "max": 1, "weight": 2 , "broadcast": "GLOBAL"} //Dragon pickaxe
+    ]
+  },
+  {
+    "name": "Runes/Ammunition",
+    "weight": 1,
+    "items": [
+      { "id": 12696, "min": 5, "max": 12, "weight": 9 }, //super combat
+      { "id": 441, "min": 300, "max": 300, "weight": 9 }, //iron ore
+
+      { "id": 6019, "min": 20, "max": 25, "weight": 9 }, //poison ivy berries
+      { "id": 5936, "min": 1, "max": 2, "weight": 9 }, //weapon poison+ unf
+      { "id": 1939, "min": 25, "max": 50, "weight": 9 }, //swamp tar
+
+
+      { "id": 21326, "min": 30, "max": 50, "weight": 6 }, //amythist arrows
+      { "id": 884, "min": 690, "max": 690, "weight": 6 }, //Iron arrow
+      { "id": 563, "min": 30, "max": 30, "weight": 3 }, //Law rune
+      { "id": 9244, "min": 10, "max": 25, "weight": 3 }, //dragonstone bolts
+      { "id": 11232, "min": 5, "max": 14, "weight": 2 }, //Dragon dart tip
+      { "id": 11237, "min": 5, "max": 14, "weight": 2 }, //Dragon arrowtips
+      { "id": 19582, "min": 15, "max": 15, "weight": 2 } //Dragon javelin heads
+    ]
+  },
+  {
+    "name": "Other",
+    "weight": 1,
+    "items": [
+      { "id": 1516, "min": 150, "max": 150, "weight": 15 }, //Yew logs (noted)
+      { "id": 385, "min": 4, "max": 4, "weight": 15 }, //Shark
+      { "id": 445, "min": 100, "max": 100, "weight": 25 }, //Gold ore (noted)
+      { "id": 9431, "min": 1, "max": 1, "weight": 10 }, //Runite limbs
+      { "id": 2363, "min": 1, "max": 1, "weight": 10 }, //Runite bar
+      { "id": 2361, "min": 3, "max": 3, "weight": 10 }, //Adamantite bar
+      { "id": 12596, "min": 1, "max": 1, "weight": 2 }, //rangers tunic
+      { "id": 12073, "min": 1, "max": 1, "weight": 2 }, //Clue scroll (elite)
+      { "id": 23246, "min": 1, "max": 1, "weight": 2 , "broadcast": "GLOBAL"} //fremmy kilt
+    ]
+  }
+]
+  }
+]

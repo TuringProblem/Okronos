@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 13029 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 75,
+    "aggressive_level": 100,
+    "max_damage": 3,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 44,
+    "slayer_xp": 75.0,
+    "slayer_tasks": [ "Lizard" ],
+    //Combat Stats
+    "attack": 65,
+    "strength": 25,
+    "defence": 10,
+    "ranged": 1,
+    "magic": 25,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 35,
+    "slash_defence": 15,
+    "crush_defence": 50,
+    "magic_defence": 50,
+    "ranged_defence": 35,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 6,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 11045,
+    "defend_animation": -1,
+    "death_animation": 11046
+  }
+]

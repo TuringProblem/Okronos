@@ -1,0 +1,63 @@
+---
+identifier: "7f9f3897-07dd-4a42-8c5b-a72f2eddb3a1"
+title: "Supply Shop"
+currency: "COINS"
+canSellToStore: false
+accessibleByIronMan: true
+accessibleByRegular: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 150
+  buysAt: 0
+  changePer: 0
+defaultStock:
+  - id: 3027
+    amount: 2500
+    price: 6000
+  - id: 6688
+    amount: 2500
+    price: 7000
+  - id: 140
+    amount: 2500
+    price: 5000
+  - id: 170
+    amount: 2500
+    price: 3000
+  - id: 3043
+    amount: 2500
+    price: 1500
+  - id: 158
+    amount: 2500
+    price: 3500
+  - id: 146
+    amount: 2500
+    price: 3500
+  - id: 164
+    amount: 2500
+    price: 3500
+  - id: 2455
+    amount: 2500
+    price: 4000
+  - id: 182
+    amount: 2500
+    price: 2500
+  - id: 12628
+    amount: 2500
+    price: 7500
+  - id: 380
+    amount: 2500
+    price: 150
+  - id: 7947
+    amount: 2500
+    price: 550
+  - id: 386
+    amount: 2500
+    price: 1000
+  - id: 3145
+    amount: 2500
+    price: 2500
+  - id: 2550
+    amount: 2500
+    price: 2500

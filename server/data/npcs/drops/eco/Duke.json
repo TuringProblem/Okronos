@@ -1,0 +1,66 @@
+[
+  {
+    "ids": [ 12191, 12192 ],
+    "tables": [
+      {
+        "name": "Uniques",
+        "weight": 3,
+        "items": [
+          { "id": 28270, "min": 1, "max": 1, "weight": 33, "broadcast": "GLOBAL"},   //Ice quartz
+          { "id": 28276, "min": 1, "max": 1, "weight": 30, "broadcast": "GLOBAL"},   //Chromium ingot
+          { "id": 30583, "min": 1, "max": 1, "weight": 13 , "broadcast": "GLOBAL"},   //Magus vestige
+          { "id": 28321, "min": 1, "max": 1, "weight": 13 , "broadcast": "GLOBAL"},   //Eye of the duke
+          { "id": 30521, "min": 1, "max": 1, "weight": 9 , "broadcast": "GLOBAL"},   //Virtus mask
+          { "id": 30522, "min": 1, "max": 1, "weight": 9 , "broadcast": "GLOBAL"},   //Virtus robe top
+          { "id": 30523, "min": 1, "max": 1, "weight": 9 , "broadcast": "GLOBAL"}  //Virtus robe bottom
+        ]
+      },
+      {
+        "name": "Supplies",
+        "weight": 100,
+        "items": [
+          { "id": 2434, "min": 7, "max": 20, "weight": 40 },   //Prayer potions
+          { "id": 23546, "min": 2, "max": 4, "weight": 40 }   //Super combat potion
+        ]
+      },
+      {
+        "name": "Resources",
+        "weight": 100,
+        "items": [
+          { "id": 4088, "min": 5, "max": 7, "weight": 2 },   //Dragon platelegs
+          { "id": 454, "min": 195, "max": 292, "weight": 6 },   //Coal
+          { "id": 445, "min": 67, "max": 101, "weight": 6 },   //Gold ore
+          { "id": 19582, "min": 54, "max": 81, "weight": 6 },   //Dragon javelin heads
+          { "id": 13442, "min": 4, "max": 6, "weight": 6 },   //Anglerfish
+          { "id": 1620, "min": 37, "max": 56, "weight": 6 },   //Uncut ruby
+          { "id": 1618, "min": 37, "max": 56, "weight": 6 },   //Uncut diamond
+          { "id": 452, "min": 27, "max": 40, "weight": 6 },   //Runite ore
+          { "id": 21930, "min": 150, "max": 225, "weight": 6 },   //Dragon bolts(unf)
+          { "id": 7937, "min": 180, "max": 270, "weight": 4 },   //Pure essence
+          { "id": 441, "min": 57, "max": 85, "weight": 6 },   //Iron ore
+          { "id": 443, "min": 57, "max": 85, "weight": 6 },   //Silver ore
+          { "id": 450, "min": 57, "max": 85, "weight": 6 },   //Adamantite ore
+          { "id": 1608, "min": 25, "max": 38, "weight": 6 },   //Sapphire
+          { "id": 1606, "min": 25, "max": 38, "weight": 6 },   //Emerald
+          { "id": 1604, "min": 25, "max": 38, "weight": 6 },   //Ruby
+          { "id": 9194, "min": 90, "max": 135, "weight": 6 },   //Onyx bolt tips
+          { "id": 396, "min": 200, "max": 300, "weight": 6 }   //Raw sea turtle
+        ]
+      },
+      {
+        "name": "Runes and ammunition",
+        "weight": 100,
+        "items": [
+          { "id": 892, "min": 54, "max": 81, "weight": 10 }, //Rune arrow
+          { "id": 4697, "min": 300, "max": 450, "weight": 20 },   //Smoke rune
+          { "id": 566, "min": 600, "max": 900, "weight": 20 },   //Soul rune
+          { "id": 882, "min": 63, "max": 94, "weight": 10 },   //Bronze arrow
+          { "id": 888, "min": 63, "max": 94, "weight": 10 },   //Mithril arrow
+          { "id": 890, "min": 63, "max": 94, "weight": 10 },   //Adamant arrow
+          { "id": 559, "min": 180, "max": 270, "weight": 10 },   //Body rune
+          { "id": 557, "min": 180, "max": 270, "weight": 10 }   //Earth rune
+        ]
+      }
+    ]
+  }
+]

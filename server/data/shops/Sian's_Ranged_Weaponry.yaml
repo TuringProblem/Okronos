@@ -1,0 +1,29 @@
+---
+identifier: "5wTjl3KVH0ITBigwtAkd5f0dB1RYKq"
+title: "Sian's Ranged Weaponry"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 1
+defaultStock:
+- id: 888
+  amount: 100000
+- id: 890
+  amount: 100000
+- id: 892
+  amount: 100000
+- id: 853
+  amount: 100000
+- id: 851
+  amount: 100000
+- id: 857
+  amount: 100000
+- id: 855
+  amount: 100000

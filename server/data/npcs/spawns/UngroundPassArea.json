@@ -1,0 +1,1152 @@
+[
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2432",
+		"y": "9724",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2433",
+		"y": "9687",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2434",
+		"y": "9693",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2434",
+		"y": "9721",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2435",
+		"y": "9690",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2436",
+		"y": "9725",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2437",
+		"y": "9688",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2437",
+		"y": "9692",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2437",
+		"y": "9722",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "2438",
+		"y": "9700",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "2439",
+		"y": "9696",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2440",
+		"y": "9689",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "2441",
+		"y": "9698",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Koftik",
+		"id": "4529",
+		"x": "2449",
+		"y": "9716",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "26",
+		"x": "2452",
+		"y": "9684",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "28",
+		"x": "2453",
+		"y": "9680",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "30",
+		"x": "2455",
+		"y": "9677",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "49",
+		"x": "2455",
+		"y": "9680",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2468",
+		"y": "9696",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2471",
+		"y": "9693",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Koftik",
+		"id": "4530",
+		"x": "2479",
+		"y": "9679",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2485",
+		"y": "9704",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2488",
+		"y": "9703",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2490",
+		"y": "9698",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2491",
+		"y": "9705",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Koftik",
+		"id": "4532",
+		"x": "2443",
+		"y": "9607",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2387",
+		"y": "9685",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2389",
+		"y": "9683",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "27",
+		"x": "2394",
+		"y": "9707",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2395",
+		"y": "9683",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "49",
+		"x": "2396",
+		"y": "9710",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2397",
+		"y": "9684",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "51",
+		"x": "2397",
+		"y": "9702",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "29",
+		"x": "2398",
+		"y": "9704",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "50",
+		"x": "2398",
+		"y": "9707",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "51",
+		"x": "2399",
+		"y": "9712",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2400",
+		"y": "9682",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "31",
+		"x": "2400",
+		"y": "9701",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "50",
+		"x": "2401",
+		"y": "9714",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed spider",
+		"id": "4533",
+		"x": "2402",
+		"y": "9680",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "26",
+		"x": "2405",
+		"y": "9713",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "51",
+		"x": "2406",
+		"y": "9709",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "49",
+		"x": "2407",
+		"y": "9702",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "49",
+		"x": "2408",
+		"y": "9712",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "50",
+		"x": "2409",
+		"y": "9704",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "28",
+		"x": "2410",
+		"y": "9707",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sir Carl",
+		"id": "9211",
+		"x": "2422",
+		"y": "9718",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sir Jerro",
+		"id": "9210",
+		"x": "2424",
+		"y": "9721",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sir Harry",
+		"id": "9212",
+		"x": "2426",
+		"y": "9718",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2370",
+		"y": "9640",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2370",
+		"y": "9641",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed giant rat",
+		"id": "4534",
+		"x": "2370",
+		"y": "9642",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "70",
+		"x": "2371",
+		"y": "9611",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "78",
+		"x": "2372",
+		"y": "9606",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed giant rat",
+		"id": "4535",
+		"x": "2372",
+		"y": "9640",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2372",
+		"y": "9642",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2372",
+		"y": "9643",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2373",
+		"y": "9630",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2374",
+		"y": "9635",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "71",
+		"x": "2375",
+		"y": "9609",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "2377",
+		"y": "9657",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2379",
+		"y": "9630",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2379",
+		"y": "9638",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "77",
+		"x": "2380",
+		"y": "9609",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9208",
+		"x": "2380",
+		"y": "9659",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2381",
+		"y": "9619",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9207",
+		"x": "2381",
+		"y": "9654",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "2381",
+		"y": "9655",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9207",
+		"x": "2382",
+		"y": "9653",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "80",
+		"x": "2383",
+		"y": "9605",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2383",
+		"y": "9619",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2384",
+		"y": "9619",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2384",
+		"y": "9640",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "2384",
+		"y": "9655",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9206",
+		"x": "2384",
+		"y": "9659",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2385",
+		"y": "9624",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9206",
+		"x": "2385",
+		"y": "9657",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2386",
+		"y": "9619",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9205",
+		"x": "2387",
+		"y": "9653",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9204",
+		"x": "2389",
+		"y": "9658",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2390",
+		"y": "9620",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed giant rat",
+		"id": "4534",
+		"x": "2391",
+		"y": "9618",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3046",
+		"x": "2391",
+		"y": "9655",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "8677",
+		"x": "2392",
+		"y": "9653",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "2392",
+		"y": "9656",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9203",
+		"x": "2392",
+		"y": "9659",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2393",
+		"y": "9618",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2394",
+		"y": "9639",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slave",
+		"id": "9203",
+		"x": "2394",
+		"y": "9658",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2395",
+		"y": "9619",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "70",
+		"x": "2396",
+		"y": "9611",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2396",
+		"y": "9620",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "2396",
+		"y": "9658",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Unicorn",
+		"id": "9209",
+		"x": "2397",
+		"y": "9603",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "78",
+		"x": "2397",
+		"y": "9606",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blessed giant rat",
+		"id": "4534",
+		"x": "2397",
+		"y": "9619",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "2397",
+		"y": "9655",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "71",
+		"x": "2400",
+		"y": "9609",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2400",
+		"y": "9620",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2402",
+		"y": "9628",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "77",
+		"x": "2405",
+		"y": "9609",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2405",
+		"y": "9620",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2406",
+		"y": "9628",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2407",
+		"y": "9620",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "80",
+		"x": "2408",
+		"y": "9605",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2409",
+		"y": "9629",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2412",
+		"y": "9619",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2412",
+		"y": "9640",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2419",
+		"y": "9636",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2421",
+		"y": "9632",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2421",
+		"y": "9634",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2422",
+		"y": "9622",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2422",
+		"y": "9631",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Koftik",
+		"id": "8977",
+		"x": "2423",
+		"y": "9609",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "<col=00ffff>Boulder</col>",
+		"id": "4543",
+		"x": "2396",
+		"y": "9595",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

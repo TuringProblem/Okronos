@@ -1,0 +1,45 @@
+[
+  { #Long-tailed Wyvern (152)
+    "ids": [ 7792 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.LongtailedWyvern",
+    //Combat Info
+    "hitpoints": 200,
+    "aggressive_level": 280,
+    "max_damage": 13,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 66,
+    "slayer_xp": 205.0,
+    "slayer_tasks": [ "Fossil island wyvern" ],
+    //Combat Stats
+    "attack": 125,
+    "strength": 120,
+    "defence": 90,
+    "ranged": 90,
+    "magic": 90,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 70,
+    "slash_defence": 70,
+    "crush_defence": 70,
+    "magic_defence": 140,
+    "ranged_defence": 120,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 4,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7651,
+    "defend_animation": 7659,
+    "death_animation": 7652
+  }
+]

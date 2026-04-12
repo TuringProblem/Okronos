@@ -1,0 +1,27 @@
+---
+identifier: "7Zv06DY097aWXpkrFWDP7vODY3W48m"
+title: "The Shrimp and Parrot"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 75
+  changePer: 3
+defaultStock:
+- id: 347
+  amount: 100000
+- id: 339
+  amount: 100000
+- id: 361
+  amount: 100000
+- id: 379
+  amount: 100000
+- id: 373
+  amount: 100000
+- id: 3144
+  amount: 100000

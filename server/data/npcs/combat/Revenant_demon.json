@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [
+      7936
+    ],
+    "handler": "io.ruin.model.activities.miscpvm.Revenant",
+    "hitpoints": 80,
+    "aggressive_level": 135,
+    "aggressive": true,
+    "max_damage": 18,
+    "attack_style": "CRUSH",
+    "slayer_level": 1,
+    "slayer_xp": 86.0,
+	"slayer_tasks": [ "Revenant" ],
+    "slayer_categories": [
+      "Revenant"
+    ],
+    "attack": 113,
+    "strength": 50,
+    "defence": 80,
+    "ranged": 80,
+    "magic": 120,
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 50,
+    "ranged_attack": 40,
+    "stab_defence": 124,
+    "slash_defence": 118,
+    "crush_defence": 130,
+    "magic_defence": 85,
+    "ranged_defence": 90,
+    "poison_immunity": false,
+    "venom_immunity": false,
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    "local_loot": false,
+    "combat_xp_modifier": 0.0,
+	"defend_animation": 65,
+	"attack_animation": 64,
+	"death_animation": 67,
+    "random_drop_count": 0
+  }
+]

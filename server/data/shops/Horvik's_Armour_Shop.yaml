@@ -1,0 +1,37 @@
+---
+identifier: "GbU56FiI2KwFf9uLt5wSDlAbVUK5Jy"
+title: "Horvik's Armour Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 1103
+  amount: 100000
+- id: 1101
+  amount: 100000
+- id: 1105
+  amount: 100000
+- id: 1117
+  amount: 100000
+- id: 1115
+  amount: 100000
+- id: 1119
+  amount: 100000
+- id: 1125
+  amount: 100000
+- id: 1121
+  amount: 100000
+- id: 1067
+  amount: 100000
+- id: 1133
+  amount: 100000
+- id: 1097
+  amount: 100000

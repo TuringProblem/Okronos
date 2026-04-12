@@ -1,0 +1,1522 @@
+[
+	{
+		"name": "Warrior woman",
+		"id": "3260",
+		"x": "3202",
+		"y": "3487",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3204",
+		"y": "3496",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3205",
+		"y": "3463",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Warrior woman",
+		"id": "3260",
+		"x": "3205",
+		"y": "3487",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3206",
+		"y": "3462",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Surok Magis",
+		"id": "6186",
+		"x": "3208",
+		"y": "3496",
+		"z": "0",
+		"direction": "S",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Reldo",
+		"id": "6203",
+		"x": "3209",
+		"y": "3495",
+		"z": "0",
+		"direction": "S",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3211",
+		"y": "3463",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3212",
+		"y": "3462",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3011",
+		"x": "3213",
+		"y": "3465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "528",
+		"x": "3213",
+		"y": "3476",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "3213",
+		"y": "3502",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3215",
+		"y": "3464",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3217",
+		"y": "3461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jardric",
+		"id": "8110",
+		"x": "3221",
+		"y": "3476",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3222",
+		"y": "3464",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "King Roald",
+		"id": "5215",
+		"x": "3222",
+		"y": "3472",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Aeonisig Raispher",
+		"id": "3774",
+		"x": "3224",
+		"y": "3473",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Bob",
+		"id": "7503",
+		"x": "3224",
+		"y": "3477",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Knight",
+		"id": "516",
+		"x": "3226",
+		"y": "3515",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ellamaria",
+		"id": "1390",
+		"x": "3228",
+		"y": "3477",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Grizzly bear",
+		"id": "2838",
+		"x": "3230",
+		"y": "3500",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "3234",
+		"y": "3506",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black Knight",
+		"id": "516",
+		"x": "3234",
+		"y": "3518",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bob",
+		"id": "10414",
+		"x": "3237",
+		"y": "3484",
+		"z": "0",
+		"direction": "E",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3240",
+		"y": "3500",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3244",
+		"y": "3496",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "3246",
+		"y": "3458",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3246",
+		"y": "3501",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "3261",
+		"y": "3514",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3205",
+		"y": "3494",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3205",
+		"y": "3498",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ambassador Ferrnook",
+		"id": "2557",
+		"x": "3209",
+		"y": "3474",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Elsie",
+		"id": "2900",
+		"x": "3255",
+		"y": "3488",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3203",
+		"y": "3479",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3204",
+		"y": "3477",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain Rovin",
+		"id": "5085",
+		"x": "3204",
+		"y": "3496",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3206",
+		"y": "3478",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "3010",
+		"x": "3206",
+		"y": "3481",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain",
+		"id": "3013",
+		"x": "3213",
+		"y": "3491",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trainee Guard",
+		"id": "3012",
+		"x": "3215",
+		"y": "3490",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "James",
+		"id": "5885",
+		"x": "3170",
+		"y": "3461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Abigaila",
+		"id": "8368",
+		"x": "3185",
+		"y": "3516",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Relobo Blinyo (logs)",
+		"id": "5451",
+		"x": "3152",
+		"y": "3489",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Bob Barter (herbs)",
+		"id": "5449",
+		"x": "3156",
+		"y": "3481",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Hofuthand (weapons and armour)",
+		"id": "5452",
+		"x": "3156",
+		"y": "3498",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "1633",
+		"x": "3163",
+		"y": "3489",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Financial Wizard",
+		"id": "6528",
+		"x": "3163",
+		"y": "3490",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Grand Exchange Clerk",
+		"id": "2149",
+		"x": "3164",
+		"y": "3488",
+		"z": "0",
+		"direction": "S",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Grand Exchange Clerk",
+		"id": "2151",
+		"x": "3164",
+		"y": "3491",
+		"z": "0",
+		"direction": "N",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Brugsen Bursen",
+		"id": "2152",
+		"x": "3165",
+		"y": "3477",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Grand Exchange Clerk",
+		"id": "2148",
+		"x": "3165",
+		"y": "3488",
+		"z": "0",
+		"direction": "S",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Grand Exchange Clerk",
+		"id": "2150",
+		"x": "3165",
+		"y": "3491",
+		"z": "0",
+		"direction": "N",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "1634",
+		"x": "3166",
+		"y": "3489",
+		"z": "0",
+		"direction": "E",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "3089",
+		"x": "3166",
+		"y": "3490",
+		"z": "0",
+		"direction": "E",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Murky Matt (runes)",
+		"id": "5450",
+		"x": "3173",
+		"y": "3481",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Farid Morrisane (ores and bars)",
+		"id": "3115",
+		"x": "3173",
+		"y": "3498",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Romily Weaklax",
+		"id": "6533",
+		"x": "3139",
+		"y": "3448",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Apothecary",
+		"id": "5036",
+		"x": "3195",
+		"y": "3404",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Juliet",
+		"id": "6268",
+		"x": "3158",
+		"y": "3425",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Phillipa",
+		"id": "5040",
+		"x": "3162",
+		"y": "3430",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3138",
+		"y": "3352",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3140",
+		"y": "3360",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3140",
+		"y": "3387",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3142",
+		"y": "3386",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3143",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead tree",
+		"id": "4418",
+		"x": "3143",
+		"y": "3365",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3143",
+		"y": "3384",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3144",
+		"y": "3382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3146",
+		"y": "3382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3147",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3148",
+		"y": "3372",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3148",
+		"y": "3374",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3150",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3150",
+		"y": "3370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3150",
+		"y": "3371",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3150",
+		"y": "3373",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3151",
+		"y": "3371",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3152",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2793",
+		"x": "3155",
+		"y": "3331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow calf",
+		"id": "2794",
+		"x": "3155",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2791",
+		"x": "3156",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3157",
+		"y": "3352",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3157",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow calf",
+		"id": "2794",
+		"x": "3158",
+		"y": "3329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2791",
+		"x": "3158",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2791",
+		"x": "3160",
+		"y": "3329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow calf",
+		"id": "2792",
+		"x": "3160",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3160",
+		"y": "3351",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3161",
+		"y": "3350",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2790",
+		"x": "3162",
+		"y": "3335",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Farmer",
+		"id": "3243",
+		"x": "3162",
+		"y": "3338",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3162",
+		"y": "3351",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3163",
+		"y": "3350",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2793",
+		"x": "3164",
+		"y": "3340",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3164",
+		"y": "3348",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3169",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3169",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3169",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2793",
+		"x": "3170",
+		"y": "3329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3171",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3172",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3172",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2790",
+		"x": "3173",
+		"y": "3332",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow calf",
+		"id": "2794",
+		"x": "3173",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3173",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3173",
+		"y": "3356",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2791",
+		"x": "3174",
+		"y": "3341",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3174",
+		"y": "3347",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3175",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1839",
+		"x": "3175",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mugger",
+		"id": "513",
+		"x": "3175",
+		"y": "3361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2791",
+		"x": "3177",
+		"y": "3333",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow calf",
+		"id": "2792",
+		"x": "3177",
+		"y": "3339",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2790",
+		"x": "3180",
+		"y": "3340",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dreven",
+		"id": "2674",
+		"x": "3181",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2793",
+		"x": "3182",
+		"y": "3329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tool Leprechaun",
+		"id": "0",
+		"x": "3182",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2793",
+		"x": "3184",
+		"y": "3341",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "5217",
+		"x": "3184",
+		"y": "3385",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "5219",
+		"x": "3184",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "5220",
+		"x": "3185",
+		"y": "3390",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Katrine",
+		"id": "5210",
+		"x": "3186",
+		"y": "3385",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow calf",
+		"id": "2794",
+		"x": "3191",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3191",
+		"y": "3342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guildmaster",
+		"id": "814",
+		"x": "3191",
+		"y": "3362",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Farmer",
+		"id": "3114",
+		"x": "3192",
+		"y": "3330",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3194",
+		"y": "3341",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3194",
+		"y": "3343",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2790",
+		"x": "3195",
+		"y": "3335",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Duck",
+		"id": "1838",
+		"x": "3196",
+		"y": "3339",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1173",
+		"x": "3196",
+		"y": "3352",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2791",
+		"x": "3197",
+		"y": "3331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1174",
+		"x": "3197",
+		"y": "3352",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1173",
+		"x": "3197",
+		"y": "3353",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1174",
+		"x": "3198",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1173",
+		"x": "3198",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scavvo",
+		"id": "2871",
+		"x": "3191",
+		"y": "3351",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Valaine",
+		"id": "2870",
+		"x": "3193",
+		"y": "3361",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3093",
+		"y": "9754",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3099",
+		"y": "9755",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3099",
+		"y": "9765",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3101",
+		"y": "9748",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3103",
+		"y": "9764",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3104",
+		"y": "9760",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "3110",
+		"y": "9745",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "3111",
+		"y": "9746",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3111",
+		"y": "9752",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "3112",
+		"y": "9748",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "3112",
+		"y": "9749",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3113",
+		"y": "9754",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3116",
+		"y": "9754",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

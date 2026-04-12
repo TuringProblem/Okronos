@@ -1,0 +1,432 @@
+[
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3016",
+		"y": "4891",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3017",
+		"y": "4903",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3017",
+		"y": "4910",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3018",
+		"y": "4902",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3020",
+		"y": "4877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal guardian",
+		"id": "2585",
+		"x": "3020",
+		"y": "4896",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal walker",
+		"id": "2586",
+		"x": "3020",
+		"y": "4914",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3021",
+		"y": "4918",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3023",
+		"y": "4877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3025",
+		"y": "4916",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal guardian",
+		"id": "2585",
+		"x": "3027",
+		"y": "4914",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3029",
+		"y": "4899",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3029",
+		"y": "4917",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3030",
+		"y": "4876",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal walker",
+		"id": "2586",
+		"x": "3031",
+		"y": "4872",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal walker",
+		"id": "2586",
+		"x": "3031",
+		"y": "4902",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal walker",
+		"id": "2586",
+		"x": "3033",
+		"y": "4886",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3035",
+		"y": "4883",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3036",
+		"y": "4905",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3036",
+		"y": "4909",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal guardian",
+		"id": "2585",
+		"x": "3038",
+		"y": "4906",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3040",
+		"y": "4870",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal walker",
+		"id": "2586",
+		"x": "3043",
+		"y": "4902",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal guardian",
+		"id": "2585",
+		"x": "3044",
+		"y": "4884",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3045",
+		"y": "4916",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3046",
+		"y": "4874",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3046",
+		"y": "4887",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3048",
+		"y": "4917",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3050",
+		"y": "4873",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal guardian",
+		"id": "2585",
+		"x": "3052",
+		"y": "4898",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3053",
+		"y": "4892",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3056",
+		"y": "4909",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3056",
+		"y": "4912",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal guardian",
+		"id": "2585",
+		"x": "3057",
+		"y": "4908",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3061",
+		"y": "4880",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal demon",
+		"id": "415",
+		"x": "3061",
+		"y": "4882",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal walker",
+		"id": "2586",
+		"x": "3061",
+		"y": "4915",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal walker",
+		"id": "2586",
+		"x": "3063",
+		"y": "4885",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Abyssal leech",
+		"id": "2584",
+		"x": "3064",
+		"y": "4901",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "<col=00ffff>Eye</col>",
+		"id": "6479",
+		"x": "3024",
+		"y": "4770",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "<col=00ffff>Eye</col>",
+		"id": "6480",
+		"x": "3027",
+		"y": "4786",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "<col=00ffff>Eye</col>",
+		"id": "6480",
+		"x": "3051",
+		"y": "4771",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "<col=00ffff>Eye</col>",
+		"id": "6479",
+		"x": "3051",
+		"y": "4790",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

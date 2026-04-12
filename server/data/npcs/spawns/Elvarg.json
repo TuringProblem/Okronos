@@ -1,0 +1,212 @@
+[
+	{
+		"name": "Skeleton",
+		"id": "79",
+		"x": "2830",
+		"y": "9657",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "77",
+		"x": "2832",
+		"y": "9661",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "77",
+		"x": "2834",
+		"y": "9650",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "80",
+		"x": "2834",
+		"y": "9655",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "78",
+		"x": "2834",
+		"y": "9658",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2005",
+		"x": "2835",
+		"y": "9602",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2018",
+		"x": "2837",
+		"y": "9623",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2007",
+		"x": "2838",
+		"y": "9610",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "81",
+		"x": "2838",
+		"y": "9653",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2006",
+		"x": "2839",
+		"y": "9604",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "83",
+		"x": "2840",
+		"y": "9628",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2840",
+		"y": "9638",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "79",
+		"x": "2840",
+		"y": "9649",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "83",
+		"x": "2841",
+		"y": "9643",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2842",
+		"y": "9632",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2843",
+		"y": "9645",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2844",
+		"y": "9628",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2008",
+		"x": "2845",
+		"y": "9612",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "83",
+		"x": "2845",
+		"y": "9636",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2860",
+		"y": "9635",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2862",
+		"y": "9638",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

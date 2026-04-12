@@ -1,0 +1,53 @@
+---
+identifier: "1998df04-5091-1ddc-8c5a-4784db5gf2144"
+title: "Boss Points Shop"
+currency: "BOSS_POINTS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+- id: 6199
+  amount: 100000
+  price: 50
+- id: 11942
+  amount: 100000
+  price: 50
+- id: 989
+  amount: 100000
+  price: 6
+- id: 24777
+  amount: 100000
+  price: 250
+- id: 23808
+  amount: 100000
+  price: 250
+- id: 537
+  amount: 100000
+  price: 1
+- id: 11230
+  amount: 100000
+  price: 1
+- id: 11889
+  amount: 100000
+  price: 275
+- id: 22951
+  amount: 100000
+  price: 50
+- id: 19564
+  amount: 100000
+  price: 25
+- id: 21907
+  amount: 100000
+  price: 200
+- id: 12791
+  amount: 100000
+  price: 200
+- id: 12785
+  amount: 100000
+  price: 500
+- id: 6758
+  amount: 100000
+  price: 50

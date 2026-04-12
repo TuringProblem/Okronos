@@ -1,0 +1,39 @@
+---
+identifier: "mbXtTbg8yhKf9QYxqY0USiEYdmSQfv"
+title: "Aleck's Hunter Emporium"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 120
+  buysAt: 70
+  changePer: 2
+defaultStock:
+- id: 10010
+  amount: 100000
+- id: 10012
+  amount: 100000
+- id: 10025
+  amount: 100000
+- id: 10150
+  amount: 100000
+- id: 10006
+  amount: 100000
+- id: 10008
+  amount: 100000
+- id: 10029
+  amount: 100000
+- id: 596
+  amount: 100000
+- id: 10031
+  amount: 100000
+- id: 12740
+  amount: 100000
+- id: 12742
+  amount: 100000
+- id: 12744
+  amount: 100000

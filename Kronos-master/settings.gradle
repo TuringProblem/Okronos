@@ -1,8 +1,0 @@
-rootProject.name = "Kronos"
-
-include ':kronos-server'
-include ':kronos-api'
-include ':kronos-update-server'
-include ':kronos-launcher'
-include ':kronos-webhooks'
-

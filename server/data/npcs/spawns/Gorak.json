@@ -1,0 +1,112 @@
+[
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3023",
+		"y": "5339",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3023",
+		"y": "5350",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3033",
+		"y": "5343",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3035",
+		"y": "5350",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3037",
+		"y": "5330",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3038",
+		"y": "5344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3038",
+		"y": "5361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3040",
+		"y": "5351",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3042",
+		"y": "5347",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3052",
+		"y": "5344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorak",
+		"id": "1834",
+		"x": "3052",
+		"y": "5353",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

@@ -1,0 +1,49 @@
+---
+identifier: "Nu4DcTWo8BpLihH4w589qOTDirk6HT"
+title: "Fancy Clothes Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+  - id: 1949
+    amount: 100000
+  - id: 579
+    amount: 100000
+  - id: 1023
+    amount: 100000
+  - id: 958
+    amount: 100000
+  - id: 948
+    amount: 100000
+  - id: 1733
+    amount: 100000
+  - id: 1734
+    amount: 100000
+  - id: 1059
+    amount: 100000
+  - id: 1061
+    amount: 100000
+  - id: 428
+    amount: 100000
+  - id: 426
+    amount: 100000
+  - id: 1757
+    amount: 100000
+  - id: 1013
+    amount: 100000
+  - id: 1015
+    amount: 100000
+  - id: 1011
+    amount: 100000
+  - id: 1007
+    amount: 100000
+  - id: 1025
+    amount: 100000

@@ -1,0 +1,86 @@
+---
+identifier: "c1acaaeb-7e71-492d-97f1-ba2d38c90648"
+title: "Ranged Weapons & Ammo Shop"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 200
+  buysAt: 50
+  changePer: 2
+defaultStock:
+  - id: 841
+    amount: 100000
+  - id: 843
+    amount: 100000
+  - id: 849
+    amount: 100000
+  - id: 853
+    amount: 100000
+  - id: 857
+    amount: 100000
+  - id: 861
+    amount: 100000
+  - id: 882
+    amount: 100000
+  - id: 884
+    amount: 100000
+  - id: 886
+    amount: 100000
+  - id: 888
+    amount: 100000
+  - id: 890
+    amount: 100000
+  - id: 892
+    amount: 100000
+  - id: 863
+    amount: 100000
+  - id: 864
+    amount: 100000
+  - id: 865
+    amount: 100000
+  - id: 866
+    amount: 100000
+  - id: 867
+    amount: 100000
+  - id: 868
+    amount: 100000
+  - id: 9174
+    amount: 100000
+  - id: 9177
+    amount: 100000
+  - id: 9179
+    amount: 100000
+  - id: 9181
+    amount: 100000
+  - id: 9183
+    amount: 100000
+    price: 1200
+  - id: 9185
+    amount: 100000
+    price: 10000
+  - id: 877
+    amount: 100000
+    price: 2
+  - id: 9140
+    amount: 100000
+  - id: 9141
+    amount: 100000
+  - id: 9142
+    amount: 100000
+  - id: 9143
+    amount: 100000
+  - id: 9144
+    amount: 100000
+  - id: 809
+    amount: 100000
+  - id: 810
+    amount: 100000
+  - id: 811
+    amount: 100000
+  - id: 811
+    amount: 100000

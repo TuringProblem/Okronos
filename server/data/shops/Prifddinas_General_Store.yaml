@@ -1,0 +1,56 @@
+---
+identifier: "Io1U8r09qhQRTrgqm1PxXqGAchlVpx"
+title: "Prifddinas General Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 3
+defaultStock:
+- id: 1931
+  amount: 100000
+- id: 1935
+  amount: 100000
+- id: 20742
+  amount: 100000
+- id: 1735
+  amount: 100000
+- id: 1925
+  amount: 100000
+- id: 1923
+  amount: 100000
+- id: 1887
+  amount: 100000
+- id: 590
+  amount: 100000
+- id: 1755
+  amount: 100000
+- id: 2347
+  amount: 100000
+- id: 954
+  amount: 100000
+- id: 946
+  amount: 100000
+- id: 227
+  amount: 100000
+- id: 233
+  amount: 100000
+- id: 36
+  amount: 100000
+- id: 596
+  amount: 100000
+- id: 2142
+  amount: 100000
+- id: 1351
+  amount: 100000
+- id: 1349
+  amount: 100000
+- id: 970
+  amount: 100000

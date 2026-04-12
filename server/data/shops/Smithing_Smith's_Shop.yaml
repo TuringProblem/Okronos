@@ -1,0 +1,26 @@
+---
+identifier: "RHKAxyno4El2xa05hhx24SfOK3Kb8j"
+title: "Smithing Smith's Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 1321
+  amount: 100000
+- id: 1323
+  amount: 100000
+- id: 1325
+  amount: 100000
+- id: 1329
+  amount: 100000
+- id: 2347
+  amount: 100000

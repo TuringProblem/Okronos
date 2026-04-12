@@ -1,0 +1,14 @@
+services:
+  db_sql:
+    image: "${CI_REGISTRY_IMAGE}/db_sql:${CI_COMMIT_SHORT_SHA}"
+    environment:
+      MARIADB_ROOT_PASSWORD: ${DB_SQL_ROOT_PASSWORD}
+      MARIADB_USER: ${DB_SQL_USER}
+      MARIADB_PASSWORD: ${DB_SQL_USER_PASSWORD}
+      MARIADB_FORCE_INIT_SCRIPTS: "1"
+    volumes:
+      - data_db_sql:/var/lib/mysql
+  db_mongo:
+    image: "mongo:latest"
+volumes:
+  data_db_sql:

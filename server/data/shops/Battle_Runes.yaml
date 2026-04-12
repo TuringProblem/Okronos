@@ -1,0 +1,43 @@
+---
+identifier: "692511b8-9397-4f34-a546-ae89dcb7790b"
+title: "Battle Runes"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 3
+defaultStock:
+- id: 554
+  amount: 100000
+- id: 555
+  amount: 100000
+- id: 556
+  amount: 100000
+- id: 557
+  amount: 100000
+- id: 558
+  amount: 100000
+- id: 562
+  amount: 100000
+- id: 560
+  amount: 100000
+- id: 565
+  amount: 100000
+- id: 12734
+  amount: 100000
+- id: 12730
+  amount: 100000
+- id: 12728
+  amount: 100000
+- id: 12732
+  amount: 100000
+- id: 12736
+  amount: 100000
+- id: 12738
+  amount: 100000

@@ -1,0 +1,48 @@
+---
+identifier: "wYFqu6sHo3TQpbWgHGRtrD1VxeV7Jrrpe8rp8"
+title: "Farming Shop"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 10000
+  buysAt: 1000
+  changePer: 2
+defaultStock:
+  - id: 5341
+    amount: 100000
+  - id: 952
+    amount: 100000
+  - id: 5343
+    amount: 100000
+  - id: 5340
+    amount: 100000
+  - id: 5291
+    amount: 100000
+  - id: 5292
+    amount: 100000
+  - id: 5293
+    amount: 100000
+  - id: 5294
+    amount: 100000
+  - id: 5295
+    amount: 100000
+  - id: 5296
+    amount: 100000
+  - id: 5297
+    amount: 100000
+  - id: 5298
+    amount: 100000
+  - id: 5299
+    amount: 100000
+  - id: 5300
+    amount: 100000
+    price: 1000
+  - id: 5312
+    amount: 100000
+  - id: 5313
+    amount: 100000

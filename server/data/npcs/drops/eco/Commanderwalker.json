@@ -1,0 +1,91 @@
+[
+  {
+    "ids": [ 15000 ],
+      "guaranteed": [
+      { "id": 13307, "min": 3, "max": 8 },   //blood money
+      { "id": 995, "min": 50000, "max": 150000 }   //Coins
+    ],
+    "tables": [
+      {
+        "name": "Common",
+        "weight": 1250,
+        "items": [
+          { "id": 11937, "min": 5, "max": 15, "weight": 5 },   //dark crabs x15
+          { "id": 1620, "min": 20, "max": 20, "weight": 3 },   //Onyx bolt tips
+          { "id": 1618, "min": 20, "max": 20, "weight": 3 },   //Death rune
+          { "id": 565, "min": 250, "max": 250, "weight": 3 },   //Blood rune
+          { "id": 5316, "min": 2, "max": 5, "weight": 3 },   //magic seed
+          { "id": 989, "min": 1, "max": 1, "weight": 3 },   //crystal key
+          { "id": 1514, "min": 50, "max": 50, "weight": 5 },   //magic logs x50
+          { "id": 1632, "min": 25, "max": 25, "weight": 5 },   //uncut dragonstone x25
+          { "id": 2510, "min": 25, "max": 25, "weight": 5 },   // Black dragonhide leather x25
+          { "id": 811, "min": 100, "max": 100, "weight": 5},   //rune darts x100
+          { "id": 995, "min": 250000, "max": 250000, "weight": 5 },   // coins x250k
+          { "id": 1080, "min": 3, "max": 3, "weight": 7 },   //rune platelegs x3
+          { "id": 1164, "min": 3, "max": 3, "weight": 7 },   // rune full helm x3
+          { "id": 1320, "min": 5, "max": 5, "weight": 7 }   //rune full helm x5
+
+        ]
+      },
+      {
+        "name": "Uncommon",
+        "weight": 200,
+        "items": [
+          { "id": 13307, "min": 25, "max": 55, "weight": 13 },   //Blood money
+          { "id": 12748, "min": 1, "max": 1, "weight": 13 },   //archaic emblem (tier2)
+          { "id": 3025, "min": 25, "max": 25, "weight": 13 },   // super restores x25
+          { "id": 7158, "min": 1, "max": 1, "weight": 13 },   //dragon 2h
+          { "id": 4088, "min": 3, "max": 3, "weight": 13 },   //dragon platelegs x3
+          { "id": 4586, "min": 3, "max": 3, "weight": 13 },   //dragon plateskirt x3
+
+
+          { "id": 1128, "min": 5, "max": 5, "weight": 15 },   //Rune plaetbody x5
+          { "id": 11232, "min": 100, "max": 100, "weight": 15 },   //dragon dart tips x100
+          { "id": 11212, "min": 100, "max": 100, "weight": 15 },   //Dragon arrows x100
+          { "id": 990, "min": 5, "max": 5, "weight": 15 },   //crystal key x5
+          { "id": 11990, "min": 1, "max": 1, "weight": 15 },   //fedora
+          { "id": 4588, "min": 2, "max": 2, "weight": 15 },  //Dragon scimitar x2
+
+          { "id": 3455, "min": 1, "max": 1, "weight": 17 },   //clue key
+          { "id": 3052, "min": 100, "max": 100, "weight": 17 },   //grimy snapdragon x100
+          { "id": 9342, "min": 100, "max": 100, "weight": 17 },   //onyx bolts
+          { "id": 21905, "min": 100, "max": 100, "weight": 17 }   //dragon bolts
+
+        ]
+      },
+      {
+        "name": "Rares",
+        "weight": 25,
+        "items": [
+            { "id": 11920, "min": 1, "max": 1, "weight": 20 },   //dragon pickaxe
+            { "id": 22557, "min": 1, "max": 1, "weight": 20 },   //amulet of averice
+            { "id": 13307, "min": 300, "max": 300, "weight": 20 },   //blood money x2500
+            { "id": 990, "min": 5, "max": 5, "weight": 20 },   //crystal key x5
+            { "id": 11924, "min": 1, "max": 1, "weight": 20 },   //odium ward
+            { "id": 11926, "min": 1, "max": 1, "weight": 20 },   //malediction ward
+
+            { "id": 995, "min": 2500000, "max": 2500000, "weight": 20 },   //coins x2.5m
+            { "id": 12846, "min": 1, "max": 1, "weight": 20 },   //target tele scroll
+            { "id": 1505, "min": 1, "max": 1, "weight": 20 },   //obelisk tele scroll
+            { "id": 21807, "min": 1, "max": 1, "weight": 20 , "broadcast": "GLOBAL"},   //Ancient emblem
+            { "id": 21810, "min": 1, "max": 1, "weight": 20 , "broadcast": "GLOBAL"},   //Ancient totem
+            { "id": 21813, "min": 1, "max": 1, "weight": 20, "broadcast": "GLOBAL"},   //Ancient statue
+            { "id": 22305, "min": 1, "max": 1, "weight": 20 , "broadcast": "GLOBAL"},   //Ancient relic
+            { "id": 25965, "min": 1, "max": 1, "weight": 15, "broadcast": "GLOBAL"}, //bloodline shard
+            { "id": 22542, "min": 1, "max": 1, "weight": 15, "broadcast": "GLOBAL"}, //vigg chainmace
+            { "id": 22547, "min": 1, "max": 1, "weight": 15, "broadcast": "GLOBAL"}, //craws bow
+            { "id": 22552, "min": 1, "max": 1, "weight": 15, "broadcast": "GLOBAL"}, //thammaron sceptre
+            { "id": 12804, "min": 1, "max": 1, "weight": 15, "broadcast": "GLOBAL"}, //saradomins tear
+            { "id": 13307, "min": 1500, "max": 1500, "weight": 15} //blood money
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 15,
+        "items": [
+
+        ]
+      }
+    ]
+  }
+]

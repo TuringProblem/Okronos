@@ -1,0 +1,34 @@
+---
+identifier: "2EA0xiXkNRdOJik9rbBfulE823vQKz"
+title: "Lletya Seamstress"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 55
+  changePer: 1
+defaultStock:
+- id: 1734
+  amount: 100000
+- id: 1733
+  amount: 100000
+- id: 1759
+  amount: 100000
+- id: 1763
+  amount: 100000
+- id: 1765
+  amount: 100000
+- id: 1767
+  amount: 100000
+- id: 1769
+  amount: 100000
+- id: 1771
+  amount: 100000
+- id: 1773
+  amount: 100000

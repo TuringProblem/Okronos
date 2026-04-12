@@ -1,0 +1,402 @@
+[
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2565",
+		"y": "9443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre chieftain",
+		"id": "4362",
+		"x": "2568",
+		"y": "9432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue dragon",
+		"id": "269",
+		"x": "2568",
+		"y": "9437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre chieftain",
+		"id": "4362",
+		"x": "2573",
+		"y": "9447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "70",
+		"x": "2576",
+		"y": "9436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2576",
+		"y": "9454",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre shaman",
+		"id": "6210",
+		"x": "2577",
+		"y": "9451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre chieftain",
+		"id": "4362",
+		"x": "2579",
+		"y": "9441",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue dragon",
+		"id": "268",
+		"x": "2579",
+		"y": "9445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "70",
+		"x": "2579",
+		"y": "9461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre chieftain",
+		"id": "4362",
+		"x": "2580",
+		"y": "9431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre shaman",
+		"id": "6209",
+		"x": "2582",
+		"y": "9437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2586",
+		"y": "9423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Greater demon",
+		"id": "2025",
+		"x": "2586",
+		"y": "9458",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2588",
+		"y": "9431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "70",
+		"x": "2590",
+		"y": "9437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue dragon",
+		"id": "265",
+		"x": "2590",
+		"y": "9461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue dragon",
+		"id": "265",
+		"x": "2592",
+		"y": "9431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre shaman",
+		"id": "6208",
+		"x": "2592",
+		"y": "9436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre shaman",
+		"id": "6211",
+		"x": "2599",
+		"y": "9461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2600",
+		"y": "9432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2604",
+		"y": "9441",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue dragon",
+		"id": "266",
+		"x": "2604",
+		"y": "9443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre shaman",
+		"id": "6213",
+		"x": "2606",
+		"y": "9438",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre shaman",
+		"id": "6212",
+		"x": "2607",
+		"y": "9451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2607",
+		"y": "9460",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2608",
+		"y": "9421",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2608",
+		"y": "9436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue dragon",
+		"id": "267",
+		"x": "2609",
+		"y": "9459",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2610",
+		"y": "9446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre chieftain",
+		"id": "4362",
+		"x": "2611",
+		"y": "9454",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2612",
+		"y": "9416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Greater demon",
+		"id": "2028",
+		"x": "2612",
+		"y": "9423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Greater demon",
+		"id": "2027",
+		"x": "2615",
+		"y": "9423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Greater demon",
+		"id": "2025",
+		"x": "2615",
+		"y": "9426",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre chieftain",
+		"id": "4362",
+		"x": "2616",
+		"y": "9447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2617",
+		"y": "9451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Greater demon",
+		"id": "2026",
+		"x": "2618",
+		"y": "9424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2619",
+		"y": "9427",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2620",
+		"y": "9419",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

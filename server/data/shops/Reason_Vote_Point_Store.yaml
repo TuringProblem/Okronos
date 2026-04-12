@@ -1,0 +1,124 @@
+---
+identifier: "VoteStore"
+title: "Vote Point Shop"
+currency: "VOTE"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 620
+  price: 1
+  amount: 1
+- id: 4
+  price: 10
+  amount: 1
+- id: 27012
+  price: 150
+  amount: 1
+- id: 30461
+  price: 25
+  amount: 1
+- id: 11738
+  price: 5
+  amount: 1
+- id: 19473
+  price: 5
+  amount: 1
+- id: 7478
+  price: 2
+  amount: 1
+- id: 30460
+  price: 10
+  amount: 1
+- id: 30458
+  price: 1
+  amount: 1
+- id: 10548
+  price: 20
+  amount: 1
+- id: 10551
+  price: 50
+  amount: 1
+- id: 8850
+  price: 6
+  amount: 1
+- id: 12954
+  price: 10
+  amount: 1
+- id: 8842
+  price: 25
+  amount: 1
+- id: 8839
+  price: 25
+  amount: 1
+- id: 8840
+  price: 25
+  amount: 1
+- id: 11663
+  price: 25
+  amount: 1
+- id: 11664
+  price: 25
+  amount: 1
+- id: 11665
+  price: 25
+  amount: 1
+- id: 7462
+  price: 15
+  amount: 1
+- id: 6570
+  price: 20
+  amount: 1
+- id: 21295
+  price: 75
+  amount: 1
+- id: 775
+  price: 5
+  amount: 1
+- id: 776
+  price: 5
+  amount: 1
+- id: 7409
+  price: 5
+  amount: 1
+- id: 9625
+  price: 5
+  amount: 1
+- id: 10588
+  price: 15
+  amount: 1
+- id: 7510
+  price: 5
+  amount: 1
+- id: 19634
+  price: 10
+  amount: 1
+- id: 13116
+  price: 15
+  amount: 1
+- id: 6714
+  price: 10
+  amount: 1
+- id: 22875
+  price: 2
+  amount: 1
+- id: 6666
+  price: 4
+  amount: 1
+- id: 12637
+  price: 8
+  amount: 1
+- id: 12638
+  price: 8
+  amount: 1
+- id: 12639
+  price: 8
+  amount: 1

@@ -1,0 +1,35 @@
+---
+identifier: "D7XfH047rOU09E2SvLTuGcHnMe7IHE"
+title: "Agmundi_Quality_Clothes"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 55
+  changePer: 3
+defaultStock:
+- id: 5050
+  amount: 100000
+- id: 5052
+  amount: 100000
+- id: 5038
+  amount: 100000
+- id: 5040
+  amount: 100000
+- id: 5044
+  amount: 100000
+- id: 5046
+  amount: 100000
+- id: 5026
+  amount: 100000
+- id: 5028
+  amount: 100000
+- id: 5032
+  amount: 100000
+- id: 5034
+  amount: 100000

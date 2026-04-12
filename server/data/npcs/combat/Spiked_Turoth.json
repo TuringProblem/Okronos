@@ -1,0 +1,45 @@
+[
+  {
+  "ids": [ 10397 ],
+  "handler": "io.ruin.model.activities.miscpvm.slayer.LeafVulnerableMonster",
+  //Combat Info
+  "hitpoints": 390,
+  "aggressive_level": 1,
+  "max_damage": 29,
+  "attack_style": "CRUSH",
+  //Slayer Info
+  "slayer_level": 55,
+  "slayer_xp": 1998.0,
+  "slayer_tasks": [ "Turoth" ],
+  //Combat Stats
+  "attack": 204,
+  "strength": 280,
+  "defence": 154,
+  "ranged": 1,
+  "magic": 1,
+  //Aggressive Stats
+  "stab_attack": 0,
+  "slash_attack": 0,
+  "crush_attack": 0,
+  "magic_attack": 0,
+  "ranged_attack": 0,
+  //Defensive Stats
+  "stab_defence": 0,
+  "slash_defence": 40,
+  "crush_defence": 40,
+  "magic_defence": 0,
+  "ranged_defence": 0,
+  //Immunites
+  "poison_immunity": true,
+  "venom_immunity": true,
+  //Speeds
+  "attack_ticks": 4,
+  "death_ticks": 5,
+  "respawn_ticks": -1,
+  //Animations
+  "spawn_animation": -1,
+  "attack_animation": 1595,
+  "defend_animation": 1596,
+  "death_animation": 1597
+  }
+]
