@@ -1,0 +1,432 @@
+[
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2690",
+		"y": "9807",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2693",
+		"y": "9816",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2695",
+		"y": "9826",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2696",
+		"y": "9839",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2708",
+		"y": "9842",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2719",
+		"y": "9845",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2731",
+		"y": "9845",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2744",
+		"y": "9840",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice spider",
+		"id": "3022",
+		"x": "2745",
+		"y": "9829",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2018",
+		"x": "2630",
+		"y": "9867",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2007",
+		"x": "2631",
+		"y": "9880",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2008",
+		"x": "2632",
+		"y": "9874",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": "3446",
+		"x": "2636",
+		"y": "9910",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2637",
+		"y": "9891",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": "3445",
+		"x": "2638",
+		"y": "9899",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2641",
+		"y": "9889",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2645",
+		"y": "9891",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": "3446",
+		"x": "2646",
+		"y": "9906",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2648",
+		"y": "9890",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": "3445",
+		"x": "2648",
+		"y": "9901",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": "3445",
+		"x": "2649",
+		"y": "9912",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2653",
+		"y": "9892",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Winelda",
+		"id": "3447",
+		"x": "2656",
+		"y": "9875",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2657",
+		"y": "9894",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2658",
+		"y": "9888",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2660",
+		"y": "9885",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2660",
+		"y": "9890",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "77",
+		"x": "2664",
+		"y": "9877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2637",
+		"y": "9809",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2639",
+		"y": "9814",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2641",
+		"y": "9811",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2641",
+		"y": "9819",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2644",
+		"y": "9822",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2658",
+		"y": "9820",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2659",
+		"y": "9809",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2663",
+		"y": "9804",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2664",
+		"y": "9831",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "2834",
+		"x": "2665",
+		"y": "9812",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2667",
+		"y": "9824",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2670",
+		"y": "9828",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "82",
+		"x": "2671",
+		"y": "9822",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant spider",
+		"id": "3017",
+		"x": "2648",
+		"y": "9761",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant spider",
+		"id": "3017",
+		"x": "2653",
+		"y": "9764",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

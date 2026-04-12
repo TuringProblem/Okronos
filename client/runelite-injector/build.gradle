@@ -1,0 +1,21 @@
+plugins {
+	id "java"
+	id "java-library"
+}
+
+repositories {
+	mavenCentral()
+	maven {
+		url = uri('https://repo.runelite.net')
+	}
+}
+
+dependencies {
+	implementation project(":runelite-api")
+	implementation "org.json:json:20240303"
+	implementation "org.ow2.asm:asm-tree:9.7"
+	implementation "org.ow2.asm:asm-commons:9.7"
+	implementation "org.ow2.asm:asm-util:9.7"
+	implementation "org.ow2.asm:asm:9.7"
+	implementation "net.runelite.archive-patcher:archive-patcher-applier:1.2"
+}

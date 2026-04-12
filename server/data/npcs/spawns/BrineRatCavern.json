@@ -1,0 +1,372 @@
+[
+	{
+		"name": "Boulder",
+		"id": "4502",
+		"x": "2691",
+		"y": "10124",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4494",
+		"x": "2700",
+		"y": "10165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brine rat",
+		"id": "4501",
+		"x": "2702",
+		"y": "10135",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4496",
+		"x": "2702",
+		"y": "10160",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brine rat",
+		"id": "4501",
+		"x": "2704",
+		"y": "10131",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brine rat",
+		"id": "4501",
+		"x": "2705",
+		"y": "10133",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4494",
+		"x": "2705",
+		"y": "10155",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock Crab",
+		"id": "100",
+		"x": "2706",
+		"y": "10159",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brine rat",
+		"id": "4501",
+		"x": "2707",
+		"y": "10137",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4495",
+		"x": "2707",
+		"y": "10163",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brine rat",
+		"id": "4501",
+		"x": "2708",
+		"y": "10131",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4491",
+		"x": "2708",
+		"y": "10146",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4498",
+		"x": "2709",
+		"y": "10168",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brine rat",
+		"id": "4501",
+		"x": "2710",
+		"y": "10134",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4495",
+		"x": "2710",
+		"y": "10158",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock Crab",
+		"id": "102",
+		"x": "2710",
+		"y": "10168",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brine rat",
+		"id": "4501",
+		"x": "2712",
+		"y": "10132",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4492",
+		"x": "2712",
+		"y": "10142",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4493",
+		"x": "2715",
+		"y": "10145",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4496",
+		"x": "2715",
+		"y": "10163",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4497",
+		"x": "2717",
+		"y": "10160",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "4504",
+		"x": "2720",
+		"y": "10134",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "4504",
+		"x": "2723",
+		"y": "10122",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4493",
+		"x": "2723",
+		"y": "10142",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4491",
+		"x": "2727",
+		"y": "10143",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4493",
+		"x": "2729",
+		"y": "10139",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "4504",
+		"x": "2730",
+		"y": "10131",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "4504",
+		"x": "2732",
+		"y": "10122",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4492",
+		"x": "2732",
+		"y": "10141",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant bat",
+		"id": "4504",
+		"x": "2734",
+		"y": "10128",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4498",
+		"x": "2734",
+		"y": "10165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4491",
+		"x": "2737",
+		"y": "10138",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4498",
+		"x": "2737",
+		"y": "10156",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock Crab",
+		"id": "102",
+		"x": "2739",
+		"y": "10153",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4497",
+		"x": "2742",
+		"y": "10154",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton fremennik",
+		"id": "4497",
+		"x": "2746",
+		"y": "10165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock Crab",
+		"id": "100",
+		"x": "2748",
+		"y": "10166",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

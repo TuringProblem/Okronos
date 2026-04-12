@@ -1,0 +1,31 @@
+---
+identifier: "XflCLDeIJmNwUuGYktWKCDcZnW"
+title: "Corrupted Shard Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 0
+  buysAt: 0
+  changePer: 0
+defaultStock:
+  - id: 12800
+    amount: 100000
+    price: 3500
+  - id: 12020
+    amount: 100000
+    price: 1250
+  - id: 12019
+    amount: 100000
+    price: 750
+  - id: 19473
+    amount: 100000
+    price: 50
+  - id: 12009
+    amount: 100000
+    price: 10

@@ -1,0 +1,81 @@
+[
+  {
+    "ids": [ 9293 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 20,
+        "items": [
+          { "id": 9075, "min": 15, "max": 35, "weight": 6 }, //Astral rune
+          { "id": 561, "min": 15, "max": 30, "weight": 6 }, //Nature rune
+          { "id": 563, "min": 20, "max": 30, "weight": 3 }, //Law rune
+          { "id": 560, "min": 10, "max": 25, "weight": 3 }, //Death rune
+          { "id": 565, "min": 8, "max": 20, "weight": 2 } //Blood rune
+        ]
+      },
+      {
+        "name": "Weapons and Armour",
+        "weight": 20,
+        "items": [
+          { "id": 1359, "min": 1, "max": 1, "weight": 6 }, //Rune axe
+          { "id": 1073, "min": 1, "max": 1, "weight": 6 }, //Adamant platelegs
+          { "id": 1199, "min": 1, "max": 1, "weight": 6 }, //Adamant kiteshield
+          { "id": 1373, "min": 1, "max": 1, "weight": 6 }, //Rune battleaxe
+          { "id": 1213, "min": 1, "max": 1, "weight": 6 }, //Rune dagger
+          { "id": 1333, "min": 1, "max": 1, "weight": 2 }, //Rune scimitar
+          { "id": 1247, "min": 1, "max": 1, "weight": 2 }, //Rune spear
+          { "id": 1147, "min": 1, "max": 1, "weight": 2 } //Rune med helm
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 20,
+        "items": [
+          { "id": 212, "min": 1, "max": 2, "weight": 6 }, //Grimy avantoe
+          { "id": 208, "min": 1, "max": 2, "weight": 6 }, //Grimy ranarr weed
+          { "id": 3052, "min": 1, "max": 2, "weight": 6 }, //Grimy snapdragon
+          { "id": 220, "min": 1, "max": 2, "weight": 6 } //Grimy torstol
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 20,
+        "items": [
+          { "id": 995, "min": 500, "max": 2499, "weight": 6 }, //Coins
+          { "id": 450, "min": 1, "max": 2, "weight": 2 } //Adamantite ore
+        ]
+      },
+      {
+        "name": "Gems",
+        "weight": 20,
+        "items": [
+          { "id": 1623, "min": 1, "max": 1, "weight": 80 }, //Uncut sapphire
+          { "id": 1621, "min": 1, "max":1, "weight": 60 }, //Uncut emerald
+          { "id": 1619, "min": 1, "max":1, "weight": 60 }, //Uncut ruby
+          { "id": 1452, "min": 1, "max":1, "weight": 40 }, //Chaos Talisman
+          { "id": 1617, "min": 1, "max":1, "weight": 20 }, //Uncut diamond
+          { "id": 989, "min": 1, "max": 1, "weight": 14 }, // Crystal key
+          { "id": 830, "min": 5, "max": 5, "weight": 10 }, //Rune javelin
+          { "id": 1247, "min": 1, "max": 1, "weight": 6 }, //Rune spear
+          { "id": 2366, "min": 1, "max": 1, "weight": 3 }, //Shield left half
+          { "id": 1249, "min": 1, "max": 1, "weight": 2 } //Dragon spear
+        ]
+      },
+      {
+        "name": "Tertiary",
+        "weight": 1,
+        "items": [
+          { "id": 2722, "min": 1, "max": 1, "weight": 10 }, //Clue scroll (hard)
+          { "id": 4109, "min": 1, "max": 1, "weight": 8 }, //Mystic hat (light)
+          { "id": 10976, "min": 1, "max": 1, "weight": 7 }, //Long bone
+          { "id": 7977, "min": 1, "max": 1, "weight": 6 }, //Basilisk head
+          { "id": 24268, "min": 1, "max": 1, "weight": 6, "broadcast": "GLOBAL"}, //Basilisk Jaw
+          { "id": 10977, "min": 1, "max": 1, "weight": 2 } //Curved bone
+        ]
+      }
+    ]
+  }
+]

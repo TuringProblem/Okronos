@@ -1,0 +1,31 @@
+---
+identifier: "R4MWTw5sUpRae2QOVsrwVxuH110dDG"
+title: "Rufus' Meat Emporium"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 70
+  changePer: 3
+defaultStock:
+- id: 2132
+  amount: 100000
+- id: 2138
+  amount: 100000
+- id: 2134
+  amount: 100000
+- id: 2136
+  amount: 100000
+- id: 335
+  amount: 100000
+- id: 349
+  amount: 100000
+- id: 331
+  amount: 100000
+- id: 383
+  amount: 100000

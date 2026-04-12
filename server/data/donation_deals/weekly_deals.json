@@ -1,0 +1,45 @@
+{
+  "dealExpirationTime": 1754915146,
+  "deals": [
+    {
+      "title": "Minerals",
+      "item": {
+        "id": 21535,
+        "amount": 250,
+        "uniqueValue": 0
+      }
+    },
+    {
+      "title": "Hippos",
+      "item": {
+        "id": 144,
+        "amount": 1,
+        "uniqueValue": 0
+      }
+    },
+    {
+      "title": "Giraffe",
+      "item": {
+        "id": 1003,
+        "amount": 1,
+        "uniqueValue": 0
+      }
+    },
+    {
+      "title": "Camel",
+      "item": {
+        "id": 33,
+        "amount": 50,
+        "uniqueValue": 0
+      }
+    },
+    {
+      "title": "Water",
+      "item": {
+        "id": 1,
+        "amount": 1,
+        "uniqueValue": 0
+      }
+    }
+  ]
+}

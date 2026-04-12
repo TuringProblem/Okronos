@@ -1,0 +1,110 @@
+plugins {
+	id("java")
+	id("application")
+	id 'com.github.johnrengelman.shadow' version '8.1.1'
+}
+
+
+java {
+	sourceCompatibility = "1.8"
+	targetCompatibility = "1.8"
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.apache.commons:commons-compress:1.27.1'
+}
+
+shadowJar {
+	zip64 = true
+	minimize()
+  mainClassName = "runelite.launcher.Launcher"
+}
+
+tasks.register("launcherRun", JavaExec.class) {
+	classpath = project.sourceSets.main.runtimeClasspath
+	workingDir = rootDir
+  mainClass = "runelite.launcher.Launcher"
+}
+
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+tasks.register("publishGitlab") {
+	doLast {
+		var project_id = System.getenv("CI_PROJECT_ID");
+		var deploy_token = System.getenv("GITLAB_DEPLOY_TOKEN");
+		var ci_env = System.getenv("CI_ENVIRONMENT_NAME");
+		var gitlab_host = "https://gitlab.com";
+		var file_path = "$rootDir/runelite-client-launcher/build/libs/runelite-client-launcher-all.jar";
+		var file_sha = fileSHA(file_path);
+		var file_version = "${ci_env}-latest";
+
+		{
+			var file_url_path = "client-launcher/${file_version}/client-launcher.jar";
+			var url = String.format("%s/api/v4/projects/%s/packages/generic/%s", gitlab_host, project_id, file_url_path);
+			HttpRequest request = HttpRequest.newBuilder()
+					.PUT(HttpRequest.BodyPublishers.ofFile(java.nio.file.Path.of(file_path)))
+					.uri(URI.create(url))
+					.header("DEPLOY-TOKEN", deploy_token)
+					.build();
+			var response = HttpClient.newHttpClient()
+					.send(request, HttpResponse.BodyHandlers.ofString());
+			if (response.statusCode() != 201) {
+				throw new RuntimeException("Unable to upload file " + response.body());
+			}
+		}
+
+		{
+			var file_url_path = "client-launcher/${file_version}/client-launcher.sha256";
+			var url = String.format("%s/api/v4/projects/%s/packages/generic/%s", gitlab_host, project_id, file_url_path);
+			HttpRequest request = HttpRequest.newBuilder()
+					.PUT(HttpRequest.BodyPublishers.ofString(file_sha))
+					.uri(URI.create(url))
+					.header("DEPLOY-TOKEN", deploy_token)
+					.build();
+			var response = HttpClient.newHttpClient()
+					.send(request, HttpResponse.BodyHandlers.ofString());
+			if (response.statusCode() != 201) {
+				throw new RuntimeException("Unable to upload file " + response.body());
+			}
+		}
+
+	}
+	dependsOn("shadowJar")
+}
+
+import java.security.MessageDigest;
+import java.io.BufferedInputStream;
+import java.io.FileInputStream;
+import java.util.Base64;
+
+static String fileSHA(String path) {
+	try {
+		byte[] buffer = new byte[8192];
+		int count;
+		MessageDigest digest = MessageDigest.getInstance("SHA-256");
+		try (BufferedInputStream bis = new BufferedInputStream(new FileInputStream(path))) {
+			while ((count = bis.read(buffer)) > 0) {
+				digest.update(buffer, 0, count);
+			}
+		}
+
+		byte[] hash = digest.digest();
+		final StringBuilder hexString = new StringBuilder();
+		for (int i = 0; i < hash.length; i++) {
+			final String hex = Integer.toHexString(0xff & hash[i]);
+			if (hex.length() == 1)
+				hexString.append('0');
+			hexString.append(hex);
+		}
+		return hexString.toString();
+	} catch (Exception e) {
+		return "";
+	}
+}

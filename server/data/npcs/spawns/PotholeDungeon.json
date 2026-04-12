@@ -1,0 +1,232 @@
+[
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2825",
+		"y": "9516",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2831",
+		"y": "9515",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2834",
+		"y": "9499",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2835",
+		"y": "9526",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2836",
+		"y": "9510",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2838",
+		"y": "9490",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2840",
+		"y": "9518",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2845",
+		"y": "9518",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2848",
+		"y": "9483",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2849",
+		"y": "9517",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2857",
+		"y": "9501",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2857",
+		"y": "9523",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2860",
+		"y": "9517",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2863",
+		"y": "9493",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2864",
+		"y": "9526",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2866",
+		"y": "9512",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2867",
+		"y": "9529",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2841",
+		"y": "9498",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2844",
+		"y": "9501",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2845",
+		"y": "9495",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2849",
+		"y": "9495",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2852",
+		"y": "9493",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2855",
+		"y": "9491",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

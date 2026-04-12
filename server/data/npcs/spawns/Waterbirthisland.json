@@ -1,0 +1,1552 @@
+[
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2501",
+		"y": "3755",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "100",
+		"x": "2502",
+		"y": "3754",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2503",
+		"y": "3730",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2512",
+		"y": "3765",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2512",
+		"y": "3766",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "100",
+		"x": "2514",
+		"y": "3766",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2521",
+		"y": "3756",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "100",
+		"x": "2522",
+		"y": "3716",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "100",
+		"x": "2523",
+		"y": "3723",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2524",
+		"y": "3724",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2526",
+		"y": "3739",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2529",
+		"y": "3740",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2530",
+		"y": "3762",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2531",
+		"y": "3721",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2532",
+		"y": "3760",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "100",
+		"x": "2534",
+		"y": "3719",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "100",
+		"x": "2537",
+		"y": "3765",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Askeladden",
+		"id": "2260",
+		"x": "2539",
+		"y": "3739",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2541",
+		"y": "3757",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2543",
+		"y": "3754",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jarvald",
+		"id": "10407",
+		"x": "2544",
+		"y": "3761",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "102",
+		"x": "2548",
+		"y": "3734",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rocks",
+		"id": "100",
+		"x": "2553",
+		"y": "3746",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Larrissa",
+		"id": "4425",
+		"x": "2508",
+		"y": "3635",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jossik",
+		"id": "4423",
+		"x": "2509",
+		"y": "3639",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "1544",
+		"x": "2498",
+		"y": "3547",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "1544",
+		"x": "2511",
+		"y": "3562",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "1544",
+		"x": "2516",
+		"y": "3575",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Private Pierre",
+		"id": "1660",
+		"x": "2520",
+		"y": "3568",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Private Pendron",
+		"id": "1659",
+		"x": "2525",
+		"y": "3564",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Private Paldon",
+		"id": "1661",
+		"x": "2526",
+		"y": "3575",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain Cain",
+		"id": "1657",
+		"x": "2534",
+		"y": "3568",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Commander Connad",
+		"id": "1656",
+		"x": "2536",
+		"y": "3577",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gunnjorn",
+		"id": "2153",
+		"x": "2540",
+		"y": "3548",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Barbarian guard",
+		"id": "5227",
+		"x": "2544",
+		"y": "3567",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barbarian guard",
+		"id": "5227",
+		"x": "2544",
+		"y": "3571",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barbarian",
+		"id": "3062",
+		"x": "2544",
+		"y": "3577",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barbarian",
+		"id": "3055",
+		"x": "2546",
+		"y": "3560",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barbarian",
+		"id": "3056",
+		"x": "2546",
+		"y": "3565",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barbarian",
+		"id": "3071",
+		"x": "2548",
+		"y": "3558",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barbarian",
+		"id": "3057",
+		"x": "2549",
+		"y": "3566",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barbarian",
+		"id": "3059",
+		"x": "2549",
+		"y": "3570",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barbarian",
+		"id": "3069",
+		"x": "2550",
+		"y": "3563",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Kharid Scorpion",
+		"id": "5229",
+		"x": "2552",
+		"y": "3570",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1174",
+		"x": "2553",
+		"y": "3562",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1174",
+		"x": "2553",
+		"y": "3565",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1173",
+		"x": "2554",
+		"y": "3563",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1944",
+		"y": "4356",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1957",
+		"y": "4368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1939",
+		"y": "4376",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1948",
+		"y": "4376",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1929",
+		"y": "4387",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1930",
+		"y": "4383",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1931",
+		"y": "4392",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1939",
+		"y": "4391",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1944",
+		"y": "4394",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1951",
+		"y": "4391",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1957",
+		"y": "4393",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1968",
+		"y": "4397",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1972",
+		"y": "4400",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1972",
+		"y": "4404",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant Rock Crab",
+		"id": "5940",
+		"x": "1879",
+		"y": "4375",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1882",
+		"y": "4370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1882",
+		"y": "4382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1884",
+		"y": "4364",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1884",
+		"y": "4377",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1884",
+		"y": "4386",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1884",
+		"y": "4389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1886",
+		"y": "4370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1887",
+		"y": "4372",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1887",
+		"y": "4386",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1887",
+		"y": "4409",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant Rock Crab",
+		"id": "5940",
+		"x": "1889",
+		"y": "4366",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1889",
+		"y": "4394",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1891",
+		"y": "4360",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1891",
+		"y": "4369",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1895",
+		"y": "4362",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1895",
+		"y": "4368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1895",
+		"y": "4409",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1898",
+		"y": "4400",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1899",
+		"y": "4364",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1900",
+		"y": "4410",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1901",
+		"y": "4371",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1904",
+		"y": "4374",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1904",
+		"y": "4401",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant Rock Crab",
+		"id": "5940",
+		"x": "1905",
+		"y": "4361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rock",
+		"id": "5945",
+		"x": "1907",
+		"y": "4407",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1908",
+		"y": "4365",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1913",
+		"y": "4367",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1859",
+		"y": "4360",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1864",
+		"y": "4365",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1864",
+		"y": "4395",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1864",
+		"y": "4408",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1866",
+		"y": "4401",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1877",
+		"y": "4410",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1888",
+		"y": "4409",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1863",
+		"y": "4380",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1864",
+		"y": "4383",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1797",
+		"y": "4377",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1799",
+		"y": "4371",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1799",
+		"y": "4376",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1801",
+		"y": "4372",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1801",
+		"y": "4391",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1803",
+		"y": "4372",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1803",
+		"y": "4393",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1804",
+		"y": "4392",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1808",
+		"y": "4393",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1831",
+		"y": "4360",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1835",
+		"y": "4360",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1838",
+		"y": "4359",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1844",
+		"y": "4360",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth fledgeling",
+		"id": "2264",
+		"x": "1847",
+		"y": "4394",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1848",
+		"y": "4361",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth fledgeling",
+		"id": "2264",
+		"x": "1848",
+		"y": "4390",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth fledgeling",
+		"id": "2264",
+		"x": "1849",
+		"y": "4387",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth fledgeling",
+		"id": "2264",
+		"x": "1849",
+		"y": "4394",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bardur",
+		"id": "2263",
+		"x": "1850",
+		"y": "4392",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth fledgeling",
+		"id": "2264",
+		"x": "1851",
+		"y": "4390",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1852",
+		"y": "4360",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1854",
+		"y": "4359",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1796",
+		"y": "4383",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1803",
+		"y": "4365",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1805",
+		"y": "4370",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1810",
+		"y": "4363",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1812",
+		"y": "4392",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1814",
+		"y": "4404",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1814",
+		"y": "4407",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1817",
+		"y": "4362",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1817",
+		"y": "4367",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1817",
+		"y": "4404",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1820",
+		"y": "4389",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1820",
+		"y": "4392",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1820",
+		"y": "4403",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1822",
+		"y": "4394",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1823",
+		"y": "4386",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1825",
+		"y": "4388",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1839",
+		"y": "4371",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1841",
+		"y": "4370",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1845",
+		"y": "4370",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1846",
+		"y": "4373",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1848",
+		"y": "4379",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5942",
+		"x": "1848",
+		"y": "4382",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1850",
+		"y": "4382",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1799",
+		"y": "4403",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1801",
+		"y": "4408",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wallasalki",
+		"id": "5939",
+		"x": "1804",
+		"y": "4403",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1826",
+		"y": "4376",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1829",
+		"y": "4407",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1830",
+		"y": "4378",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1835",
+		"y": "4396",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1836",
+		"y": "4403",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dagannoth",
+		"id": "5943",
+		"x": "1838",
+		"y": "4379",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1841",
+		"y": "4399",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1842",
+		"y": "4405",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "5941",
+		"x": "1849",
+		"y": "4406",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

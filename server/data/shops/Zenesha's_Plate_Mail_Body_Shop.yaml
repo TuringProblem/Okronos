@@ -1,0 +1,25 @@
+---
+identifier: "ZaKtYw0RFeH9rCBOIm52JDSAQaurs2"
+title: "Zenesha's Plate Mail Body Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockPerTick: 1
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 1117
+  amount: 100000
+- id: 1115
+  amount: 100000
+- id: 1119
+  amount: 100000
+- id: 1125
+  amount: 100000
+- id: 1121
+  amount: 100000

@@ -1,0 +1,2320 @@
+[
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2625",
+		"y": "3203",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2625",
+		"y": "3217",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2629",
+		"y": "3233",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2630",
+		"y": "3210",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2632",
+		"y": "3202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2633",
+		"y": "3222",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2633",
+		"y": "3243",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2639",
+		"y": "3206",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2639",
+		"y": "3230",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Homunculus",
+		"id": "6156",
+		"x": "2640",
+		"y": "3221",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "The Guns'",
+		"id": "3599",
+		"x": "2643",
+		"y": "3226",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "No fingers'",
+		"id": "3597",
+		"x": "2645",
+		"y": "3224",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black-eye'",
+		"id": "3596",
+		"x": "2645",
+		"y": "3229",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gummy'",
+		"id": "3598",
+		"x": "2645",
+		"y": "3230",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bonafido",
+		"id": "3587",
+		"x": "2650",
+		"y": "3227",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Irwin Feaselbaum",
+		"id": "888",
+		"x": "2670",
+		"y": "3241",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Invrigar the Necromancer",
+		"id": "511",
+		"x": "2667",
+		"y": "3241",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue Sheep",
+		"id": "6181",
+		"x": "2560",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chaos druid",
+		"id": "520",
+		"x": "2561",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chaos druid",
+		"id": "520",
+		"x": "2561",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rod Fishing spot",
+		"id": "1509",
+		"x": "2561",
+		"y": "3374",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue Sheep",
+		"id": "6181",
+		"x": "2561",
+		"y": "3388",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue Sheep",
+		"id": "6181",
+		"x": "2561",
+		"y": "3390",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chaos druid",
+		"id": "520",
+		"x": "2563",
+		"y": "3355",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chaos druid",
+		"id": "520",
+		"x": "2563",
+		"y": "3358",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rod Fishing spot",
+		"id": "1509",
+		"x": "2566",
+		"y": "3370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Man",
+		"id": "9392",
+		"x": "2567",
+		"y": "3384",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mourner",
+		"id": "5301",
+		"x": "2582",
+		"y": "3329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Elena",
+		"id": "2011",
+		"x": "2592",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Farmer Brumty",
+		"id": "3985",
+		"x": "2593",
+		"y": "3358",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Yellow Sheep",
+		"id": "3989",
+		"x": "2596",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blue Sheep",
+		"id": "3988",
+		"x": "2597",
+		"y": "3360",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Red Sheep",
+		"id": "3986",
+		"x": "2597",
+		"y": "3362",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Green Sheep",
+		"id": "3987",
+		"x": "2598",
+		"y": "3361",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Red Sheep",
+		"id": "3986",
+		"x": "2609",
+		"y": "3344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Red Sheep",
+		"id": "3986",
+		"x": "2610",
+		"y": "3343",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Red Sheep",
+		"id": "3986",
+		"x": "2610",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yellow Sheep",
+		"id": "3989",
+		"x": "2610",
+		"y": "3391",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yellow Sheep",
+		"id": "3989",
+		"x": "2611",
+		"y": "3390",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yellow Sheep",
+		"id": "3989",
+		"x": "2612",
+		"y": "3391",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brother Kojo",
+		"id": "3606",
+		"x": "2569",
+		"y": "3249",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "4246",
+		"x": "2606",
+		"y": "3217",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ferret",
+		"id": "1505",
+		"x": "2607",
+		"y": "3260",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "4246",
+		"x": "2608",
+		"y": "3209",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brother Cedric",
+		"id": "4245",
+		"x": "2614",
+		"y": "3259",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Torrell",
+		"id": "2677",
+		"x": "2617",
+		"y": "3227",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "4246",
+		"x": "2618",
+		"y": "3209",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tool Leprechaun",
+		"id": "0",
+		"x": "2619",
+		"y": "3221",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "4246",
+		"x": "2595",
+		"y": "3210",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2564",
+		"y": "3146",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard barman",
+		"id": "1214",
+		"x": "2566",
+		"y": "3140",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Lady Servil",
+		"id": "1219",
+		"x": "2566",
+		"y": "3199",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2567",
+		"y": "3149",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2570",
+		"y": "3142",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2577",
+		"y": "3162",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2579",
+		"y": "3171",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2580",
+		"y": "3166",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2583",
+		"y": "3149",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Local",
+		"id": "1223",
+		"x": "2583",
+		"y": "3171",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1208",
+		"x": "2584",
+		"y": "3141",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Joe",
+		"id": "1216",
+		"x": "2587",
+		"y": "3142",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Kelvin",
+		"id": "1215",
+		"x": "2589",
+		"y": "3142",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2589",
+		"y": "3193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1208",
+		"x": "2591",
+		"y": "3139",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2592",
+		"y": "3182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2592",
+		"y": "3185",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2593",
+		"y": "3179",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2594",
+		"y": "3176",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1208",
+		"x": "2595",
+		"y": "3139",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fightslave",
+		"id": "1217",
+		"x": "2595",
+		"y": "3142",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2596",
+		"y": "3184",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hengrad",
+		"id": "1218",
+		"x": "2598",
+		"y": "3142",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2598",
+		"y": "3182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2599",
+		"y": "3193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Justin Servil",
+		"id": "1222",
+		"x": "2601",
+		"y": "3168",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sammy Servil",
+		"id": "1221",
+		"x": "2602",
+		"y": "3154",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "General Khazard",
+		"id": "1213",
+		"x": "2606",
+		"y": "3154",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2606",
+		"y": "3171",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2607",
+		"y": "3183",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2607",
+		"y": "3185",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Scorpion",
+		"id": "1226",
+		"x": "2608",
+		"y": "3159",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bouncer",
+		"id": "1224",
+		"x": "2608",
+		"y": "3162",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Ogre",
+		"id": "1225",
+		"x": "2608",
+		"y": "3165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2608",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2609",
+		"y": "3149",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2610",
+		"y": "3149",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1210",
+		"x": "2610",
+		"y": "3193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1208",
+		"x": "2614",
+		"y": "3150",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1211",
+		"x": "2614",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1209",
+		"x": "2615",
+		"y": "3141",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fightslave",
+		"id": "1217",
+		"x": "2616",
+		"y": "3160",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fightslave",
+		"id": "1217",
+		"x": "2616",
+		"y": "3163",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sammy Servil",
+		"id": "1220",
+		"x": "2616",
+		"y": "3168",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1208",
+		"x": "2617",
+		"y": "3172",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1208",
+		"x": "2618",
+		"y": "3159",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1208",
+		"x": "2618",
+		"y": "3166",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "General Khazard",
+		"id": "1213",
+		"x": "2610",
+		"y": "3143",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1209",
+		"x": "2592",
+		"y": "3163",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Khazard Guard",
+		"id": "1208",
+		"x": "2594",
+		"y": "3162",
+		"z": "3",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Frenita",
+		"id": "8685",
+		"x": "2566",
+		"y": "3098",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Tool Leprechaun",
+		"id": "0",
+		"x": "2573",
+		"y": "3108",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Aleck",
+		"id": 1501,
+		"x": 2567,
+		"y": 3083,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Leon",
+		"id": 1502,
+		"x": 2564,
+		"y": 3082,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Guard",
+		"id": "6706",
+		"x": "2575",
+		"y": "3090",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Selena",
+		"id": "2671",
+		"x": "2578",
+		"y": "3101",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2790",
+		"x": "2580",
+		"y": "3117",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2790",
+		"x": "2582",
+		"y": "3122",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zavistic Rarve",
+		"id": "881",
+		"x": "2588",
+		"y": "3087",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "2588",
+		"y": "3090",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2790",
+		"x": "2588",
+		"y": "3119",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "2589",
+		"y": "3084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Professor Imblewyn",
+		"id": "2561",
+		"x": "2590",
+		"y": "3092",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard Distentor",
+		"id": "3248",
+		"x": "2594",
+		"y": "3089",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2595",
+		"y": "3131",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Man",
+		"id": "3106",
+		"x": "2596",
+		"y": "3104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Man",
+		"id": "3108",
+		"x": "2596",
+		"y": "3106",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2597",
+		"y": "3120",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6706",
+		"x": "2599",
+		"y": "3087",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "2790",
+		"x": "2604",
+		"y": "3114",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tramp",
+		"id": "383",
+		"x": "2606",
+		"y": "3100",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2606",
+		"y": "3126",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2608",
+		"y": "3134",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6706",
+		"x": "2612",
+		"y": "3092",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6706",
+		"x": "2614",
+		"y": "3104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2614",
+		"y": "3116",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "1618",
+		"x": "2615",
+		"y": "3091",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "1613",
+		"x": "2615",
+		"y": "3092",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Financial Wizard",
+		"id": "6528",
+		"x": "2615",
+		"y": "3094",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2616",
+		"y": "3126",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2621",
+		"y": "3133",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2622",
+		"y": "3118",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2567",
+		"y": "3109",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2572",
+		"y": "3109",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "2586",
+		"y": "3089",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "2593",
+		"y": "3084",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2595",
+		"y": "3073",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard Akutha",
+		"id": "3247",
+		"x": "2595",
+		"y": "3087",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard Sinina",
+		"id": "3249",
+		"x": "2595",
+		"y": "3088",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "2595",
+		"y": "3090",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2600",
+		"y": "3109",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2609",
+		"y": "3073",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2610",
+		"y": "3107",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2615",
+		"y": "3073",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2618",
+		"y": "3099",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2620",
+		"y": "3077",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Soldier",
+		"id": "5421",
+		"x": "2620",
+		"y": "3095",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "2586",
+		"y": "3088",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "2589",
+		"y": "3085",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wizard",
+		"id": "3257",
+		"x": "2593",
+		"y": "3090",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2561",
+		"y": "3020",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2567",
+		"y": "3046",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2096",
+		"x": "2571",
+		"y": "3027",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Unicorn",
+		"id": "2837",
+		"x": "2571",
+		"y": "3058",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2096",
+		"x": "2572",
+		"y": "3031",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2096",
+		"x": "2575",
+		"y": "3024",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Toban",
+		"id": "4366",
+		"x": "2576",
+		"y": "3027",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gorad",
+		"id": "4367",
+		"x": "2577",
+		"y": "3021",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2096",
+		"x": "2578",
+		"y": "3031",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Unicorn",
+		"id": "2837",
+		"x": "2579",
+		"y": "3066",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "290",
+		"x": "2596",
+		"y": "3056",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "290",
+		"x": "2600",
+		"y": "3062",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "290",
+		"x": "2605",
+		"y": "3057",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black bear",
+		"id": "2839",
+		"x": "2606",
+		"y": "3008",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dwarf",
+		"id": "290",
+		"x": "2608",
+		"y": "3061",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2568",
+		"y": "2991",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2574",
+		"y": "2988",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2584",
+		"y": "2967",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2585",
+		"y": "2977",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2592",
+		"y": "2965",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp toad",
+		"id": "1473",
+		"x": "2595",
+		"y": "2964",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp toad",
+		"id": "1473",
+		"x": "2595",
+		"y": "2968",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp toad",
+		"id": "1473",
+		"x": "2596",
+		"y": "2962",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp toad",
+		"id": "1473",
+		"x": "2596",
+		"y": "2970",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp toad",
+		"id": "1473",
+		"x": "2599",
+		"y": "2962",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp toad",
+		"id": "1473",
+		"x": "2599",
+		"y": "2970",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wolf",
+		"id": "106",
+		"x": "2602",
+		"y": "2955",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp toad",
+		"id": "1473",
+		"x": "2602",
+		"y": "2969",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp toad",
+		"id": "1473",
+		"x": "2603",
+		"y": "2966",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wolf",
+		"id": "106",
+		"x": "2605",
+		"y": "2963",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wolf",
+		"id": "106",
+		"x": "2607",
+		"y": "2967",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2608",
+		"y": "2980",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2609",
+		"y": "2990",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wolf",
+		"id": "106",
+		"x": "2610",
+		"y": "2958",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wolf",
+		"id": "106",
+		"x": "2610",
+		"y": "2961",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wolf",
+		"id": "106",
+		"x": "2610",
+		"y": "2965",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre",
+		"id": "2095",
+		"x": "2614",
+		"y": "2998",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre chieftain",
+		"id": "4362",
+		"x": "2615",
+		"y": "2987",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spined larupia",
+		"id": "2908",
+		"x": "2563",
+		"y": "2888",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black warlock",
+		"id": "5553",
+		"x": "2563",
+		"y": "2920",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2565",
+		"y": "2903",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black warlock",
+		"id": "5553",
+		"x": "2566",
+		"y": "2886",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2567",
+		"y": "2903",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2572",
+		"y": "2929",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2572",
+		"y": "2931",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spined larupia",
+		"id": "2908",
+		"x": "2573",
+		"y": "2883",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2573",
+		"y": "2896",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2573",
+		"y": "2898",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2574",
+		"y": "2909",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2574",
+		"y": "2911",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2575",
+		"y": "2916",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2575",
+		"y": "2926",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2577",
+		"y": "2926",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2581",
+		"y": "2884",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2581",
+		"y": "2886",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2584",
+		"y": "2912",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barb-tailed kebbit",
+		"id": "1348",
+		"x": "2584",
+		"y": "2914",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2585",
+		"y": "2884",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2588",
+		"y": "2886",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2591",
+		"y": "2881",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2604",
+		"y": "2916",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2605",
+		"y": "2922",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2606",
+		"y": "2893",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2607",
+		"y": "2929",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2609",
+		"y": "2897",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2609",
+		"y": "2918",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2610",
+		"y": "2934",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2612",
+		"y": "2893",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2612",
+		"y": "2900",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2612",
+		"y": "2925",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2614",
+		"y": "2938",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimson swift",
+		"id": "5549",
+		"x": "2615",
+		"y": "2933",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Seagull",
+		"id": "1339",
+		"x": "2564",
+		"y": "2855",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Seagull",
+		"id": "1339",
+		"x": "2567",
+		"y": "2859",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yusuf",
+		"id": "7994",
+		"x": "2569",
+		"y": "2866",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ram",
+		"id": "1262",
+		"x": "2576",
+		"y": "2868",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Seagull",
+		"id": "1339",
+		"x": "2578",
+		"y": "2862",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain Tock",
+		"id": "7956",
+		"x": "2586",
+		"y": "2867",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Cabin Boy Colin",
+		"id": "7980",
+		"x": "2574",
+		"y": "2835",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Seagull",
+		"id": "1339",
+		"x": "2574",
+		"y": "2852",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Seagull",
+		"id": "1339",
+		"x": "2577",
+		"y": "2857",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Seagull",
+		"id": "1339",
+		"x": "2579",
+		"y": "2845",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Seagull",
+		"id": "1339",
+		"x": "2581",
+		"y": "2851",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

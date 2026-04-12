@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Rock Crab",
+    "id": 100,
+    "x": 2666,
+    "y": 3715,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 102,
+    "x": 2663,
+    "y": 3716,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 102,
+    "x": 2663,
+    "y": 3716,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 102,
+    "x": 2677,
+    "y": 3717,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 102,
+    "x": 2676,
+    "y": 3714,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 100,
+    "x": 2677,
+    "y": 3721,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 102,
+    "x": 2687,
+    "y": 3724,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 100,
+    "x": 2681,
+    "y": 3727,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 100,
+    "x": 2672,
+    "y": 3732,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 100,
+    "x": 2718,
+    "y": 3730,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 102,
+    "x": 2706,
+    "y": 3717,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rock Crab",
+    "id": 100,
+    "x": 2699,
+    "y": 3720,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cerulean twitch",
+    "id": 5550,
+    "x": 2731,
+    "y": 3763,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Cerulean twitch",
+    "id": 5550,
+    "x": 2733,
+    "y": 3768,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Cerulean twitch",
+    "id": 5550,
+    "x": 2729,
+    "y": 3772,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Cerulean twitch",
+    "id": 5550,
+    "x": 2735,
+    "y": 3777,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Cerulean twitch",
+    "id": 5550,
+    "x": 2730,
+    "y": 3782,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Cerulean twitch",
+    "id": 5550,
+    "x": 2722,
+    "y": 3771,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Cerulean twitch",
+    "id": 5550,
+    "x": 2719,
+    "y": 3767,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Cerulean twitch",
+    "id": 5550,
+    "x": 2721,
+    "y": 3779,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  }
+]

@@ -1,0 +1,100 @@
+---
+identifier: "MagicWeaponStore"
+title: "Magic Weapon Store"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 558
+  price: 3
+  amount: 1
+- id: 559
+  price: 3
+  amount: 1
+- id: 556
+  price: 4
+  amount: 1
+- id: 554
+  price: 4
+  amount: 1
+- id: 555
+  price: 4
+  amount: 1
+- id: 557
+  price: 21
+  amount: 1
+- id: 563
+  price: 300
+  amount: 1
+- id: 564
+  price: 80
+  amount: 1
+- id: 561
+  price: 230
+  amount: 1
+- id: 562
+  price: 90
+  amount: 1
+- id: 560
+  price: 230
+  amount: 1
+- id: 565
+  price: 600
+  amount: 1
+- id: 566
+  price: 590
+  amount: 1
+- id: 9075
+  price: 490
+  amount: 1
+- id: 12736
+  price: 15000
+  amount: 1
+- id: 12730
+  price: 15000
+  amount: 1
+- id: 12734
+  price: 15000
+  amount: 1
+- id: 12728
+  price: 15000
+  amount: 1
+- id: 1391
+  price: 12889
+  amount: 1
+- id: 1381
+  price: 2600
+  amount: 1
+- id: 1383
+  price: 2600
+  amount: 1
+- id: 1385
+  price: 2600
+  amount: 1
+- id: 1387
+  price: 2600
+  amount: 1
+- id: 4675
+  price: 76000
+  amount: 1
+- id: 2415
+  price: 76000
+  amount: 1
+- id: 2416
+  price: 76000
+  amount: 1
+- id: 2417
+  price: 76000
+  amount: 1
+- id: 1409
+  price: 150000
+  amount: 1

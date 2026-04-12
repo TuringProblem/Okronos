@@ -1,0 +1,35 @@
+---
+identifier: "aa4aa6f3-88fb-4938-ae28-301f4f78df1a"
+title: "Alry the Angler's Angling Accessories"
+currency: "MOLCH_PEARLS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+- id: 22846
+  amount: 100000
+  price: 100
+- id: 22844
+  amount: 100000
+  price: 120
+- id: 22842
+  amount: 100000
+  price: 150
+- id: 22838
+  amount: 100000
+  price: 1000
+- id: 13258
+  amount: 100000
+  price: 50
+- id: 13259
+  amount: 100000
+  price: 75
+- id: 13260
+  amount: 100000
+  price: 75
+- id: 13261
+  amount: 100000
+  price: 25

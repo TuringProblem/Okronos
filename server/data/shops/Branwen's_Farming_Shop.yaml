@@ -1,0 +1,51 @@
+---
+identifier: "L28f8zYHmC2Sni57ESsNJffS468umf"
+title: "Branwen's Farming Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 70
+  changePer: 1
+defaultStock:
+- id: 5341
+  amount: 100000
+- id: 5343
+  amount: 100000
+- id: 5329
+  amount: 100000
+- id: 952
+  amount: 100000
+- id: 5325
+  amount: 100000
+- id: 5331
+  amount: 100000
+- id: 5350
+  amount: 100000
+- id: 5356
+  amount: 100000
+- id: 13250
+  amount: 100000
+- id: 6032
+  amount: 100000
+  price: 150
+- id: 19704
+  amount: 100000
+  price: 75000
+- id: 5418
+  amount: 100000
+- id: 13252
+  amount: 100000
+- id: 5376
+  amount: 100000
+- id: 13254
+  amount: 100000
+- id: 1925
+  amount: 100000
+- id: 22660
+  amount: 100000

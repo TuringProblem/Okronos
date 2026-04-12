@@ -1,0 +1,43 @@
+---
+identifier: "VuTjIYLjUXYvOyWMjMATmNHyZg"
+title: "Prifddinas Shard Store"
+currency: "GAUNTLET_SHARDS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 0
+  buysAt: 0
+  changePer: 0
+defaultStock:
+  - id: 30368
+    amount: 100000
+    price: 1
+  - id: 30389
+    amount: 100000
+    price: 10000
+  - id: 24777
+    amount: 100000
+    price: 1250
+  - id: 30376
+    amount: 100000
+    price: 500
+  - id: 6806
+    amount: 100000
+    price: 400
+  - id: 6807
+    amount: 100000
+    price: 400
+  - id: 6808
+    amount: 100000
+    price: 400
+  - id: 23953
+    amount: 100000
+    price: 250
+  - id: 12849
+    amount: 100000
+    price: 25

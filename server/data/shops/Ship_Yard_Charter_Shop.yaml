@@ -1,0 +1,74 @@
+---
+identifier: "tFz9K2V52coKxqWAjKU9jpDY2OlnaH"
+title: "Trader Stan's Trading Post"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 250
+  buysAt: 15
+  changePer: 2
+defaultStock:
+- id: 1931
+  amount: 100000
+- id: 1935
+  amount: 100000
+- id: 20742
+  amount: 100000
+- id: 1735
+  amount: 100000
+- id: 1925
+  amount: 100000
+- id: 22660
+  amount: 100000
+- id: 1923
+  amount: 100000
+- id: 1887
+  amount: 100000
+- id: 590
+  amount: 100000
+- id: 1755
+  amount: 100000
+- id: 2347
+  amount: 100000
+- id: 550
+  amount: 100000
+- id: 9003
+  amount: 100000
+- id: 954
+  amount: 100000
+- id: 946
+  amount: 100000
+- id: 2114
+  amount: 100000
+- id: 1963
+  amount: 100000
+- id: 2108
+  amount: 100000
+- id: 4286
+  amount: 100000
+- id: 1785
+  amount: 100000
+- id: 1783
+  amount: 100000
+- id: 401
+  amount: 100000
+- id: 1781
+  amount: 100000
+- id: 301
+  amount: 100000
+- id: 307
+  amount: 100000
+- id: 1941
+  amount: 100000
+- id: 9629
+  amount: 100000
+- id: 3226
+  amount: 100000
+- id: 1025
+  amount: 100000

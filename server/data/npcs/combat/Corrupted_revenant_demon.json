@@ -1,0 +1,41 @@
+[
+  {
+    "ids": [
+      20013
+    ],
+    "handler": "io.ruin.model.activities.bosses.SuperiorRevenant",
+    "hitpoints": 400,
+    "aggressive_level": 1000,
+    "aggressive": true,
+    "max_damage": 65,
+    "attack_style": "CRUSH",
+    "slayer_level": 1,
+    "slayer_xp": 86.0,
+    "slayer_categories": [
+      "Revenant"
+    ],
+    "attack": 200,
+    "strength": 200,
+    "defence": 200,
+    "ranged": 300,
+    "magic": 300,
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 150,
+    "ranged_attack": 140,
+    "stab_defence": 124,
+    "slash_defence": 118,
+    "crush_defence": 130,
+    "magic_defence": 85,
+    "ranged_defence": 90,
+    "poison_immunity": false,
+    "venom_immunity": false,
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    "local_loot": false,
+    "combat_xp_modifier": 0.0,
+    "random_drop_count": 0
+  }
+]

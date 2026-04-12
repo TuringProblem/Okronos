@@ -1,0 +1,53 @@
+plugins {
+    id 'buildlogic.java-conventions'
+		id 'antlr'
+}
+description = 'Cache'
+
+dependencies {
+    antlr "org.antlr:antlr4:4.13.1"
+    api libs.com.google.guava.guava
+    api libs.org.slf4j.slf4j.api
+    api libs.org.slf4j.slf4j.simple
+    api libs.org.apache.commons.commons.compress
+    api libs.com.google.code.gson.gson
+    api libs.org.antlr.antlr4.runtime
+    api libs.commons.cli.commons.cli
+    api libs.net.java.dev.jna.jna
+    testImplementation libs.junit.junit
+    testImplementation libs.net.runelite.rs.cache
+    annotationProcessor libs.org.projectlombok.lombok
+    compileOnly libs.org.projectlombok.lombok
+}
+
+sourceSets.main.antlr.srcDirs = ["src/main/antlr4"]
+
+generateGrammarSource {
+    maxHeapSize = "64m"
+  	arguments = ["-package", "net.runelite.cache.script.assembler"]
+    doLast {
+        copy {
+            from "${buildDir}/generated-src/antlr/main"
+            into "generated-src/main/java"
+        }
+    }
+}
+
+configurations {
+    compile {
+        extendsFrom = extendsFrom.findAll { it != configurations.antlr }
+    }
+}
+
+tasks.register("dumpcache", JavaExec.class) {
+    classpath = project.sourceSets.main.runtimeClasspath
+    workingDir = rootDir
+    args(
+            "--cache", System.getProperty("user.home") + "/.runelite/jagexcache/oldschool/LIVE/",
+            "--items=runelite-api/src/main/java/net/runelite/api/",
+            "--npcs=runelite-api/src/main/java/net/runelite/api/",
+            "--objects=runelite-api/src/main/java/net/runelite/api/",
+            "--sprites=runelite-api/src/main/java/net/runelite/api/",
+    )
+    mainClass = "net.runelite.cache.Cache"
+}

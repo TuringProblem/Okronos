@@ -1,0 +1,92 @@
+---
+identifier: "11ddf699-41d6-4d0a-8c05-5b3c721b0849"
+title: "Ironman Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: false
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 150
+  buysAt: 40
+  changePer: 2
+defaultStock:
+  - id: 952
+    amount: 100000
+  - id: 5341
+    amount: 100000
+  - id: 5343
+    amount: 100000
+  - id: 10006
+    amount: 100000
+  - id: 10008
+    amount: 100000
+  - id: 10012
+    amount: 100000
+  - id: 11260
+    amount: 100000
+  - id: 10010
+    amount: 100000
+  - id: 954
+    amount: 100000
+  - id: 228
+    amount: 100000
+  - id: 233
+    amount: 100000
+  - id: 8794
+    amount: 100000
+  - id: 2446
+    amount: 100000
+  - id: 9419
+    amount: 100000
+  - id: 10499
+    amount: 100000
+  - id: 5574
+    amount: 100000
+  - id: 5575
+    amount: 100000
+  - id: 5576
+    amount: 100000
+  - id: 9672
+    amount: 100000
+  - id: 9674
+    amount: 100000
+  - id: 9676
+    amount: 100000
+  - id: 544
+    amount: 100000
+  - id: 542
+    amount: 100000
+  - id: 3105
+    amount: 100000
+  - id: 6106
+    amount: 100000
+  - id: 6107
+    amount: 100000
+  - id: 6108
+    amount: 100000
+  - id: 6109
+    amount: 100000
+  - id: 6110
+    amount: 100000
+  - id: 6111
+    amount: 100000
+  - id: 2417
+    amount: 100000
+  - id: 2415
+    amount: 100000
+  - id: 2416
+    amount: 100000
+  - id: 1540
+    amount: 100000
+  - id: 4675
+    amount: 100000
+  - id: 4
+    amount: 100000
+  - id: 7937
+    amount: 100000
+  - id: 11323
+    amount: 100000

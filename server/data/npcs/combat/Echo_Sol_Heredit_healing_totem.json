@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 12825 ],
+    "handler": "com.reasonps.dominion.bosses.sol_heredit.HealingTotemCombat",
+    //Combat Info
+    "hitpoints": 1,
+    "aggressive_level": 0,
+    "max_damage": 0,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 1,
+    "slash_attack": 1,
+    "crush_attack": 1,
+    "magic_attack": 1,
+    "ranged_attack": 1,
+    //Defensive Stats
+    "stab_defence": 1,
+    "slash_defence": 1,
+    "crush_defence": 1,
+    "magic_defence": 1,
+    "ranged_defence": 1,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 1,
+    "death_ticks": 1,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

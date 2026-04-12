@@ -1,0 +1,109 @@
+---
+identifier: "HerbloreStore"
+title: "Herblore Shop"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 10
+  changePer: 2
+defaultStock:
+- id: 229
+  price: 2
+  amount: 1
+- id: 11877
+  price: 200
+  amount: 1
+- id: 227
+  price: 2
+  amount: 1
+- id: 11879
+  price: 10000
+  amount: 1
+- id: 233
+  price: 4
+  amount: 1
+- id: 221
+  price: 3
+  amount: 1
+- id: 12859
+  price: 5000
+  amount: 1
+- id: 221
+  price: 3
+  amount: 1
+- id: 235
+  price: 10000
+  amount: 1
+- id: 225
+  price: 10000
+  amount: 1
+- id: 592
+  price: 10000
+  amount: 1
+- id: 223
+  price: 10000
+  amount: 1
+- id: 7650
+  price: 10000
+  amount: 1
+- id: 1975
+  price: 10000
+  amount: 1
+- id: 239
+  price: 10000
+  amount: 1
+- id: 2152
+  price: 10000
+  amount: 1
+- id: 9736
+  price: 10000
+  amount: 1
+- id: 231
+  price: 10000
+  amount: 1
+- id: 2970
+  price: 10000
+  amount: 1
+- id: 10111
+  price: 10000
+  amount: 1
+- id: 241
+  price: 10000
+  amount: 1
+- id: 6049
+  price: 10000
+  amount: 1
+- id: 245
+  price: 10000
+  amount: 1
+- id: 3138
+  price: 10000
+  amount: 1
+- id: 247
+  price: 10000
+  amount: 1
+- id: 6051
+  price: 10000
+  amount: 1
+- id: 6018
+  price: 10000
+  amount: 1
+- id: 6693
+  price: 100000
+  amount: 1
+- id: 23867
+  price: 1000000
+  amount: 1
+- id: 21975
+  price: 3000000
+  amount: 1
+- id: 11994
+  price: 275000
+  amount: 1

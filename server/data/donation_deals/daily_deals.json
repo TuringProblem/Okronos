@@ -1,0 +1,45 @@
+{
+  "deals": [
+    {
+      "title": "Boxes",
+      "item": {
+        "id": 30449,
+        "amount": 1,
+        "uniqueValue": 0
+      }
+    },
+    {
+      "title": "Lamps",
+      "item": {
+        "id": 1,
+        "amount": 1,
+        "uniqueValue": 0
+      }
+    },
+    {
+      "title": "Minerals",
+      "item": {
+        "id": 100,
+        "amount": 1,
+        "uniqueValue": 0
+      }
+    },
+    {
+      "title": "Coins",
+      "item": {
+        "id": 995,
+        "amount": 50,
+        "uniqueValue": 0
+      }
+    },
+    {
+      "title": "Food",
+      "item": {
+        "id": 1,
+        "amount": 1,
+        "uniqueValue": 0
+      }
+    }
+  ],
+  "dealExpirationTime": 1755348383
+}

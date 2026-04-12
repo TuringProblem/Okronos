@@ -1,0 +1,19 @@
+---
+identifier: "FsZkS6pR150KizmTgg4VwqODGkZ7nY"
+title: "Multicannon parts for sale"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 107
+  buysAt: 40
+  changePer: 1
+defaultStock:
+- id: 5
+  amount: 100000
+- id: 4
+  amount: 100000

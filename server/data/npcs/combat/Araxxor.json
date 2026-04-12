@@ -1,0 +1,46 @@
+[
+  { #Araxxor
+    "ids": [ 13668 ],
+    "handler": "io.ruin.model.activities.bosses.araxxor.Araxxor",
+    //Combat Info
+    "hitpoints": 2040,
+    "aggressive_level": 636,
+    "max_damage": 38,
+    "attack_style": "SLASH",
+    "pet": "",
+    //Slayer Info
+    "slayer_level": 91,
+    "slayer_xp": 2040.0,
+    "slayer_tasks": [ "Spider", "Araxxor", "BOSS" ],
+    //Combat Stats
+    "attack": 320,
+    "strength": 320,
+    "defence": 135,
+    "ranged": 210,
+    "magic": 190,
+    //Aggressive Stats
+    "stab_attack": 218,
+    "slash_attack": 10,
+    "crush_attack": 50,
+    "magic_attack": 260,
+    "ranged_attack": 283,
+    //Defensive Stats
+    "stab_defence": 160,
+    "slash_defence": 75,
+    "crush_defence": 15,
+    "magic_defence": 237,
+    "ranged_defence": 200,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 11482,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": 11481
+  }
+]

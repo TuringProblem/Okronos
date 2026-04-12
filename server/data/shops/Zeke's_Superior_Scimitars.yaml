@@ -1,0 +1,24 @@
+---
+identifier: "Xn216kapXK9t04GBUJETIulJmwWO0n"
+title: "Zeke's Superior Scimitars"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 2
+defaultStock:
+- id: 1321
+  amount: 100000
+- id: 1323
+  amount: 100000
+- id: 1325
+  amount: 100000
+- id: 1329
+  amount: 100000

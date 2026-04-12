@@ -1,0 +1,202 @@
+[
+	{
+		"name": "Master Chef",
+		"id": "3305",
+		"x": "3075",
+		"y": "3085",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "3082",
+		"y": "3077",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Quest Guide",
+		"id": "3312",
+		"x": "3085",
+		"y": "3122",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "3092",
+		"y": "3082",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "236",
+		"x": "3093",
+		"y": "3086",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gielinor Guide",
+		"id": "3308",
+		"x": "3094",
+		"y": "3107",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "236",
+		"x": "3097",
+		"y": "3085",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "3317",
+		"x": "3099",
+		"y": "3090",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "3317",
+		"x": "3101",
+		"y": "3092",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "3317",
+		"x": "3103",
+		"y": "3092",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Survival Expert",
+		"id": "8503",
+		"x": "3103",
+		"y": "3095",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "3109",
+		"y": "3090",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "3112",
+		"y": "3093",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "3318",
+		"x": "3120",
+		"y": "3125",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "3318",
+		"x": "3122",
+		"y": "3125",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "235",
+		"x": "3125",
+		"y": "3084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brother Brace",
+		"id": "3319",
+		"x": "3125",
+		"y": "3106",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Account Guide",
+		"id": "3310",
+		"x": "3127",
+		"y": "3124",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "236",
+		"x": "3129",
+		"y": "3091",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "236",
+		"x": "3135",
+		"y": "3084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

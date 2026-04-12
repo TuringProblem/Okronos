@@ -1,0 +1,45 @@
+[
+  { #Nuclear smoke devil (280)
+    "ids": [ 7406 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.SmokeDevil",
+    //Combat Info
+    "hitpoints": 480,
+    "aggressive_level": 1,
+    "max_damage": 29,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 93,
+    "slayer_xp": 2400.0,
+    "slayer_tasks": [ "Smoke devil" ],
+    //Combat Stats
+    "attack": 240,
+    "strength": 230,
+    "defence": 390,
+    "ranged": 280,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 850,
+    "ranged_defence": 80,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 3847,
+    "defend_animation": 3848,
+    "death_animation": 3849
+  }
+]

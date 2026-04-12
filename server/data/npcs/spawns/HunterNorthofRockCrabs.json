@@ -1,0 +1,372 @@
+[
+	{
+		"name": "Snowy knight",
+		"id": "5554",
+		"x": "2696",
+		"y": "3786",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kyatt",
+		"id": "2907",
+		"x": "2696",
+		"y": "3790",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2700",
+		"y": "3782",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snowy knight",
+		"id": "5554",
+		"x": "2701",
+		"y": "3804",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kyatt",
+		"id": "2907",
+		"x": "2702",
+		"y": "3790",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2704",
+		"y": "3797",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kebbit",
+		"id": "1347",
+		"x": "2705",
+		"y": "3780",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kyatt",
+		"id": "2907",
+		"x": "2708",
+		"y": "3796",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kebbit",
+		"id": "1347",
+		"x": "2711",
+		"y": "3778",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snowy knight",
+		"id": "5554",
+		"x": "2712",
+		"y": "3797",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snowy knight",
+		"id": "5554",
+		"x": "2714",
+		"y": "3777",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kebbit",
+		"id": "1347",
+		"x": "2715",
+		"y": "3779",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kebbit",
+		"id": "1347",
+		"x": "2717",
+		"y": "3776",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2721",
+		"y": "3778",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kyatt",
+		"id": "2907",
+		"x": "2725",
+		"y": "3791",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2730",
+		"y": "3778",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kyatt",
+		"id": "2907",
+		"x": "2734",
+		"y": "3780",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snowy knight",
+		"id": "5554",
+		"x": "2737",
+		"y": "3778",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snowy knight",
+		"id": "5554",
+		"x": "2737",
+		"y": "3792",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2739",
+		"y": "3778",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2741",
+		"y": "3783",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sabre-toothed kyatt",
+		"id": "2907",
+		"x": "2741",
+		"y": "3790",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cerulean twitch",
+		"id": "5550",
+		"x": "2702",
+		"y": "3829",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2703",
+		"y": "3822",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snowy knight",
+		"id": "5554",
+		"x": "2708",
+		"y": "3815",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2708",
+		"y": "3822",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hunting expert",
+		"id": "1503",
+		"x": "2710",
+		"y": "3830",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2715",
+		"y": "3808",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cerulean twitch",
+		"id": "5550",
+		"x": "2717",
+		"y": "3804",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cerulean twitch",
+		"id": "5550",
+		"x": "2719",
+		"y": "3816",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2720",
+		"y": "3805",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2720",
+		"y": "3834",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cerulean twitch",
+		"id": "5550",
+		"x": "2722",
+		"y": "3833",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cerulean twitch",
+		"id": "5550",
+		"x": "2723",
+		"y": "3836",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snowy knight",
+		"id": "5554",
+		"x": "2725",
+		"y": "3833",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snowy knight",
+		"id": "5554",
+		"x": "2730",
+		"y": "3806",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sapphire glacialis",
+		"id": "5555",
+		"x": "2734",
+		"y": "3823",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

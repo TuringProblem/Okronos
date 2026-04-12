@@ -1,0 +1,642 @@
+[
+	{
+		"name": "Icelord",
+		"id": "852",
+		"x": "2641",
+		"y": "10426",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Icelord",
+		"id": "854",
+		"x": "2647",
+		"y": "10425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "KGP Agent",
+		"id": "841",
+		"x": "2648",
+		"y": "10384",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Icelord",
+		"id": "855",
+		"x": "2650",
+		"y": "10423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "831",
+		"x": "2655",
+		"y": "10389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "831",
+		"x": "2655",
+		"y": "10402",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "KGP Agent",
+		"id": "1983",
+		"x": "2655",
+		"y": "10408",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "831",
+		"x": "2660",
+		"y": "10378",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ping",
+		"id": "839",
+		"x": "2670",
+		"y": "10395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pong",
+		"id": "840",
+		"x": "2670",
+		"y": "10397",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Daero",
+		"id": "1445",
+		"x": "2648",
+		"y": "4514",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Waydar",
+		"id": "2021",
+		"x": "2648",
+		"y": "4519",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Crusher",
+		"id": "856",
+		"x": "2629",
+		"y": "4053",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crusher",
+		"id": "857",
+		"x": "2630",
+		"y": "4056",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crusher",
+		"id": "858",
+		"x": "2631",
+		"y": "4053",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crusher",
+		"id": "857",
+		"x": "2632",
+		"y": "4056",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crusher",
+		"id": "856",
+		"x": "2633",
+		"y": "4053",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crusher",
+		"id": "859",
+		"x": "2634",
+		"y": "4056",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2633",
+		"y": "4039",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2633",
+		"y": "4040",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2633",
+		"y": "4041",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2633",
+		"y": "4042",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2633",
+		"y": "4043",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2633",
+		"y": "4044",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2634",
+		"y": "4039",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2634",
+		"y": "4040",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2634",
+		"y": "4041",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2634",
+		"y": "4042",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2634",
+		"y": "4043",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "849",
+		"x": "2634",
+		"y": "4044",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2636",
+		"y": "4037",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2636",
+		"y": "4038",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2636",
+		"y": "4045",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2636",
+		"y": "4046",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2637",
+		"y": "4037",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2637",
+		"y": "4038",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Army Commander",
+		"id": "848",
+		"x": "2637",
+		"y": "4041",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2637",
+		"y": "4045",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2637",
+		"y": "4046",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2638",
+		"y": "4037",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2638",
+		"y": "4038",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2638",
+		"y": "4045",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2638",
+		"y": "4046",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2639",
+		"y": "4037",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2639",
+		"y": "4038",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2639",
+		"y": "4045",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2639",
+		"y": "4046",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2640",
+		"y": "4037",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2640",
+		"y": "4038",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2640",
+		"y": "4045",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2640",
+		"y": "4046",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2641",
+		"y": "4037",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "850",
+		"x": "2641",
+		"y": "4038",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2641",
+		"y": "4045",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "851",
+		"x": "2641",
+		"y": "4046",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Agility Instructor",
+		"id": "847",
+		"x": "2653",
+		"y": "4038",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "KGP Agent",
+		"id": "1982",
+		"x": "2640",
+		"y": "4009",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Noodle",
+		"id": "843",
+		"x": "2645",
+		"y": "4004",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "1981",
+		"x": "2651",
+		"y": "4006",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "1981",
+		"x": "2656",
+		"y": "4000",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Larry",
+		"id": "829",
+		"x": "2661",
+		"y": "3990",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "1981",
+		"x": "2663",
+		"y": "4005",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "1981",
+		"x": "2672",
+		"y": "3995",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penguin",
+		"id": "1981",
+		"x": "2675",
+		"y": "3984",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

@@ -1,0 +1,45 @@
+[
+  { #Deranged archaeologist (276)
+    "ids": [ 7806 ],
+    "handler": "io.ruin.model.activities.bosses.DerangedArchaeologist",
+    //Combat Info
+    "hitpoints": 200,
+    "aggressive_level": 408,
+    "max_damage": 15,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 275.0,
+    "slayer_tasks": [ "Crazy Archaeologists" ],
+    //Combat Stats
+    "attack": 280,
+    "strength": 90,
+    "defence": 240,
+    "ranged": 180,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 250,
+    "slash_attack": 250,
+    "crush_attack": 250,
+    "magic_attack": 250,
+    "ranged_attack": 75,
+    //Defensive Stats
+    "stab_defence": 20,
+    "slash_defence": 20,
+    "crush_defence": 50,
+    "magic_defence": 300,
+    "ranged_defence": 300,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 3353,
+    "defend_animation": 425,
+    "death_animation": 2304
+  }
+]

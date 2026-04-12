@@ -1,0 +1,4582 @@
+[
+	{
+		"name": "Undead cow",
+		"id": "2992",
+		"x": "3611",
+		"y": "3527",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead cow",
+		"id": "2992",
+		"x": "3616",
+		"y": "3525",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Alice's husband",
+		"id": "4415",
+		"x": "3617",
+		"y": "3528",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead cow",
+		"id": "2992",
+		"x": "3620",
+		"y": "3524",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead cow",
+		"id": "2992",
+		"x": "3622",
+		"y": "3527",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Alice",
+		"id": "504",
+		"x": "3627",
+		"y": "3526",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead chicken",
+		"id": "2993",
+		"x": "3627",
+		"y": "3531",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead chicken",
+		"id": "2993",
+		"x": "3629",
+		"y": "3530",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead chicken",
+		"id": "2993",
+		"x": "3631",
+		"y": "3529",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead chicken",
+		"id": "2993",
+		"x": "3631",
+		"y": "3531",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead chicken",
+		"id": "2993",
+		"x": "3632",
+		"y": "3526",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead chicken",
+		"id": "2993",
+		"x": "3633",
+		"y": "3525",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Old man",
+		"id": "2997",
+		"x": "3617",
+		"y": "3544",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3585",
+		"y": "3478",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3586",
+		"y": "3480",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3586",
+		"y": "3482",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3586",
+		"y": "3496",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3588",
+		"y": "3461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3588",
+		"y": "3472",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3589",
+		"y": "3493",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3590",
+		"y": "3509",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3592",
+		"y": "3477",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3593",
+		"y": "3458",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3593",
+		"y": "3508",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3595",
+		"y": "3491",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3596",
+		"y": "3476",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3596",
+		"y": "3477",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3597",
+		"y": "3479",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "10443",
+		"x": "3597",
+		"y": "3489",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3598",
+		"y": "3509",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3599",
+		"y": "3483",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3599",
+		"y": "3486",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3600",
+		"y": "3506",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3607",
+		"y": "3460",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3607",
+		"y": "3462",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3607",
+		"y": "3466",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3607",
+		"y": "3497",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3610",
+		"y": "3465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "10443",
+		"x": "3611",
+		"y": "3462",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3611",
+		"y": "3499",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3613",
+		"y": "3482",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3613",
+		"y": "3491",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3613",
+		"y": "3499",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3614",
+		"y": "3515",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3617",
+		"y": "3477",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3617",
+		"y": "3514",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3618",
+		"y": "3514",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3619",
+		"y": "3502",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3620",
+		"y": "3472",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "10443",
+		"x": "3620",
+		"y": "3500",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3623",
+		"y": "3504",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3626",
+		"y": "3475",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3626",
+		"y": "3491",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3627",
+		"y": "3511",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3628",
+		"y": "3473",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3628",
+		"y": "3476",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3629",
+		"y": "3509",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3629",
+		"y": "3511",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3630",
+		"y": "3489",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3631",
+		"y": "3471",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3631",
+		"y": "3499",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3632",
+		"y": "3459",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3632",
+		"y": "3475",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3633",
+		"y": "3463",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3636",
+		"y": "3466",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "10443",
+		"x": "3636",
+		"y": "3484",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3638",
+		"y": "3472",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3639",
+		"y": "3510",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3644",
+		"y": "3498",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3646",
+		"y": "3467",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3591",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3592",
+		"y": "3452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3593",
+		"y": "3419",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3593",
+		"y": "3455",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3594",
+		"y": "3422",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3594",
+		"y": "3450",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3595",
+		"y": "3426",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3596",
+		"y": "3445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3596",
+		"y": "3452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crimsonette van Marr",
+		"id": "9713",
+		"x": "3597",
+		"y": "3392",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Despoina Callidra",
+		"id": "9722",
+		"x": "3598",
+		"y": "3394",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3598",
+		"y": "3424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3598",
+		"y": "3442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3599",
+		"y": "3447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3600",
+		"y": "3419",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3600",
+		"y": "3422",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vormar Vakan",
+		"id": "9692",
+		"x": "3602",
+		"y": "3394",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3604",
+		"y": "3449",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vlad Diaemus",
+		"id": "9694",
+		"x": "3610",
+		"y": "3394",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3612",
+		"y": "3434",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3614",
+		"y": "3431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2645",
+		"x": "3615",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Valentin Rasputin",
+		"id": "9685",
+		"x": "3618",
+		"y": "3393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2650",
+		"x": "3618",
+		"y": "3447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2645",
+		"x": "3619",
+		"y": "3430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3619",
+		"y": "3437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3620",
+		"y": "3443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2652",
+		"x": "3620",
+		"y": "3453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lasenna Rasputin",
+		"id": "9709",
+		"x": "3622",
+		"y": "3393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3623",
+		"y": "3437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3623",
+		"y": "3452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3624",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2647",
+		"x": "3626",
+		"y": "3435",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3628",
+		"y": "3440",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vyrewatch",
+		"id": "9740",
+		"x": "3630",
+		"y": "3393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Feral Vampyre",
+		"id": "3237",
+		"x": "3630",
+		"y": "3430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2645",
+		"x": "3631",
+		"y": "3427",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2652",
+		"x": "3632",
+		"y": "3454",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2650",
+		"x": "3633",
+		"y": "3445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2645",
+		"x": "3634",
+		"y": "3434",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3635",
+		"y": "3423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3635",
+		"y": "3426",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3635",
+		"y": "3447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3637",
+		"y": "3424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2647",
+		"x": "3637",
+		"y": "3437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2650",
+		"x": "3639",
+		"y": "3446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swampy log",
+		"id": "8299",
+		"x": "3640",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3537",
+		"y": "3496",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Werewolf",
+		"id": "5928",
+		"x": "3544",
+		"y": "3462",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3545",
+		"y": "3502",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3546",
+		"y": "3462",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3548",
+		"y": "3480",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ivan Strom",
+		"id": "1035",
+		"x": "3548",
+		"y": "3516",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Veliaf Hurtz",
+		"id": "9516",
+		"x": "3549",
+		"y": "3517",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3551",
+		"y": "3489",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3554",
+		"y": "3506",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3556",
+		"y": "3470",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3560",
+		"y": "3462",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3565",
+		"y": "3503",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "10443",
+		"x": "3566",
+		"y": "3457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3566",
+		"y": "3483",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3567",
+		"y": "3474",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3567",
+		"y": "3481",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "10443",
+		"x": "3567",
+		"y": "3503",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3570",
+		"y": "3507",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3572",
+		"y": "3492",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Leech",
+		"id": "3233",
+		"x": "3574",
+		"y": "3507",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3577",
+		"y": "3493",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tree",
+		"id": "3240",
+		"x": "3579",
+		"y": "3477",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3580",
+		"y": "3491",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2647",
+		"x": "3520",
+		"y": "3407",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3523",
+		"y": "3436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3524",
+		"y": "3413",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3526",
+		"y": "3398",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3530",
+		"y": "3398",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3530",
+		"y": "3441",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3531",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2645",
+		"x": "3531",
+		"y": "3438",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3532",
+		"y": "3446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2650",
+		"x": "3534",
+		"y": "3428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3537",
+		"y": "3445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3537",
+		"y": "3451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3540",
+		"y": "3430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3541",
+		"y": "3410",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3544",
+		"y": "3430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3545",
+		"y": "3440",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3547",
+		"y": "3442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3548",
+		"y": "3450",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3549",
+		"y": "3437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3549",
+		"y": "3449",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3552",
+		"y": "3450",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3554",
+		"y": "3440",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3554",
+		"y": "3453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3556",
+		"y": "3438",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3558",
+		"y": "3444",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2645",
+		"x": "3558",
+		"y": "3453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swamp lizard",
+		"id": "2906",
+		"x": "3562",
+		"y": "3435",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3563",
+		"y": "3438",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3563",
+		"y": "3444",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sarius Guile",
+		"id": "6161",
+		"x": "3575",
+		"y": "3331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cyreg Paddlehorn",
+		"id": "5046",
+		"x": "3522",
+		"y": "3284",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Strange Old Man",
+		"id": "1671",
+		"x": "3564",
+		"y": "3288",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2863",
+		"x": "3463",
+		"y": "9813",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2862",
+		"x": "3464",
+		"y": "9818",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3045",
+		"x": "3465",
+		"y": "9797",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3046",
+		"x": "3466",
+		"y": "9796",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin",
+		"id": "3028",
+		"x": "3466",
+		"y": "9798",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Deadly red spider",
+		"id": "3021",
+		"x": "3466",
+		"y": "9815",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Poison spider",
+		"id": "3023",
+		"x": "3467",
+		"y": "9797",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3050",
+		"x": "3469",
+		"y": "9796",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "3469",
+		"y": "9797",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dog",
+		"id": "111",
+		"x": "3469",
+		"y": "9806",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2864",
+		"x": "3469",
+		"y": "9816",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dog",
+		"id": "111",
+		"x": "3470",
+		"y": "9804",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Poison spider",
+		"id": "3023",
+		"x": "3471",
+		"y": "9796",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Deadly red spider",
+		"id": "3021",
+		"x": "3471",
+		"y": "9806",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3476",
+		"y": "9842",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3479",
+		"y": "9835",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3479",
+		"y": "9840",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3479",
+		"y": "9841",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "3480",
+		"y": "9830",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3480",
+		"y": "9841",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3481",
+		"y": "9828",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "3484",
+		"y": "9824",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3485",
+		"y": "9844",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3485",
+		"y": "9845",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3486",
+		"y": "9822",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3486",
+		"y": "9843",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3486",
+		"y": "9844",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3486",
+		"y": "9845",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3487",
+		"y": "9843",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3487",
+		"y": "9844",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3492",
+		"y": "9815",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "3495",
+		"y": "9812",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3497",
+		"y": "9808",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Giant rat",
+		"id": "2856",
+		"x": "3502",
+		"y": "9806",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "3502",
+		"y": "9808",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harold Evans",
+		"id": "9803",
+		"x": "3504",
+		"y": "9833",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Veliaf Hurtz",
+		"id": "9620",
+		"x": "3506",
+		"y": "9838",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Radigad Ponfit",
+		"id": "9626",
+		"x": "3509",
+		"y": "9831",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sani Piliu",
+		"id": "8296",
+		"x": "3510",
+		"y": "9836",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ivan Strom",
+		"id": "9630",
+		"x": "3513",
+		"y": "9843",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Polmafi Ferdygris",
+		"id": "9628",
+		"x": "3514",
+		"y": "9838",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3456",
+		"y": "3417",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3456",
+		"y": "3418",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3457",
+		"y": "3411",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3458",
+		"y": "3401",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3460",
+		"y": "3418",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3460",
+		"y": "3424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3461",
+		"y": "3406",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3461",
+		"y": "3437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3462",
+		"y": "3399",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3462",
+		"y": "3432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3463",
+		"y": "3404",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3463",
+		"y": "3416",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3463",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3463",
+		"y": "3448",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3464",
+		"y": "3441",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3466",
+		"y": "3433",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3467",
+		"y": "3404",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3467",
+		"y": "3409",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3467",
+		"y": "3410",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3467",
+		"y": "3415",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3469",
+		"y": "3397",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3469",
+		"y": "3432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3470",
+		"y": "3426",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3471",
+		"y": "3399",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3471",
+		"y": "3402",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3472",
+		"y": "3415",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3472",
+		"y": "3418",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3472",
+		"y": "3420",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3473",
+		"y": "3394",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3473",
+		"y": "3412",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3475",
+		"y": "3401",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3475",
+		"y": "3440",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3477",
+		"y": "3419",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3478",
+		"y": "3429",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2653",
+		"x": "3479",
+		"y": "3434",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3480",
+		"y": "3424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3481",
+		"y": "3406",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2653",
+		"x": "3481",
+		"y": "3437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3481",
+		"y": "3439",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2649",
+		"x": "3481",
+		"y": "3441",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3481",
+		"y": "3442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3482",
+		"y": "3419",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2653",
+		"x": "3482",
+		"y": "3430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3482",
+		"y": "3431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3482",
+		"y": "3444",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3483",
+		"y": "3440",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3483",
+		"y": "3445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2653",
+		"x": "3483",
+		"y": "3449",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3484",
+		"y": "3442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3485",
+		"y": "3436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2652",
+		"x": "3485",
+		"y": "3441",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3485",
+		"y": "3443",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3485",
+		"y": "3451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3486",
+		"y": "3399",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3486",
+		"y": "3407",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2647",
+		"x": "3486",
+		"y": "3440",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2650",
+		"x": "3486",
+		"y": "3442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3487",
+		"y": "3423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3490",
+		"y": "3395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "2653",
+		"x": "3490",
+		"y": "3444",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3490",
+		"y": "3446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3491",
+		"y": "3430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3492",
+		"y": "3405",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3493",
+		"y": "3393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3495",
+		"y": "3418",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3495",
+		"y": "3439",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3496",
+		"y": "3395",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3496",
+		"y": "3421",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2650",
+		"x": "3496",
+		"y": "3444",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3497",
+		"y": "3409",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3497",
+		"y": "3417",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3498",
+		"y": "3420",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3498",
+		"y": "3452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3499",
+		"y": "3394",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3499",
+		"y": "3446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3500",
+		"y": "3422",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3500",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3501",
+		"y": "3403",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3502",
+		"y": "3425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3504",
+		"y": "3404",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3504",
+		"y": "3422",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3504",
+		"y": "3424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3505",
+		"y": "3418",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3505",
+		"y": "3433",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3506",
+		"y": "3420",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3507",
+		"y": "3428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3508",
+		"y": "3393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3508",
+		"y": "3400",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Curpile Fyod",
+		"id": "8295",
+		"x": "3508",
+		"y": "3440",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3509",
+		"y": "3421",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bark Blamish Snail",
+		"id": "2648",
+		"x": "3510",
+		"y": "3435",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3511",
+		"y": "3393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3511",
+		"y": "3397",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3511",
+		"y": "3408",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3514",
+		"y": "3418",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3515",
+		"y": "3414",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3516",
+		"y": "3404",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3516",
+		"y": "3409",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3516",
+		"y": "3448",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2647",
+		"x": "3517",
+		"y": "3437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3518",
+		"y": "3399",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3518",
+		"y": "3417",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3518",
+		"y": "3428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2645",
+		"x": "3519",
+		"y": "3439",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3456",
+		"y": "3343",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3456",
+		"y": "3366",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3456",
+		"y": "3390",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3457",
+		"y": "3351",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3457",
+		"y": "3356",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3457",
+		"y": "3370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3457",
+		"y": "3378",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3458",
+		"y": "3340",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3458",
+		"y": "3347",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3460",
+		"y": "3375",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3463",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3463",
+		"y": "3341",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3463",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3463",
+		"y": "3353",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3463",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3464",
+		"y": "3372",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3464",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3465",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3466",
+		"y": "3332",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3466",
+		"y": "3364",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3467",
+		"y": "3345",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3467",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3468",
+		"y": "3348",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3469",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3469",
+		"y": "3390",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3470",
+		"y": "3381",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blood Blamish Snail",
+		"id": "2650",
+		"x": "3471",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3472",
+		"y": "3362",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2652",
+		"x": "3473",
+		"y": "3346",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3473",
+		"y": "3348",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3473",
+		"y": "3352",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bruise Blamish Snail",
+		"id": "2647",
+		"x": "3474",
+		"y": "3347",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3474",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3474",
+		"y": "3387",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3475",
+		"y": "3373",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3477",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2651",
+		"x": "3477",
+		"y": "3367",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3477",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3478",
+		"y": "3328",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3478",
+		"y": "3371",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3480",
+		"y": "3363",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3482",
+		"y": "3343",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3485",
+		"y": "3373",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3486",
+		"y": "3329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3486",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3487",
+		"y": "3368",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3487",
+		"y": "3378",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3488",
+		"y": "3343",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3488",
+		"y": "3350",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3488",
+		"y": "3357",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3491",
+		"y": "3376",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3491",
+		"y": "3381",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3491",
+		"y": "3388",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3492",
+		"y": "3360",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3492",
+		"y": "3371",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3494",
+		"y": "3328",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3494",
+		"y": "3341",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3494",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3494",
+		"y": "3389",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ochre Blamish Snail",
+		"id": "2646",
+		"x": "3496",
+		"y": "3386",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3498",
+		"y": "3354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3498",
+		"y": "3382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3500",
+		"y": "3385",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3501",
+		"y": "3382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3501",
+		"y": "3388",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3502",
+		"y": "3328",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3502",
+		"y": "3350",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3502",
+		"y": "3363",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3503",
+		"y": "3359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3503",
+		"y": "3380",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3505",
+		"y": "3379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Myre Blamish Snail",
+		"id": "2634",
+		"x": "3506",
+		"y": "3382",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3507",
+		"y": "3348",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3508",
+		"y": "3367",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3510",
+		"y": "3341",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3510",
+		"y": "3381",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3512",
+		"y": "3328",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3513",
+		"y": "3383",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3517",
+		"y": "3329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghast",
+		"id": "945",
+		"x": "3517",
+		"y": "3336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Temple guardian",
+		"id": "3487",
+		"x": "3405",
+		"y": "9902",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Veliaf Hurtz",
+		"id": "9515",
+		"x": "3439",
+		"y": "9897",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Drezel",
+		"id": "9805",
+		"x": "3440",
+		"y": "9895",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Dead Monk",
+		"id": "6223",
+		"x": "3405",
+		"y": "3492",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk",
+		"id": "6222",
+		"x": "3406",
+		"y": "3492",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3484",
+		"x": "3410",
+		"y": "3484",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3484",
+		"x": "3410",
+		"y": "3493",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3486",
+		"x": "3411",
+		"y": "3489",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3412",
+		"y": "3512",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3412",
+		"y": "3515",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3413",
+		"y": "3514",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3414",
+		"y": "3512",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3486",
+		"x": "3415",
+		"y": "3485",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3485",
+		"x": "3415",
+		"y": "3489",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3415",
+		"y": "3518",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3416",
+		"y": "3509",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3416",
+		"y": "3511",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3417",
+		"y": "3518",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3418",
+		"y": "3509",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3419",
+		"y": "3512",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3420",
+		"y": "3517",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3420",
+		"y": "3518",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3423",
+		"y": "3461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3426",
+		"y": "3465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3427",
+		"y": "3463",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3428",
+		"y": "3458",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3428",
+		"y": "3465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3430",
+		"y": "3462",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3430",
+		"y": "3467",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hiylik Myna",
+		"id": "1579",
+		"x": "3432",
+		"y": "3487",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3433",
+		"y": "3458",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3433",
+		"y": "3468",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Adventurer (easy)",
+		"id": "2944",
+		"x": "3433",
+		"y": "3486",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ghoul",
+		"id": "289",
+		"x": "3434",
+		"y": "3464",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Apprentice (medium)",
+		"id": "2942",
+		"x": "3434",
+		"y": "3483",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mage (easy)",
+		"id": "2945",
+		"x": "3434",
+		"y": "3486",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ranger (medium)",
+		"id": "2943",
+		"x": "3435",
+		"y": "3483",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Woman-at-arms (hard)",
+		"id": "2941",
+		"x": "3437",
+		"y": "3487",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Forester (hard)",
+		"id": "2940",
+		"x": "3438",
+		"y": "3487",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ulizius",
+		"id": "947",
+		"x": "3444",
+		"y": "3459",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ivan Strom",
+		"id": "1036",
+		"x": "3444",
+		"y": "3485",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tool Leprechaun",
+		"id": "0",
+		"x": "3454",
+		"y": "3468",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3485",
+		"x": "3411",
+		"y": "3485",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3484",
+		"x": "3412",
+		"y": "3489",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3484",
+		"x": "3414",
+		"y": "3487",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3485",
+		"x": "3415",
+		"y": "3489",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monk of Zamorak",
+		"id": "3486",
+		"x": "3416",
+		"y": "3491",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Drezel",
+		"id": "9804",
+		"x": "3417",
+		"y": "3489",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3341",
+		"y": "3478",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3343",
+		"y": "3484",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3345",
+		"y": "3484",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3350",
+		"y": "3493",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3353",
+		"y": "3494",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3361",
+		"y": "3484",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3364",
+		"y": "3489",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3370",
+		"y": "3497",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3379",
+		"y": "3478",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3379",
+		"y": "3484",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3387",
+		"y": "3483",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3388",
+		"y": "3494",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bat",
+		"id": "2827",
+		"x": "3389",
+		"y": "3483",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

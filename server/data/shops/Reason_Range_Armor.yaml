@@ -1,0 +1,97 @@
+---
+identifier: "RangedArmourStore"
+title: "Ranged Armour Supply"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 1167
+  price: 30
+  amount: 1
+- id: 1129
+  price: 30
+  amount: 1
+- id: 1095
+  price: 30
+  amount: 1
+- id: 1063
+  price: 30
+  amount: 1
+- id: 1131
+  price: 700
+  amount: 1
+- id: 1169
+  price: 250
+  amount: 1
+- id: 1133
+  price: 10
+  amount: 1
+- id: 1097
+  price: 10
+  amount: 1
+- id: 6326
+  price: 5000
+  amount: 1
+- id: 6322
+  price: 5000
+  amount: 1
+- id: 6324
+  price: 5000
+  amount: 1
+- id: 6328
+  price: 3500
+  amount: 1
+- id: 1135
+  price: 7500
+  amount: 1
+- id: 1099
+  price: 3500
+  amount: 1
+- id: 1065
+  price: 2350
+  amount: 1
+- id: 2499
+  price: 13500
+  amount: 1
+- id: 2493
+  price: 6000
+  amount: 1
+- id: 2487
+  price: 4000
+  amount: 1
+- id: 2501
+  price: 25000
+  amount: 1
+- id: 2495
+  price: 10000
+  amount: 1
+- id: 2489
+  price: 8850
+  amount: 1
+- id: 2503
+  price: 40000
+  amount: 1
+- id: 2497
+  price: 20000
+  amount: 1
+- id: 2491
+  price: 15000
+  amount: 1
+- id: 10499
+  price: 6000
+  amount: 1
+- id: 3749
+  price: 80000
+  amount: 1
+- id: 1478
+  price: 8000
+  amount: 1

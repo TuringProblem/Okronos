@@ -1,0 +1,58 @@
+---
+identifier: "GeneralStore"
+title: "General Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 1
+defaultStock:
+- id: 1931
+  price: 5
+  amount: 50
+- id: 1935
+  price: 5
+  amount: 500
+- id: 1938
+  price: 5
+  amount: 50
+- id: 20742
+  price: 500
+  amount: 50
+- id: 1735
+  price: 5
+  amount: 50
+- id: 1925
+  price: 5
+  amount: 500
+- id: 1923
+  price: 5
+  amount: 500
+- id: 1887
+  price: 5
+  amount: 50
+- id: 590
+  price: 5
+  amount: 50
+- id: 954
+  price: 5
+  amount: 50
+- id: 1540
+  price: 1000
+  amount: 50
+- id: 2368
+  price: 3000000
+  amount: 50
+- id: 1759
+  price: 1000
+  amount: 50
+- id: 30612
+  price: 1000000
+  amount: 50

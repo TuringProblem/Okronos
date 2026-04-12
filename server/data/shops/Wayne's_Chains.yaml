@@ -1,0 +1,27 @@
+---
+identifier: "6Y4iL9lGJ7gxHJc9lqaNY5PNFbUGZz"
+title: "Wayne's Chains - Chainmail specialist"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 65
+  changePer: 1
+defaultStock:
+- id: 1103
+  amount: 100000
+- id: 1101
+  amount: 100000
+- id: 1105
+  amount: 100000
+- id: 1107
+  amount: 100000
+- id: 1109
+  amount: 100000
+- id: 1111
+  amount: 100000

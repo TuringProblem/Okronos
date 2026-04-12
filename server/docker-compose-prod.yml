@@ -1,0 +1,20 @@
+services:
+  game_server:
+    image: "${CI_REGISTRY_IMAGE}/server:${CI_COMMIT_SHORT_SHA}"
+    ports:
+      - "43594:43594"
+      - "10001:10001"
+      - "9292:9292"
+    volumes:
+      - data:/app/data/runtime/
+  db_mongo:
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: password
+  adminer:
+    image: adminer
+    ports:
+      - "8080:8080"
+
+volumes:
+  data:

@@ -1,0 +1,48 @@
+[
+  { #The Nightmare - Husk ()
+    "ids": [ 9466, 9467, 9468, 9469 ],
+    "handler": "io.ruin.model.activities.miscpvm.BasicCombat",
+    //Combat Info
+    "hitpoints": 100,
+    "aggressive_level": -1,
+    "max_damage": 16,
+    "attack_style": "MAGIC",
+   //"pet": "",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 150,
+    "strength": 150,
+    "defence": 150,
+    "ranged": 150,
+    "magic": 150,
+    //Aggressive Stats
+    "stab_attack": 70,
+    "slash_attack": 78,
+    "crush_attack": 70,
+    "magic_attack": 64,
+    "ranged_attack": 70,
+    //Defensive Stats
+    "stab_defence":60,
+    "slash_defence": 90,
+    "crush_defence": 40,
+    "magic_defence": 60,
+    "ranged_defence": 60,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 8564,
+    "defend_animation": -1,
+    "death_animation": 8566,
+	//Other
+	"local_loot": true
+  }
+]

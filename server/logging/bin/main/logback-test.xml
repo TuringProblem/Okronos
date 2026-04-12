@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false">
+	<statusListener class="ch.qos.logback.core.status.NopStatusListener"/>
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} %highlight(%level) %boldCyan(%thread) %boldGreen(%logger{36}:%line) %msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<logger name="com.zaxxer.hikari" level="warn" />
+	<logger name="net.rsprot" level="warn" />
+	<logger name="io.netty" level="warn" />
+	<logger name="org.rsmod" level="warn" />
+
+	<root level="trace">
+		<appender-ref ref="STDOUT" />
+	</root>
+	
+</configuration>

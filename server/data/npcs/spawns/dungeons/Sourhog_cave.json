@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Sourhog",
+		"id": 10435,
+		"x": 3157,
+		"y": 9698,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Sourhog",
+		"id": 10435,
+		"x": 3163,
+		"y": 9699,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Sourhog",
+		"id": 10435,
+		"x": 3168,
+		"y": 9692,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Sourhog",
+		"id": 10435,
+		"x": 3173,
+		"y": 9688,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Sourhog",
+		"id": 10435,
+		"x": 3177,
+		"y": 9683,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Sourhog",
+		"id": 10435,
+		"x": 3171,
+		"y": 9679,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Sourhog",
+		"id": 10435,
+		"x": 3165,
+		"y": 9678,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Sourhog",
+		"id": 10435,
+		"x": 3167,
+		"y": 9673,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	}
+]

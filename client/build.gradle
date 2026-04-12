@@ -1,0 +1,8 @@
+allprojects {
+	apply plugin: "eclipse"
+	repositories {
+		flatDir {
+			dirs "$rootDir/lib"
+		}
+	}
+}

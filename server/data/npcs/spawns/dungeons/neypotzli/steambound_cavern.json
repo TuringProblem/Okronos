@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Grimy Lizard",
+		"id": 13029,
+		"x": 1489,
+		"y": 9704,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Grimy Lizard",
+		"id": 13029,
+		"x": 1483,
+		"y": 9716,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Grimy Lizard",
+		"id": 13029,
+		"x": 1490,
+		"y": 9714,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Grimy Lizard",
+		"id": 13029,
+		"x": 1494,
+		"y": 9711,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Grimy Lizard",
+		"id": 13029,
+		"x": 1498,
+		"y": 9709,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Grimy Lizard",
+		"id": 13029,
+		"x": 1499,
+		"y": 9718,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Grimy Lizard",
+		"id": 13029,
+		"x": 1504,
+		"y": 9714,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	},
+	{
+		"name": "Grimy Lizard",
+		"id": 13029,
+		"x": 1510,
+		"y": 9715,
+		"z": 0,
+		"direction": "S",
+		"walkRange": 3
+	}
+]

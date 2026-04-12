@@ -1,0 +1,64 @@
+---
+identifier: "DonatorStore"
+title: "Reason Donator Store"
+currency: "DONATOR"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 30461
+  price: 400
+  amount: 1
+- id: 4810
+  price: 800
+  amount: 1
+- id: 30446
+  price: 1300
+  amount: 1
+- id: 30462
+  price: 900
+  amount: 1
+- id: 30448
+  price: 1300
+  amount: 1
+- id: 30449
+  price: 1800
+  amount: 1
+- id: 30460
+  price: 300
+  amount: 1
+- id: 30459
+  price: 450
+  amount: 1
+- id: 30458
+  price: 50
+  amount: 1
+- id: 30457
+  price: 450
+  amount: 1
+- id: 30456
+  price: 450
+  amount: 1
+- id: 30455
+  price: 450
+  amount: 1
+- id: 30453
+  price: 300
+  amount: 1
+- id: 30463
+  price: 900
+  amount: 1
+- id: 7478
+  price: 50
+  amount: 1
+- id: 2528
+  price: 450
+  amount: 1

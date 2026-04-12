@@ -1,0 +1,41 @@
+[
+  {
+    "ids": [
+      9041
+    ],
+    "hitpoints": 12,
+    "aggressive_level": 200,
+    "aggressive": true,
+    "max_damage": 13,
+    "attack_style": "SLASH",
+    "slayer_level": 0,
+    "slayer_xp": 0.0,
+    "attack": 48,
+    "strength": 39,
+    "defence": 4,
+    "ranged": 0,
+    "magic": 4,
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+	"spawn_animation": -1,
+    "attack_animation": 8339,
+    "defend_animation": -1,
+    "death_animation": 8338,
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    "poison_immunity": true,
+    "venom_immunity": true,
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    "local_loot": false,
+    "combat_xp_modifier": 1.0,
+    "random_drop_count": 1
+  }
+]

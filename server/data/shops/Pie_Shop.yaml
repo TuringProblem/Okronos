@@ -1,0 +1,27 @@
+---
+identifier: "dbF5h3PPkelrHTArSz3WBgkHEjwXAY"
+title: "Pie Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 1
+defaultStock:
+- id: 7162
+  amount: 100000
+- id: 2325
+  amount: 100000
+- id: 2327
+  amount: 100000
+- id: 2323
+  amount: 100000
+- id: 7178
+  amount: 100000
+- id: 7188
+  amount: 100000

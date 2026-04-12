@@ -1,0 +1,29 @@
+package io.ruin.model.content.combatachievements.achievements.grandmaster;
+
+import io.ruin.model.content.combatachievements.CombatAchievement;
+import io.ruin.model.entity.player.Player;
+
+public class TheatreDuoSpeedRunner extends CombatAchievement {
+	@Override
+	public void check(Player player) {
+		if (!completed) {
+			completed = true;
+			complete(player);
+		}
+	}
+
+	@Override
+	public String getName() {
+		return "Theatre (Duo) Speed-Runner";
+	}
+
+	@Override
+	public String getDesc() {
+		return "Complete the Theatre of Blood (Duo) in less than 9 minutes.";
+	}
+
+	@Override
+	public Tier getTier() {
+		return Tier.GRANDMASTER;
+	}
+}

@@ -1,0 +1,272 @@
+[
+	{
+		"name": "Winter Elemental",
+		"id": "5797",
+		"x": "2891",
+		"y": "5470",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Winter Elemental",
+		"id": "5800",
+		"x": "2891",
+		"y": "5483",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Winter Elemental",
+		"id": "5798",
+		"x": "2897",
+		"y": "5478",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Autumn Elemental",
+		"id": "5802",
+		"x": "2898",
+		"y": "5460",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Autumn Elemental",
+		"id": "5804",
+		"x": "2899",
+		"y": "5449",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Winter Elemental",
+		"id": "5796",
+		"x": "2899",
+		"y": "5466",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Autumn Elemental",
+		"id": "5803",
+		"x": "2900",
+		"y": "5455",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Winter Elemental",
+		"id": "5799",
+		"x": "2900",
+		"y": "5480",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Winter Elemental",
+		"id": "5801",
+		"x": "2900",
+		"y": "5485",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Autumn Elemental",
+		"id": "5805",
+		"x": "2903",
+		"y": "5451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Autumn Elemental",
+		"id": "5806",
+		"x": "2904",
+		"y": "5457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Summer Elemental",
+		"id": "1801",
+		"x": "2907",
+		"y": "5488",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Summer Elemental",
+		"id": "1802",
+		"x": "2907",
+		"y": "5495",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Del-Monty",
+		"id": "1813",
+		"x": "2909",
+		"y": "5472",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Summer Elemental",
+		"id": "1803",
+		"x": "2910",
+		"y": "5493",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Summer Elemental",
+		"id": "1804",
+		"x": "2912",
+		"y": "5485",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Autumn Elemental",
+		"id": "5807",
+		"x": "2917",
+		"y": "5455",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Summer Elemental",
+		"id": "1806",
+		"x": "2921",
+		"y": "5495",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spring Elemental",
+		"id": "2956",
+		"x": "2922",
+		"y": "5471",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Summer Elemental",
+		"id": "1805",
+		"x": "2923",
+		"y": "5490",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spring Elemental",
+		"id": "2957",
+		"x": "2924",
+		"y": "5463",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spring Elemental",
+		"id": "2962",
+		"x": "2925",
+		"y": "5475",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spring Elemental",
+		"id": "2958",
+		"x": "2926",
+		"y": "5461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spring Elemental",
+		"id": "2961",
+		"x": "2928",
+		"y": "5469",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spring Elemental",
+		"id": "2963",
+		"x": "2931",
+		"y": "5477",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spring Elemental",
+		"id": "2959",
+		"x": "2934",
+		"y": "5460",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spring Elemental",
+		"id": "2960",
+		"x": "2935",
+		"y": "5468",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

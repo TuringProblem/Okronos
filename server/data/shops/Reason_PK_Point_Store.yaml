@@ -1,0 +1,103 @@
+---
+identifier: "PkStore"
+title: "Reason PK Point Store"
+currency: "PK"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 11773
+  price: 250
+  amount: 1
+- id: 11772
+  price: 100
+  amount: 1
+- id: 11771
+  price: 250
+  amount: 1
+- id: 11770
+  price: 250
+  amount: 1
+- id: 12692
+  price: 250
+  amount: 1
+- id: 12691
+  price: 250
+  amount: 1
+- id: 13202
+  price: 250
+  amount: 1
+- id: 8842
+  price: 300
+  amount: 1
+- id: 8839
+  price: 300
+  amount: 1
+- id: 8840
+  price: 300
+  amount: 1
+- id: 13072
+  price: 600
+  amount: 1
+- id: 13073
+  price: 600
+  amount: 1
+- id: 11663
+  price: 250
+  amount: 1
+- id: 11664
+  price: 250
+  amount: 1
+- id: 11665
+  price: 250
+  amount: 1
+- id: 8850
+  price: 50
+  amount: 1
+- id: 12954
+  price: 150
+  amount: 1
+- id: 10548
+  price: 75
+  amount: 1
+- id: 10551
+  price: 200
+  amount: 1
+- id: 6570
+  price: 300
+  amount: 1
+- id: 21295
+  price: 2500
+  amount: 1
+- id: 10588
+  price: 150
+  amount: 1
+- id: 12791
+  price: 250
+  amount: 1
+- id: 11133
+  price: 75
+  amount: 1
+- id: 11128
+  price: 75
+  amount: 1
+- id: 12849
+  price: 100
+  amount: 1
+- id: 12596
+  price: 300
+  amount: 1
+- id: 12625
+  price: 10
+  amount: 1
+- id: 12695
+  price: 5
+  amount: 1

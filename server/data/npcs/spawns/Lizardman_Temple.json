@@ -1,0 +1,72 @@
+[
+  {
+    "id": 8579,
+    "x": 1298,
+    "y": 10089,
+    "z": 0,
+    "direction": "0",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Shayzien Infiltrator"
+  },
+  {
+    "id": 8565,
+    "x": 1293,
+    "y": 10094,
+    "z": 0,
+    "direction": "0",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lizardman shaman"
+  },
+  {
+    "id": 8565,
+    "x": 1291,
+    "y": 10097,
+    "z": 0,
+    "direction": "0",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lizardman shaman"
+  },
+  {
+    "id": 8565,
+    "x": 1312,
+    "y": 10098,
+    "z": 0,
+    "direction": "0",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lizardman shaman"
+  },
+  {
+    "id": 8565,
+    "x": 1313,
+    "y": 10095,
+    "z": 0,
+    "direction": "0",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lizardman shaman"
+  },
+  {
+    "id": 8565,
+    "x": 1329,
+    "y": 10098,
+    "z": 0,
+    "direction": "0",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lizardman shaman"
+  },
+  {
+    "id": 8565,
+    "x": 1330,
+    "y": 10095,
+    "z": 0,
+    "direction": "0",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lizardman shaman"
+  }
+]

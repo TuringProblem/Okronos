@@ -1,0 +1,1722 @@
+[
+	{
+		"name": "Lobstrosity",
+		"id": "7796",
+		"x": "3812",
+		"y": "10251",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lobstrosity",
+		"id": "7796",
+		"x": "3817",
+		"y": "10254",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lobstrosity",
+		"id": "7796",
+		"x": "3821",
+		"y": "10250",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lobstrosity",
+		"id": "7796",
+		"x": "3824",
+		"y": "10254",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lobstrosity",
+		"id": "7796",
+		"x": "3825",
+		"y": "10248",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lobstrosity",
+		"id": "7796",
+		"x": "3826",
+		"y": "10261",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lobstrosity",
+		"id": "7796",
+		"x": "3829",
+		"y": "10256",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lobstrosity",
+		"id": "7796",
+		"x": "3830",
+		"y": "10260",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lobstrosity",
+		"id": "7796",
+		"x": "3832",
+		"y": "10245",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3727",
+		"y": "10251",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3727",
+		"y": "10252",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3727",
+		"y": "10253",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3727",
+		"y": "10254",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3728",
+		"y": "10251",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3728",
+		"y": "10252",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3728",
+		"y": "10253",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4832",
+		"x": "3728",
+		"y": "10266",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ceto",
+		"id": "7783",
+		"x": "3728",
+		"y": "10293",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3731",
+		"y": "10244",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3731",
+		"y": "10245",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4823",
+		"x": "3731",
+		"y": "10271",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3732",
+		"y": "10244",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3732",
+		"y": "10245",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3732",
+		"y": "10246",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tool Leprechaun",
+		"id": "7757",
+		"x": "3732",
+		"y": "10270",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3733",
+		"y": "10244",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3733",
+		"y": "10245",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4838",
+		"x": "3733",
+		"y": "10263",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mernia",
+		"id": "7758",
+		"x": "3735",
+		"y": "10271",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3737",
+		"y": "10299",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3738",
+		"y": "10252",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3738",
+		"y": "10253",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3738",
+		"y": "10254",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3738",
+		"y": "10297",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3738",
+		"y": "10300",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3739",
+		"y": "10252",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3739",
+		"y": "10253",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3739",
+		"y": "10254",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3739",
+		"y": "10255",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3739",
+		"y": "10292",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3739",
+		"y": "10295",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3741",
+		"y": "10280",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3741",
+		"y": "10281",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3741",
+		"y": "10292",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3741",
+		"y": "10299",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3742",
+		"y": "10272",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3742",
+		"y": "10273",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3742",
+		"y": "10279",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3742",
+		"y": "10280",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3742",
+		"y": "10281",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3742",
+		"y": "10290",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3743",
+		"y": "10272",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3743",
+		"y": "10273",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3743",
+		"y": "10274",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3743",
+		"y": "10280",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3743",
+		"y": "10281",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3744",
+		"y": "10272",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3744",
+		"y": "10273",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3744",
+		"y": "10300",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3747",
+		"y": "10300",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish shoal",
+		"id": "7782",
+		"x": "3748",
+		"y": "10298",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3751",
+		"y": "10284",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3751",
+		"y": "10285",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3752",
+		"y": "10284",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3752",
+		"y": "10285",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3752",
+		"y": "10286",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3753",
+		"y": "10284",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3753",
+		"y": "10285",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3754",
+		"y": "10247",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3754",
+		"y": "10248",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3755",
+		"y": "10247",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3755",
+		"y": "10248",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3755",
+		"y": "10249",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3756",
+		"y": "10247",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3756",
+		"y": "10248",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mairin",
+		"id": "7784",
+		"x": "3765",
+		"y": "10290",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3768",
+		"y": "10271",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3769",
+		"y": "10252",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3769",
+		"y": "10271",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3770",
+		"y": "10252",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3770",
+		"y": "10269",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3770",
+		"y": "10270",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3770",
+		"y": "10271",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3770",
+		"y": "10295",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3771",
+		"y": "10252",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3771",
+		"y": "10269",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3771",
+		"y": "10270",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8674",
+		"x": "3771",
+		"y": "10286",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3771",
+		"y": "10294",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3771",
+		"y": "10295",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3771",
+		"y": "10296",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3772",
+		"y": "10252",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3772",
+		"y": "10253",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3772",
+		"y": "10254",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8668",
+		"x": "3772",
+		"y": "10285",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8670",
+		"x": "3772",
+		"y": "10286",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3772",
+		"y": "10287",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8672",
+		"x": "3772",
+		"y": "10294",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3772",
+		"y": "10295",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3772",
+		"y": "10296",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3773",
+		"y": "10254",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8669",
+		"x": "3773",
+		"y": "10285",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8671",
+		"x": "3773",
+		"y": "10286",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Puffer Fish",
+		"id": "8673",
+		"x": "3773",
+		"y": "10287",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mudskipper",
+		"id": "4820",
+		"x": "2948",
+		"y": "9522",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mudskipper",
+		"id": "4820",
+		"x": "2949",
+		"y": "9525",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mudskipper",
+		"id": "4821",
+		"x": "2949",
+		"y": "9528",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mudskipper",
+		"id": "4820",
+		"x": "2951",
+		"y": "9522",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mudskipper",
+		"id": "4821",
+		"x": "2952",
+		"y": "9525",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mudskipper",
+		"id": "4820",
+		"x": "2952",
+		"y": "9528",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mudskipper",
+		"id": "4820",
+		"x": "2953",
+		"y": "9523",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mudskipper",
+		"id": "4820",
+		"x": "2954",
+		"y": "9530",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4846",
+		"x": "2957",
+		"y": "9503",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4843",
+		"x": "2958",
+		"y": "9490",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4836",
+		"x": "2958",
+		"y": "9500",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4830",
+		"x": "2959",
+		"y": "9485",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4831",
+		"x": "2959",
+		"y": "9495",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4837",
+		"x": "2960",
+		"y": "9500",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4842",
+		"x": "2962",
+		"y": "9480",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4836",
+		"x": "2962",
+		"y": "9503",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4838",
+		"x": "2963",
+		"y": "9488",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4826",
+		"x": "2963",
+		"y": "9492",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4833",
+		"x": "2963",
+		"y": "9498",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4828",
+		"x": "2964",
+		"y": "9485",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4839",
+		"x": "2964",
+		"y": "9496",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4839",
+		"x": "2964",
+		"y": "9502",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4844",
+		"x": "2967",
+		"y": "9498",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4825",
+		"x": "2968",
+		"y": "9487",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mogre Guard",
+		"id": "4817",
+		"x": "2968",
+		"y": "9523",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4835",
+		"x": "2969",
+		"y": "9494",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mogre Guard",
+		"id": "4817",
+		"x": "2969",
+		"y": "9512",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4824",
+		"x": "2970",
+		"y": "9492",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4841",
+		"x": "2971",
+		"y": "9486",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4837",
+		"x": "2972",
+		"y": "9494",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4823",
+		"x": "2972",
+		"y": "9497",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4844",
+		"x": "2972",
+		"y": "9500",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4819",
+		"x": "2972",
+		"y": "9516",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4822",
+		"x": "2972",
+		"y": "9519",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4845",
+		"x": "2973",
+		"y": "9490",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4833",
+		"x": "2974",
+		"y": "9492",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4838",
+		"x": "2975",
+		"y": "9495",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4834",
+		"x": "2975",
+		"y": "9498",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Nung",
+		"id": "4818",
+		"x": "2975",
+		"y": "9512",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4822",
+		"x": "2975",
+		"y": "9518",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4829",
+		"x": "2976",
+		"y": "9485",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4827",
+		"x": "2976",
+		"y": "9490",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4822",
+		"x": "2976",
+		"y": "9516",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4822",
+		"x": "2977",
+		"y": "9520",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4822",
+		"x": "2977",
+		"y": "9522",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4830",
+		"x": "2978",
+		"y": "9481",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4824",
+		"x": "2978",
+		"y": "9495",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4840",
+		"x": "2978",
+		"y": "9498",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4819",
+		"x": "2978",
+		"y": "9518",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4827",
+		"x": "2980",
+		"y": "9485",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mogre Guard",
+		"id": "4817",
+		"x": "2980",
+		"y": "9511",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4843",
+		"x": "2981",
+		"y": "9482",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4831",
+		"x": "2981",
+		"y": "9493",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4822",
+		"x": "2981",
+		"y": "9517",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4829",
+		"x": "2983",
+		"y": "9487",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4841",
+		"x": "2983",
+		"y": "9490",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4823",
+		"x": "2983",
+		"y": "9494",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4822",
+		"x": "2983",
+		"y": "9519",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4846",
+		"x": "2984",
+		"y": "9496",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4825",
+		"x": "2984",
+		"y": "9499",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crab",
+		"id": "4822",
+		"x": "2984",
+		"y": "9516",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4834",
+		"x": "2986",
+		"y": "9487",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4832",
+		"x": "2986",
+		"y": "9494",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4842",
+		"x": "2988",
+		"y": "9492",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4828",
+		"x": "2988",
+		"y": "9497",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mogre Guard",
+		"id": "4817",
+		"x": "2990",
+		"y": "9519",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4840",
+		"x": "2992",
+		"y": "9485",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fish",
+		"id": "4845",
+		"x": "2993",
+		"y": "9498",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

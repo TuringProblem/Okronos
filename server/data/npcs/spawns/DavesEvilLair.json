@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Hell-Rat Behemoth",
+		"id": "6793",
+		"x": "3069",
+		"y": "9895",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hell-Rat Behemoth",
+		"id": "6793",
+		"x": "3070",
+		"y": "9881",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

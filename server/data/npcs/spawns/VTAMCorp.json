@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Thief",
+		"id": "5217",
+		"x": "3237",
+		"y": "9769",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "5220",
+		"x": "3238",
+		"y": "9764",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "5218",
+		"x": "3245",
+		"y": "9769",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "5220",
+		"x": "3245",
+		"y": "9772",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Straven",
+		"id": "5212",
+		"x": "3246",
+		"y": "9780",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "5217",
+		"x": "3247",
+		"y": "9776",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "5219",
+		"x": "3251",
+		"y": "9768",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

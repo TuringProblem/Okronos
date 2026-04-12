@@ -1,0 +1,35 @@
+---
+identifier: "Jh883H491CeJZ8U3owhnOtXs3Hc3Bn"
+title: "Helmet Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 1
+defaultStock:
+- id: 1139
+  amount: 100000
+- id: 1137
+  amount: 100000
+- id: 1141
+  amount: 100000
+- id: 1143
+  amount: 100000
+- id: 1145
+  amount: 100000
+- id: 1155
+  amount: 100000
+- id: 1153
+  amount: 100000
+- id: 1157
+  amount: 100000
+- id: 1159
+  amount: 100000
+- id: 1161
+  amount: 100000

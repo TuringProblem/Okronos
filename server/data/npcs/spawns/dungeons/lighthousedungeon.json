@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2517,
+    "y": 4637,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2521,
+    "y": 4639,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2517,
+    "y": 4644,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2520,
+    "y": 4648,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2518,
+    "y": 4649,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2517,
+    "y": 4651,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2518,
+    "y": 4654,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+  "name": "Dagannoth",
+  "id": 3185,
+  "x": 2521,
+  "y": 4653,
+  "z": 0,
+  "direction": "S",
+  "walkRange": 2
+},
+  {
+  "name": "Dagannoth",
+  "id": 3185,
+  "x": 2522,
+  "y": 4655,
+  "z": 0,
+  "direction": "S",
+  "walkRange": 2
+},
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2526,
+    "y": 4656,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2526,
+    "y": 4653,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2525,
+    "y": 2525,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+  "name": "Dagannoth",
+  "id": 3185,
+  "x": 2524,
+  "y": 4647,
+  "z": 0,
+  "direction": "S",
+  "walkRange": 2
+},
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2523,
+    "y": 4644,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+  "name": "Dagannoth",
+  "id": 3185,
+  "x": 2523,
+  "y": 4641,
+  "z": 0,
+  "direction": "S",
+  "walkRange": 2
+},
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2522,
+    "y": 4639,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+  "name": "Dagannoth",
+  "id": 3185,
+  "x": 2519,
+  "y": 4638,
+  "z": 0,
+  "direction": "S",
+  "walkRange": 2
+}
+]

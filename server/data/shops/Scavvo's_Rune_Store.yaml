@@ -1,0 +1,34 @@
+---
+identifier: "Hi95VicFxayJFvBBf9bgoi9V4ILBSU"
+title: "Scavvo's Rune Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 1093
+  amount: 100000
+- id: 1079
+  amount: 100000
+- id: 1432
+  amount: 100000
+- id: 1113
+  amount: 100000
+- id: 1303
+  amount: 100000
+- id: 1289
+  amount: 100000
+- id: 1099
+  amount: 100000
+- id: 1065
+  amount: 100000
+- id: 1169
+  amount: 100000

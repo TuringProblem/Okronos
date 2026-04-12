@@ -1,0 +1,64 @@
+[versions]
+hotswap-agent = "2.0.2"
+slf4j = "2.0.17"
+logback = "1.5.18"
+jackson = "2.18.3"
+netty = "4.1.119.Final"
+rsprot = "1.0.0-ALPHA-20250907"
+sentry = "8.5.0"
+ktor = "3.1.2"
+
+[plugins]
+shadow = { id = "com.gradleup.shadow", version = "8.3.6" }
+
+[libraries]
+kotlinx-coroutines-core-jvm = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm", version = "1.10.1" }
+
+hotswap-agent = { module = "org.hotswapagent:hotswap-agent", version.ref = "hotswap-agent" }
+hotswap-agent-core = { module = "org.hotswapagent:hotswap-agent-core", version.ref = "hotswap-agent" }
+hotswap-agent-plugins = { module = "org.hotswapagent:hotswap-agent-plugins", version.ref = "hotswap-agent" }
+
+slf4j-api = { module = "org.slf4j:slf4j-api", version.ref = "slf4j" }
+
+logback-classic = { module = "ch.qos.logback:logback-classic", version.ref = "logback" }
+logback-core = { module = "ch.qos.logback:logback-core", version.ref = "logback" }
+
+jackson-core = { module = "com.fasterxml.jackson.core:jackson-core", version.ref = "jackson" }
+jackson-databind = { module = "com.fasterxml.jackson.core:jackson-databind", version.ref = "jackson" }
+jackson-module-kotlin = { module = "com.fasterxml.jackson.module:jackson-module-kotlin", version.ref = "jackson" }
+jackson-module-afterburner = { module = "com.fasterxml.jackson.module:jackson-module-afterburner", version.ref = "jackson" }
+jackson-dataformat-yaml = { module = "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml", version.ref = "jackson" }
+jackson-dataformat-toml = { module = "com.fasterxml.jackson.dataformat:jackson-dataformat-toml", version.ref = "jackson" }
+
+netty-buffer = { module = "io.netty:netty-buffer", version.ref = "netty" }
+netty-codec = { module = "io.netty:netty-codec", version.ref = "netty" }
+
+rsprot-osrs-v231-api = { module = "net.rsprot:osrs-231-api", version.ref = "rsprot" }
+
+sentry = { module = "io.sentry:sentry", version.ref = "sentry" }
+sentry-logback = { module = "io.sentry:sentry-logback", version.ref = "sentry" }
+
+ktor-server-core-jvm = { module = "io.ktor:ktor-server-core-jvm", version.ref = "ktor" }
+ktor-server-netty-jvm = { module = "io.ktor:ktor-server-netty-jvm", version.ref = "ktor" }
+
+apache-commons-lang3 = { module = "org.apache.commons:commons-lang3", version = "3.17.0" }
+apache-commons-codec = { module = "commons-codec:commons-codec", version = "1.18.0" }
+
+google-guava = { module = "com.google.guava:guava", version = "33.4.6-jre" }
+google-gson = { module = "com.google.code.gson:gson", version = "2.12.1" }
+google-http-client-gson = { module = "com.google.http-client:google-http-client-gson", version = "1.46.3" }
+google-guice = { module = "com.google.inject:guice", version = "7.0.0" }
+
+hikaricp = { module = "com.zaxxer:HikariCP", version = "6.3.0" }
+mysql-connector-j = { module = "com.mysql:mysql-connector-j", version = "9.2.0" }
+json = { module = "org.json:json", version = "20250107" }
+fastutil = { module = "it.unimi.dsi:fastutil", version = "8.5.15" }
+jda = { module = "net.dv8tion:JDA", version = "5.3.1" }
+okhttp = { module = "com.squareup.okhttp3:okhttp", version = "4.12.0" }
+alibaba-fastjson2 = { module = "com.alibaba.fastjson2:fastjson2", version = "2.0.57" }
+jsoup = { module = "org.jsoup:jsoup", version = "1.19.1" }
+unirest-java-core = { module = "com.konghq:unirest-java-core", version = "4.4.5" }
+classgraph = { module = "io.github.classgraph:classgraph", version = "4.8.181" }
+zero-allocation-hashing = { module = "net.openhft:zero-allocation-hashing", version = "0.27ea0" }
+kotlin-inline-logger-jvm = { module = "com.michael-bull.kotlin-inline-logger:kotlin-inline-logger-jvm", version = "1.0.6" }
+clikt = { module = "com.github.ajalt.clikt:clikt", version = "5.0.3" }

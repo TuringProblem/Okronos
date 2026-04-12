@@ -1,0 +1,61 @@
+[
+  {
+    "ids": [ 6477 ],
+    "guaranteed": [
+      { "id": 13339, "min": 5, "max": 5 }
+    ],
+    "tables": [
+      {
+        "name": "Armour & Weapons",
+        "weight": 43,
+        "items": [
+          { "id": 4088, "min": 3, "max": 5, "weight": 2 }, //Dragon med helm
+          { "id": 4586, "min": 3, "max": 5, "weight": 2 } //Dragon halberd
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 50,
+        "items": [
+          { "id": 21880, "min": 200, "max": 400, "weight": 2 }, //Law rune
+          { "id": 560, "min": 300, "max": 900, "weight": 2 }, //Death rune
+          { "id": 565, "min": 500, "max": 1000, "weight": 2 }
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 40,
+        "items": [
+          { "id": 6694, "min": 100, "max": 250, "weight": 10 }, //Grimy toadflax (noted)
+          { "id": 3052, "min": 40, "max": 70, "weight": 2 }, //Grimy snapdragon (noted)
+          { "id": 218, "min": 60, "max": 90, "weight": 2 }, //Grimy dwarf weed (noted)
+          { "id": 224, "min": 100, "max": 150, "weight": 2 } //Grimy torstol (noted)
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 37,
+        "items": [
+          { "id": 2362, "min": 25, "max": 50, "weight": 10 }, //Flax (noted)
+          { "id": 2364, "min": 15, "max": 30, "weight": 10 }, //Snakeskin (noted)
+          { "id": 21905, "min": 40, "max": 80, "weight": 10 }, //Dragon bolt
+          { "id": 1514, "min": 50, "max": 80, "weight": 10 }, //Yew logs (noted)
+          { "id": 8783, "min": 50, "max": 100, "weight": 2 }, //Mahogany logs (noted)
+          { "id": 1748, "min": 30, "max": 60, "weight": 2 }, //Coal (noted)
+          { "id": 1750, "min": 40, "max": 70, "weight": 2 } //Runite ore (noted)
+        ]
+      },
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 19835, "min": 1, "max": 1, "weight": 7 },
+          { "id": 30622, "min": 1, "max": 1, "weight": 2 , "broadcast": "GLOBAL"},
+          { "id": 30618, "min": 1, "max": 1, "weight": 4 , "broadcast": "GLOBAL"},
+          { "id": 30619, "min": 1, "max": 1, "weight": 4 , "broadcast": "GLOBAL"},
+          { "id": 30620, "min": 1, "max": 1, "weight": 4 , "broadcast": "GLOBAL"}
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1331 @@
+[
+	{
+		"name": "Cow",
+		"id": "5842",
+		"x": "2435",
+		"y": "4442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Blaec",
+		"id": "5387",
+		"x": "2438",
+		"y": "4442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "5842",
+		"x": "2439",
+		"y": "4457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2440",
+		"y": "4425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2441",
+		"y": "4429",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cow",
+		"id": "5842",
+		"x": "2441",
+		"y": "4448",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chaeldar",
+		"id": "404",
+		"x": "2444",
+		"y": "4431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Queen",
+		"id": "5849",
+		"x": "2445",
+		"y": "4427",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fat Rocco",
+		"id": "5852",
+		"x": "2445",
+		"y": "4430",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Godfather",
+		"id": "5850",
+		"x": "2446",
+		"y": "4427",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2446",
+		"y": "4432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Slim Louie",
+		"id": "5851",
+		"x": "2448",
+		"y": "4428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2451",
+		"y": "4423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2451",
+		"y": "4427",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2452",
+		"y": "4431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Co-ordinator",
+		"id": "5835",
+		"x": "2452",
+		"y": "4451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2464",
+		"y": "4421",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gatekeeper",
+		"id": "5840",
+		"x": "2464",
+		"y": "4436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2466",
+		"y": "4423",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gatekeeper",
+		"id": "5840",
+		"x": "2466",
+		"y": "4432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gatekeeper",
+		"id": "5840",
+		"x": "2467",
+		"y": "4438",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gatekeeper",
+		"id": "5840",
+		"x": "2471",
+		"y": "4436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2474",
+		"y": "4455",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "235",
+		"x": "2475",
+		"y": "4459",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lunderwin",
+		"id": "3202",
+		"x": "2475",
+		"y": "4465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2476",
+		"y": "4441",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Irksol",
+		"id": "3203",
+		"x": "2479",
+		"y": "4469",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "235",
+		"x": "2480",
+		"y": "4458",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Man",
+		"id": "9392",
+		"x": "2481",
+		"y": "4442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2481",
+		"y": "4450",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "235",
+		"x": "2481",
+		"y": "4454",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jukat",
+		"id": "3201",
+		"x": "2484",
+		"y": "4452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2484",
+		"y": "4463",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2486",
+		"y": "4464",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3204",
+		"x": "2486",
+		"y": "4470",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2488",
+		"y": "4457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "235",
+		"x": "2488",
+		"y": "4465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2489",
+		"y": "4428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2829",
+		"x": "2472",
+		"y": "4453",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2829",
+		"x": "2480",
+		"y": "4454",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2829",
+		"x": "2483",
+		"y": "4464",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2829",
+		"x": "2490",
+		"y": "4451",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Baby black dragon",
+		"id": "1871",
+		"x": "2438",
+		"y": "4393",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black dragon",
+		"id": "256",
+		"x": "2448",
+		"y": "4359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black dragon",
+		"id": "255",
+		"x": "2454",
+		"y": "4370",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black dragon",
+		"id": "254",
+		"x": "2459",
+		"y": "4359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Black dragon",
+		"id": "252",
+		"x": "2460",
+		"y": "4376",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2373",
+		"y": "4447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2375",
+		"y": "4448",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2376",
+		"y": "4445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy shop assistant",
+		"id": "2869",
+		"x": "2376",
+		"y": "4447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2377",
+		"y": "4450",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy shop keeper",
+		"id": "2868",
+		"x": "2378",
+		"y": "4447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Otherworldly being",
+		"id": "2843",
+		"x": "2381",
+		"y": "4425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2381",
+		"y": "4459",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Otherworldly being",
+		"id": "2843",
+		"x": "2382",
+		"y": "4421",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Otherworldly being",
+		"id": "2843",
+		"x": "2382",
+		"y": "4429",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2383",
+		"y": "4424",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2383",
+		"y": "4455",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2385",
+		"y": "4458",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Otherworldly being",
+		"id": "2843",
+		"x": "2386",
+		"y": "4419",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2386",
+		"y": "4431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy chef",
+		"id": "5856",
+		"x": "2386",
+		"y": "4439",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2388",
+		"y": "4425",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Otherworldly being",
+		"id": "2843",
+		"x": "2388",
+		"y": "4428",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Nuff",
+		"id": "2968",
+		"x": "2388",
+		"y": "4470",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Otherworldly being",
+		"id": "2843",
+		"x": "2389",
+		"y": "4422",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2391",
+		"y": "4453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2393",
+		"y": "4447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2394",
+		"y": "4440",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "235",
+		"x": "2394",
+		"y": "4453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "235",
+		"x": "2394",
+		"y": "4457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2395",
+		"y": "4461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2396",
+		"y": "4457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2398",
+		"y": "4448",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "235",
+		"x": "2406",
+		"y": "4447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2408",
+		"y": "4445",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Fixit",
+		"id": "1860",
+		"x": "2410",
+		"y": "4434",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Sheep",
+		"id": "5844",
+		"x": "2410",
+		"y": "4456",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2412",
+		"y": "4437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sheep",
+		"id": "5844",
+		"x": "2415",
+		"y": "4429",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2415",
+		"y": "4438",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sheep",
+		"id": "5843",
+		"x": "2415",
+		"y": "4451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2415",
+		"y": "4466",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sheep",
+		"id": "5843",
+		"x": "2416",
+		"y": "4435",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2418",
+		"y": "4437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2418",
+		"y": "4447",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2419",
+		"y": "4427",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2419",
+		"y": "4465",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2421",
+		"y": "4468",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Sheep",
+		"id": "5843",
+		"x": "2423",
+		"y": "4432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2423",
+		"y": "4461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Wandering impling",
+		"id": "5737",
+		"x": "2424",
+		"y": "4436",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2426",
+		"y": "4431",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2426",
+		"y": "4433",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Aeryka",
+		"id": "5736",
+		"x": "2426",
+		"y": "4442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2427",
+		"y": "4461",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "3367",
+		"x": "2431",
+		"y": "4457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Baby tanglefoot",
+		"id": "5853",
+		"x": "2373",
+		"y": "4387",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Baby tanglefoot",
+		"id": "5853",
+		"x": "2373",
+		"y": "4391",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Baby tanglefoot",
+		"id": "5854",
+		"x": "2375",
+		"y": "4381",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Baby tanglefoot",
+		"id": "5853",
+		"x": "2377",
+		"y": "4376",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Baby tanglefoot",
+		"id": "5853",
+		"x": "2377",
+		"y": "4386",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Baby tanglefoot",
+		"id": "5853",
+		"x": "2392",
+		"y": "4379",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Baby tanglefoot",
+		"id": "5854",
+		"x": "2394",
+		"y": "4378",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Baby tanglefoot",
+		"id": "5854",
+		"x": "2397",
+		"y": "4358",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gatekeeper",
+		"id": "6534",
+		"x": "2401",
+		"y": "4378",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "5425",
+		"x": "2333",
+		"y": "4450",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2966",
+		"x": "2333",
+		"y": "4457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2967",
+		"x": "2334",
+		"y": "4452",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2964",
+		"x": "2340",
+		"y": "4453",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2967",
+		"x": "2343",
+		"y": "4442",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "5425",
+		"x": "2345",
+		"y": "4432",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2965",
+		"x": "2346",
+		"y": "4450",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "5425",
+		"x": "2347",
+		"y": "4444",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Queen",
+		"id": "1859",
+		"x": "2348",
+		"y": "4433",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Very Wise",
+		"id": "1858",
+		"x": "2349",
+		"y": "4435",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Queen",
+		"id": "2971",
+		"x": "2352",
+		"y": "4457",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Very Wise",
+		"id": "2970",
+		"x": "2353",
+		"y": "4446",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2965",
+		"x": "2354",
+		"y": "4439",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy Nuff",
+		"id": "2969",
+		"x": "2355",
+		"y": "4456",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2966",
+		"x": "2357",
+		"y": "4437",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fairy",
+		"id": "2964",
+		"x": "2357",
+		"y": "4451",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2418,
+		"y": 4470,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2412,
+		"y": 4470,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2415,
+		"y": 4475,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2419,
+		"y": 4467,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2419,
+		"y": 4474,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2414,
+		"y": 4467,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2412,
+		"y": 4370,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2416,
+		"y": 4376,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2419,
+		"y": 4374,
+		"z": 0,
+		"direction": "W",
+		"walkRange": "1"
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2420,
+		"y": 4377,
+		"z": 0,
+		"direction": "W",
+		"walkRange": "1"
+	},
+	{
+		"name": "Fungi",
+		"id": 537,
+		"x": 2421,
+		"y": 4370,
+		"z": 0,
+		"direction": "W",
+		"walkRange": 0
+	}
+]

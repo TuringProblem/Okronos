@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Armoured zombie",
+    "id": 12762,
+    "x": 3555,
+    "y": 9775,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12763,
+    "x": 3552,
+    "y": 9774,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12762,
+    "x": 3560,
+    "y": 9775,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12763,
+    "x": 3564,
+    "y": 9771,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12762,
+    "x": 3561,
+    "y": 9765,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12763,
+    "x": 3555,
+    "y": 9672,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12763,
+    "x": 3551,
+    "y": 9766,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12763,
+    "x": 3557,
+    "y": 9753,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12763,
+    "x": 3569,
+    "y": 9758,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12763,
+    "x": 3581,
+    "y": 9765,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12763,
+    "x": 3596,
+    "y": 9766,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Armoured zombie",
+    "id": 12762,
+    "x": 3550,
+    "y": 9771,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

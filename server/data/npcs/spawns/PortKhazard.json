@@ -1,0 +1,292 @@
+[
+	{
+		"name": "Shop keeper",
+		"id": "2888",
+		"x": "2641",
+		"y": "3171",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Shop keeper",
+		"id": "2888",
+		"x": "2655",
+		"y": "3152",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Murphy",
+		"id": "5607",
+		"x": "2668",
+		"y": "3162",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Tindel Marchant",
+		"id": "1358",
+		"x": "2678",
+		"y": "3153",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2667",
+		"y": "3090",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2669",
+		"y": "3091",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2670",
+		"y": "3087",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2670",
+		"y": "3089",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2671",
+		"y": "3107",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2672",
+		"y": "3093",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spider",
+		"id": "3019",
+		"x": "2672",
+		"y": "3109",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2673",
+		"y": "3085",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2673",
+		"y": "3088",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2673",
+		"y": "3092",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2674",
+		"y": "3096",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2674",
+		"y": "3111",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2677",
+		"y": "3097",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2678",
+		"y": "3084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2678",
+		"y": "3091",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2680",
+		"y": "3081",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2680",
+		"y": "3090",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2680",
+		"y": "3094",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2680",
+		"y": "3110",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2681",
+		"y": "3086",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2681",
+		"y": "3094",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2681",
+		"y": "3114",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2683",
+		"y": "3088",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hazelmere",
+		"id": "1422",
+		"x": "2678",
+		"y": "3086",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rantz",
+		"id": "1470",
+		"x": "2630",
+		"y": "2981",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	}
+]

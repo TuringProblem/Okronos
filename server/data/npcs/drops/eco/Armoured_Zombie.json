@@ -1,0 +1,64 @@
+[
+  {
+    "ids": [ 12762, 12763 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Uniques",
+        "weight": 1,
+        "items": [
+          { "id": 7865, "min": 1, "max": 1, "weight": 83 }, //Zombie bone
+          { "id": 2722, "min": 1, "max": 1, "weight": 16 }, //Clue scroll(hard)
+          { "id": 28813, "min": 1, "max": 1, "weight": 1, "broadcast": "GLOBAL"} //Broken zombie axe
+        ]
+      },
+      {
+        "name": "Runes and ammunition",
+        "weight": 8,
+        "items": [
+          { "id": 7937, "min": 20, "max": 50, "weight": 10 }, //Pure essence
+          { "id": 890, "min": 12, "max": 12, "weight": 8 }, //Adamant arrow
+          { "id": 565, "min": 4, "max": 10, "weight": 4 }, //Blood rune
+          { "id": 564, "min": 10, "max": 20, "weight": 3 }, //Cosmic rune
+          { "id": 561, "min": 4, "max": 10, "weight": 2 }, //Nature rune
+          { "id": 562, "min": 10, "max": 20, "weight": 1 }, //Chaos rune
+          { "id": 560, "min": 4, "max": 10, "weight": 1 } //Death rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 8,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 12 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 12 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 5 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 4 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 2 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 8,
+        "items": [
+          { "id": 995, "min": 50, "max": 400, "weight": 20 }, //Coins
+          { "id": 995, "min": 5, "max": 5, "weight": 5 }, //Oak plank
+          { "id": 995, "min": 10, "max": 10, "weight": 5 }, //Plank
+          { "id": 995, "min": 1, "max": 1, "weight": 3 }, //Adamant mace
+          { "id": 995, "min": 10, "max": 20, "weight": 3 }, //Coins
+          { "id": 454, "min": 2, "max": 2, "weight": 2 }, //Teak plank
+          { "id": 354, "min": 1, "max": 1, "weight": 1 }, //Adamant kiteshield
+          { "id": 354, "min": 2, "max": 6, "weight": 1 }, //Eye of newt
+          { "id": 13484, "min": 6, "max": 6, "weight": 1 } //Fishing bait
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+---
+identifier: "EJ4fck27Ebu5zMiOjlv8x9oJl5KZSZ"
+title: "Thessalia's Fine Clothes"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 55
+  changePer: 1
+defaultStock:
+  - id: 1005
+    amount: 100000
+  - id: 1129
+    amount: 100000
+  - id: 1059
+    amount: 100000
+  - id: 1061
+    amount: 100000
+  - id: 1757
+    amount: 100000
+  - id: 1013
+    amount: 100000
+  - id: 1015
+    amount: 100000
+  - id: 1011
+    amount: 100000
+  - id: 1007
+    amount: 100000
+  - id: 950
+    amount: 100000
+  - id: 428
+    amount: 100000
+  - id: 426
+    amount: 100000

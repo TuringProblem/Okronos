@@ -1,0 +1,46 @@
+[
+  { #Araxxor
+    "ids": [ 7221 ],
+    "handler": "io.ruin.model.activities.bosses.Scurrius",
+    //Combat Info
+    "hitpoints": 1100,
+    "aggressive_level": 0,
+    "max_damage": 38,
+    "attack_style": "SLASH",
+    "pet": "SCURRY",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 2040.0,
+    "slayer_tasks": [ "Rat", "Scurrius", "BOSS" ],
+    //Combat Stats
+    "attack": 320,
+    "strength": 320,
+    "defence": 24,
+    "ranged": 210,
+    "magic": 190,
+    //Aggressive Stats
+    "stab_attack": 218,
+    "slash_attack": 10,
+    "crush_attack": 50,
+    "magic_attack": 260,
+    "ranged_attack": 283,
+    //Defensive Stats
+    "stab_defence": 60,
+    "slash_defence": 75,
+    "crush_defence": 15,
+    "magic_defence": 27,
+    "ranged_defence": 20,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 15,
+    //Animations
+    "spawn_animation": 10700,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": 10705
+  }
+]

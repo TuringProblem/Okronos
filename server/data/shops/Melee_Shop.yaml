@@ -1,0 +1,95 @@
+---
+identifier: "d8644890-1eb6-47c6-a074-ccb2833f8ea6"
+title: "Melee Shop"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 50
+  changePer: 2
+defaultStock:
+  - id: 1205
+    amount: 100000
+  - id: 1203
+    amount: 100000
+  - id: 1207
+    amount: 100000
+  - id: 1217
+    amount: 100000
+  - id: 1209
+    amount: 100000
+  - id: 1211
+    amount: 100000
+  - id: 1213
+    amount: 100000
+  - id: 1215
+    amount: 100000
+  - id: 1277
+    amount: 100000
+  - id: 1279
+    amount: 100000
+  - id: 1281
+    amount: 100000
+  - id: 1283
+    amount: 100000
+  - id: 1285
+    amount: 100000
+  - id: 1287
+    amount: 100000
+  - id: 1289
+    amount: 100000
+  - id: 5698
+    amount: 100000
+  - id: 1291
+    amount: 100000
+  - id: 1293
+    amount: 100000
+  - id: 1295
+    amount: 100000
+  - id: 1297
+    amount: 100000
+  - id: 1299
+    amount: 100000
+  - id: 1301
+    amount: 100000
+  - id: 1303
+    amount: 100000
+  - id: 1305
+    amount: 100000
+  - id: 1321
+    amount: 100000
+  - id: 1323
+    amount: 100000
+  - id: 1325
+    amount: 100000
+  - id: 1327
+    amount: 100000
+  - id: 1329
+    amount: 100000
+  - id: 1331
+    amount: 100000
+  - id: 1333
+    amount: 100000
+  - id: 4587
+    amount: 100000
+  - id: 1307
+    amount: 100000
+  - id: 1309
+    amount: 100000
+  - id: 1311
+    amount: 100000
+  - id: 1313
+    amount: 100000
+  - id: 1315
+    amount: 100000
+  - id: 1317
+    amount: 100000
+  - id: 1319
+    amount: 100000
+  - id: 1434
+    amount: 100000

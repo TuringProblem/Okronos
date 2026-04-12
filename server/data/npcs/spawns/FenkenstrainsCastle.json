@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Dr Fenkenstrain",
+		"id": "2014",
+		"x": "3551",
+		"y": "3550",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gardener Ghost",
+		"id": "2013",
+		"x": "3551",
+		"y": "3561",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fenkenstrain's Monster",
+		"id": "2016",
+		"x": "3547",
+		"y": "3555",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

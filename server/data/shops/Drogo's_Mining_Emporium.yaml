@@ -1,0 +1,19 @@
+---
+identifier: "J2Lb4723FW5kVwkGKFvwFH4PcSTgTJ"
+title: "Nurmof's Pickaxe Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 70
+  changePer: 2
+defaultStock:
+- id: 2347
+  amount: 100000
+- id: 1265
+  amount: 100000

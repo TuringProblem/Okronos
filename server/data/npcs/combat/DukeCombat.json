@@ -1,0 +1,46 @@
+[
+  { #Galvek (608)
+    "ids": [ 12191, 12192 ],
+    "handler": "io.ruin.model.activities.bosses.DukeSucellus",
+    "pet": "DUKE",
+    //Combat Info
+    "hitpoints": 2000,
+    "aggressive_level": 1,
+    "max_damage": 60,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [ "BOSS" ],
+    //Combat Stats
+    "attack": 300,
+    "strength": 360,
+    "defence": 120,
+    "ranged": 160,
+    "magic": 160,
+    //Aggressive Stats
+    "stab_attack": 200,
+    "slash_attack": 393,
+    "crush_attack": 393,
+    "magic_attack": 160,
+    "ranged_attack": 50,
+    //Defensive Stats
+    "stab_defence": 260,
+    "slash_defence": 0,
+    "crush_defence": 230,
+    "magic_defence": 280,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 8,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": 10293
+  }
+]

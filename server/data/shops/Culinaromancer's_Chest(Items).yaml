@@ -1,0 +1,56 @@
+---
+identifier: "tvKv99DtB0D1vHb2zBpt7QPM8L7eA0"
+title: "Culinaromancer's Chest"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 7453
+  amount: 100000
+- id: 7454
+  amount: 100000
+- id: 7455
+  amount: 100000
+- id: 7456
+  amount: 100000
+- id: 7457
+  amount: 100000
+- id: 7458
+  amount: 100000
+- id: 7459
+  amount: 100000
+- id: 7460
+  amount: 100000
+- id: 7461
+  amount: 100000
+- id: 7462
+  amount: 100000
+- id: 7433
+  amount: 100000
+- id: 7435
+  amount: 100000
+- id: 7437
+  amount: 100000
+- id: 7439
+  amount: 100000
+- id: 7441
+  amount: 100000
+- id: 7443
+  amount: 100000
+- id: 7445
+  amount: 100000
+- id: 7447
+  amount: 100000
+- id: 7449
+  amount: 100000
+- id: 7451
+  amount: 100000

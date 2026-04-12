@@ -1,0 +1,39 @@
+---
+identifier: "0fcH0i2gi8fDxGmg34JuRPUz6OSCXF"
+title: "Dommik's Crafting Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 65
+  changePer: 2
+defaultStock:
+- id: 1755
+  amount: 100000
+- id: 1592
+  amount: 100000
+- id: 1597
+  amount: 100000
+- id: 1595
+  amount: 100000
+- id: 1733
+  amount: 100000
+- id: 1734
+  amount: 100000
+- id: 1599
+  amount: 100000
+- id: 2976
+  amount: 100000
+- id: 5523
+  amount: 100000
+- id: 9434
+  amount: 100000
+- id: 2961
+  amount: 100000
+- id: 11065
+  amount: 100000

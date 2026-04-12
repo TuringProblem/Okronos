@@ -1,0 +1,30 @@
+---
+identifier: "vLRS6UfZaw699u1BwHAlrgk00jDwlQ"
+title: "Bob's Brilliant Axes"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+  - id: 1265
+    amount: 100000
+  - id: 1351
+    amount: 100000
+  - id: 1349
+    amount: 100000
+  - id: 1353
+    amount: 100000
+  - id: 1363
+    amount: 100000
+  - id: 1365
+    amount: 100000
+  - id: 1369
+    amount: 100000

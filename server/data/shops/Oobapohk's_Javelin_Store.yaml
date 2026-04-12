@@ -1,0 +1,27 @@
+---
+identifier: "CYsT7E0y4sbykDwM6rVqWMyZaKg2oP"
+title: "Oobapohk's Javeline Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 1
+defaultStock:
+- id: 825
+  amount: 100000
+- id: 826
+  amount: 100000
+- id: 827
+  amount: 100000
+- id: 828
+  amount: 100000
+- id: 829
+  amount: 100000
+- id: 830
+  amount: 100000

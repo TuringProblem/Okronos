@@ -1,0 +1,242 @@
+[
+	{
+		"name": "Moss Guardian",
+		"id": "891",
+		"x": "2528",
+		"y": "9843",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "77",
+		"x": "2529",
+		"y": "9841",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "81",
+		"x": "2530",
+		"y": "9846",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "29",
+		"x": "2533",
+		"y": "9842",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "70",
+		"x": "2538",
+		"y": "9816",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "80",
+		"x": "2540",
+		"y": "9813",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2540",
+		"y": "9820",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "26",
+		"x": "2540",
+		"y": "9823",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "30",
+		"x": "2540",
+		"y": "9843",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss Guardian",
+		"id": "891",
+		"x": "2541",
+		"y": "9845",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss Guardian",
+		"id": "891",
+		"x": "2542",
+		"y": "9819",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "50",
+		"x": "2542",
+		"y": "9840",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2543",
+		"y": "9813",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "78",
+		"x": "2543",
+		"y": "9847",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Skeleton",
+		"id": "78",
+		"x": "2545",
+		"y": "9822",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Butterfly",
+		"id": "234",
+		"x": "2546",
+		"y": "9817",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zombie",
+		"id": "51",
+		"x": "2546",
+		"y": "9842",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Edmond",
+		"id": "6205",
+		"x": "2517",
+		"y": "9755",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Carla",
+		"id": "4006",
+		"x": "2537",
+		"y": "9745",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Kilron",
+		"id": "3435",
+		"x": "2539",
+		"y": "9741",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Omart",
+		"id": "3431",
+		"x": "2540",
+		"y": "9741",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jethick",
+		"id": "3983",
+		"x": "2542",
+		"y": "9744",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Elena",
+		"id": "1151",
+		"x": "2545",
+		"y": "9746",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Councillor Halgrive",
+		"id": "3430",
+		"x": "2546",
+		"y": "9745",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	}
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 14707 ],
+    "handler": "mokhaiotl.combat.MokhaiotlCombat",
+    //Combat Info
+    "hitpoints": 5000,
+    "aggressive_level": 420,
+    "max_damage": 121,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 300,
+    "strength": 190,
+    "defence": 90,
+    "ranged": 110,
+    "magic": 275,
+    //Aggressive Stats
+    "stab_attack": 210,
+    "slash_attack": 45,
+    "crush_attack": 5,
+    "magic_attack": 155,
+    "ranged_attack": 170,
+    //Defensive Stats
+    "stab_defence": 300,
+    "slash_defence": 300,
+    "crush_defence": 60,
+    "magic_defence": 160,
+    "ranged_defence": 160,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 8,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 12405,
+    "attack_animation": 12406,
+    "defend_animation": -1,
+    "death_animation": 12422
+  }
+]

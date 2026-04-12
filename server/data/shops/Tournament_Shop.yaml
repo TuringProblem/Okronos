@@ -1,0 +1,47 @@
+---
+identifier: "347e6721-8007-444b-8249-736036d84ab4"
+title: "Tournament Shop"
+currency: "TOURNAMENT_POINTS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+  - id: 22613
+    amount: 100000
+    price: 150
+  - id: 25965
+    amount: 100000
+    price: 150
+  - id: 2399
+    amount: 100000
+    price: 25
+  - id: 12846
+    amount: 100000
+    price: 50
+  - id: 1505
+    amount: 100000
+    price: 50
+  - id: 24777
+    amount: 100000
+    price: 150
+  - id: 22330
+    amount: 100000
+    price: 25
+  - id: 12877
+    amount: 100000
+    price: 20
+  - id: 12875
+    amount: 100000
+    price: 20
+  - id: 12881
+    amount: 100000
+    price: 20
+  - id: 12883
+    amount: 100000
+    price: 20
+  - id: 12873
+    amount: 100000
+    price: 20

@@ -1,0 +1,65 @@
+---
+identifier: "347e6721-8007-444b-8249-736036d84ab4"
+title: "Tournament Cosmetics"
+currency: "TOURNAMENT_POINTS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+- id: 11898
+  amount: 100000
+  price: 150
+- id: 11896
+  amount: 100000
+  price: 150
+- id: 11897
+  amount: 100000
+  price: 150
+- id: 11899
+  amount: 100000
+  price: 500
+- id: 11900
+  amount: 100000
+  price: 500
+- id: 12637
+  amount: 100000
+  price: 150
+- id: 12638
+  amount: 100000
+  price: 150
+- id: 12639
+  amount: 100000
+  price: 150
+- id: 10386
+  amount: 100000
+  price: 200
+- id: 10388
+  amount: 100000
+  price: 200
+- id: 10390
+  amount: 100000
+  price: 200
+- id: 10378
+  amount: 100000
+  price: 200
+- id: 10380
+  amount: 100000
+  price: 200
+- id: 10382
+  amount: 100000
+  price: 200
+- id: 10370
+  amount: 100000
+  price: 200
+- id: 10372
+  amount: 100000
+  price: 200
+- id: 10374
+  amount: 100000
+  price: 200
+- id: 20226
+  amount: 100000
+  price: 200

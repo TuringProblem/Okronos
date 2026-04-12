@@ -1,0 +1,30 @@
+---
+identifier: "M3BAoz1M18V3AYqOk91EO4XRkCCj4I"
+title: "Frincos' Fabulous Herb Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 70
+  changePer: 2
+defaultStock:
+- id: 229
+  amount: 100000
+- id: 11877
+  amount: 100000
+- id: 227
+  amount: 100000
+- id: 11879
+  amount: 100000
+- id: 233
+  amount: 100000
+- id: 221
+  amount: 100000
+- id: 12859
+  amount: 100000

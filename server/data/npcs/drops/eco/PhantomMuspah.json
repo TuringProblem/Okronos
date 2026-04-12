@@ -1,0 +1,118 @@
+[
+  {
+    "ids": [ 12078, 12082, 12077, 12080 ],
+    "guaranteed": [
+      { "id": 27616, "min": 540, "max": 995}   //Ancient essence
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 9,
+        "items": [
+          { "id": 27627, "min": 1, "max": 1, "weight": 3 ,  "broadcast": "GLOBAL"},   //Ancient icon
+          { "id": 27614, "min": 1, "max": 1, "weight": 1 ,  "broadcast": "GLOBAL"}
+        ]
+      },
+      {
+        "name": "Foods and potions",
+        "weight": 100,
+        "items": [
+          { "id": 386, "min": 4, "max": 6, "weight": 25 },   //Shark
+          { "id": 7219, "min": 4, "max": 6, "weight": 10 },   //Summer pie
+          { "id": 3024, "min": 2, "max": 3, "weight": 20 },   //Super restore
+          { "id": 2444, "min": 1, "max": 2, "weight": 20 },   //Ranging potion
+          { "id": 2434, "min": 2, "max": 3, "weight": 25 }   //Prayer potion
+        ]
+      },
+      {
+        "name": "Weapons and armour",
+        "weight": 100,
+        "items": [
+          { "id": 1202, "min": 3, "max": 3, "weight": 15 },   //Rune kiteshield
+          { "id": 4585, "min": 1, "max": 1, "weight": 20 },   //Dragon plateskirt
+          { "id": 1080, "min": 3, "max": 3, "weight": 15 },   //Rune platelegs
+          { "id": 2503, "min": 1, "max": 1, "weight": 15 },   //Black d'hide body
+          { "id": 4180, "min": 2, "max": 2, "weight": 20 },   //Dragon platelegs
+          { "id": 1289, "min": 1, "max": 1, "weight": 15 }   //Rune sword
+        ]
+      },
+      {
+        "name": "Runes and ammunition",
+        "weight": 100,
+        "items": [
+          { "id": 563, "min": 146, "max": 146, "weight": 10 },   //Law rune
+          { "id": 566, "min": 466, "max": 466, "weight": 18 },   //Soul rune
+          { "id": 560, "min": 428, "max": 428, "weight": 20 },   //Death rune
+          { "id": 4697, "min": 314, "max": 314, "weight": 18 },   //Smoke rune
+          { "id": 562, "min": 480, "max": 480, "weight": 10 },   //Chaos rune
+          { "id": 554, "min": 1964, "max": 1964, "weight": 10 },   //Fire rune
+          { "id": 2, "min": 666, "max": 666, "weight": 14 }   //Cannonball
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 100,
+        "items": [
+          { "id": 3050, "min": 55, "max": 55, "weight": 20 }, //Grimy toadflax
+          { "id": 214, "min": 6, "max": 6, "weight": 20 },   //Grimy kwuarm
+          { "id": 216, "min": 6, "max": 6, "weight": 20 },   //Grimy cadantine
+          { "id": 218, "min": 6, "max": 6, "weight": 20 },   //Grimy dwarf weed
+          { "id": 2486, "min": 6, "max": 6, "weight": 20 }   //Grimy lantadyme
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 100,
+        "items": [
+          { "id": 5315, "min": 2, "max": 2, "weight": 5 },   //Yew seed
+          { "id": 5304, "min": 4, "max": 4, "weight": 5 },   //Torstol seed
+          { "id": 5289, "min": 2, "max": 2, "weight": 4 },   //Palm tree seed
+          { "id": 5295, "min": 3, "max": 3, "weight": 5 },   //Ranarr seed
+          { "id": 5300, "min": 5, "max": 5, "weight": 4 },   //Snapdragon seed
+          { "id": 5295, "min": 8, "max": 8, "weight": 5 },   //Ranarr seed
+          { "id": 5317, "min": 1, "max": 1, "weight": 4 },   //Spirit seed
+          { "id": 5295, "min": 3, "max": 3, "weight": 5 },   //Ranarr seed
+          { "id": 5300, "min": 3, "max": 3, "weight": 4 },   //Snapdragon seed
+          { "id": 5304, "min": 3, "max": 3, "weight": 5 },   //Torstol seed
+          { "id": 5321, "min": 49, "max": 49, "weight": 4 },   //Watermelon seed
+          { "id": 5313, "min": 3, "max": 3, "weight": 4 },   //Willow seed
+          { "id": 21488, "min": 3, "max": 3, "weight": 4 },   //Mahogany seed
+          { "id": 5314, "min": 3, "max": 3, "weight": 4 },   //Maple seed
+          { "id": 21486, "min": 3, "max": 3, "weight": 4 },   //Teak seed
+          { "id": 5315, "min": 3, "max": 3, "weight": 5 },   //Yew seed
+          { "id": 5288, "min": 3, "max": 3, "weight": 4 },   //Papaya tree seed
+          { "id": 5316, "min": 3, "max": 3, "weight": 5 },   //Magic seed
+          { "id": 5289, "min": 3, "max": 3, "weight": 4 },   //Palm tree seed
+          { "id": 5317, "min": 3, "max": 3, "weight": 4 },   //Spirit seed
+          { "id": 22877, "min": 3, "max": 3, "weight": 4 },   //Dragonfruit tree seed
+          { "id": 22869, "min": 3, "max": 3, "weight": 4 },   //Celastrus seed
+          { "id": 22871, "min": 3, "max": 3, "weight": 4 }   //Redwood tree seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 100,
+        "items": [
+          { "id": 392, "min": 28, "max": 28, "weight": 20 }, //Manta ray
+          { "id": 572, "min": 21, "max": 21, "weight": 20 },   //Water orb
+          { "id": 21930, "min": 89, "max": 89, "weight": 20 },   //Dragon bolts(unf)
+          { "id": 226, "min": 21, "max": 21, "weight": 20 }   //Limpwurt root
+        ]
+      },
+      {
+        "name": "Resources",
+        "weight": 100,
+        "items": [
+          { "id": 450, "min": 22, "max": 22, "weight": 12 }, // Adamantite ore
+          { "id": 445, "min": 180, "max": 180, "weight": 12 },   //Gold ore
+          { "id": 8781, "min": 22, "max": 22, "weight": 12 },   //Teak plank
+          { "id": 1776, "min": 89, "max": 89, "weight": 14 },   //Molten glass
+          { "id": 7937, "min": 2314, "max": 2314, "weight": 12 },   //Pure essence
+          { "id": 454, "min": 163, "max": 163, "weight": 12 },   //Coal
+          { "id": 452, "min": 18, "max": 18, "weight": 14 },   //Runite ore
+          { "id": 443, "min": 101, "max": 101, "weight": 12 }   //Silver ore
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+---
+identifier: "gB84BQNo53nY1UGX2MAUm568UJOawh"
+title: "Gulluck and Sons"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 25
+  changePer: 1
+defaultStock:
+- id: 882
+  amount: 100000
+- id: 877
+  amount: 100000
+- id: 880
+  amount: 100000
+- id: 841
+  amount: 100000
+- id: 839
+  amount: 100000
+- id: 837
+  amount: 100000
+- id: 39
+  amount: 100000
+- id: 40
+  amount: 100000
+- id: 41
+  amount: 100000
+- id: 42
+  amount: 100000
+- id: 1349
+  amount: 100000
+- id: 1353
+  amount: 100000
+- id: 1363
+  amount: 100000
+- id: 1365
+  amount: 100000
+- id: 1369
+  amount: 100000
+- id: 1307
+  amount: 100000
+- id: 1309
+  amount: 100000
+- id: 1311
+  amount: 100000
+- id: 1313
+  amount: 100000
+- id: 1315
+  amount: 100000
+- id: 1317
+  amount: 100000

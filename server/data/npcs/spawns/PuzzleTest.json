@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Ms. Hynn Terprett",
+		"id": "4686",
+		"x": "2451",
+		"y": "4939",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Sir Kuam Ferentse",
+		"id": "4681",
+		"x": "2457",
+		"y": "4966",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Lady Table",
+		"id": "4680",
+		"x": "2458",
+		"y": "4981",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Miss Cheevers",
+		"id": "4685",
+		"x": "2469",
+		"y": "4941",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Sir Tinley",
+		"id": "4683",
+		"x": "2476",
+		"y": "4958",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Sir Spishyus",
+		"id": "4679",
+		"x": "2488",
+		"y": "4973",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Sir Ren Itchood",
+		"id": "4684",
+		"x": "2443",
+		"y": "4956",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	}
+]

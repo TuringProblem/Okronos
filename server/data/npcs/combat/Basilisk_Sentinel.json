@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 9258 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.BasiliskSentinel",
+    //Combat Info
+    "hitpoints": 1100,
+    "aggressive_level": 1,
+    "max_damage": 28,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 60,
+    "slayer_xp": 5590.0,
+    "slayer_tasks": [ "Basilisk" ],
+    //Combat Stats
+    "attack": 274,
+    "strength": 274,
+    "defence": 274,
+    "ranged": 1,
+    "magic": 274,
+    //Aggressive Stats
+    "stab_attack": 12,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 12,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 50,
+    "crush_defence": 10,
+    "magic_defence": 50,
+    "ranged_defence": 10,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 4,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 8499,
+    "defend_animation": -1,
+    "death_animation": 8501
+  }
+]

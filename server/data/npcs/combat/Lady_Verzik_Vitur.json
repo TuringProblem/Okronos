@@ -1,0 +1,41 @@
+[
+  {
+    "ids": [ 8369, 8374, 8373, 8372, 8371, 8370 ],
+    "handler": "io.ruin.model.activities.raids.tob.dungeon.boss.verzik.VerzikCombat",
+    //Combat Info
+    "hitpoints": 3300,
+    "aggressive_level": 500,
+    "max_damage": 30,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 400,
+    "strength": 400,
+    "defence": 20,
+    "ranged": 400,
+    "magic": 400,
+    //Aggressive Stats
+    "stab_attack": 160,
+    "slash_attack": 160,
+    "crush_attack": 160,
+    "magic_attack": 160,
+    "ranged_attack": 160,
+    //Defensive Stats
+    "stab_defence": 70,
+    "slash_defence": 30,
+    "crush_defence": 70,
+    "magic_defence": 8,
+    "ranged_defence": 230,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+	"defend_animation": -1,
+    //Speeds
+    "attack_ticks": 7,
+    "death_ticks": 4,
+    "respawn_ticks": -1
+  }
+]

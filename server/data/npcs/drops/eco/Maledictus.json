@@ -1,0 +1,69 @@
+[
+  {
+    "ids": [ 11246 ],
+    "guaranteed": [
+      { "id": 995, "min": 100000, "max": 20000000 },   //Coins
+      { "id": 21820, "min": 20, "max": 50 }   //Revenant ether
+    ],
+    "tables": [
+      {
+        "name": "Empty",
+        "weight": 1,
+        "items": [
+          { "id": 22542, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"}, //Viggora's chainmace
+          { "id": 22547, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"}, //Craw's bow
+          { "id": 22552, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},  //Thammaron's sceptre
+          { "id": 22610, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22613, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22616, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22619, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22625, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22628, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22631, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22647, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22650, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22653, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22656, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22638, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22641, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22644, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"},
+          { "id": 22634, "min": 50, "max": 75, "weight": 3 , "broadcast": "GLOBAL"},
+          { "id": 22636, "min": 30, "max": 50, "weight": 3 , "broadcast": "GLOBAL"},
+          { "id": 22555, "min": 1, "max": 1, "weight": 1 , "broadcast": "GLOBAL"}  //Amulet of avarice
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1392, "min": 3, "max": 3, "weight": 15 },   //Battlestaff (noted)
+          { "id": 21817, "min": 1, "max": 1, "weight": 10 },   //Bracelet of ethereum (uncharged)
+          { "id": 1163, "min": 1, "max": 1, "weight": 15 },   //Rune full helm
+          { "id": 1127, "min": 1, "max": 1, "weight": 15 },   //Rune platebody
+          { "id": 1079, "min": 1, "max": 1, "weight": 15 },   //Rune platelegs
+          { "id": 1201, "min": 1, "max": 1, "weight": 15 },   //Rune kiteshield
+          { "id": 1347, "min": 1, "max": 1, "weight": 5 },   //Rune warhammer
+          { "id": 4087, "min": 1, "max": 1, "weight": 5 },   //Dragon platelegs
+          { "id": 4585, "min": 1, "max": 1, "weight": 5 },   //Dragon plateskirt
+          { "id": 1215, "min": 1, "max": 1, "weight": 5 },   //Dragon dagger
+          { "id": 1305, "min": 1, "max": 1, "weight": 5 }   //Dragon longsword
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 21802, "min": 1, "max": 1, "weight": 10 },   //Revenant cave teleport
+          { "id": 3025, "min": 3, "max": 5, "weight": 10 },   //Super restore(4) (noted)
+          { "id": 21807, "min": 1, "max": 1, "weight": 6 },   //Ancient emblem
+          { "id": 21810, "min": 1, "max": 1, "weight": 5 },   //Ancient totem
+          { "id": 21804, "min": 1, "max": 1, "weight": 5 },   //Ancient crystal
+          { "id": 21813, "min": 1, "max": 1, "weight": 4 , "broadcast": "GLOBAL"},   //Ancient statuette
+          { "id": 22299, "min": 1, "max": 1, "weight": 2 , "broadcast": "GLOBAL"},   //Ancient medallion
+          { "id": 22302, "min": 1, "max": 1, "weight": 2 , "broadcast": "GLOBAL"},   //Ancient effigy
+          { "id": 22305, "min": 1, "max": 1, "weight": 2 , "broadcast": "GLOBAL"}   //Ancient relic
+        ]
+      }
+    ]
+  }
+]

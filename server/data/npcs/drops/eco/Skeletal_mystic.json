@@ -1,0 +1,17 @@
+ [
+  {
+    "ids": [7604, 7605, 7606],
+    "guaranteed": [
+	    { "id": 532, "min": 1, "max": 1 },   //Big bones
+		{ "id": 20909, "min": 5, "max": 10 },   //Buchu seed
+		{ "id": 20906, "min": 5, "max": 10 },   //Golpar seed
+		{ "id": 20903, "min": 5, "max": 10 },   //Noxifer seed
+		{ "id": 20960, "min": 1, "max": 1 }, // Super Restore
+		{ "id": 20984, "min": 1, "max": 1 }, // Sara Brew
+		{ "id": 20996, "min": 1, "max": 1 }, // Overload
+		{ "id": 181, "min": 1, "max": 1 }, // Anti Poison
+		{ "id": 20960, "min": 1, "max": 1 } // Revitalize
+		
+    ]
+  }
+]

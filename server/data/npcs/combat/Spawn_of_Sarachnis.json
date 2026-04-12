@@ -1,0 +1,78 @@
+[
+  {
+    "ids": [
+      8714
+    ],
+    "hitpoints": 30,
+    "aggressive_level": 0,
+    "aggressive": true,
+    "max_damage": 13,
+    "attack_style": "CRUSH",
+    "slayer_level": 0,
+    "slayer_xp": 30.0,
+    "slayer_categories": [
+      "Spider"
+    ],
+    "attack": 200,
+    "strength": 0,
+    "defence": 50,
+    "ranged": 1,
+    "magic": 1,
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    "stab_defence": 50,
+    "slash_defence": 50,
+    "crush_defence": 20,
+    "magic_defence": 0,
+    "ranged_defence": 150,
+    "poison_immunity": false,
+    "venom_immunity": false,
+    "attack_ticks": 3,
+    "death_ticks": 0,
+    "respawn_ticks": 0,
+    "local_loot": false,
+    "combat_xp_modifier": 1.0,
+    "random_drop_count": 1
+  },
+  {
+    "ids": [
+      8715
+    ],
+    "hitpoints": 30,
+    "aggressive_level": 0,
+    "aggressive": true,
+    "max_damage": 11,
+    "attack_style": "MAGIC",
+    "slayer_level": 0,
+    "slayer_xp": 30.0,
+    "slayer_categories": [
+      "Spider"
+    ],
+    "attack": 10,
+    "strength": 0,
+    "defence": 50,
+    "ranged": 1,
+    "magic": 100,
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    "stab_defence": 50,
+    "slash_defence": 50,
+    "crush_defence": 50,
+    "magic_defence": 150,
+    "ranged_defence": 0,
+    "poison_immunity": false,
+    "venom_immunity": false,
+    "attack_ticks": 4,
+    "death_ticks": 0,
+    "respawn_ticks": 0,
+    "local_loot": false,
+    "combat_xp_modifier": 1.0,
+    "random_drop_count": 1
+  }
+]

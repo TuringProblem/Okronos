@@ -1,0 +1,92 @@
+[paths]
+cache_path = "data/cache"
+data_path = "data"
+
+[world]
+id = 1
+name = "Reason"
+stage = "DEV"
+type = "ECO"
+flag = "USA"
+settings = "MEMBERS"
+address = "127.0.0.1"
+port = 43594
+
+[api]
+enabled = false
+password = "b"
+base_url = "https://127.0.0.1/api/"
+
+[login]
+connection_limit = 3000
+proof_of_work_enabled = false
+master_password = "l"
+
+[db]
+threads = 16
+
+[features]
+donation_shop_enabled = true
+rsprot_dev = true
+
+[theme]
+halloween = false
+christmas = false
+
+[database]
+host = "3"
+user = "1"
+password = "2"
+
+[game_db]
+enabled = true
+host = "localhost"
+name = "reason"
+username = "root"
+password = "root"
+
+[logging]
+sentry_enabled = false
+sentry_dsn = ""
+sentry_env = ""
+log_config = "dev.xml"
+
+[rsa]
+exponent = "73014751819408587381143215608075213587528136135020620144732781864240881876954422160879371951433093979354828030936404248026286408142441137060024042505624035847198045873218526564952936360628095969768349738362084880213915970341690616088968757698480657586228199067247605061174848020441107780333654871334067643473"
+modulus  = "106818934080152255534923832428654268653834664327540826002307126036046044948768041725060861209033432598722623494061636386429866560940044306527285212708241252080666542581403500383929018789039192907386973219991749899847320022523071194426968810927556877203055982507242757997889518324622040670689558755939474616313"
+
+[trade]
+post_tax = 2
+
+[webhooks]
+trade_post_discord_hook = ""
+account_creation_discord_hook = ""
+item_perk_discord_hook = ""
+vote_discord_hook = ""
+discord_hook_sus_transaction = ""
+discord_hook_rare_drop = ""
+discord_hook_wilderness_log = ""
+discord_hook_pvp_death = ""
+discord_hook_rare_box = ""
+discord_hook_global_broadcast = ""
+discord_hook_item_perk = ""
+discord_hook_item_breakdown = ""
+discord_hook_private_message = ""
+discord_hook_trade_player = ""
+discord_hook_referral = ""
+discord_hook_bond_events = ""
+discord_hook_item_pickup = ""
+discord_hook_item_drop = ""
+discord_hook_donation_claim = ""
+discord_hook_command_owner = ""
+discord_hook_command_admin = ""
+discord_hook_command_head_mod = ""
+discord_hook_command_mod = ""
+discord_hook_command_support = ""
+discord_hook_command_regular = ""
+
+[mongo]
+host = "127.0.0.1"
+port = 27017
+username = "root"
+password = "password"

@@ -1,0 +1,39 @@
+---
+identifier: "2l13EOlVaN09xCj3AabNUoTVk5e9pT"
+title: "Tutab's Magical Market"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 1
+defaultStock:
+- id: 554
+  amount: 100000
+- id: 555
+  amount: 100000
+- id: 556
+  amount: 100000
+- id: 557
+  amount: 100000
+- id: 563
+  amount: 100000
+- id: 12734
+  amount: 100000
+- id: 12730
+  amount: 100000
+- id: 12728
+  amount: 100000
+- id: 12732
+  amount: 100000
+- id: 4008
+  amount: 100000
+- id: 4006
+  amount: 100000
+- id: 4023
+  amount: 100000

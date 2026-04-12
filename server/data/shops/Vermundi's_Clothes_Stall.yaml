@@ -1,0 +1,27 @@
+---
+identifier: "2Ns4tLXhBIE77jI9meCxxQcK8XmJS2"
+title: "Vermundi's Clothes Stall"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 55
+  changePer: 3
+defaultStock:
+- id: 5048
+  amount: 100000
+- id: 5036
+  amount: 100000
+- id: 5042
+  amount: 100000
+- id: 5024
+  amount: 100000
+- id: 5030
+  amount: 100000
+- id: 950
+  amount: 100000

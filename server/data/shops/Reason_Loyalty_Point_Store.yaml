@@ -1,0 +1,82 @@
+---
+identifier: "Loyalty"
+title: "Reason Loyalty Point Store"
+currency: "LOYALTY"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 2
+defaultStock:
+- id: 4
+  price: 20
+  amount: 1
+- id: 30460
+  price: 4
+  amount: 1
+- id: 24340
+  price: 10
+  amount: 1
+- id: 24342
+  price: 2
+  amount: 1
+- id: 6571
+  price: 15
+  amount: 1
+- id: 8842
+  price: 25
+  amount: 1
+- id: 8839
+  price: 25
+  amount: 1
+- id: 8840
+  price: 25
+  amount: 1
+- id: 11663
+  price: 25
+  amount: 1
+- id: 11664
+  price: 25
+  amount: 1
+- id: 11665
+  price: 25
+  amount: 1
+- id: 13116
+  price: 15
+  amount: 1
+- id: 19634
+  price: 20
+  amount: 1
+- id: 6714
+  price: 15
+  amount: 1
+- id: 10588
+  price: 25
+  amount: 1
+- id: 8850
+  price: 10
+  amount: 1
+- id: 12954
+  price: 15
+  amount: 1
+- id: 6570
+  price: 15
+  amount: 1
+- id: 10548
+  price: 10
+  amount: 1
+- id: 10551
+  price: 50
+  amount: 1
+- id: 12695
+  price: 1
+  amount: 1
+- id: 12625
+  price: 2
+  amount: 1

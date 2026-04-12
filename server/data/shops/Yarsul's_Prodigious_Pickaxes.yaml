@@ -1,0 +1,27 @@
+---
+identifier: "5C7kpmRDmuZ7ZhHaXJkParPQBjw1iN"
+title: "Yarsul's Prodigious Pickaxes"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 1265
+  amount: 100000
+- id: 1267
+  amount: 100000
+- id: 1269
+  amount: 100000
+- id: 1273
+  amount: 100000
+- id: 1271
+  amount: 100000
+- id: 1275
+  amount: 100000

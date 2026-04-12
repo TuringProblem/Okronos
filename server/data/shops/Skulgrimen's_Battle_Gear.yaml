@@ -1,0 +1,36 @@
+---
+identifier: "wA65iSBMQOtbJt7YCIyTb7fqFiRe8M"
+title: "Skulgrimen's Battle Gear"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 70
+  changePer: 3
+defaultStock:
+- id: 1337
+  amount: 100000
+- id: 1335
+  amount: 100000
+- id: 1339
+  amount: 100000
+- id: 1341
+  amount: 100000
+- id: 1343
+  amount: 100000
+- id: 1345
+  amount: 100000
+- id: 3749
+  amount: 100000
+- id: 3751
+  amount: 100000
+- id: 3753
+  amount: 100000
+- id: 3755
+  amount: 100000

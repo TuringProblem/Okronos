@@ -1,0 +1,33 @@
+package org.rsmod.api.core
+
+import org.rsmod.api.core.module.EntityRepoModule
+import org.rsmod.api.core.module.GameMapModule
+import org.rsmod.api.game.process.GameCycle
+import org.rsmod.api.random.RandomModule
+import org.rsmod.api.route.RouteModule
+import org.rsmod.api.utils.logging.ExceptionHandlerModule
+import org.rsmod.game.queue.WorldQueueList
+import org.rsmod.module.ExtendedModule
+
+public object CoreModule : ExtendedModule() {
+    override fun bind() {
+        //install(CacheModule)
+        install(EntityRepoModule)
+        install(ExceptionHandlerModule)
+        install(GameMapModule)
+        //install(MarketModule)
+        //install(PlayerModule)
+        install(RandomModule)
+        install(RouteModule)
+        //install(StatModModule)
+        //install(TypeModule)
+        bindInstance<GameCycle>()
+        bindInstance<WorldQueueList>()
+        //bindProvider(EnumTypeMapResolverProvider::class.java)
+    }
+
+    /*private class EnumTypeMapResolverProvider @Inject constructor(private val enums: EnumTypeList) :
+        Provider<EnumTypeMapResolver> {
+        override fun get(): EnumTypeMapResolver = EnumTypeMapResolver(enums)
+    }*/
+}

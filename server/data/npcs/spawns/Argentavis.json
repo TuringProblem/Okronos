@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Argentavis",
+    "id": 763,
+    "x": 2144,
+    "y": 5539,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+   {
+    "name": "Tarn",
+    "id": 6477,
+    "x": 3149,
+    "y": 4651,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  }
+]

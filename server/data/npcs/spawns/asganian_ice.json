@@ -1,0 +1,132 @@
+[
+	{
+		"name": "Pirate",
+		"id": "523",
+		"x": "2984",
+		"y": "9575",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "523",
+		"x": "2986",
+		"y": "9582",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "523",
+		"x": "2990",
+		"y": "9571",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "523",
+		"x": "2991",
+		"y": "9583",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mugger",
+		"id": "513",
+		"x": "2993",
+		"y": "9545",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mugger",
+		"id": "513",
+		"x": "2995",
+		"y": "9548",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "523",
+		"x": "2995",
+		"y": "9576",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mugger",
+		"id": "513",
+		"x": "2997",
+		"y": "9544",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "523",
+		"x": "2997",
+		"y": "9569",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "523",
+		"x": "2998",
+		"y": "9572",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mugger",
+		"id": "513",
+		"x": "2999",
+		"y": "9550",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "523",
+		"x": "2999",
+		"y": "9584",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "523",
+		"x": "3000",
+		"y": "9579",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

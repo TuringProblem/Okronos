@@ -1,0 +1,21 @@
+---
+identifier: "5a0LWu1mcg4nRcj1p48UkzemZYPOGu"
+title: "Green Gemstone Gems"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 150
+  buysAt: 80
+  changePer: 3
+defaultStock:
+- id: 1607
+  amount: 100000
+- id: 1605
+  amount: 100000
+- id: 1603
+  amount: 100000

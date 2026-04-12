@@ -1,0 +1,1322 @@
+[
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2374",
+		"y": "3888",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2374",
+		"y": "3895",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "5829",
+		"x": "2376",
+		"y": "3892",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2377",
+		"y": "3890",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2377",
+		"y": "3894",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5818",
+		"x": "2378",
+		"y": "3877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll grunt",
+		"id": "5831",
+		"x": "2379",
+		"y": "3893",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "1874",
+		"x": "2387",
+		"y": "3869",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5817",
+		"x": "2392",
+		"y": "3877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2394",
+		"y": "3862",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "5829",
+		"x": "2394",
+		"y": "3866",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "1874",
+		"x": "2396",
+		"y": "3856",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5817",
+		"x": "2397",
+		"y": "3882",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "5829",
+		"x": "2398",
+		"y": "3853",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "1875",
+		"x": "2400",
+		"y": "3857",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5818",
+		"x": "2400",
+		"y": "3878",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2403",
+		"y": "3856",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2406",
+		"y": "3865",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "1876",
+		"x": "2408",
+		"y": "3859",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "5829",
+		"x": "2408",
+		"y": "3863",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "7438",
+		"x": "2409",
+		"y": "3853",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5817",
+		"x": "2412",
+		"y": "3874",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "1875",
+		"x": "2418",
+		"y": "3866",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2370",
+		"y": "3833",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2372",
+		"y": "3833",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "1950",
+		"x": "2387",
+		"y": "3797",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "1950",
+		"x": "2387",
+		"y": "3800",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Freygerd",
+		"id": "1951",
+		"x": "2390",
+		"y": "3801",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Miner",
+		"id": "1993",
+		"x": "2392",
+		"y": "3800",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6712",
+		"x": "2393",
+		"y": "3801",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Skuli Myrka",
+		"id": "1944",
+		"x": "2394",
+		"y": "3805",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Raum Urda-Stein",
+		"id": "1943",
+		"x": "2396",
+		"y": "3798",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Hring Hring",
+		"id": "1941",
+		"x": "2398",
+		"y": "3798",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gruva Patrull",
+		"id": "1998",
+		"x": "2398",
+		"y": "3814",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5820",
+		"x": "2401",
+		"y": "3781",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Sassilik",
+		"id": "1991",
+		"x": "2402",
+		"y": "3802",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5821",
+		"x": "2403",
+		"y": "3778",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Eric",
+		"id": "1997",
+		"x": "2403",
+		"y": "3809",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Vanligga Gastfrihet",
+		"id": "1990",
+		"x": "2404",
+		"y": "3813",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6712",
+		"x": "2405",
+		"y": "3808",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Grundt",
+		"id": "2000",
+		"x": "2406",
+		"y": "3816",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "King Gjuki Sorvott IV",
+		"id": "1897",
+		"x": "2407",
+		"y": "3802",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "HRH Hrafn",
+		"id": "1898",
+		"x": "2408",
+		"y": "3802",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "1949",
+		"x": "2408",
+		"y": "3806",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Brendt",
+		"id": "1999",
+		"x": "2408",
+		"y": "3815",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5821",
+		"x": "2409",
+		"y": "3780",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5821",
+		"x": "2409",
+		"y": "3783",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Thorkel Silkbeard",
+		"id": "1899",
+		"x": "2409",
+		"y": "3804",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Miner",
+		"id": "1993",
+		"x": "2409",
+		"y": "3820",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "1950",
+		"x": "2411",
+		"y": "3795",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Miner",
+		"id": "1993",
+		"x": "2412",
+		"y": "3801",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Lensa",
+		"id": "1952",
+		"x": "2412",
+		"y": "3808",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6712",
+		"x": "2413",
+		"y": "3803",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6712",
+		"x": "2413",
+		"y": "3819",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5820",
+		"x": "2414",
+		"y": "3780",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5820",
+		"x": "2414",
+		"y": "3783",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "1950",
+		"x": "2414",
+		"y": "3795",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "1950",
+		"x": "2414",
+		"y": "3824",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Magnus Gram",
+		"id": "1946",
+		"x": "2416",
+		"y": "3799",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Keepa Kettilon",
+		"id": "1945",
+		"x": "2417",
+		"y": "3817",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "1950",
+		"x": "2417",
+		"y": "3824",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Flosi Dalksson",
+		"id": "1942",
+		"x": "2418",
+		"y": "3813",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5821",
+		"x": "2419",
+		"y": "3783",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5820",
+		"x": "2419",
+		"y": "3789",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5821",
+		"x": "2422",
+		"y": "3789",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "5820",
+		"x": "2424",
+		"y": "3782",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Mord Gunnars",
+		"id": "1940",
+		"x": "2421",
+		"y": "3781",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "1947",
+		"x": "2372",
+		"y": "3801",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5818",
+		"x": "2311",
+		"y": "3866",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5817",
+		"x": "2317",
+		"y": "3870",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2318",
+		"y": "3891",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "5829",
+		"x": "2320",
+		"y": "3889",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2321",
+		"y": "3891",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2321",
+		"y": "3894",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll grunt",
+		"id": "5831",
+		"x": "2323",
+		"y": "3892",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "5829",
+		"x": "2324",
+		"y": "3860",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2325",
+		"y": "3862",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2327",
+		"y": "3858",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5817",
+		"x": "2327",
+		"y": "3879",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5818",
+		"x": "2334",
+		"y": "3875",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5817",
+		"x": "2337",
+		"y": "3868",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2340",
+		"y": "3892",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2341",
+		"y": "3862",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll grunt",
+		"id": "5831",
+		"x": "2341",
+		"y": "3890",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5817",
+		"x": "2342",
+		"y": "3881",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2343",
+		"y": "3890",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "5829",
+		"x": "2344",
+		"y": "3893",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2346",
+		"y": "3863",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "5829",
+		"x": "2351",
+		"y": "3865",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2354",
+		"y": "3863",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2355",
+		"y": "3865",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5818",
+		"x": "2356",
+		"y": "3879",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2362",
+		"y": "3890",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2362",
+		"y": "3892",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll grunt",
+		"id": "5831",
+		"x": "2364",
+		"y": "3891",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Iceberg",
+		"id": "5817",
+		"x": "2366",
+		"y": "3877",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1890",
+		"x": "2316",
+		"y": "3815",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1891",
+		"x": "2316",
+		"y": "3833",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yak",
+		"id": "5816",
+		"x": "2318",
+		"y": "3794",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1891",
+		"x": "2318",
+		"y": "3833",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Anne Isaakson",
+		"id": "1887",
+		"x": "2320",
+		"y": "3798",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1891",
+		"x": "2320",
+		"y": "3834",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yak",
+		"id": "5816",
+		"x": "2321",
+		"y": "3793",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yak",
+		"id": "5816",
+		"x": "2321",
+		"y": "3797",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yak",
+		"id": "5816",
+		"x": "2322",
+		"y": "3789",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Yak",
+		"id": "5816",
+		"x": "2325",
+		"y": "3791",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gunnar Holdstrom",
+		"id": "1886",
+		"x": "2325",
+		"y": "3794",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Yak",
+		"id": "5816",
+		"x": "2325",
+		"y": "3796",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1890",
+		"x": "2325",
+		"y": "3813",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "1874",
+		"x": "2325",
+		"y": "3836",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1889",
+		"x": "2330",
+		"y": "3803",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1889",
+		"x": "2330",
+		"y": "3806",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6712",
+		"x": "2332",
+		"y": "3801",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thakkrad Sigmundson",
+		"id": "1881",
+		"x": "2334",
+		"y": "3798",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fridleif Shieldson",
+		"id": "1880",
+		"x": "2334",
+		"y": "3800",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jofridr Mordstatter",
+		"id": "1884",
+		"x": "2335",
+		"y": "3806",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Slug Hemligssen",
+		"id": "1895",
+		"x": "2336",
+		"y": "3811",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "1874",
+		"x": "2336",
+		"y": "3835",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Kjedelig Uppsen",
+		"id": "1893",
+		"x": "2338",
+		"y": "3798",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Trogen Konungarde",
+		"id": "1894",
+		"x": "2338",
+		"y": "3800",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Financial Seer",
+		"id": "6486",
+		"x": "2339",
+		"y": "3807",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1890",
+		"x": "2340",
+		"y": "3819",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6712",
+		"x": "2343",
+		"y": "3810",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lisse Isaakson",
+		"id": "1888",
+		"x": "2350",
+		"y": "3802",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll runt",
+		"id": "5828",
+		"x": "2356",
+		"y": "3831",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "6712",
+		"x": "2357",
+		"y": "3799",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll male",
+		"id": "5829",
+		"x": "2362",
+		"y": "3834",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ice troll female",
+		"id": "5830",
+		"x": "2365",
+		"y": "3829",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Maria Gunnars",
+		"id": "1882",
+		"x": "2311",
+		"y": "3781",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1891",
+		"x": "2330",
+		"y": "3799",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Honour guard",
+		"id": "1891",
+		"x": "2335",
+		"y": "3811",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "1948",
+		"x": "2364",
+		"y": "3800",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	}
+]

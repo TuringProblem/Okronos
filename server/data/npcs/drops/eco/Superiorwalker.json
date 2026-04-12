@@ -1,0 +1,66 @@
+[
+  {
+    "ids": [ 3358 ],
+      "guaranteed": [
+      { "id": 13307, "min": 10, "max": 25 },   //blood money
+      { "id": 995, "min": 1000000, "max": 1000000 }   //Coins
+    ],
+    "tables": [
+      {
+        "name": "Common",
+        "weight": 1250,
+        "items": [
+          { "id": 13307, "min": 1000, "max": 1000, "weight": 5 },   //blood money x1000
+          { "id": 11230, "min": 500, "max": 500, "weight": 5 },   //dragon darts x500
+          { "id": 23490, "min": 5, "max": 5, "weight": 3 },   //larrans key x5
+          { "id": 11926, "min": 1, "max": 1, "weight": 3 },   //odium ward
+          { "id": 11924, "min": 1, "max": 1, "weight": 3 },   //malediction ward
+          { "id": 990, "min": 10, "max": 10, "weight": 3 },   //crystal key x10
+          { "id": 6199, "min": 1, "max": 1, "weight": 3 }   //mystery box
+        ]
+      },
+      {
+        "name": "Uncommon",
+        "weight": 200,
+        "items": [
+          { "id": 26072, "min": 1, "max": 1, "weight": 7 , "broadcast": "GLOBAL"},   //Sigil of ruthless ranger
+          { "id": 26072, "min": 1, "max": 1, "weight": 7 , "broadcast": "GLOBAL"},   //Sigil of the menacing mage
+          { "id": 25991, "min": 1, "max": 1, "weight": 7 , "broadcast": "GLOBAL"},   //Sigil of the resilience
+          { "id": 25994, "min": 1, "max": 1, "weight": 7 , "broadcast": "GLOBAL"},   //Sigil of the consistency
+          { "id": 22542, "min": 1, "max": 1, "weight": 9, "broadcast": "GLOBAL"}, //vigg chainmace
+          { "id": 22547, "min": 1, "max": 1, "weight": 9, "broadcast": "GLOBAL"}, //craws bow
+          { "id": 22552, "min": 1, "max": 1, "weight": 9, "broadcast": "GLOBAL"}, //thammaron sceptre
+          { "id": 13307, "min": 5000, "max": 5000, "weight": 13 },   //blood money x10000
+          { "id": 22557, "min": 1, "max": 1, "weight": 13, "broadcast": "GLOBAL"},   //amulet of avarice
+          { "id": 12804, "min": 1, "max": 1, "weight": 15, "broadcast": "GLOBAL"}, //saradomins tear
+          { "id": 22302, "min": 1, "max": 1, "weight": 13, "broadcast": "GLOBAL"},   //ancient relic
+          { "id": 22305, "min": 1, "max": 1, "weight": 15, "broadcast": "GLOBAL"}, //ancient effigy
+          { "id": 19529, "min": 1, "max": 1, "weight": 13, "broadcast": "GLOBAL"},   //zenyte shard
+          { "id": 30456, "min": 1, "max": 1, "weight": 15, "broadcast": "GLOBAL"} //mystery crate
+
+
+        ]
+      },
+      {
+        "name": "Rares",
+        "weight": 17,
+        "items": [
+            { "id": 25965, "min": 1, "max": 1, "weight": 20 },   //bloodline shard
+            { "id": 30185, "min": 1, "max": 1, "weight": 20 },   //legendary pet box
+            { "id": 22330, "min": 1, "max": 1, "weight": 20 },   //pvp mystery box
+          { "id": 26100, "min": 1, "max": 1, "weight": 10 }   //pvp mystery box
+
+
+
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 15,
+        "items": [
+
+        ]
+      }
+    ]
+  }
+]

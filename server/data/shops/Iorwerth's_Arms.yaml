@@ -1,0 +1,31 @@
+---
+identifier: "9p09H7M6nVOBCLZLU2DZEvK06F6P9N"
+title: "Iorwerth's Arms"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 150
+  buysAt: 25
+  changePer: 1
+defaultStock:
+- id: 1211
+  amount: 100000
+- id: 1213
+  amount: 100000
+- id: 1215
+  amount: 100000
+- id: 1331
+  amount: 100000
+- id: 1333
+  amount: 100000
+- id: 3200
+  amount: 100000
+- id: 3202
+  amount: 100000
+- id: 3204
+  amount: 100000

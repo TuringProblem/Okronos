@@ -1,0 +1,46 @@
+[
+  { #Sotetseg (1195)
+    "ids": [ 8387, 8388, 10864, 10865, 10867, 10868, 11186 ],
+    "handler": "io.ruin.model.activities.raids.tob.dungeon.boss.sotetseg.SotetsegCombat",
+    //Combat Info
+    "hitpoints": 2300,
+    "aggressive_level": 1900,
+	"aggressive": true,
+    "max_damage": 30,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 0,
+    "slayer_xp": 0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 350,
+    "strength": 250,
+    "defence": 200,
+    "ranged": 250,
+    "magic": 250,
+    //Aggressive Stats
+    "stab_attack": 50,
+    "slash_attack": 50,
+    "crush_attack": 50,
+    "magic_attack": 160,
+    "ranged_attack": 160,
+    //Defensive Stats
+    "stab_defence": 70,
+    "slash_defence": 70,
+    "crush_defence": 70,
+    "magic_defence": 30,
+    "ranged_defence": 150,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 8,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 8139,
+    "defend_animation": -1,
+    "death_animation": 8140
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "ids": [ 12207, 12204, 12205, 12206 ],
+    "tables": [
+      {
+        "name": "Uniques",
+        "weight": 3,
+        "items": [
+          { "id": 28272, "min": 1, "max": 1, "weight": 33, "broadcast": "GLOBAL"},   //Shadow quartz
+          { "id": 28276, "min": 1, "max": 1, "weight": 30, "broadcast": "GLOBAL"},   //Chromium ingot
+          { "id": 30586, "min": 1, "max": 1, "weight": 13 , "broadcast": "GLOBAL"},   //Bellator vestige
+          { "id": 28323, "min": 1, "max": 1, "weight": 13 , "broadcast": "GLOBAL"},   //Siren's staff
+          { "id": 30521, "min": 1, "max": 1, "weight": 9 , "broadcast": "GLOBAL"},   //Virtus mask
+          { "id": 30522, "min": 1, "max": 1, "weight": 9 , "broadcast": "GLOBAL"},   //Virtus robe top
+          { "id": 30523, "min": 1, "max": 1, "weight": 9 , "broadcast": "GLOBAL"}  //Virtus robe bottom
+        ]
+      },
+      {
+        "name": "Supplies",
+        "weight": 100,
+        "items": [
+          { "id": 2434, "min": 7, "max": 20, "weight": 34 },   //Prayer potions
+          { "id": 391, "min": 3, "max": 4, "weight": 33 },   //Manta ray
+          { "id": 23546, "min": 2, "max": 4, "weight": 33 }   //Super combat potion
+        ]
+      },
+      {
+        "name": "Resources",
+        "weight": 100,
+        "items": [
+          { "id": 454, "min": 195, "max": 292, "weight": 6 },   //Coal
+          { "id": 445, "min": 67, "max": 101, "weight": 1 },   //Gold ore
+          { "id": 19582, "min": 36, "max": 54, "weight": 6 },   //Dragon javelin heads
+          { "id": 1620, "min": 37, "max": 56, "weight": 6 },   //Uncut ruby
+          { "id": 1618, "min": 37, "max": 56, "weight": 6 },   //Uncut diamond
+          { "id": 452, "min": 27, "max": 40, "weight": 4 },   //Runite ore
+          { "id": 9381, "min": 84, "max": 126, "weight": 6 },   //Runite bolts(unf)
+          { "id": 7937, "min": 180, "max": 270, "weight": 1 },   //Pure essence
+          { "id": 441, "min": 57, "max": 85, "weight": 1 },   //Iron ore
+          { "id": 443, "min": 57, "max": 85, "weight": 1 },   //Silver ore
+          { "id": 450, "min": 57, "max": 85, "weight": 6 },   //Adamantite ore
+          { "id": 1608, "min": 25, "max": 38, "weight": 1 },   //Sapphire
+          { "id": 1606, "min": 25, "max": 38, "weight": 1 },   //Emerald
+          { "id": 1604, "min": 25, "max": 38, "weight": 1 },   //Ruby
+          { "id": 7945, "min": 700, "max": 1050, "weight": 1 }   //Raw monkfish
+        ]
+      },
+      {
+        "name": "Runes and ammunition",
+        "weight": 100,
+        "items": [
+          { "id": 4694, "min": 466, "max": 700, "weight": 20 }, //Steam rune
+          { "id": 560, "min": 466, "max": 700, "weight": 20 },   //Death rune
+          { "id": 566, "min": 933, "max": 1400, "weight": 10 },   //Soul rune
+          { "id": 555, "min": 280, "max": 420, "weight": 5 },   //Water rune
+          { "id": 562, "min": 149, "max": 210, "weight": 5 }   //Chaos rune
+        ]
+      }
+    ]
+  }
+]

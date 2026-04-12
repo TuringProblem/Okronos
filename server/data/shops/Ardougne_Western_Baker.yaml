@@ -1,0 +1,23 @@
+---
+identifier: "0xbp702K6SLtq1AHBuCLVQmLeMX4Yo"
+title: "Ardougne Baker's Stall"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 80
+  changePer: 2
+defaultStock:
+- id: 2309
+  amount: 100000
+- id: 1891
+  amount: 100000
+- id: 1897
+  amount: 100000
+- id: 1973
+  amount: 100000

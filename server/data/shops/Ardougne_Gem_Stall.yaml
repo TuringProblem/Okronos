@@ -1,0 +1,21 @@
+---
+identifier: "jTlM3lUra6323vLp5xQwxZapKkR9Hi"
+title: "Ardougne Gem Stall"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 150
+  buysAt: 80
+  changePer: 3
+defaultStock:
+- id: 1607
+  amount: 100000
+- id: 1605
+  amount: 100000
+- id: 1603
+  amount: 100000

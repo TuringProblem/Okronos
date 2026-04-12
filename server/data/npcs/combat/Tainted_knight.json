@@ -1,0 +1,41 @@
+[
+  {
+    "ids": [
+      12002
+    ],
+    "handler": "io.ruin.model.activities.bosses.TaintedKnight",
+    "hitpoints": 500,
+    "aggressive_level": 500,
+    "aggressive": true,
+    "max_damage": 55,
+    "attack_style": "SLASH",
+    "slayer_level": 1,
+    "slayer_xp": 550.0,
+    "slayer_categories": [
+      "Ghost"
+    ],
+    "attack": 369,
+    "strength": 193,
+    "defence": 200,
+    "ranged": 1,
+    "magic": 212,
+    "stab_attack": 300,
+    "slash_attack": 300,
+    "crush_attack": 300,
+    "magic_attack": 300,
+    "ranged_attack": 1,
+    "stab_defence": 56,
+    "slash_defence": 56,
+    "crush_defence": 56,
+    "magic_defence": 25,
+    "ranged_defence": 75,
+    "poison_immunity": true,
+    "venom_immunity": true,
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 15,
+    "local_loot": true,
+    "combat_xp_modifier": 0.0,
+    "random_drop_count": 0
+  }
+]

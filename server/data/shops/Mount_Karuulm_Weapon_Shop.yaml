@@ -1,0 +1,35 @@
+---
+identifier: "bEF58Ll2GuUYjOn3hXDCkBcTx25qRZ"
+title: "Mount Karuulm Weapon Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 1241
+  amount: 100000
+- id: 1243
+  amount: 100000
+- id: 1245
+  amount: 100000
+- id: 1247
+  amount: 100000
+- id: 1365
+  amount: 100000
+- id: 1369
+  amount: 100000
+- id: 1371
+  amount: 100000
+- id: 1339
+  amount: 100000
+- id: 1343
+  amount: 100000
+- id: 1345
+  amount: 100000

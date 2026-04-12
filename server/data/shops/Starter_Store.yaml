@@ -1,0 +1,52 @@
+---
+identifier: "1pZ81ww2LIZ8RwG1CjlsEgNtkX8NC5"
+title: "Starter Store"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+    sellsAt: 200
+    buysAt: 50
+    changePer: 2
+defaultStock:
+- id: 380
+  amount: 100000
+  price: 150
+- id: 7947
+  amount: 100000
+  price: 500
+- id: 2441
+  amount: 100000
+  price: 2500
+- id: 2437
+  amount: 100000
+  price: 2500
+- id: 2443
+  amount: 100000
+  price: 2500
+- id: 2445
+  amount: 100000
+  price: 2500
+- id: 3041
+  amount: 100000
+  price: 2500
+- id: 2435
+  amount: 100000
+  price: 5000
+- id: 2447
+  amount: 100000
+  price: 1000
+- id: 2453
+  amount: 100000
+  price: 12500
+- id: 1540
+  amount: 100000
+  price: 26
+- id: 2551
+  amount: 100000
+  price: 2500

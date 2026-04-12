@@ -1,0 +1,119 @@
+---
+identifier: "5464df07-5091-4ddc-8c5a-426db5ae2193"
+title: "PvM Points Shop"
+currency: "PVM_POINTS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+  - id: 10548
+    amount: 100000
+    price: 275
+  - id: 10547
+    amount: 100000
+    price: 275
+  - id: 10549
+    amount: 100000
+    price: 275
+  - id: 10550
+    amount: 100000
+    price: 275
+  - id: 10551
+    amount: 100000
+    price: 375
+  - id: 10555
+    amount: 100000
+    price: 375
+  - id: 10552
+    amount: 100000
+    price: 100
+  - id: 10553
+    amount: 100000
+    price: 150
+  - id: 7453
+    amount: 100000
+    price: 25
+  - id: 7454
+    amount: 100000
+    price: 50
+  - id: 7455
+    amount: 100000
+    price: 75
+  - id: 7456
+    amount: 100000
+    price: 100
+  - id: 7457
+    amount: 100000
+    price: 125
+  - id: 7458
+    amount: 100000
+    price: 150
+  - id: 7459
+    amount: 100000
+    price: 175
+  - id: 7460
+    amount: 100000
+    price: 200
+  - id: 7461
+    amount: 100000
+    price: 225
+  - id: 7462
+    amount: 100000
+    price: 250
+  - id: 3840
+    amount: 100000
+    price: 250
+  - id: 3842
+    amount: 100000
+    price: 250
+  - id: 3844
+    amount: 100000
+    price: 250
+  - id: 12608
+    amount: 100000
+    price: 500
+  - id: 12610
+    amount: 100000
+    price: 500
+  - id: 12612
+    amount: 100000
+    price: 500
+  - id: 12863
+    amount: 100000
+    price: 1250
+  - id: 1409
+    amount: 100000
+    price: 500
+  - id: 4081
+    amount: 100000
+    price: 20
+  - id: 30427
+    amount: 100000
+    price: 10
+  - id: 30104
+    amount: 100000
+    price: 25
+  - id: 23071
+    amount: 100000
+    price: 75
+  - id: 22114
+    amount: 100000
+    price: 500
+  - id: 7510
+    amount: 100000
+    price: 500
+  - id: 6758
+    amount: 100000
+    price: 750
+  - id: 11738
+    amount: 100000
+    price: 5
+  - id: 22398
+    amount: 100000
+    price: 500
+  - id: 24699
+    amount: 100000
+    price: 1000

@@ -1,0 +1,45 @@
+[
+  { #Infernal Pyrelord
+    "ids": [ 9465 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 368,
+    "aggressive_level": 86,
+    "max_damage": 10,
+    "attack_style": "MAGICAL_MELEE",
+    //Slayer Info
+    "slayer_level": 30,
+    "slayer_xp": 1840.0,
+    "slayer_tasks": [ "Pyrelord" ],
+    //Combat Stats
+    "attack": 124,
+    "strength": 96,
+    "defence": 68,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 18,
+    "slash_defence": 18,
+    "crush_defence": 18,
+    "magic_defence": 0,
+    "ranged_defence": 18,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 4,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1582,
+    "defend_animation": 1581,
+    "death_animation": 1580
+  }
+]

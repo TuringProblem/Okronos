@@ -1,0 +1,872 @@
+[
+	{
+		"name": "Cave goblin",
+		"id": "2274",
+		"x": "2693",
+		"y": "5332",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2281",
+		"x": "2694",
+		"y": "5333",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2283",
+		"x": "2695",
+		"y": "5331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Barlak",
+		"id": "2344",
+		"x": "2697",
+		"y": "5316",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2269",
+		"x": "2697",
+		"y": "5332",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moths",
+		"id": "2343",
+		"x": "2699",
+		"y": "5329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moths",
+		"id": "2343",
+		"x": "2699",
+		"y": "5335",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "2293",
+		"x": "2699",
+		"y": "5348",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "2292",
+		"x": "2699",
+		"y": "5349",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2299",
+		"x": "2701",
+		"y": "5348",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oldak",
+		"id": "2303",
+		"x": "2704",
+		"y": "5366",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gundik",
+		"id": "2312",
+		"x": "2711",
+		"y": "5314",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2268",
+		"x": "2711",
+		"y": "5331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Durgok",
+		"id": "2310",
+		"x": "2712",
+		"y": "5321",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2280",
+		"x": "2712",
+		"y": "5342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gourmet",
+		"id": "2306",
+		"x": "2715",
+		"y": "5313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ur-taal",
+		"id": "2288",
+		"x": "2716",
+		"y": "5359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lurgon",
+		"id": "2314",
+		"x": "2717",
+		"y": "5315",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ur-zek",
+		"id": "2286",
+		"x": "2717",
+		"y": "5359",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gourmet",
+		"id": "2305",
+		"x": "2718",
+		"y": "5313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2283",
+		"x": "2719",
+		"y": "5331",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "2316",
+		"x": "2719",
+		"y": "5335",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin fish",
+		"id": "2340",
+		"x": "2720",
+		"y": "5356",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Reldak",
+		"id": "2296",
+		"x": "2722",
+		"y": "5313",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ur-vass",
+		"id": "2287",
+		"x": "2722",
+		"y": "5333",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Miltog",
+		"id": "2297",
+		"x": "2723",
+		"y": "5321",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2271",
+		"x": "2723",
+		"y": "5336",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin fish",
+		"id": "2340",
+		"x": "2724",
+		"y": "5354",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2277",
+		"x": "2725",
+		"y": "5349",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2274",
+		"x": "2729",
+		"y": "5329",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "2317",
+		"x": "2730",
+		"y": "5333",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2273",
+		"x": "2743",
+		"y": "5358",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tegdak",
+		"id": "5183",
+		"x": "2744",
+		"y": "5344",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moths",
+		"id": "2343",
+		"x": "2747",
+		"y": "5342",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "2316",
+		"x": "2747",
+		"y": "5373",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2282",
+		"x": "2701",
+		"y": "5352",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2272",
+		"x": "2702",
+		"y": "5352",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin scribe",
+		"id": "2302",
+		"x": "2712",
+		"y": "5369",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2301",
+		"x": "2726",
+		"y": "5372",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ur-tag",
+		"id": "2315",
+		"x": "2730",
+		"y": "5365",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ambassador Alvijar",
+		"id": "6282",
+		"x": "2730",
+		"y": "5366",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ambassador Alvijar",
+		"id": "6283",
+		"x": "2737",
+		"y": "5351",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin child",
+		"id": "2337",
+		"x": "2740",
+		"y": "5334",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin child",
+		"id": "2324",
+		"x": "2741",
+		"y": "5334",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin child",
+		"id": "2325",
+		"x": "2741",
+		"y": "5341",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Young 'un",
+		"id": "2319",
+		"x": "2741",
+		"y": "5344",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin child",
+		"id": "2329",
+		"x": "2742",
+		"y": "5338",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mernik",
+		"id": "2298",
+		"x": "2742",
+		"y": "5339",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin child",
+		"id": "2331",
+		"x": "2743",
+		"y": "5341",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Nipper",
+		"id": "2321",
+		"x": "2743",
+		"y": "5345",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tyke",
+		"id": "2320",
+		"x": "2744",
+		"y": "5333",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin child",
+		"id": "2335",
+		"x": "2744",
+		"y": "5336",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin child",
+		"id": "2333",
+		"x": "2744",
+		"y": "5338",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin child",
+		"id": "2327",
+		"x": "2744",
+		"y": "5342",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zanik",
+		"id": "3186",
+		"x": "2744",
+		"y": "5353",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Nipper",
+		"id": "2322",
+		"x": "2746",
+		"y": "5333",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ur-meg",
+		"id": "2289",
+		"x": "2691",
+		"y": "5303",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2277",
+		"x": "2698",
+		"y": "5264",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2272",
+		"x": "2707",
+		"y": "5286",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bartak",
+		"id": "2294",
+		"x": "2708",
+		"y": "5275",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moths",
+		"id": "2343",
+		"x": "2712",
+		"y": "5297",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Turgok",
+		"id": "2308",
+		"x": "2712",
+		"y": "5303",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tindar",
+		"id": "2311",
+		"x": "2712",
+		"y": "5309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin fish",
+		"id": "2340",
+		"x": "2713",
+		"y": "5262",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2284",
+		"x": "2713",
+		"y": "5293",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Goblin fish",
+		"id": "2340",
+		"x": "2714",
+		"y": "5287",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moths",
+		"id": "2343",
+		"x": "2715",
+		"y": "5259",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gourmet",
+		"id": "2307",
+		"x": "2716",
+		"y": "5310",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2268",
+		"x": "2717",
+		"y": "5294",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gourmet",
+		"id": "2304",
+		"x": "2720",
+		"y": "5309",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2282",
+		"x": "2721",
+		"y": "5294",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard",
+		"id": "2317",
+		"x": "2722",
+		"y": "5260",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moths",
+		"id": "2343",
+		"x": "2722",
+		"y": "5297",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Markog",
+		"id": "2309",
+		"x": "2723",
+		"y": "5303",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Zenkog",
+		"id": "2313",
+		"x": "2723",
+		"y": "5307",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spit goblin",
+		"id": "2339",
+		"x": "2729",
+		"y": "5269",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moths",
+		"id": "2343",
+		"x": "2730",
+		"y": "5259",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moths",
+		"id": "2343",
+		"x": "2732",
+		"y": "5270",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Crate goblin",
+		"id": "2300",
+		"x": "2733",
+		"y": "5274",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2281",
+		"x": "2734",
+		"y": "5275",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moths",
+		"id": "2343",
+		"x": "2735",
+		"y": "5270",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ur-lun",
+		"id": "2290",
+		"x": "2747",
+		"y": "5263",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ur-pel",
+		"id": "2291",
+		"x": "2748",
+		"y": "5263",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2273",
+		"x": "2732",
+		"y": "5275",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2280",
+		"x": "2735",
+		"y": "5275",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2275",
+		"x": "2740",
+		"y": "5285",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cave goblin",
+		"id": "2271",
+		"x": "2743",
+		"y": "5284",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

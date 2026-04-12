@@ -1,0 +1,14 @@
+---
+identifier: "4d16cff7-a3a8-4351-9aae-d88ef2f7e037"
+title: "Gambling Shop"
+currency: "COINS"
+accessibleByIronMan: false
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+- id: 299
+  amount: 100000
+  price: 25000

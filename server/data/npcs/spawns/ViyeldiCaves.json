@@ -1,0 +1,202 @@
+[
+	{
+		"name": "Boulder",
+		"id": "3967",
+		"x": "2373",
+		"y": "4692",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "San Tojalon",
+		"id": "3964",
+		"x": "2384",
+		"y": "4706",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "3967",
+		"x": "2386",
+		"y": "4689",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Boulder",
+		"id": "3967",
+		"x": "2392",
+		"y": "4678",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "San Tojalon",
+		"id": "3964",
+		"x": "2394",
+		"y": "4731",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Irvig Senay",
+		"id": "3965",
+		"x": "2401",
+		"y": "4705",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ranalph Devere",
+		"id": "3966",
+		"x": "2408",
+		"y": "4698",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2007",
+		"x": "2412",
+		"y": "4677",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2006",
+		"x": "2413",
+		"y": "4681",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lesser demon",
+		"id": "2005",
+		"x": "2416",
+		"y": "4684",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Meiyerditch miner",
+		"id": "3824",
+		"x": "2378",
+		"y": "4624",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "3691",
+		"x": "2380",
+		"y": "4627",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Meiyerditch miner",
+		"id": "3823",
+		"x": "2383",
+		"y": "4636",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "3691",
+		"x": "2386",
+		"y": "4632",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Meiyerditch miner",
+		"id": "3821",
+		"x": "2389",
+		"y": "4634",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "3690",
+		"x": "2391",
+		"y": "4619",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Vampyre Juvinate",
+		"id": "3690",
+		"x": "2392",
+		"y": "4623",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Meiyerditch miner",
+		"id": "3819",
+		"x": "2392",
+		"y": "4626",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Meiyerditch miner",
+		"id": "3820",
+		"x": "2395",
+		"y": "4631",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Meiyerditch miner",
+		"id": "3822",
+		"x": "2397",
+		"y": "4634",
+		"z": "2",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

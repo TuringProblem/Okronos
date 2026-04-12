@@ -1,0 +1,4382 @@
+[
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2893",
+		"y": "3078",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2897",
+		"y": "3081",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4712",
+		"x": "2899",
+		"y": "3119",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2900",
+		"y": "3080",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2902",
+		"y": "3073",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2906",
+		"y": "3084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "The Shaikahan",
+		"id": "4708",
+		"x": "2906",
+		"y": "3095",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2908",
+		"y": "3080",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2909",
+		"y": "3077",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tiadeche",
+		"id": "6235",
+		"x": "2912",
+		"y": "3118",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4713",
+		"x": "2912",
+		"y": "3119",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Pelican",
+		"id": "288",
+		"x": "2914",
+		"y": "3106",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cormorant",
+		"id": "287",
+		"x": "2931",
+		"y": "3108",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Pelican",
+		"id": "288",
+		"x": "2934",
+		"y": "3105",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gull",
+		"id": "286",
+		"x": "2937",
+		"y": "3104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2909",
+		"y": "3023",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2912",
+		"y": "3019",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2914",
+		"y": "3046",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2915",
+		"y": "3048",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2916",
+		"y": "3043",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2916",
+		"y": "3055",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2916",
+		"y": "3062",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain Errdo",
+		"id": "6091",
+		"x": "2918",
+		"y": "3057",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2919",
+		"y": "3052",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2920",
+		"y": "3027",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2920",
+		"y": "3046",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2921",
+		"y": "3024",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2921",
+		"y": "3040",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2922",
+		"y": "3018",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2923",
+		"y": "3027",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2923",
+		"y": "3046",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2924",
+		"y": "3018",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2924",
+		"y": "3022",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2924",
+		"y": "3060",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2927",
+		"y": "3043",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2927",
+		"y": "3056",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2928",
+		"y": "3018",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2928",
+		"y": "3022",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2928",
+		"y": "3058",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2929",
+		"y": "3047",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2930",
+		"y": "3044",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2931",
+		"y": "3032",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2932",
+		"y": "3032",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2932",
+		"y": "3043",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2932",
+		"y": "3054",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2932",
+		"y": "3057",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2933",
+		"y": "3048",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2935",
+		"y": "3046",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mosol Rei",
+		"id": "8695",
+		"x": "2883",
+		"y": "2951",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2883",
+		"y": "2996",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2884",
+		"y": "3005",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2887",
+		"y": "3006",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2888",
+		"y": "2946",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2888",
+		"y": "2998",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2890",
+		"y": "3007",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2891",
+		"y": "2994",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2892",
+		"y": "2946",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2892",
+		"y": "2997",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2892",
+		"y": "3000",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2893",
+		"y": "2948",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2894",
+		"y": "3006",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2896",
+		"y": "2945",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2896",
+		"y": "3000",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2903",
+		"y": "2945",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2918",
+		"y": "2963",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2918",
+		"y": "2987",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2921",
+		"y": "2959",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2923",
+		"y": "2985",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2924",
+		"y": "2979",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2925",
+		"y": "2956",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2927",
+		"y": "2977",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2928",
+		"y": "2973",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jogre",
+		"id": "2094",
+		"x": "2931",
+		"y": "2987",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Penwie",
+		"id": "2553",
+		"x": "2932",
+		"y": "2972",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2933",
+		"y": "2981",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle forester",
+		"id": "3955",
+		"x": "2935",
+		"y": "2945",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2935",
+		"y": "2973",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2936",
+		"y": "2986",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2937",
+		"y": "2978",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2937",
+		"y": "2993",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2938",
+		"y": "2995",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2939",
+		"y": "2985",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2940",
+		"y": "2991",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2942",
+		"y": "2995",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2880",
+		"y": "2922",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2881",
+		"y": "2919",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2884",
+		"y": "2921",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2885",
+		"y": "2926",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2887",
+		"y": "2914",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2887",
+		"y": "2929",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2888",
+		"y": "2896",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2890",
+		"y": "2907",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2893",
+		"y": "2893",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2898",
+		"y": "2926",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2901",
+		"y": "2907",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2904",
+		"y": "2892",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2910",
+		"y": "2906",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2910",
+		"y": "2919",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2911",
+		"y": "2894",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2912",
+		"y": "2916",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2913",
+		"y": "2913",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2915",
+		"y": "2906",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2916",
+		"y": "2914",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2918",
+		"y": "2896",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2918",
+		"y": "2927",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2919",
+		"y": "2907",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2921",
+		"y": "2924",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2925",
+		"y": "2923",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2930",
+		"y": "2903",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2936",
+		"y": "2910",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2937",
+		"y": "2893",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2939",
+		"y": "2914",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2941",
+		"y": "2887",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2819",
+		"y": "3194",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2820",
+		"y": "3193",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2832",
+		"y": "3170",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2832",
+		"y": "3177",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2837",
+		"y": "3184",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2841",
+		"y": "3163",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2843",
+		"y": "3156",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2849",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2850",
+		"y": "3165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2853",
+		"y": "3159",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2857",
+		"y": "3179",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imp",
+		"id": "5007",
+		"x": "2859",
+		"y": "3177",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2861",
+		"y": "3165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2862",
+		"y": "3180",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2863",
+		"y": "3169",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2865",
+		"y": "3156",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2870",
+		"y": "3159",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2873",
+		"y": "3148",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2875",
+		"y": "3164",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2877",
+		"y": "3154",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2879",
+		"y": "3151",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2879",
+		"y": "3161",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Murcaily",
+		"id": "6577",
+		"x": "2816",
+		"y": "3083",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "2818",
+		"y": "3133",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2820",
+		"y": "3082",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2824",
+		"y": "3077",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "2824",
+		"y": "3133",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2826",
+		"y": "3081",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "2829",
+		"y": "3131",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gull",
+		"id": "281",
+		"x": "2833",
+		"y": "3134",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2835",
+		"y": "3074",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2854",
+		"y": "3106",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2855",
+		"y": "3085",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2855",
+		"y": "3089",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2857",
+		"y": "3085",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2858",
+		"y": "3083",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2858",
+		"y": "3092",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2859",
+		"y": "3106",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2861",
+		"y": "3082",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2861",
+		"y": "3088",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2862",
+		"y": "3081",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2863",
+		"y": "3109",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2863",
+		"y": "3115",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2864",
+		"y": "3084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2864",
+		"y": "3088",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2866",
+		"y": "3081",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2867",
+		"y": "3086",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2867",
+		"y": "3105",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2868",
+		"y": "3084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2870",
+		"y": "3112",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2872",
+		"y": "3117",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2873",
+		"y": "3108",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2875",
+		"y": "3123",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Harpie Bug Swarm",
+		"id": "464",
+		"x": "2878",
+		"y": "3114",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2825",
+		"y": "3030",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2827",
+		"y": "3013",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2829",
+		"y": "3029",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2832",
+		"y": "3017",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2832",
+		"y": "3019",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2832",
+		"y": "3029",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2833",
+		"y": "3027",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2834",
+		"y": "3035",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scout",
+		"id": "6130",
+		"x": "2835",
+		"y": "3053",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2836",
+		"y": "3043",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2837",
+		"y": "3029",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2837",
+		"y": "3034",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2838",
+		"y": "3039",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2838",
+		"y": "3047",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2842",
+		"y": "3017",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tamayu",
+		"id": "6239",
+		"x": "2844",
+		"y": "3042",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2844",
+		"y": "3061",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2847",
+		"y": "3042",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2850",
+		"y": "3063",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2853",
+		"y": "3054",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2866",
+		"y": "3061",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2868",
+		"y": "3017",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2868",
+		"y": "3021",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2868",
+		"y": "3054",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2869",
+		"y": "3015",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2871",
+		"y": "3018",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2871",
+		"y": "3023",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2873",
+		"y": "3021",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Obli",
+		"id": "5362",
+		"x": "2824",
+		"y": "2959",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Vigroy",
+		"id": "5357",
+		"x": "2834",
+		"y": "2954",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Yanni Salika",
+		"id": "5361",
+		"x": "2835",
+		"y": "2985",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "3093",
+		"x": "2851",
+		"y": "2954",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Banker",
+		"id": "3093",
+		"x": "2853",
+		"y": "2955",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rod Fishing spot",
+		"id": "1515",
+		"x": "2855",
+		"y": "2974",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rod Fishing spot",
+		"id": "1515",
+		"x": "2855",
+		"y": "2977",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rod Fishing spot",
+		"id": "1515",
+		"x": "2856",
+		"y": "2974",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Yohnus",
+		"id": "5359",
+		"x": "2857",
+		"y": "2963",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead one",
+		"id": "5349",
+		"x": "2870",
+		"y": "2954",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fernahei",
+		"id": "5363",
+		"x": "2870",
+		"y": "2972",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead one",
+		"id": "5346",
+		"x": "2871",
+		"y": "2951",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead one",
+		"id": "5347",
+		"x": "2872",
+		"y": "2954",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead one",
+		"id": "5351",
+		"x": "2873",
+		"y": "2951",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead one",
+		"id": "5349",
+		"x": "2876",
+		"y": "2947",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead one",
+		"id": "5347",
+		"x": "2876",
+		"y": "2951",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead one",
+		"id": "5348",
+		"x": "2876",
+		"y": "2955",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead one",
+		"id": "5346",
+		"x": "2876",
+		"y": "2957",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Undead one",
+		"id": "5350",
+		"x": "2877",
+		"y": "2959",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Kaleb Paramaya",
+		"id": "5358",
+		"x": "2863",
+		"y": "2997",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Duradel",
+		"id": "405",
+		"x": "2869",
+		"y": "2982",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Seravel",
+		"id": "5360",
+		"x": "2870",
+		"y": "2974",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle forester",
+		"id": "3955",
+		"x": "2817",
+		"y": "2940",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2819",
+		"y": "2900",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2821",
+		"y": "2910",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2821",
+		"y": "2927",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2824",
+		"y": "2896",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2824",
+		"y": "2907",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle forester",
+		"id": "3954",
+		"x": "2824",
+		"y": "2940",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2827",
+		"y": "2924",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2827",
+		"y": "2927",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2834",
+		"y": "2911",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2837",
+		"y": "2897",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2837",
+		"y": "2918",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2840",
+		"y": "2899",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2842",
+		"y": "2899",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2845",
+		"y": "2928",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2859",
+		"y": "2904",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2859",
+		"y": "2923",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2861",
+		"y": "2907",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2862",
+		"y": "2899",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2862",
+		"y": "2904",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2863",
+		"y": "2916",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle forester",
+		"id": "3954",
+		"x": "2863",
+		"y": "2941",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle forester",
+		"id": "3955",
+		"x": "2872",
+		"y": "2941",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Garth",
+		"id": "2669",
+		"x": "2766",
+		"y": "3212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2767",
+		"y": "3204",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2768",
+		"y": "3210",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2772",
+		"y": "3209",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tool Leprechaun",
+		"id": "0",
+		"x": "2773",
+		"y": "3211",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hajedy",
+		"id": "5356",
+		"x": "2779",
+		"y": "3211",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Praistan Ebola",
+		"id": "2686",
+		"x": "2799",
+		"y": "3202",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "My Arm",
+		"id": "748",
+		"x": "2772",
+		"y": "3223",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain Barnaby",
+		"id": "8764",
+		"x": "2773",
+		"y": "3229",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2754",
+		"y": "3171",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fly trap",
+		"id": "2852",
+		"x": "2755",
+		"y": "3156",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2755",
+		"y": "3170",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2758",
+		"y": "3178",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fly trap",
+		"id": "2852",
+		"x": "2761",
+		"y": "3155",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate Guard",
+		"id": "4926",
+		"x": "2761",
+		"y": "3191",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2763",
+		"y": "3180",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2763",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4714",
+		"x": "2768",
+		"y": "3165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Lubufu",
+		"id": "4707",
+		"x": "2770",
+		"y": "3169",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate Guard",
+		"id": "4926",
+		"x": "2770",
+		"y": "3194",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Grip",
+		"id": "4919",
+		"x": "2774",
+		"y": "3192",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Garv",
+		"id": "4915",
+		"x": "2776",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate Guard",
+		"id": "4926",
+		"x": "2776",
+		"y": "3190",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate Guard",
+		"id": "4926",
+		"x": "2776",
+		"y": "3198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate Guard",
+		"id": "4926",
+		"x": "2778",
+		"y": "3194",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate Guard",
+		"id": "4926",
+		"x": "2778",
+		"y": "3198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2783",
+		"y": "3175",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard dog",
+		"id": "114",
+		"x": "2784",
+		"y": "3191",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard dog",
+		"id": "114",
+		"x": "2784",
+		"y": "3197",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "3252",
+		"x": "2785",
+		"y": "3179",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2786",
+		"y": "3174",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Guard dog",
+		"id": "114",
+		"x": "2787",
+		"y": "3195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2789",
+		"y": "3183",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Charlie the cook",
+		"id": "4921",
+		"x": "2790",
+		"y": "3191",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Kangai Mau",
+		"id": "5316",
+		"x": "2791",
+		"y": "3182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2791",
+		"y": "3187",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2792",
+		"y": "3161",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2793",
+		"y": "3157",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2793",
+		"y": "3167",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Alfonse the waiter",
+		"id": "4920",
+		"x": "2793",
+		"y": "3188",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2794",
+		"y": "3183",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2795",
+		"y": "3157",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2795",
+		"y": "3162",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2796",
+		"y": "3168",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "3252",
+		"x": "2796",
+		"y": "3177",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2796",
+		"y": "3188",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Bartender",
+		"id": "1314",
+		"x": "2797",
+		"y": "3155",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2797",
+		"y": "3160",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2797",
+		"y": "3165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2798",
+		"y": "3186",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2799",
+		"y": "3182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2802",
+		"y": "3164",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate Guard",
+		"id": "4926",
+		"x": "2802",
+		"y": "3195",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Davon",
+		"id": "8680",
+		"x": "2803",
+		"y": "3152",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "3252",
+		"x": "2803",
+		"y": "3179",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trobert",
+		"id": "4917",
+		"x": "2806",
+		"y": "3174",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2806",
+		"y": "3185",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2807",
+		"y": "3167",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Cap'n Izzy No-Beard",
+		"id": "5789",
+		"x": "2807",
+		"y": "3190",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Rat",
+		"id": "2854",
+		"x": "2810",
+		"y": "3170",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate Jackie the Fruit",
+		"id": "5516",
+		"x": "2811",
+		"y": "3192",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Pirate",
+		"id": "522",
+		"x": "2811",
+		"y": "3198",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Thief",
+		"id": "3252",
+		"x": "2812",
+		"y": "3159",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Grubor",
+		"id": "4916",
+		"x": "2812",
+		"y": "3171",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2812",
+		"y": "3182",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Ogre boat",
+		"id": "6261",
+		"x": "2753",
+		"y": "3081",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fanellaman",
+		"id": "6558",
+		"x": "2759",
+		"y": "3096",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Aisles",
+		"id": "2134",
+		"x": "2765",
+		"y": "3120",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jiminua",
+		"id": "2893",
+		"x": "2767",
+		"y": "3122",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2772",
+		"y": "3093",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2775",
+		"y": "3089",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2777",
+		"y": "3116",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rionasta",
+		"id": "6578",
+		"x": "2782",
+		"y": "3094",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "My Arm",
+		"id": "749",
+		"x": "2782",
+		"y": "3121",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2784",
+		"y": "3104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2785",
+		"y": "3101",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Safta Doc",
+		"id": "6556",
+		"x": "2790",
+		"y": "3100",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mamma Bufetta",
+		"id": "6549",
+		"x": "2794",
+		"y": "3076",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2796",
+		"y": "3104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2796",
+		"y": "3116",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tool Leprechaun",
+		"id": "0",
+		"x": "2797",
+		"y": "3104",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2797",
+		"y": "3112",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Imiago",
+		"id": "2688",
+		"x": "2798",
+		"y": "3102",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2798",
+		"y": "3107",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Karaday",
+		"id": "6551",
+		"x": "2799",
+		"y": "3084",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2799",
+		"y": "3115",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2804",
+		"y": "3116",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Trufitus",
+		"id": "4625",
+		"x": "2809",
+		"y": "3086",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2811",
+		"y": "3112",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Timfraku",
+		"id": "4698",
+		"x": "2780",
+		"y": "3087",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Layleen",
+		"id": "6550",
+		"x": "2786",
+		"y": "3074",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Sharimika",
+		"id": "6548",
+		"x": "2794",
+		"y": "3076",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Banisoch",
+		"id": "424",
+		"x": "2757",
+		"y": "3061",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Horned graahk",
+		"id": "2909",
+		"x": "2766",
+		"y": "3008",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2771",
+		"y": "3014",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2773",
+		"y": "3017",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2777",
+		"y": "3068",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2780",
+		"y": "3029",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2780",
+		"y": "3031",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1173",
+		"x": "2780",
+		"y": "3064",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tiadeche",
+		"id": "6236",
+		"x": "2781",
+		"y": "3057",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2787",
+		"y": "3013",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1174",
+		"x": "2788",
+		"y": "3061",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2791",
+		"y": "3013",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4710",
+		"x": "2791",
+		"y": "3019",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Hobgoblin",
+		"id": "3049",
+		"x": "2794",
+		"y": "3013",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Gabooty",
+		"id": "6557",
+		"x": "2794",
+		"y": "3065",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jagbakoba",
+		"id": "6559",
+		"x": "2799",
+		"y": "3047",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Tamayu",
+		"id": "6240",
+		"x": "2800",
+		"y": "3057",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4710",
+		"x": "2801",
+		"y": "3010",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2801",
+		"y": "3067",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1174",
+		"x": "2805",
+		"y": "3064",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Fishing spot",
+		"id": "4710",
+		"x": "2807",
+		"y": "3021",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Chicken",
+		"id": "1173",
+		"x": "2808",
+		"y": "3067",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle forester",
+		"id": "3955",
+		"x": "2759",
+		"y": "2944",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle forester",
+		"id": "3954",
+		"x": "2764",
+		"y": "2944",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tinsay",
+		"id": "6237",
+		"x": "2764",
+		"y": "2976",
+		"z": "0",
+		"direction": "E",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2765",
+		"y": "2978",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Horned graahk",
+		"id": "2909",
+		"x": "2767",
+		"y": "3005",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2768",
+		"y": "2980",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Horned graahk",
+		"id": "2909",
+		"x": "2774",
+		"y": "3002",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Horned graahk",
+		"id": "2909",
+		"x": "2781",
+		"y": "3001",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2785",
+		"y": "2955",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2786",
+		"y": "2947",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2787",
+		"y": "3002",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Scorpion",
+		"id": "3024",
+		"x": "2788",
+		"y": "2948",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2790",
+		"y": "2997",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle forester",
+		"id": "3955",
+		"x": "2792",
+		"y": "2944",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2792",
+		"y": "2994",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2794",
+		"y": "3000",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2796",
+		"y": "2993",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle forester",
+		"id": "3954",
+		"x": "2798",
+		"y": "2944",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2799",
+		"y": "2996",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2810",
+		"y": "2981",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2810",
+		"y": "2987",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2812",
+		"y": "2999",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle spider",
+		"id": "3020",
+		"x": "2814",
+		"y": "2996",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Captain Shanks",
+		"id": "5364",
+		"x": "2763",
+		"y": "2961",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2768",
+		"y": "2912",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2771",
+		"y": "2907",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2773",
+		"y": "2928",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2775",
+		"y": "2913",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2776",
+		"y": "2905",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2776",
+		"y": "2934",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2778",
+		"y": "2900",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2783",
+		"y": "2920",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2784",
+		"y": "2908",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2785",
+		"y": "2925",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2785",
+		"y": "2935",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2789",
+		"y": "2915",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2789",
+		"y": "2932",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2791",
+		"y": "2931",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2794",
+		"y": "2906",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2798",
+		"y": "2901",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2799",
+		"y": "2933",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2801",
+		"y": "2899",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2802",
+		"y": "2903",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2802",
+		"y": "2913",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2802",
+		"y": "2921",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2807",
+		"y": "2908",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle savage",
+		"id": "3959",
+		"x": "2809",
+		"y": "2912",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Jungle Wolf",
+		"id": "232",
+		"x": "2813",
+		"y": "2917",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Oomlie bird",
+		"id": "2062",
+		"x": "2815",
+		"y": "2908",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "2092",
+		"x": "2691",
+		"y": "3215",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "2091",
+		"x": "2692",
+		"y": "3204",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "2091",
+		"x": "2695",
+		"y": "3216",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "2090",
+		"x": "2698",
+		"y": "3206",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Moss giant",
+		"id": "2093",
+		"x": "2699",
+		"y": "3212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Poison Scorpion",
+		"id": "3025",
+		"x": "2715",
+		"y": "3218",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Poison Scorpion",
+		"id": "3025",
+		"x": "2719",
+		"y": "3223",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Poison Scorpion",
+		"id": "3025",
+		"x": "2720",
+		"y": "3212",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Poison Scorpion",
+		"id": "3025",
+		"x": "2722",
+		"y": "3220",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Poison Scorpion",
+		"id": "3025",
+		"x": "2724",
+		"y": "3215",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Poison Scorpion",
+		"id": "3025",
+		"x": "2729",
+		"y": "3224",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Poison Scorpion",
+		"id": "3025",
+		"x": "2733",
+		"y": "3225",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2723",
+		"y": "3159",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2724",
+		"y": "3158",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2724",
+		"y": "3161",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2725",
+		"y": "3163",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2728",
+		"y": "3158",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2729",
+		"y": "3158",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2729",
+		"y": "3164",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2730",
+		"y": "3162",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Tribesman",
+		"id": "530",
+		"x": "2731",
+		"y": "3161",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2732",
+		"y": "3176",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2733",
+		"y": "3165",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2734",
+		"y": "3147",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swarm",
+		"id": "330",
+		"x": "2735",
+		"y": "3188",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swarm",
+		"id": "330",
+		"x": "2736",
+		"y": "3184",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2739",
+		"y": "3169",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Monkey",
+		"id": "2848",
+		"x": "2742",
+		"y": "3159",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swarm",
+		"id": "330",
+		"x": "2743",
+		"y": "3175",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swarm",
+		"id": "330",
+		"x": "2744",
+		"y": "3190",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Saniboch",
+		"id": "2345",
+		"x": "2745",
+		"y": "3152",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "0",
+		"world": "ECO"
+	},
+	{
+		"name": "Swarm",
+		"id": "330",
+		"x": "2748",
+		"y": "3177",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2749",
+		"y": "3151",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Swarm",
+		"id": "330",
+		"x": "2750",
+		"y": "3181",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Snake",
+		"id": "2845",
+		"x": "2751",
+		"y": "3166",
+		"z": "0",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

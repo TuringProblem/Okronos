@@ -1,0 +1,38 @@
+---
+identifier: "cba68c44-a106-4815-9b07-eaebe7fca6bf"
+title: "Old Man's Easter Egg Exchange"
+currency: "EASTER_EGGS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+- id: 4566
+  amount: 100000
+  price: 30
+- id: 21214
+  amount: 100000
+  price: 10
+- id: 22351
+  amount: 100000
+  price: 15
+- id: 22353
+  amount: 100000
+  price: 15
+- id: 1037
+  amount: 100000
+  price: 20
+- id: 13663
+  amount: 100000
+  price: 10
+- id: 13664
+  amount: 100000
+  price: 10
+- id: 13182
+  amount: 100000
+  price: 20
+- id: 13665
+  amount: 100000
+  price: 5

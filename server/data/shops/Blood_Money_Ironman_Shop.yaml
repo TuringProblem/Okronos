@@ -1,0 +1,35 @@
+---
+identifier: "c37pen0e-kong-4dac-b300-one6c84042c1"
+title: "Blood Money Ironman Shop"
+currency: "BLOOD_MONEY"
+canSellToStore: false
+accessibleByIronMan: true
+accessibleByRegular: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+- id: 12783
+  amount: 100000
+  price: 15000
+- id: 12786
+  amount: 100000
+  price: 5000
+- id: 11738
+  amount: 100000
+  price: 100
+- id: 23071
+  amount: 100000
+  price: 250
+- id: 20703
+  amount: 100000
+  price: 150
+- id: 21791
+  amount: 100000
+  price: 10000
+- id: 21795
+  amount: 100000
+  price: 10000
+- id: 21793
+  amount: 100000
+  price: 10000

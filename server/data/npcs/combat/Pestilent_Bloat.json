@@ -1,0 +1,46 @@
+[
+  { #Pestilent Bloat
+  "ids": [ 8359, 10812, 10813, 11184 ],
+  "handler": "io.ruin.model.activities.raids.tob.dungeon.boss.bloat.BloatCombat",
+  //Combat Info
+  "hitpoints": 1200,
+  "aggressive_level": 0,
+  "aggressive": false,
+  "max_damage": 80,
+  "attack_style": "RANGE",
+  //Slayer Info
+  "slayer_level": 1,
+  "slayer_xp": 0.0,
+  "slayer_tasks": [],
+  //Combat Stats
+  "attack": 250,
+  "strength": 340,
+  "defence": 66,
+  "ranged": 180,
+  "magic": 150,
+  //Aggressive Stats
+  "stab_attack": 150,
+  "slash_attack": 82,
+  "crush_attack": 0,
+  "magic_attack": 180,
+  "ranged_attack": 4,
+  //Defensive Stats
+  "stab_defence": 12,
+  "slash_defence": 12,
+  "crush_defence": 12,
+  "magic_defence": 600,
+  "ranged_defence": 800,
+  //Immunites
+  "poison_immunity": true,
+  "venom_immunity": true,
+  //Speeds
+  "attack_ticks": -1,
+  "death_ticks": 4,
+  "respawn_ticks": -1,
+  //Animations
+  "spawn_animation": -1,
+  "attack_animation": -1,
+  "defend_animation": -1,
+  "death_animation": 8082
+  }
+]

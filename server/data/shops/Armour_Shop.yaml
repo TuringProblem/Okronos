@@ -1,0 +1,31 @@
+---
+identifier: "5Dq0d3xNztzh7bsmmotZhPIeomKT1E"
+title: "Armour Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 110
+  buysAt: 70
+  changePer: 3
+defaultStock:
+- id: 1109
+  amount: 100000
+- id: 1143
+  amount: 100000
+- id: 1159
+  amount: 100000
+- id: 1181
+  amount: 100000
+- id: 1197
+  amount: 100000
+- id: 1071
+  amount: 100000
+- id: 1085
+  amount: 100000
+- id: 1121
+  amount: 100000

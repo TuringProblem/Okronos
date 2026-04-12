@@ -1,0 +1,53 @@
+---
+identifier: "a1e55885-3aa4-4d63-8a5e-5808c01f54e0"
+title: "Construction Supplies"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+  - id: 8794
+    amount: 100000
+    price: 150
+  - id: 2347
+    amount: 100000
+    price: 150
+  - id: 8790
+    amount: 100000
+    price: 650
+  - id: 4819
+    amount: 100000
+    price: 100
+  - id: 4820
+    amount: 100000
+    price: 250
+  - id: 1539
+    amount: 100000
+    price: 400
+  - id: 3420
+    amount: 100000
+    price: 500
+  - id: 8786
+    amount: 100000
+    price: 300000
+  - id: 8788
+    amount: 100000
+    price: 950000
+  - id: 8784
+    amount: 100000
+    price: 125000
+  - id: 20609
+    amount: 100000
+    price: 750000
+  - id: 20611
+    amount: 100000
+    price: 1000000
+  - id: 20615
+    amount: 100000
+    price: 1000000
+  - id: 20613
+    amount: 100000
+    price: 1000000

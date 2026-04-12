@@ -1,0 +1,52 @@
+---
+identifier: "5aD6EKt233F1Zs5bFoZQRwquKcJf5g"
+title: "Betty's Magic Emporium"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 1
+defaultStock:
+  - id: 554
+    amount: 100000
+  - id: 555
+    amount: 100000
+  - id: 556
+    amount: 100000
+  - id: 557
+    amount: 100000
+  - id: 558
+    amount: 100000
+  - id: 559
+    amount: 100000
+  - id: 562
+    amount: 100000
+  - id: 560
+    amount: 100000
+  - id: 12734
+    amount: 100000
+  - id: 12730
+    amount: 100000
+  - id: 12728
+    amount: 100000
+  - id: 12732
+    amount: 100000
+  - id: 12736
+    amount: 100000
+  - id: 12738
+    amount: 100000
+  - id: 221
+    amount: 100000
+  - id: 12859
+    amount: 100000
+  - id: 579
+    amount: 100000
+  - id: 1017
+    amount: 100000

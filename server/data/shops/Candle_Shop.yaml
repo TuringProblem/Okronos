@@ -1,0 +1,18 @@
+---
+identifier: "VGxB8NOFOs77t0kXrEmFSpelmVKYiE"
+title: "Candle Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 130
+  buysAt: 40
+  changePer: 3
+defaultStock:
+- id: 36
+  amount: 100000

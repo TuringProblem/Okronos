@@ -1,0 +1,8 @@
+*/**
+
+!server.properties
+!data/**
+!kronos-boot/build/install/
+data/cache/toml/**
+data/runtime/**
+!docker/**

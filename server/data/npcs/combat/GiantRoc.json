@@ -1,0 +1,42 @@
+[
+  { #Giant Roc ( ranged)
+    "ids": [ 20001 ],
+    "handler": "io.ruin.model.activities.bosses.GiantRoc",
+    //Combat Info
+    "hitpoints": 850,
+  "aggressive_level": 1160,
+    "max_damage": 38,
+    "attack_style": "SLASH",
+
+  //Combat Stats
+  "attack": 300,
+  "strength": 300,
+  "defence": 260,
+  "ranged": 380,
+  "magic": 200,
+  //Aggressive Stats
+  "stab_attack": 336,
+  "slash_attack": 336,
+  "crush_attack": 136,
+  "magic_attack": 136,
+  "ranged_attack": 220,
+  //Defensive Stats
+  "stab_defence": 180,
+  "slash_defence": 180,
+  "crush_defence": 180,
+  "magic_defence": 120,
+  "ranged_defence": 120,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 3,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5025,
+    "defend_animation": 5026,
+    "death_animation": 5027
+  }
+]

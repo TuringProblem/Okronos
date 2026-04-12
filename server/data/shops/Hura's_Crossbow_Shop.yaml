@@ -1,0 +1,34 @@
+---
+identifier: "jWdlAD6H605biTenWNRqklD9EOERCU"
+title: "Hura's Crossbow Shop"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 360
+  buysAt: 50
+  changePer: 2
+defaultStock:
+- id: 9440
+  amount: 100000
+- id: 9442
+  amount: 100000
+- id: 9444
+  amount: 100000
+- id: 9446
+  amount: 100000
+- id: 9448
+  amount: 100000
+- id: 9420
+  amount: 100000
+- id: 9423
+  amount: 100000
+- id: 9425
+  amount: 100000
+- id: 9427
+  amount: 100000

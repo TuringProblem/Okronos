@@ -1,0 +1,92 @@
+---
+identifier: "c37bac0e-fbea-4dac-a943-cac6c84042c1"
+title: "Blood Money Magic Shop"
+currency: "BLOOD_MONEY"
+canSellToStore: false
+accessibleByIronMan: false
+accessibleByRegular: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+  - id: 20724
+    amount: 100000
+    price: 10000
+  - id: 11791
+    amount: 100000
+    price: 2500
+  - id: 6914
+    amount: 100000
+    price: 1500
+  - id: 6889
+    amount: 100000
+    price: 1500
+  - id: 20733
+    amount: 100000
+    price: 1250
+  - id: 20739
+    amount: 100000
+    price: 1250
+  - id: 12000
+    amount: 100000
+    price: 1250
+  - id: 6563
+    amount: 100000
+    price: 1250
+  - id: 4170
+    amount: 100000
+    price: 500
+  - id: 11924
+    amount: 100000
+    price: 2500
+  - id: 20716
+    amount: 100000
+    price: 7500
+  - id: 20718
+    amount: 100000
+    price: 50
+  - id: 20595
+    amount: 100000
+    price: 1500
+  - id: 6918
+    amount: 100000
+    price: 2000
+  - id: 20128
+    amount: 100000
+    price: 1500
+  - id: 4708
+    amount: 100000
+    price: 2500
+  - id: 20517
+    amount: 100000
+    price: 1500
+  - id: 6916
+    amount: 100000
+    price: 2000
+  - id: 20131
+    amount: 100000
+    price: 1500
+  - id: 4712
+    amount: 100000
+    price: 2500
+  - id: 20520
+    amount: 100000
+    price: 1500
+  - id: 6924
+    amount: 100000
+    price: 2000
+  - id: 20137
+    amount: 100000
+    price: 1500
+  - id: 4714
+    amount: 100000
+    price: 2500
+  - id: 6920
+    amount: 100000
+    price: 2000
+  - id: 20140
+    amount: 100000
+    price: 1500
+  - id: 4710
+    amount: 100000
+    price: 1500

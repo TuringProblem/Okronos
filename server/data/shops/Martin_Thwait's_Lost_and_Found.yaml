@@ -1,0 +1,38 @@
+---
+identifier: "iKp1GPg23PBSoPnZzLpaGYvXbHAEtP"
+title: "Martain Thwait's Lost and Found"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 100
+  buysAt: 60
+  changePer: 2
+defaultStock:
+- id: 954
+  amount: 100000
+- id: 1523
+  amount: 100000
+- id: 1755
+  amount: 100000
+- id: 946
+  amount: 100000
+- id: 5560
+  amount: 100000
+- id: 864
+  amount: 100000
+- id: 863
+  amount: 100000
+- id: 865
+  amount: 100000
+- id: 3095
+  amount: 100000
+- id: 3096
+  amount: 100000
+- id: 3097
+  amount: 100000

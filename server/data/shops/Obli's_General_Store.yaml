@@ -1,0 +1,56 @@
+---
+identifier: "8ACXBmSIhFqFn9vXV9V1jDqDhGuCJ7"
+title: "Obli's General Store"
+currency: "COINS"
+accessibleByIronMan: true
+accessibleByRegular: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+priceRules:
+  sellsAt: 150
+  buysAt: 50
+  changePer: 2
+defaultStock:
+- id: 1931
+  amount: 100000
+- id: 1935
+  amount: 100000
+- id: 20742
+  amount: 100000
+- id: 1735
+  amount: 100000
+- id: 1925
+  amount: 100000
+- id: 1923
+  amount: 100000
+- id: 1887
+  amount: 100000
+- id: 590
+  amount: 100000
+- id: 1755
+  amount: 100000
+- id: 2347
+  amount: 100000
+- id: 954
+  amount: 100000
+- id: 946
+  amount: 100000
+- id: 227
+  amount: 100000
+- id: 233
+  amount: 100000
+- id: 36
+  amount: 100000
+- id: 596
+  amount: 100000
+- id: 2142
+  amount: 100000
+- id: 1351
+  amount: 100000
+- id: 1349
+  amount: 100000
+- id: 970
+  amount: 100000
